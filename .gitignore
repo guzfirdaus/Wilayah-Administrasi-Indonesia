@@ -1,1 +1,6 @@
 PMDN_72_TH_2019+lampiran.pdf
+csv/*
+!provinces.csv
+!regencies.csv
+!districts.csv
+!villages.csv

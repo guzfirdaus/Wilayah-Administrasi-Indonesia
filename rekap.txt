@@ -1,37 +1,37 @@
-Rekapitulasi Kode dan Data Wilayah Administrasi Pemerintahan Seluruh Indonesia;
-NO   KODE   PROVINSI                            KAB     KOTA      KEC       KEL      DESA     DESA+KEL      CATATAN             
-1     11    ACEH                                 18        5      289                6.497      6497        DONE
-2     12    SUMATERA UTARA                       25        8      450         693    5.417      6110        DONE
-3     13    SUMATERA BARAT                       12        7      179         230      928      1158        OK
-4     14    RIAU                                 10        2      169         268    1.591      1859        OK
-5     15    JAMBI                                 9        2      141         163    1.399      1562        OK
-6     16    SUMATERA SELATAN                     13        4      241         387    2.853      3240        OK
-7     17    BENGKULU                              9        1      129         172    1.341      1513        OK
-8     18    LAMPUNG                              13        2      228         205    2.435      2640        OK
-9     19    KEPULAUAN BANGKA BELITUNG             6        1       47          82      309       391        OK
-10    21    KEPULAUAN RIAU                        5        2       75         142      275       417        OK
-11    31    DKI JAKARTA                           1        5       44         267                267        OK
-12    32    JAWA BARAT                           18        9      627         645    5.312      5957        OK
-13    33    JAWA TENGAH                          29        6      576         753    7.809      8562        OK
-14    34    DAERAH ISTIMEWA YOGYAKARTA            4        1       78          46      392       438        OK
-15    35    JAWA TIMUR                           29        9      666         777    7.724      8501        OK
-16    36    BANTEN                                4        4      155         313    1.238      1551        OK
-17    51    BALI                                  8        1       57          80      636       716        OK
-18    52    NUSA TENGGARA BARAT                   8        2      117         145      995      1140        OK
-19    53    NUSA TENGGARA TIMUR                  21        1      309         327    3.026      3353        OK
-20    61    KALIMANTAN BARAT                     12        2      174          99    2.031      2130        OK
-21    62    KALIMANTAN TENGAH                    13        1      136         139    1.432      1571        OK
-22    63    KALIMANTAN SELATAN                   11        2      153         144    1.864      2008        OK
-23    64    KALIMANTAN TIMUR                      7        3      103         197      841      1038        OK
-24    65    KALIMANTAN UTARA                      4        1       53          35      447       482        OK
-25    71    SULAWESI UTARA                       11        4      171         332    1.507      1839        OK
-26    72    SULAWESI TENGAH                      12        1      175         175    1.842      2017        OK
-27    73    SULAWESI SELATAN                     21        3      311         792    2.255      3047        OK
-28    74    SULAWESI TENGGARA                    15        2      219         377    1.911      2288        OK
-29    75    GORONTALO                             5        1       77          72      657       729        OK
-30    76    SULAWESI BARAT                        6                69          73      575       648        OK
-31    81    MALUKU                                9        2      118          35    1.198      1233        OK
-32    82    MALUKU UTARA                          8        2      116         118    1.063      1181        OK
-33    91    PAPUA                                28        1      560         110    5.411      5521        OK
-34    92    PAPUA BARAT                          12        1      218          95    1.742      1837        OK
-               JUMLAH                           416       98    7.230       8.488   74.953
+Rekapitulasi Kode dan Data Wilayah Administrasi Pemerintahan Seluruh Indonesia
+NO   KODE   PROVINSI                            KAB     KOTA      KEC       KEL      DESA     DESA+KEL     CATATAN             
+1     11    ACEH                                 18        5      289                6497      6497        DONE
+2     12    SUMATERA UTARA                       25        8      450         693    5417      6110        DONE
+3     13    SUMATERA BARAT                       12        7      179         230     928      1158        OK
+4     14    RIAU                                 10        2      169         268    1591      1859        OK
+5     15    JAMBI                                 9        2      141         163    1399      1562        OK
+6     16    SUMATERA SELATAN                     13        4      241         387    2853      3240        OK
+7     17    BENGKULU                              9        1      129         172    1341      1513        OK
+8     18    LAMPUNG                              13        2      228         205    2435      2640        OK
+9     19    KEPULAUAN BANGKA BELITUNG             6        1       47          82     309       391        OK
+10    21    KEPULAUAN RIAU                        5        2       75         142     275       417        OK
+11    31    DKI JAKARTA                           1        5       44         267               267        OK
+12    32    JAWA BARAT                           18        9      627         645    5312      5957        OK
+13    33    JAWA TENGAH                          29        6      576         753    7809      8562        OK
+14    34    DAERAH ISTIMEWA YOGYAKARTA            4        1       78          46     392       438        OK
+15    35    JAWA TIMUR                           29        9      666         777    7724      8501        OK
+16    36    BANTEN                                4        4      155         313    1238      1551        OK
+17    51    BALI                                  8        1       57          80     636       716        OK
+18    52    NUSA TENGGARA BARAT                   8        2      117         145     995      1140        OK
+19    53    NUSA TENGGARA TIMUR                  21        1      309         327    3026      3353        OK
+20    61    KALIMANTAN BARAT                     12        2      174          99    2031      2130        OK
+21    62    KALIMANTAN TENGAH                    13        1      136         139    1432      1571        OK
+22    63    KALIMANTAN SELATAN                   11        2      153         144    1864      2008        OK
+23    64    KALIMANTAN TIMUR                      7        3      103         197     841      1038        OK
+24    65    KALIMANTAN UTARA                      4        1       53          35     447       482        OK
+25    71    SULAWESI UTARA                       11        4      171         332    1507      1839        OK
+26    72    SULAWESI TENGAH                      12        1      175         175    1842      2017        OK
+27    73    SULAWESI SELATAN                     21        3      311         792    2255      3047        OK
+28    74    SULAWESI TENGGARA                    15        2      219         377    1911      2288        OK
+29    75    GORONTALO                             5        1       77          72     657       729        OK
+30    76    SULAWESI BARAT                        6                69          73     575       648        OK
+31    81    MALUKU                                9        2      118          35    1198      1233        OK
+32    82    MALUKU UTARA                          8        2      116         118    1063      1181        OK
+33    91    PAPUA                                28        1      560         110    5411      5521        OK
+34    92    PAPUA BARAT                          12        1      218          95    1742      1837        OK
+               JUMLAH                           416       98     7230        8488   74953
