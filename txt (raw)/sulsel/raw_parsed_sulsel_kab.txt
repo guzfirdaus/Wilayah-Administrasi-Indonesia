@@ -1,0 +1,24 @@
+  1      73.01   KAB. KEPULAUAN SELAYAR                    11        7      81        1.357,03         138.420    Perubahan nama Kab PP. No. 59/2008
+  2      73.02   KAB. BULUKUMBA                            10       27     109        1.284,63         437.209
+  3      73.03   KAB. BANTAENG                                8     21      46            395,83       200.457
+  4      73.04   KAB. JENEPONTO                            11       31      82            706,52       412.570
+  5      73.05   KAB. TAKALAR                              10       24      76            566,61       290.450
+  6      73.06   KAB. GOWA                                 18       46     121        1.883,32         755.235
+  7      73.07   KAB. SINJAI                                  9     13      67            798,96       259.385
+  8      73.08   KAB. BONE                                 27       44     328        4.559,00         869.301
+  9      73.09   KAB. MAROS                                14       23      80        1.619,12         383.921
+ 10      73.10   KAB. PANGKAJENE KEPULAUAN                 13       38      65        1.132,08         362.364
+ 11      73.11   KAB. BARRU                                   7     15      40        1.174,71         180.509
+ 12      73.12   KAB. SOPPENG                                 8     21      49        1.557,00         236.156
+ 13      73.13   KAB. WAJO                                 14       48     142        2.504,06         372.512
+ 14      73.14   KAB. SIDENRENG RAPPANG                    11       38      68        1.883,23         316.951
+ 15      73.15   KAB. PINRANG                              12       39      69        1.961,67         401.858
+ 16      73.16   KAB. ENREKANG                             12       17     112        1.784,93         236.312
+ 17      73.17   KAB. LUWU                                 22       20     207        3.343,97         378.987    PP. No. 80/2005 (pemindahan Ibukota)
+ 18      73.18   KAB. TANA TORAJA                          19       47     112        1.990,22         285.687
+ 22      73.22   KAB. LUWU UTARA                           15        7     166        7.502,58         368.801
+ 24      73.24   KAB. LUWU TIMUR                           11        3     124        6.944,88         299.975
+ 26      73.26   KAB. TORAJA UTARA                         21       40     111        1.215,55         245.490    UU No. 28/2008
+ 27      73.71   KOTA MAKASSAR                             15      153                    199,26      1.659.777
+ 28      73.72   KOTA PARE PARE                               4     22                     99,33       147.322
+ 29      73.73   KOTA PALOPO                                  9     48                    252,99       187.236    Data luas wil. berdasarkan GIS Pusat, 2007

@@ -1,0 +1,18 @@
+  1      74.01   KAB. KOLAKA                               12       35     100          3.283,59        233.161
+  2      74.02   KAB. KONAWE                               27       57     294          4.435,28        257.180
+  3      74.03   KAB. MUNA                                 22       26     124          1.922,16        231.548
+  4      74.04   KAB. BUTON                                   7     12      83          1.212,99        118.013
+  5      74.05   KAB. KONAWE SELATAN                       25       15     336          5.779,47        310.988
+  6      74.06   KAB. BOMBANA                              22       22     121          3.001,00        140.558
+  7      74.07   KAB. WAKATOBI                                8     26      75             559,54       114.362
+  8      74.08   KAB. KOLAKA UTARA                         15        6     127          3.391,67        138.313
+  9      74.09   KAB. KONAWE UTARA                         13       11     159          5.101,76         68.565    UU No. 13/2007
+ 10      74.10   KAB. BUTON UTARA                             6     12      78          1.864,91         65.961    UU No. 14/2007
+ 11      74.11   KAB. KOLAKA TIMUR                         12       16     117          3.634,74        123.042    Luas wilayah berdasarkan UU No. 8 Tahun 2013
+ 12      74.12   KAB. KONAWE KEPULAUAN                        7      7      89             867,58        37.126    Luas wilayah berdasarkan UU No. 13 Tahun 2013
+ 13      74.13   KAB. MUNA BARAT                           11        5      81          1.022,89         83.108    Luas wilayah berdasarkan UU No. 14 Tahun 2014
+ 14      74.14   KAB. BUTON TENGAH                            7     10      67             958,31       117.815    Luas wilayah berdasarkan UU No. 15 Tahun 2014
+ 15      74.15   KAB. BUTON SELATAN                           7     10      60             509,92        98.070    Luas wilayah berdasarkan UU No. 16 Tahun 2014
+ 16      74.71   KOTA KENDARI                              10       64                     300,89       340.102
+ 17      74.72   KOTA BAU BAU                                 8     43                     221,00       157.549
+ 

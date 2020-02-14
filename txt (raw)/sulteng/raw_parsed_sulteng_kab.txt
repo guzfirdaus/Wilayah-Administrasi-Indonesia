@@ -1,0 +1,13 @@
+  1      72.01   KAB. BANGGAI                              23      46     291          9.672,70        366.173    Data luas wil. berdasarkan UU No.51/1999
+  2      72.02   KAB. POSO                                 19      28     142          7.112,25        246.270
+  3      72.03   KAB. DONGGALA                             16       9     158          4.275,08        301.978
+  4      72.04   KAB. TOLI TOLI                            10       6     103          4.079,77        217.241
+  5      72.05   KAB. BUOL                                 11       7     108          4.043,57        139.743
+  6      72.06   KAB. MOROWALI                               9      7     126          3.037,04        142.194    Luas Wil. Berdasarkan UU. No. 12 Tahun 2013
+  7      72.07   KAB. BANGGAI KEPULAUAN                    12       3     141          2.488,79        121.661
+  8      72.08   KAB. PARIGI MOUTONG                       23       5     278          5.089,91        447.652
+  9      72.09   KAB. TOJO UNA UNA                         12      12     134          5.721,15        163.068
+ 10      72.10   KAB. SIGI                                 15       0     176          5.196,02        251.479    UU No. 27/2008
+ 11      72.11   KAB. BANGGAI LAUT                           7      3      63             725,67        67.245    Luas Wil. Berdasarkan UU. No. 5 Tahun 2013
+ 12      72.12   KAB. MOROWALI UTARA                       10       3     122         10.004,28        121.249    Luas Wil. Berdasarkan UU. No. 12 Tahun 2013
+ 13      72.71   KOTA PALU                                   8     46                     395,06       369.614

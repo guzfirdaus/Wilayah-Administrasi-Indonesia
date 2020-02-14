@@ -1,0 +1,1158 @@
+13.01.01.2001                                                                                  1 Inderapura
+13.01.01.2002                                                                                  2 Muaro Sakai                                      Perda No. 34/2009
+13.01.01.2003                                                                                  3 Tiga Sepakat                                     Perda No. 35/2009
+13.01.01.2004                                                                                  4 Inderapura Barat                                 Perda No. 36/2009
+13.01.01.2005                                                                                  5 Kudo-Kudo                                        Perda No. 38/2009
+13.01.01.2006                                                                                  6 Inderapura Selatan                               Perda No. 39/2009
+13.01.01.2009                                                                                  7 Simpang Lama                                     Pemekaran sebagian wil Desa Inderapura, Perda No. 83/2011
+13.01.01.2010                                                                                  8 Tigo Sungai                                      Pemekaran sebagian wil Desa Inderapura, Perda No. 84/2011
+13.01.01.2011                                                                                  9 Tluk Amplu                                       Pemekaran sebagian wil Desa Inderapura, Perda No. 85/2011
+13.01.01.2012                                                                                 10 Inderapura Tengah                                Pemekaran sebagian wil Desa Inderapura, Perda No. 86/2011
+13.01.02.2001                                                                        1 Pelangai
+13.01.02.2002                                                                        2 Sungai Tunu
+13.01.02.2003                                                                        3 Sungai Tunu Utara                              Perda No. 25/2009
+13.01.02.2004                                                                        4 Sungai Tunu Barat                              Perda No. 27/2009
+13.01.02.2005                                                                        5 Nyiur Melambai                                 Pemekaran sebagian wil Desa Pelangai, Perda No. 68/2011
+13.01.02.2006                                                                        6 Sungai Liku Pelangai                           Pemekaran sebagian wil Desa Pelangai, Perda No. 69/2011
+13.01.02.2007                                                                        7 Koto VIII Pelangai                             Pemekaran sebagian wil Desa Pelangai, Perda No. 70/2011
+13.01.02.2008                                                                        8 Pelangai Gadang                                Pemekaran sebagian wil Desa Pelangai, Perda No. 71/2011
+13.01.02.2009                                                                        9 Pelangai Kaciak                                Pemekaran sebagian wil Desa Pelangai, Perda No. 72/2011
+13.01.02.2010                                                                       10 Pasia Pelangai                                 Pemekaran sebagian wil Desa Pelangai, Perda No. 73/2011
+13.01.03.2001                                                                        1 Kambang
+13.01.03.2002                                                                        2 Lakitan
+13.01.03.2003                                                                        3 Kambang Utara                                  Perda No. 16/2009
+13.01.03.2004                                                                        4 Kambang Timur                                  Perda No. 17/2009
+13.01.03.2005                                                                        5 Kambang Barat                                  Perda No. 19/2009
+13.01.03.2006                                                                        6 Lakitan Utara                                  Perda No. 20/2009
+13.01.03.2007                                                                        7 Lakitan Selatan                                Perda No. 21/2009
+13.01.03.2008                                                                        8 Lakitan Timur                                  Perda No. 22/2009
+13.01.03.2009                                                                        9 Lakitan Tengah                                 Perda No. 24/2009
+13.01.04.2001                                                                        1 IV Koto Hilie
+13.01.04.2002                                                                        2 IV Koto Mudiek
+13.01.04.2003                                                                        3 Taluak
+13.01.04.2004                                                                        4 Koto Nan Duo IV Koto                           Perda No. 12/2009
+13.01.04.2005                                                                        5 Koto Nan Tigo IV Koto                          Perda No. 13/2009
+13.01.04.2006                                                                        6 Teratak Tempatih IV                            Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 56/2011
+13.01.04.2007                                                                        7 Tuik IV Koto Mudiek                            Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 57/2011
+13.01.04.2008                                                                        8 Sungai Nyalo IV Koto                           Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 58/2011
+13.01.04.2009                                                                        9 Taluk Tigo Sakato                              Pemekaran sebagian wil Desa Taluk, Perda No. 59/2011
+13.01.05.2001                                                                        1 Painan
+13.01.05.2002                                                                       2 Tambang
+13.01.05.2003                                                                       3 Salido
+13.01.05.2004                                                                       4 Lumpo
+13.01.05.2005                                                                       5 Bunga Pasang Salido                            Perda No. 9/2009
+13.01.05.2006                                                                       6 Sago Salido                                    Perda No. 10/2009
+13.01.05.2007                                                                       7 Salido Sari Bulan                              Pemekaran sebagian Desa Tambang, Perda No. 42/2011
+13.01.05.2008                                                                       8 Koto Rawang                                    Pemekaran sebagian Desa Tambang, Perda No. 43/2011
+13.01.05.2009                                                                       9 Limau Gadang Lumpo                             Pemekaran sebagian Desa Lumpo, Perda No. 44/2011
+13.01.05.2010                                                                      10 Batu Kunik Lumpo                               Pemekaran sebagian Desa Lumpo, Perda No. 45/2011
+13.01.05.2011                                                                      11 Taratak Tangah                                 Pemekaran sebagian Desa Lumpo, Perda No. 46/2011
+13.01.05.2012                                                                      12 Ampuan Lumpo                                   Pemekaran sebagian Desa Lumpo, Perda No. 47/2011
+13.01.05.2013                                                                      13 Ampang Tareh Lumpo                             Pemekaran sebagian Desa Lumpo, Perda No. 48/2011
+13.01.05.2014                                                                      14 Balai Sinayan Lumpo                            Pemekaran sebagian Desa Lumpo, Perda No. 49/2011
+13.01.05.2015                                                                      15 Sungai Gayo Lumpo                              Pemekaran sebagian Desa Lumpo, Perda No. 50/2011
+13.01.05.2016                                                                      16 Sungai Sariak Lumpo                            Pemekaran sebagian Desa Lumpo, Perda No. 51/2011
+13.01.05.2017                                                                      17 Bukik Kaciak Lumpo                             Pemekaran sebagian Desa Lumpo, Perda No. 52/2011
+13.01.05.2018                                                                      18 Gunung Bungkuak                                Pemekaran sebagian Desa Lumpo, Perda No. 53/2011
+13.01.05.2019                                                                      19 Painan Selatan Painan                          Pemekaran sebagian Desa Painan, Perda No. 54/2011
+13.01.05.2020                                                                      20 Painan Timur Painan                            Pemekaran sebagian Desa Painan, Perda No. 55/2011
+13.01.06.2005                                                                       1 Koto Berapak
+13.01.06.2006                                                                       2 Talaok
+13.01.06.2007                                                                       3 Pasar Baru
+13.01.06.2008                                                                       4 Gurun Panjang
+13.01.06.2009                                                                       5 Api-api Pasar Baru                             Pemekaran sebagian Desa Pasar Baru, Perda No. 27/2011
+13.01.06.2010                                                                       6 Tanjung Durian Pasar                           Pemekaran sebagian Desa Pasar Baru, Perda No. 28/2011
+13.01.06.2011                                                                       7 Asam Kamba Pasar                               Pemekaran sebagian Desa Pasar Baru, Perda No. 29/2011
+13.01.06.2012                                                                       8 Sawah Laweh Pasar                              Pemekaran sebagian Desa Pasar Baru, Perda No. 30/2011
+13.01.06.2013                                                                           9 Kapeh Panji Jaya                             Pemekaran sebagian Desa Talaok, Perda No. 31/2011
+13.01.06.2014                                                                          10 Aur Begalung Talaok                          Pemekaran sebagian Desa Talaok, Perda No. 32/2011
+13.01.06.2015                                                                          11 Kapelgam Koto                                Pemekaran sebagian Desa Koto Berapak, Perda No. 33/2011
+13.01.06.2016                                                                          12 Koto Baru Koto                               Pemekaran sebagian Desa Koto Berapak, Perda No. 34/2011
+13.01.06.2017                                                                          13 Kubang Koto Berapak                          Pemekaran sebagian Desa Koto Berapak, Perda No. 35/2011
+13.01.06.2018                                                                          14 Kapujan Koto Berapak                         Pemekaran sebagian Desa Koto Berapak, Perda No. 36/2011
+13.01.06.2019                                                                          15 Gurun Panjang Utara                          Pemekaran sebagian Desa Gurun Panjang, Perda No. 37/2011
+13.01.06.2020                                                                          16 Gurun Panjang Barat                          Pemekaran sebagian Desa Gurun Panjang, Perda No. 38/2011
+13.01.06.2021                                                                          17 Gurun Panjang                                Pemekaran sebagian Desa Gurun Panjang, Perda No. 39/2011
+13.01.07.2001                                                                           1 Siguntur
+13.01.07.2002                                                                           2 Sungai Pinang
+13.01.07.2003                                                                           3 Duku
+13.01.07.2004                                                                           4 Batu Hampa
+13.01.07.2005                                                                           5 Nanggalo
+13.01.07.2006                                                                           6 Ampang Pulai
+13.01.07.2007                                                                           7 Kapuh
+13.01.07.2008                                                                           8 Barung-Barung                                Perda No. 17/2001
+13.01.07.2009                                                                           9 Barung-Barung                                Perda No. 3/2009
+13.01.07.2010                                                                          10 Mandeh                                       Perda No. 5/2009
+13.01.07.2011                                                                          11 Kapuah Utara                                 Perda No. 7/2009
+13.01.07.2012                                                                          12 Taratak Sungai                               PMD, Perda No. 8/2011
+13.01.07.2013                                                                          13 Siguntur Tua                                 Pemekaran sebagian Desa Siguntur, Perda No. 16/2011
+13.01.07.2014                                                                          14 Kampung Baru                                 Pemekaran sebagian Desa Siguntur, Perda No. 17/2011
+13.01.07.2015                                                                          15 Duku Utara                                   Pemekaran sebagian Desa Duku, Perda No. 18/2011
+13.01.07.2016                                                                          16 Pulau Karam Ampang                           Pemekaran sebagian Desa Ampang Pulai, Perda No. 19/2011
+13.01.07.2017                                                                          17 Jinang Kampung                               Pemekaran sebagian Desa Ampang Pulai, Perda No. 20/2011
+13.01.07.2018                                                                          18 Cerocok Anau                                 Pemekaran sebagian Desa Ampang Pulai, Perda No. 21/2011
+13.01.07.2019                                                                          19 Sungai Nyalo Mudiak                          Pemekaran sebagian Desa Duku dan Desa Ampang Pulai, Perda
+13.01.07.2020                                                                              20 Batu Hampar Selatan                            Pemekaran sebagian Desa Batuhampar, Perda No. 23/2011
+13.01.07.2021                                                                              21 Barung-Barung                                  Pemekaran sebagian Desa Barung-Barung Balantai, Perda No.
+13.01.07.2022                                                                              22 Barung-Barung                                  Pemekaran sebagian Desa Barung-Barung Balantai, Perda No.
+13.01.07.2023                                                                              23 Setara Nanggalo                                Pemekaran sebagian Desa Nanggalo, Perda No. 26/2011
+13.01.08.2001                                                                               1 Taratak
+13.01.08.2002                                                                               2 Surantih
+13.01.08.2003                                                                               3 Amping Parak
+13.01.08.2004                                                                               4 Amping Parak Timur                             Perda No. 15/2009
+13.01.08.2005                                                                               5 Koto Taratak                                   Pemekaran sebagian Desa Taratak, Perda No. 60/2011
+13.01.08.2006                                                                               6 Lansano Taratak                                Pemekaran sebagian Desa Taratak, Perda No. 61/2011
+13.01.08.2007                                                                               7 Aur Duri Surantih                              Pemekaran sebagian Desa Surantih, Perda No. 62/2011
+13.01.08.2008                                                                               8   Rawang Gunung                                Pemekaran sebagian Desa Surantih, Perda No. 63/2011
+13.01.08.2009                                                                               9   Koto Nan Tigo Selatan                        Pemekaran sebagian Desa Surantih, Perda No. 64/2011
+13.01.08.2010                                                                              10   Koto Nan Tigo Utara                          Pemekaran sebagian Desa Surantih, Perda No. 65/2011
+13.01.08.2011                                                                              11   Ganting Mudiak                               Pemekaran sebagian Desa Surantih, Perda No. 66/2011
+13.01.08.2012                                                                              12   Ganting Mudiak Utara                         Pemekaran sebagian Desa Surantih, Perda No. 67/2011
+13.01.09.2001                                                                               1 Punggasan
+13.01.09.2002                                                                               2 Air Haji
+13.01.09.2003                                                                               3 Punggasan Utara                                Perda No. 28/2009
+13.01.09.2004                                                                               4 Punggasan Timur                                Perda No. 29/2009
+13.01.09.2005                                                                               5 Padang XI Punggasan                            Perda No. 30/2009
+13.01.09.2006                                                                               6 Lagan Mudik                                    Perda No. 31/2009
+13.01.09.2007                                                                               7 Lagan Hilir Punggasan                          Perda No. 33/2009
+13.01.09.2008                                                                               8 Air Haji Tenggara                              Pemekaran sebagian Desa Air Haji, Perda No. 74/2011
+13.01.09.2009                                                                               9 Pasar Lama Muara Air                           Pemekaran sebagian Desa Air Haji, Perda No. 75/2011
+13.01.09.2010                                                                              10 Pasar Bukit Air Haji                           Pemekaran sebagian Desa Air Haji, Perda No. 76/2011
+13.01.09.2011                                                                              11 Air Haji Barat                                 Pemekaran sebagian Desa Air Haji, Perda No. 77/2011
+13.01.09.2012                                                                              12 Air Haji Tengah                                Pemekaran sebagian Desa Air Haji, Perda No. 78/2011
+13.01.09.2013                                                                            13 Rantau Simalenang                            Pemekaran sebagian Desa Air Haji, Perda No. 79/2011
+13.01.09.2014                                                                            14 Muara Gadang Air                             Pemekaran sebagian Desa Air Haji, Perda No. 80/2011
+13.01.09.2015                                                                            15 Sungai Sirah Air Haji                        Pemekaran sebagian Desa Air Haji, Perda No. 81/2011
+13.01.09.2016                                                                            16 Muara Kandis                                 Pemekaran sebagian Desa Air Haji, Perda No. 82/2011
+13.01.10.2001                                                                             1 Lunang
+13.01.10.2003                                                                             2 Lunang Utara                                 Perda No. 50/2009
+13.01.10.2004                                                                             3 Lunang Selatan                               Perda No. 52/2009
+13.01.10.2005                                                                             4 Lunang Barat                                 Perda No. 53/2009
+13.01.10.2015                                                                             5 Sindang Lunang                               Pemekaran sebagian Desa Lunang, Perda No. 116/2011
+13.01.10.2016                                                                             6 Pondok Parian                                Pemekaran sebagian Desa Lunang, Perda No. 117/2011
+13.01.10.2017                                                                             7 Lunang Tengah                                Pemekaran sebagian Desa Lunang, Perda No. 118/2011
+13.01.10.2018                                                                             8 Lunang Satu                                  Pemekaran sebagian Desa Lunang, Perda No. 119/2011
+13.01.10.2019                                                                             9 Lunang Dua                                   Pemekaran sebagian Desa Lunang, Perda No. 120/2011
+13.01.10.2020                                                                            10 Lunang Tiga                                  Pemekaran sebagian Desa Lunang, Perda No. 121/2011
+13.01.11.2001                                                                             1 Tapan
+13.01.11.2002                                                                             2 Pasar Tapan                                  Perda No. 42/2009
+13.01.11.2007                                                                                   3 Batang Arah Tapan                             Perda No. 48/2009
+13.01.11.2008                                                                                   4 Ampang Tulak Tapan                            Perda No. 49/2009
+13.01.11.2009                                                                                   5 Tanjung Pondok                                Pemekaran sebagian Desa Tapan, Perda No. 95/2011
+13.01.11.2010                                                                                   6 Batang Betung Tapan                           Pemekaran sebagian Desa Tapan, Perda No. 96/2011
+13.01.11.2016                                                                                   7 Bukit Buai Tapan                              Pemekaran sebagian Desa Tapan, Perda No. 102/2011
+13.01.11.2017                                                                                   8 Riak Danau Tapan                              Pemekaran sebagian Desa Tapan, Perda No. 103/2011
+13.01.11.2018                                                                                   9 Koto Anau Tapan                               Pemekaran sebagian Desa Tapan, Perda No. 104/2011
+13.01.11.2019                                                                                  10 Dusun Baru Tapan                              Pemekaran sebagian Desa Tapan, Perda No. 105/2011
+13.01.12.2001                                                                                   1 Puluik-Puluik                                 Semula wil. Kec. Bayang, Perda No. 17/2001
+13.01.12.2002                                                                                   2 Koto Ranah                                    Semula wil. Kec. Bayang
+13.01.12.2003                                                                                   3 Muaro Aie                                     Semula wil. Kec. Bayang
+13.01.12.2004                                                                                   4 Pancuang Taba                                 Semula wil. Kec. Bayang
+13.01.12.2005                                                                                   5 Puluik-Puluik Selatan                         Pemekaran sebagian Desa Puluik-Puluik, Perda No. 40/2011
+13.01.12.2006                                                                                   6 Limau Gadang                                  Pemekaran sebagian Desa Pancung Taba, Perda No. 41/2011
+13.01.13.2001                                                                                   1 Inderapura Utara                              Perda No. 41/2009, Semula wil Kec. Pancung Soal, Perda No.
+13.01.13.2002                                                                                   2 Muara Inderapura                              Pemekaran sebagian wil Desa Inderapura, Perda No. 92/2011,
+13.01.13.2003                                                                                   3 Damar Lapan Batang                            Pemekaran sebagian wil Desa Inderapura, Perda No. 91/2011,
+13.01.13.2004                                                                                   4 Lalang Panjang                                Pemekaran sebagian wil Desa Inderapura, Perda No. 90/2011,
+13.01.13.2005                                                                                   5 Palokan Inderapura                            Pemekaran sebagian wil Desa Inderapura, Perda No. 88/2011,
+13.01.13.2006                                                                                   6 Lubuk Betung                                  Pemekaran sebagian wil Desa Inderapura, Perda No. 89/2011,
+13.01.13.2007                                                                                   7 Tluk Kualo                                    Pemekaran sebagian wil Desa Inderapura, Perda No. 93/2011,
+13.01.13.2008                                                                                    8 Tanah Bakali                                     Pemekaran sebagian wil Desa Inderapura, Perda No. 87/2011,
+13.01.13.2009                                                                                    9 Inderapura Timur                                 Perda No. 40/2009, Semula wil Kec. Pancung Soal, Perda No.
+13.01.13.2010                                                                                   10 Pulau Rajo Inderapura                            Pemekaran sebagian wil Desa Inderapura, Perda No. 94/2011,
+13.01.14.2001                                                                                    1 Sungai Gambir Sako                               Perda No. 43/2009, Semula wil Kec. Basa Ampek Balai Tapan,
+13.01.14.2002                                                                                    2 Limau Purut Tapan                                Pemekaran sebagian Desa Tapan, Perda No. 106/2011, Semula wil
+13.01.14.2003                                                                                    3 Talang Balarik Tapan                             Pemekaran sebagian Desa Tapan, Perda No. 97/2011, Semula wil
+13.01.14.2004                                                                                    4 Tebing Tinggi Tapan                              Pemekaran sebagian Desa Tapan, Perda No. 100/2011, Semula wil
+13.01.14.2005                                                                                    5 Binjai Tapan                                     Perda No. 47/2009, Semula wil Kec. Basa Ampek Balai Tapan,
+13.01.14.2006                                                                                    6 Sungai Pinang Tapan                              Pemekaran sebagian Desa Tapan, Perda No. 98/2011, Semula wil
+13.01.14.2007                                                                                    7 Talang Koto Pulai                                Perda No. 44/2009, Semula wil Kec. Basa Ampek Balai Tapan,
+13.01.14.2008                                                                                    8 Kampung Tengah                                   Pemekaran sebagian Desa Tapan, Perda No. 101/2011, Semula wil
+13.01.14.2009                                                                                    9 Kubu Tapan                                       Perda No. 46/2009, Semula wil Kec. Basa Ampek Balai Tapan,
+13.01.14.2010                                                                                   10 Simpang Gunung                                   Pemekaran sebagian Desa Tapan, Perda No. 99/2011, Semula wil
+13.01.15.2001                                                                                    1 Silaut                                           Semula wil Kec. Lunang Silaut, Perda No. 9/2012
+13.01.15.2002                                                                                    2 Sungai Sirah                                     Pemekaran sebagian Desa Silaut, Perda   No. 107/2011, Semula wil
+13.01.15.2003                                                                                    3 Sungai Sarik                                     Pemekaran sebagian Desa Silaut, Perda   No. 108/2011, Semula wil
+13.01.15.2004                                                                                    4 Sungai Pulai                                     Pemekaran sebagian Desa Silaut, Perda   No. 109/2011, Semula wil
+13.01.15.2005                                                                                    5 Pasir Binjai                                     Pemekaran sebagian Desa Silaut, Perda   No. 110/2011, Semula wil
+13.01.15.2006                                                                                    6 Talang Binjai                                    Pemekaran sebagian Desa Silaut, Perda   No. 111/2011, Semula wil
+13.01.15.2007                                                                                    7 Durian Seribu                                    Pemekaran sebagian Desa Silaut, Perda   No. 112/2011, Semula wil
+13.01.15.2008                                                                                    8 Lubuk Bunta                                      Pemekaran sebagian Desa Silaut, Perda   No. 113/2011, Semula wil
+13.01.15.2009                                                                                    9 Air Hitam                                        Pemekaran sebagian Desa Silaut, Perda   No. 114/2011, Semula wil
+13.01.15.2010                                                                                   10 Sambungo                                         Pemekaran sebagian Desa Silaut, Perda   No. 115/2011, Semula wil
+13.02.03.2001                                                                                  1 Lolo
+13.02.03.2002                                                                                  2 Surian
+13.02.04.2001                                                                                  1 Alahan Panjang
+13.02.04.2002                                                                                  2 Sungai Nanam
+13.02.04.2003                                                                                  3 Salimpat
+13.02.04.2004                                                                                  4 Aie Dingin
+13.02.05.2001                                                                                  1 Supayang
+13.02.05.2002                                                                                  2 Sirukam
+13.02.05.2003                                                                                  3 Aie Luo
+13.02.06.2001                                                                                  1 Batu Banyak
+13.02.06.2002                                                                                  2 Batu Bajanjang
+13.02.06.2003                                                                                  3 Koto Laweh
+13.02.06.2004                                                                                  4 Limau Lunggo
+13.02.06.2005                                                                                  5 Koto Gadang Koto
+13.02.06.2006                                                                                  6 Selayo Tanang B.
+13.02.07.2001                                                                                  1 Cupak
+13.02.07.2002                                                                                  2 Talang
+13.02.07.2003                                                                                  3 Koto Gadang Guguak
+13.02.07.2004                                                                                  4 Jawi Jawi
+13.02.07.2005                                                                                  5 Sungai Janiah
+13.02.07.2006                                                                                  6 Batang Barus
+13.02.07.2007                                                                                  7 Aie Batumbuak
+13.02.07.2008                                                                                  8 Koto Gaek Guguk
+13.02.08.2001                                                                              1 Muaro Paneh
+13.02.08.2002                                                                              2 Kinari
+13.02.08.2003                                                                              3 Bukit Tandang
+13.02.08.2004                                                                              4 Parambahan
+13.02.08.2005                                                                              5 Dilam
+13.02.09.2001                                                                              1 Taruang-Taruang
+13.02.09.2002                                                                              2 Siaro-Aro
+13.02.09.2003                                                                              3 Pianggu
+13.02.09.2004                                                                              4 Sungai Durian
+13.02.09.2005                                                                              5 Bukik Bais
+13.02.09.2006                                                                              6 Sungai Jambur
+13.02.09.2007                                                                              7 Guguak Sarai
+13.02.09.2008                                                                              8 Koto Laweh
+13.02.09.2009                                                                              9 Indudur
+13.02.10.2001                                                                              1 Koto Baru
+13.02.10.2002                                                                              2 Selayo
+13.02.10.2003                                                                              3 Panyakalan
+13.02.10.2004                                                                              4 Gaung
+13.02.10.2005                                                                              5 Gantuang Ciri
+13.02.10.2006                                                                              6 Saok Laweh
+13.02.10.2007                                                                              7 Koto Hilalang
+13.02.10.2008                                                                              8 Tanjung Bingkung
+13.02.11.2001                                                                              1 Sumani
+13.02.11.2002                                                                              2 Tikalak
+13.02.11.2003                                                                              3 Koto Sani
+13.02.11.2004                                                                              4 Singkarak
+13.02.11.2005                                                                              5 Aripan
+13.02.11.2006                                                                              6 Kacang
+13.02.11.2007                                                                              7 Tanjung Alai
+13.02.11.2008                                                                              8 Saniangbaka
+13.02.12.2001                                                                                    1 Sulit Air
+13.02.12.2002                                                                                    2 Tanjung Balik
+13.02.12.2003                                                                                    3 Paninjauan
+13.02.12.2004                                                                                    4 Kuncir
+13.02.12.2005                                                                                    5 Katialo
+13.02.12.2006                                                                                    6 Pasilihan
+13.02.12.2007                                                                                    7 Bukit Kanduang
+13.02.12.2008                                                                                    8 Sibarambang
+13.02.12.2009                                                                                    9 Labuh Panjang
+13.02.13.2001                                                                                    1 Paninggahan
+13.02.13.2002                                                                                    2 Muaro Pingai
+13.02.17.2001                                                                                    1 Talang Babungo
+13.02.17.2002                                                                                    2 Sariak Alahan Tigo
+13.02.17.2003                                                                                    3 Sungai Abu
+13.02.18.2001                                                                                    1 Rangkiang Luluih
+13.02.18.2002                                                                                    2 Batu Bajanjang
+13.02.18.2003                                                                                    3 Garabak Data
+13.02.18.2004                                                                                    4 Tanjung Balik Sumiso
+13.02.18.2005                                                                                    5 Simanau
+13.02.19.2001                                                                                    1 Simpang Tj. Nan IV
+13.02.19.2002                                                                                    2 Kampung Batu Dalam
+13.03.03.2001                                                                         1 Timbulun
+13.03.03.2002                                                                         2 Tanjung Gadang
+13.03.03.2003                                                                         3 Taratak Baru
+13.03.03.2004                                                                         4 Pulasan
+13.03.03.2005                                                                         5 Langki
+13.03.03.2006                                                                         6 Sibakur
+13.03.03.2007                                                                         7 Tanjung Lolo
+13.03.03.2008                                                                         8 Taratak Baru Utara                            Pemekaran sebagian Desa Taratak Baru, Perda No. 11/2011
+13.03.03.2009                                                                         9 Sinyamu                                       Pemekaran sebagian Desa Timbulun, Perda No. 11/2011
+13.03.04.2001                                                                         1 Muaro
+13.03.04.2002                                                                         2 Kandang Baru
+13.03.04.2003                                                                         3 Silokek
+13.03.04.2004                                                                         4 Pematang Panjang
+13.03.04.2005                                                                         5 Solok Ambah
+13.03.04.2006                                                                         6 Paru
+13.03.04.2007                                                                         7 Durian Gadang
+13.03.04.2008                                                                         8 Aie Angek
+13.03.04.2009                                                                         9 Sijunjung
+13.03.05.2001                                                                         1 Palangki
+13.03.05.2002                                                                         2 Koto Baru
+13.03.05.2003                                                                         3 Muaro Bodi
+13.03.05.2004                                                                         4 Mundam Sakti
+13.03.05.2005                                                                         5 Koto Tuo
+13.03.06.2001                                                                         1 Sungai Lansek
+13.03.06.2002                                                                         2 Kamang
+13.03.06.2003                                                                         3 Muaro Takuang
+13.03.06.2004                                                                         4 Aie Amo                                       Koreksi nama 'Aia Amo' Srt Ditjen BPD No 140/5118/BPD tgl 18
+13.03.06.2005                                                                        5 Sungai Batuang
+13.03.06.2006                                                                        6 Kunangan Parik                                Perbaikan nama sesuai Surat Kab. Sijunjung No.
+13.03.06.2007                                                                        7 Tanjung Kaliang                               Pemekaran sebagian Desa Aie Amo, Perda No. 2/2009
+13.03.06.2008                                                                        8 Padang Tarok                                  Pemekaran sebagian Desa Sungai Batuang, Perda No. 2/2009
+13.03.06.2009                                                                        9 Siaur                                         Pemekaran sebagian Desa Sungai Lansek, Perda No. 2/2009
+13.03.06.2010                                                                       10 Lubuk Tarantang                               Pemekaran sebagian Desa Sungai Lansek, Perda No. 2/2009
+13.03.06.2011                                                                       11 Maloro                                        Pemekaran sebagian Desa Aie Amo, Perda No. 2/2009
+13.03.07.2001                                                                        1 Lubuak Tarok
+13.03.07.2002                                                                        2 Lalan
+13.03.07.2003                                                                        3 Buluah Kasok
+13.03.07.2004                                                                        4 Kampung Dalam                                 Pemekaran sebagian Desa Lubuk Tarok, Perda No. 1/2009
+13.03.07.2005                                                                        5 Silongo                                       Pemekaran sebagian Desa Buluh Kasok, Perda No. 1/2009
+13.03.07.2006                                                                        6 Latang                                        Pemekaran sebagian Desa Lubuk Tarok, Perda No. 1/2009
+13.03.08.2001                                                                        1 Limo Koto
+13.03.08.2002                                                                        2 Palaluar
+13.03.08.2003                                                                        3 Guguak                                        Perbaikan nama sesuai Surat Kab. Sijunjung No.
+13.03.08.2004                                                                        4 Padang Laweh
+13.03.08.2005                                                                        5 Tanjung
+13.03.08.2006                                                                        6 Bukit Bual                                    Pemekaran sebagian Desa Limo Koto, Perda No. 9/2011
+13.03.09.2001                                                                        1 Silantai
+13.03.09.2002                                                                        2 Sisawah
+13.03.09.2003                                                                        3 Unggan
+13.03.09.2004                                                                        4 Tanjung Bonai Aur
+13.03.09.2005                                                                        5 Sumpur Kudus
+13.03.09.2006                                                                        6 Tamparungo
+13.03.09.2007                                                                        7 Kumanis
+13.03.09.2008                                                                        8 Manganti                                      Koreksi nama 'Mangganti' Srt Ditjen BPD No 140/5118/BPD tgl 18
+13.03.09.2009                                                                        9 Sumpur Kudus                                  Pemekaran sebagian Desa Sumpur Kudus, Perda No. 10/2011
+13.03.09.2010                                                                       10 Tanjung Labuah                                Pemekaran sebagian Desa Tamparungo, Perda No. 10/2011,
+13.03.09.2011                                                                               11 Tanjung Bonai Aur                                Pemekaran sebagian Desa Tanjung Bonai Aur, Perda No. 10/2011
+13.03.10.2001                                                                                1 Batu Manjulur
+13.03.10.2002                                                                                2 Pamuatan
+13.03.10.2003                                                                                3 Padang Sibusuk
+13.03.10.2004                                                                                4 Desa Kampung Baru                                PMD
+13.04.01.2001                                                                                1 Tambangan
+13.04.01.2002                                                                                2 Jaho
+13.04.01.2003                                                                                3 Singgalang
+13.04.01.2004                                                                                4 Paninjauan
+13.04.01.2005                                                                                5 Panyalaian
+13.04.01.2006                                                                                6 Koto Laweh
+13.04.01.2007                                                                                7 Aie Angek                                        Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.01.2008                                                                                8 Pandai Sikek
+13.04.01.2009                                                                                9 Koto Baru
+13.04.02.2001                                                                                1 Andaleh
+13.04.02.2002                                                                                2 Sabu
+13.04.02.2003                                                                                3 Batipuah Ateh                                    Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.02.2004                                                                                4 Batipuah Baruah                                  Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.02.2005                                                                                5 Gunuang Rajo                                     Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.02.2006                                                                       6 Pitalah
+13.04.02.2007                                                                       7 Tanjuang Barulak                            Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.02.2008                                                                       8 Bungo Tanjuang                              Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.03.2001                                                                       1 Simawang
+13.04.03.2002                                                                       2 Balimbiang                                  Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.03.2003                                                                       3 III Koto
+13.04.03.2004                                                                       4 Padang Magek
+13.04.03.2005                                                                       5 Rambatan
+13.04.04.2001                                                                       1 Baringin
+13.04.04.2002                                                                       2 Limo Kaum
+13.04.04.2003                                                                       3 Parambahan
+13.04.04.2004                                                                       4 Cubadak
+13.04.04.2005                                                                       5 Labuh                                       Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.05.2001                                                                       1 Tanjung Barulak
+13.04.05.2002                                                                       2 Saruaso
+13.04.05.2003                                                                       3 Koto Tangah
+13.04.05.2004                                                                       4 Pagaruyung
+13.04.06.2001                                                                       1 Taluak
+13.04.06.2002                                                                       2 Buo
+13.04.06.2003                                                                       3 Tigo Jangko
+13.04.06.2004                                                                       4 Pangian
+13.04.07.2001                                                                       1 Sungai Patai
+13.04.07.2002                                                                           2 Andaleh Baruh Bukik                        Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.07.2003                                                                           3 Tanjung
+13.04.07.2004                                                                           4 Sungayang
+13.04.07.2005                                                                           5 Minang Kabau
+13.04.08.2001                                                                           1 Simpuruik
+13.04.08.2002                                                                           2 Sungai Tarab
+13.04.08.2003                                                                           3 Gurun
+13.04.08.2004                                                                           4 Talang Tangah
+13.04.08.2005                                                                           5 Padang Laweh
+13.04.08.2006                                                                           6 Pasie Laweh
+13.04.08.2007                                                                           7 Koto Tuo
+13.04.08.2008                                                                           8 Rao Rao
+13.04.08.2009                                                                           9 Kumango
+13.04.08.2010                                                                          10 Koto Baru
+13.04.09.2001                                                                           1 Batu Basa
+13.04.09.2002                                                                           2 Tabek
+13.04.09.2003                                                                           3 Sawah Tangah
+13.04.09.2004                                                                           4 Simabur
+13.04.09.2005                                                                           5 Pariangan
+13.04.09.2006                                                                           6 Sungai Jambu
+13.04.10.2001                                                                           1 Sumanik
+13.04.10.2002                                                                           2 Situmbuk
+13.04.10.2003                                                                           3 Lawang Mandahiling
+13.04.10.2004                                                                           4 Supayang
+13.04.10.2005                                                                           5 Salimpaung
+13.04.10.2006                                                                           6 Tabek Patah
+13.04.11.2001                                                                           1 Atar
+13.04.11.2002                                                                                       2 Padang Ganting
+13.04.12.2001                                                                                       1 Tanjuang Alam                                  Perbaikan nomenklatur sesuai Surat Bup. No.
+13.04.12.2002                                                                                       2 Barulak
+13.04.13.2001                                                                                       1 Batu Bulek
+13.04.13.2002                                                                                       2 Balai Tangah
+13.04.13.2003                                                                                       3 Tanjuang Bonai
+13.04.13.2004                                                                                       4 Lubuak Jantan
+13.04.13.2005                                                                                       5 Tapi Selo
+13.04.14.2001                                                                                       1 Batu Taba
+13.04.14.2002                                                                                       2 Sumpur
+13.04.14.2003                                                                                       3 Padang Laweh Malalo                            Pemekaran dari Desa Padang Laweh Kec. Batipuh
+13.04.14.2004                                                                                       4 Guguak Malalo                                  Pemekaran dari Desa Padang Laweh Kec. Batipuh
+13.05.01.2001                                                                                       1 Lubuk Alung
+13.05.01.2002                                                                                       2 Pungguang Kasiak                               Pemekaran sebagian Desa Lubuk Alung, Perda No. 13/2010
+13.05.01.2003                                                                                       3 Pasie Laweh Lubuk                              Pemekaran sebagian Desa Lubuk Alung, Perda No. 13/2010
+13.05.01.2004                                                                                       4 Aie Tajun Lubuk                                Pemekaran sebagian Desa Lubuk Alung, Perda No. 13/2010
+13.05.01.2005                                                                                       5 Sikabu Lubuk Alung                             Pemekaran sebagian Desa Lubuk Alung, Perda No. 13/2010
+13.05.01.2006                                                                                       6 Sungai Abang Lubuk                             Pemekaran sebagian wil Desa Lubuk Alung, Perda No. 1/2013,
+13.05.01.2007                                                                                       7 Singguliang Lubuk                              Pemekaran sebagian wil Desa Lubuk Alung, Perda No. 1/2013,
+13.05.01.2008                                                                      8 Salibutan Lubuk                               Pemekaran sebagian wil Desa Lubuk Alung, Perda No. 1/2013,
+13.05.01.2009                                                                      9 Nagari Balah Hilia                            Pemekaran sebagian wil Desa Lubuk Alung, Perda No. 1/2013,
+13.05.02.2001                                                                      1 Katapiang
+13.05.02.2002                                                                      2 Kasang
+13.05.02.2003                                                                      3 Sungai Buluah
+13.05.02.2004                                                                      4 Buayan Lubuk Alung                            Pemekaran Desa, Perda No. 13/2010
+13.05.02.2005                                                                      5 Sungai Buluah Timur                           Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1/2013,
+13.05.02.2006                                                                      6 Sungai Buluah Barat                           Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1/2013,
+13.05.02.2007                                                                      7 Sungai Buluah Utara                           Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1/2013,
+13.05.02.2008                                                                      8 Sungai Buluah                                 Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1/2013,
+13.05.03.2001                                                                      1 Kapalo Koto
+13.05.03.2002                                                                      2 Pauh Kambar
+13.05.03.2003                                                                      3 Padang Bintungan
+13.05.03.2004                                                                      4 Kurai Taji
+13.05.03.2005                                                                      5 Sunua
+13.05.03.2006                                                                      6 Padang Kandang                                Pemekaran sebagian wil Desa Padang Bintungan, Perda No.
+13.05.03.2007                                                                                7 Sunua Tengah                                    Pemekaran sebagian wil Desa Sunua, Perda No. 1/2013,
+13.05.03.2008                                                                                8 Sunua Barat                                     Pemekaran sebagian wil Desa Sunua, Perda No. 1/2013,
+13.05.03.2009                                                                                9 Kurai Taji Timur                                Pemekaran sebagian wil Desa Kurai Taji, Perda No. 1/2013,
+13.05.04.2002                                                                                1 Sicincin
+13.05.04.2003                                                                                2 Lubuk Pandan
+13.05.04.2004                                                                                3 Sungai Asam
+13.05.05.2001                                                                                1 Balah Aie
+13.05.05.2002                                                                                2 Sungai Sariak
+13.05.05.2003                                                                                3 Lurah Ampalu
+13.05.05.2004                                                                                4 Lareh Nan Panjang
+13.05.05.2005                                                                                5 Lareh Nan Panjang                               Pemekaran sebagian wil Desa Lareh Nan Panjang, Perda No.
+13.05.05.2006                                                                                6 Lareh Nan Panjang                               Pemekaran sebagian wil Desa Lareh Nan Panjang, Perda No.
+13.05.05.2007                                                                                7 Bisati Sungai Sariak                            Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1/2013,
+13.05.05.2008                                                                          8 Ambuang Kapua                                Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1/2013,
+13.05.05.2009                                                                          9 Lareh Nan Panjang                            Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1/2013,
+13.05.05.2010                                                                         10 Limpato Sungai                               Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1/2013,
+13.05.05.2011                                                                         11 Balah Aie Utara                              Pemekaran sebagian wil Desa Balah Aie, Perda No. 1/2013,
+13.05.05.2012                                                                         12 Balah Aie Timur                              Pemekaran sebagian wil Desa Balah Aie, Perda No. 1/2013,
+13.05.06.2001                                                                          1 Campago
+13.05.06.2002                                                                          2 Sikucua
+13.05.06.2003                                                                          3 Campago Barat                                Pemekaran sebagian wil Desa Campago Perda No. 1/2013,
+13.05.06.2004                                                                          4 Campago Selatan                              Pemekaran sebagian wil Desa Campago Perda No. 1/2013,
+13.05.06.2005                                                                          5 Sikucua Utara                                Pemekaran sebagian wil Desa Sikucua Perda No. 1/2013,
+13.05.06.2006                                                                          6 Sikucua Timur                                Pemekaran sebagian wil Desa Sikucua Perda No. 1/2013,
+13.05.06.2007                                                                          7 Sikucua Tengah                               Pemekaran sebagian wil Desa Sikucua Perda No. 1/2013,
+13.05.06.2008                                                                                8 Sikucua Barat                                  Pemekaran sebagian wil Desa Sikucua Perda No. 1/2013,
+13.05.07.2001                                                                                1 Kuranji Hulu
+13.05.07.2002                                                                                2 Malai III Koto
+13.05.07.2003                                                                                3 Batu Gadang Kuranji                            Pemekaran sebagian Desa Malai III Koto, Perda No. 13/2010
+13.05.07.2004                                                                                4 Sungai Sirah Kuranji                           Pemekaran sebagian Desa Malai III Koto, Perda No. 13/2010
+13.05.08.2001                                                                                1 Kuranji Hilir
+13.05.08.2002                                                                                2 Pilubang
+13.05.08.2003                                                                                3 Guguak Kuranji Hilir                           Pemekaran sebagian Desa Kuranji Hilir, Perda No. 13/2010
+13.05.08.2004                                                                                4 Koto Tinggi Kuranji                            Pemekaran sebagian Desa Kuranji Hilir, Perda No. 13/2010
+13.05.09.2001                                                                                1 III Koto Aur Malintang
+13.05.09.2002                                                                                2 III Koto Aur Malintang                         Pemekaran sebagian Desa III Koto Aur Malintang, Perda No.
+13.05.09.2003                                                                                3 III Koto Aur Malintang                         Pemekaran sebagian Desa III Koto Aur Malintang, Perda No.
+13.05.09.2004                                                                                4 III Koto Aur Malintang                         Pemekaran sebagian Desa III Koto Aur Malintang, Perda No.
+13.05.09.2005                                                                                5 Balai Baiak Malai III                          Pemekaran sebagian Desa III Koto Aur Malintang, Perda No.
+13.05.10.2001                                                                                1 Tapakih
+13.05.10.2002                                                                                2 Ulakan
+13.05.10.2003                                                                                3 Padang Toboh Ulakan                            Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.10.2004                                                                                4 Sungai Gimba Ulakan                            Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.10.2005                                                                                5 Seulayat Ulakan                                Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.10.2006                                                                                6 Manggopoh Palak                               Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.10.2007                                                                                7 Sandi Ulakan                                  Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.10.2008                                                                                8 Kampuang Gelapuang                            Pemekaran sebagian wil Desa Ulakan, Perda No. 1/2013,
+13.05.11.2001                                                                                1 Sintuak
+13.05.11.2002                                                                                2 Toboh Gadang
+13.05.11.2003                                                                                3 Toboh Gadang Selatan                          Pemekaran sebagian wil Desa Toboh Gadang, Perda No. 1/2013,
+13.05.11.2004                                                                                4 Toboh Gadang Barat                            Pemekaran sebagian wil Desa Toboh Gadang, Perda No. 1/2013,
+13.05.11.2005                                                                                5 Toboh Gadang Timur                            Pemekaran sebagian wil Desa Toboh Gadang, Perda No. 1/2013,
+13.05.12.2001                                                                                1 Koto Baru
+13.05.12.2002                                                                                2 Koto Dalam
+13.05.12.2003                                                                                3 Batu Kalang
+13.05.12.2004                                                                                4 Koto Dalam Barat                              Pemekaran sebagian wil Desa Koto Dalam, Perda No. 1/2013,
+13.05.12.2005                                                                                5 Koto Dalam Selatan                            Pemekaran sebagian wil Desa Koto Dalam, Perda No. 1/2013,
+13.05.12.2006                                                                             6 Batu Kalang Utara                             Pemekaran sebagian wil Desa Batu Kalang, Perda No. 1/2013,
+13.05.13.2001                                                                             1 Malai V Suku
+13.05.13.2002                                                                             2 Gasan Gadang
+13.05.13.2003                                                                             3 Malai V Suku Timur                            Pemekaran sebagian wil Desa Malai V Suku, Perda No. 1/2013,
+13.05.14.2001                                                                             1 Kudu Gantiang
+13.05.14.2002                                                                             2 Limau Puruik
+13.05.14.2003                                                                             3 Gunung Padang Alai
+13.05.14.2004                                                                             4 Kudu Gantiang Barat                           Pemekaran sebagian wil Desa Kudu Gantiang, Perda No. 1/2013,
+13.05.15.2001                                                                             1 Kayu Tanam
+13.05.15.2002                                                                             2 Guguak
+13.05.15.2003                                                                             3 Anduriang
+13.05.15.2004                                                                             4 Kapalo Hilalang
+13.05.16.2001                                                                             1 Sungai Durian
+13.05.16.2002                                                                             2 Tandikek
+13.05.16.2003                                                                             3 Tandikek Utara                                Pemekaran sebagian Desa Tandikek, Perda No. 13/2010
+13.05.16.2004                                                                             4 Tandikek Selatan                              Pemekaran sebagian wil Desa Tandikek, Perda No. 1/2013,
+13.05.16.2005                                                                             5 Tandikek Barat                                Pemekaran sebagian wil Desa Tandikek, Perda No. 1/2013,
+13.05.16.2006                                                                             6 Kampuang Tanjuang                             Pemekaran sebagian wil Desa Sungai Durian, Perda No. 1/2013,
+13.05.17.2001                                                                                 1 Pakandangan
+13.05.17.2002                                                                                 2 Koto Tinggi
+13.05.17.2003                                                                                 3 Toboh Ketek
+13.05.17.2004                                                                                 4 Parit Malintang
+13.05.17.2005                                                                                 5 Gadur                                           Perda No. 2/2002
+13.06.01.2001                                                                                 1 Tiku Selatan
+13.06.01.2002                                                                                 2 Tiku Utara
+13.06.01.2003                                                                                 3 Tiku Limo Jorong
+13.06.02.2001                                                                                 1 Lubuk Basung
+13.06.02.2002                                                                                 2 Geragahan
+13.06.02.2003                                                                                 3 Kampung Pinang
+13.06.02.2004                                                                                 4 Kampung Tangah
+13.06.02.2005                                                                                 5 Manggopoh
+13.06.03.2001                                                                                 1 Tanjung Sani
+13.06.03.2002                                                                                 2 Sungai Batang
+13.06.03.2003                                                                                 3 Maninjau
+13.06.03.2004                                                                                 4 Bayua
+13.06.03.2006                                                                                 5 Koto Kaciak                                     Pemekaran dari Nagari Tigo Koto
+13.06.03.2007                                                                                 6 Duo Koto                                        Pemekaran dari Nagari Tigo Koto
+13.06.03.2008                                                                                 7 Koto Gadang                                     Pemekaran dari Nagari Tigo Koto
+13.06.03.2009                                                                                 8 Koto Malintang
+13.06.03.2010                                                                                 9 Paninjauan
+13.06.04.2001                                                                                 1 Matua Hilia
+13.06.04.2002                                                                                 2 Matua Mudiak
+13.06.04.2003                                                                                 3 Tigo Balai
+13.06.04.2004                                                                                 4 Lawang
+13.06.04.2005                                                                       5 Parik Panjang
+13.06.04.2006                                                                       6 Panta Pauh
+13.06.05.2002                                                                       1 Sungai Landia
+13.06.05.2003                                                                       2 Balingka
+13.06.05.2004                                                                       3 Koto Tuo
+13.06.05.2005                                                                       4 Guguk Tabek Sarajo
+13.06.05.2006                                                                       5 Koto Panjang
+13.06.05.2007                                                                       6 Sianok Anam Suku
+13.06.05.2008                                                                       7 Koto Gadang
+13.06.06.2001                                                                       1 Padang Lua
+13.06.06.2002                                                                       2 Taluak Ampek Suku
+13.06.06.2003                                                                       3 Pakan Sinayan
+13.06.06.2004                                                                       4 Kubang Putiah
+13.06.06.2005                                                                       5 Ladang Laweh
+13.06.06.2006                                                                       6 Cingkariang
+13.06.06.2007                                                                       7 Sungai Tanang                                 Pemekaran sebagian wil Desa Padang Lua Perbup No. 2/2005
+13.06.07.2001                                                                       1 Batu Taba
+13.06.07.2002                                                                       2 Biaro Gadang
+13.06.07.2003                                                                       3 Lambah
+13.06.07.2004                                                                       4 Panampung
+13.06.07.2005                                                                       5 Ampang Gadang
+13.06.07.2006                                                                       6 Pasia
+13.06.07.2008                                                                       7 Balai Gurah                                   Semula wil. Kec. Candung
+13.06.08.2001                                                                       1 Koto Tinggi
+13.06.08.2002                                                                       2 Tabek Panjang
+13.06.08.2004                                                                       3 Simarasok
+13.06.08.2005                                                                       4 Padang Tarok
+13.06.08.2006                                                                          5 Salo
+13.06.08.2007                                                                          6 Koto Baru                                   Perubahan nama Desa Koto Baru III Jorong Perbup No. 10/2006
+13.06.09.2001                                                                          1 Koto Tangah
+13.06.09.2003                                                                          2 Gadut
+13.06.09.2004                                                                          3 Kapau
+13.06.10.2001                                                                          1 Koto Rantang
+13.06.10.2002                                                                          2 Pasia Laweh
+13.06.10.2003                                                                          3 Pagadih
+13.06.10.2004                                                                          4 Nan Tujuah
+13.06.11.2001                                                                          1 Baringin
+13.06.11.2002                                                                          2 Sipinang
+13.06.11.2003                                                                          3 Sungai Puar
+13.06.11.2004                                                                          4 Ampek Koto
+13.06.11.2005                                                                          5 Tigo Koto Silungkang
+13.06.11.2006                                                                          6 Salareh Aia
+13.06.12.2001                                                                          1 Padang Laweh
+13.06.12.2002                                                                          2 Sungai Pua
+13.06.12.2003                                                                          3 Batagak
+13.06.12.2004                                                                          4 Batu Palano
+13.06.12.2005                                                                          5 Sariak
+13.06.13.2001                                                                          1 Batu Kambing
+13.06.13.2002                                                                          2 Sitalang
+13.06.13.2003                                                                          3 Bawan                                       PMD
+13.06.13.2004                                                                          4 Sitanang                                    PMD
+13.06.14.2001                                                                          1 Canduang Koto Laweh
+13.06.14.2002                                                                          2 Lasi
+13.06.14.2003                                                                          3 Bukik Batabuah
+13.06.15.2001                                                                                   1 Magek
+13.06.15.2002                                                                                   2 Kamang Hilia
+13.06.15.2003                                                                                   3 Kamang Mudiak
+13.06.16.2001                                                                                   1 Malalak Utara                                   Semula wil. Kec. IV Koto
+13.06.16.2002                                                                                   2 Malalak Timur                                   Semula wil. Kec. IV Koto
+13.06.16.2003                                                                                   3 Malalak Selatan                                 Semula wil. Kec. IV Koto
+13.06.16.2004                                                                                   4 Malalak Barat                                   Semula wil. Kec. IV Koto
+13.07.01.2001                                                                                   1 Kurai
+13.07.01.2002                                                                                   2 Sungai Rimbang
+13.07.01.2003                                                                                   3 Tanjuang Bungo
+13.07.01.2004                                                                                   4 Suliki
+13.07.01.2005                                                                                   5 Limbanang
+13.07.01.2006                                                                                   6 Andiang                                         Perda No. 2/2009
+13.07.02.2001                                                                                   1 Guguak VIII Koto
+13.07.02.2002                                                                                   2 VII Koto Talago
+13.07.02.2003                                                                                   3 Sungai Talang
+13.07.02.2004                                                                                   4 Kubang
+13.07.02.2005                                                                                   5 Simpang Sugiran
+13.07.03.2001                                                                                   1 Koto Baru
+13.07.03.2002                                                                                   2 Taeh Bukik
+13.07.03.2003                                                                                   3 Simalanggang
+13.07.03.2004                                                                                   4 Sungai Beringin
+13.07.03.2005                                                                                   5 Piobang
+13.07.03.2006                                                                                   6 Taeh Baruah
+13.07.03.2007                                                                                   7 Koto Tangah
+13.07.04.2001                                                                               1 Tj. Haro Sikabu-kabu
+13.07.04.2002                                                                               2 Mungo
+13.07.04.2003                                                                               3 Sungai Kamuyang
+13.07.04.2004                                                                               4 Andaleh
+13.07.05.2001                                                                               1 Taram
+13.07.05.2002                                                                               2 Solok Bio Bio
+13.07.05.2003                                                                               3 Tarantang
+13.07.05.2004                                                                               4 Bukik Limbuku
+13.07.05.2005                                                                               5 Harau
+13.07.05.2006                                                                               6 Batu Balang
+13.07.05.2007                                                                               7 Sarilamak
+13.07.05.2008                                                                               8 Gurun
+13.07.05.2009                                                                               9 Lubuak Batingkok
+13.07.05.2010                                                                              10 Koto Tuo
+13.07.05.2011                                                                              11 Pilubang
+13.07.06.2001                                                                               1 Manggilang
+13.07.06.2002                                                                               2 Tanjuang Balik
+13.07.06.2003                                                                               3 Gunuang Malintang
+13.07.06.2004                                                                               4 Pangkalan
+13.07.06.2005                                                                               5 Koto Alam
+13.07.06.2006                                                                               6 Tanjung Pauh
+13.07.07.2001                                                                               1 Muaro Paiti
+13.07.07.2002                                                                               2 Koto Bangun
+13.07.07.2003                                                                               3 Lubuak Alai
+13.07.07.2004                                                                               4 Koto Lamo
+13.07.07.2005                                                                               5 Durian Tinggi
+13.07.07.2006                                                                               6 Sialang
+13.07.07.2007                                                                               7 Galugua
+13.07.08.2001                                                                               1 Pandam Gadang
+13.07.08.2002                                                                                2 Koto Tinggi
+13.07.08.2003                                                                                3 Talang Anau
+13.07.09.2001                                                                                1 Labuah Gunuang
+13.07.09.2002                                                                                2 Batu Payuang
+13.07.09.2003                                                                                3 Ampalu
+13.07.09.2004                                                                                4 Bukik Sikumpa
+13.07.09.2005                                                                                5 Balai Panjang
+13.07.09.2006                                                                                6 Halaban
+13.07.09.2007                                                                                7 Tanjuang Gadang
+13.07.09.2008                                                                                8 Sitanang
+13.07.10.2001                                                                                1 Situjuah Batua
+13.07.10.2002                                                                                2 Situjuah Ladang
+13.07.10.2003                                                                                3 Tungka
+13.07.10.2004                                                                                4 Situjuah Banda
+13.07.10.2005                                                                                5 Situjuah Gadang
+13.07.11.2001                                                                                1 Jopang Manganti
+13.07.11.2002                                                                                2 Simpang Kapuak
+13.07.11.2003                                                                                3 Mungka
+13.07.11.2004                                                                                4 Talang Maur
+13.07.11.2005                                                                                5 Sungai Antuan                               Perda No. 2/2009
+13.07.12.2001                                                                                1 Maek
+13.07.12.2002                                                                                2 Banja Loweh
+13.07.12.2003                                                                                3 Baruah Gunuang
+13.07.12.2004                                                                                4 Sungai Naniang
+13.07.12.2005                                                                                5 Koto Tangah
+13.07.13.2001                                                                                1 Sariak Laweh
+13.07.13.2002                                                                                2 Koto Tangah Batu
+13.07.13.2003                                                                                3 Batuhampar
+13.07.13.2004                                                                                  4 Suayan
+13.07.13.2005                                                                                  5 Sungai Balantiak
+13.07.13.2006                                                                                  6 Pauh Sangik
+13.07.13.2007                                                                                  7 Durian Gadang                                    Perda No. 2/2009
+13.08.04.2001                                                                                  1 Limo Koto
+13.08.04.2002                                                                                  2 Koto Kaciak
+13.08.04.2003                                                                                  3 Ganggo Mudiak
+13.08.04.2004                                                                                  4 Ganggo Hilia
+13.08.05.2001                                                                                  1 Tanjuang Baringin
+13.08.05.2002                                                                                  2 Jambak
+13.08.05.2003                                                                                  3 Durian Tinggi
+13.08.05.2004                                                                                  4 Pauah
+13.08.05.2005                                                                                  5 Aia Manggih
+13.08.05.2006                                                                                  6 Sundata
+13.08.07.2001                                                                                  1 Panti
+13.08.07.2003                                                                                  2 Panti Timur                                      Pemekaran sebagian Desa Panti, Perda 5/2015
+13.08.07.2004                                                                                  3 Panti Selatan                                    Pemekaran sebagian Desa Panti, Perda 5/2015
+13.08.08.2001                                                                                1 Muara Tais
+13.08.08.2002                                                                                2 Lubuak Gadang
+13.08.08.2005                                                                                3 Pintu Padang
+13.08.12.2001                                                                                1 Simpang Tonang
+13.08.12.2002                                                                                2 Cubadak
+13.08.13.2001                                                                                1 Malampah
+13.08.13.2002                                                                                2 Ladang Panjang
+13.08.13.2003                                                                                3 Binjai
+13.08.14.2002                                                                                1 Taruang Taruang
+13.08.14.2005                                                                                2 Padang Mantinggi
+13.08.15.2001                                                                                1 Silayang
+13.08.15.2002                                                                                2 Muaro Sungai Lolo
+13.08.16.2001                                                                                1 Alahan Mati                                  Semula wil. Kec. Bonjol
+13.08.16.2002                                                                                2 Simpang                                      Semula wil. Kec. Bonjol
+13.08.17.2001                                                                                1 Padang Gelugur                               Semula wil. Kec. Panti
+13.08.17.2002                                                                                       2 Sontang Cubadak                                Pemekaran sebagian Desa Padang Gelugur, Perda 5/2015
+13.08.17.2003                                                                                       3 Sitombol Padang                                Pemekaran sebagian Desa Padang Gelugur, Perda 5/2015
+13.08.17.2004                                                                                       4 Bahagia Padang                                 Pemekaran sebagian Desa Padang Gelugur, Perda 5/2015
+13.08.18.2001                                                                                       1 Koto Nopan                                     Semula wil. Kec. Rao
+13.08.18.2002                                                                                       2 Koto Rajo                                      Semula wil. Kec. Rao
+13.08.18.2003                                                                                       3 Languang                                       Semula wil. Kec. Rao
+13.08.19.2001                                                                                       1 Lansek Kadok                                   Semula wil. Kec. Rao
+13.08.19.2002                                                                                       2 Lubuak Layang                                  Semula wil. Kec. Rao
+13.08.19.2003                                                                                       3 Tanjung Betung                                 Perda No. 8/2004
+13.09.01.2007                                                                                       1 Betumonga
+13.09.01.2008                                                                                       2 Silabu
+13.09.01.2009                                                                                       3 Saumanganya                                    Lampiran Peraturan Bupati Kep. Mentawai No.14 Tahun 2013
+13.09.02.2001                                                                                       1 Bosua
+13.09.02.2002                                                                                       2 Beriulou
+13.09.02.2003                                                                                       3 Nemnemleleu                                    Lampiran Peraturan Bupati Kep. Mentawai No.14 Tahun 2013
+13.09.02.2004                                                                                       4 Mara
+13.09.02.2006                                                                                       5 Sioban
+13.09.02.2007                                                                                       6 Matobe
+13.09.02.2008                                                                                       7 Saureinu
+13.09.03.2002                                                                             1 Muara Siberut
+13.09.03.2003                                                                             2 Maileppet
+13.09.03.2004                                                                             3 Muntei
+13.09.03.2005                                                                             4 Matotonan
+13.09.03.2007                                                                             5 Madobag
+13.09.04.2003                                                                             1 Bojakan
+13.09.04.2004                                                                             2 Sotboyak
+13.09.04.2005                                                                             3 Mongan Poula                                 Lampiran Peraturan Bupati Kep. Mentawai No.14 Tahun 2013
+13.09.04.2006                                                                             4 Muara Sikabaluan
+13.09.04.2007                                                                             5 Sirilogui
+13.09.04.2008                                                                             6 Malancan
+13.09.05.2001                                                                             1 Simatalu
+13.09.05.2002                                                                             2 Simalegi
+13.09.05.2003                                                                             3 Sigapokna
+13.09.06.2001                                                                             1 Katurei
+13.09.06.2002                                                                             2 Sagulubbeg                                   Lampiran Peraturan Bupati Kep. Mentawai No.14 Tahun 2013
+13.09.06.2003                                                                             3 Pasakiat Taileleu
+13.09.07.2001                                                                                 1 Saibi Samukop
+13.09.07.2002                                                                                 2 Cimpungan
+13.09.07.2003                                                                                 3 Saliguma
+13.09.08.2001                                                                                 1 Betumonga
+13.09.08.2002                                                                                 2 Goisooinan
+13.09.08.2003                                                                                 3 Tuapejat
+13.09.08.2004                                                                                 4 Sido Makmur
+13.09.08.2005                                                                                 5 Bukit Pamewa
+13.09.08.2006                                                                                 6 Sipora Jaya                                   PMD
+13.09.09.2001                                                                                 1 Sikakap
+13.09.09.2002                                                                                 2 Taikako
+13.09.09.2003                                                                                 3 Matobe
+13.09.10.2001                                                                                 1 Sinaka
+13.09.10.2002                                                                                 2 Bulasat
+13.09.10.2003                                                                                 3 Malakopa
+13.09.10.2004                                                                                 4 Makalo
+13.10.01.2002                                                                                 1 Koto Baru
+13.10.01.2003                                                                                 2 Sialang Gaung
+13.10.01.2005                                                                                 3 Ampang Kuranji
+13.10.01.2008                                                                                 4 Koto Padang                                   Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.02.2001                                                                                 1 Sungai Dareh
+13.10.02.2002                                                                                 2 Tebing Tinggi
+13.10.02.2006                                                                        3 Empat Koto Pulau                             Nagari hasil pemekaran Perda No. 4/2009
+13.10.02.2007                                                                        4 Sungai Kambut                                Nagari hasil pemekaran Perda No. 4/2009
+13.10.02.2008                                                                        5 Gunung Selasih                               Nagari hasil pemekaran Perda No. 4/2009
+13.10.02.2009                                                                        6 Sikabau                                      Nagari hasil pemekaran Perda No. 4/2009
+13.10.03.2003                                                                        1 Sungai Rumbai
+13.10.03.2004                                                                        2 Kurnia Koto Salak
+13.10.03.2007                                                                        3 Sungai Rumbai Timur                          Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.03.2008                                                                        4 Kurnia Selatan                               Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.04.2001                                                                        1 Sitiung
+13.10.04.2002                                                                        2 Siguntur
+13.10.04.2004                                                                        3 Gunung Medan                                 Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.04.2005                                                                        4 Sungai Duo                                   Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.05.2001                                                                        1 Silago                                       Semula wil Kec. Pulau Punjung Perda No. 3/2008
+13.10.05.2002                                                                        2 Lubuak Karak                                 Semula wil Kec. Pulau Punjung Perda No. 3/2008
+13.10.05.2003                                                                        3 Koto Nan Empat                               Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.05.2004                                                                        4 Banai                                        Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.06.2001                                                                        1 Timpeh                                       Semula wil Kec. Sitiung Perda No. 3/2008
+13.10.06.2002                                                                        2 Taratak Tinggi                               Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.06.2003                                                                        3 Tabek                                        Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.06.2004                                                                        4 Panyubarangan                                Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.06.2005                                                                        5 Ranah Palabi                                 Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.07.2001                                                                                 1 Koto Salak                                     Semula wil Kec. Koto Baru Perda No. 3/2008
+13.10.07.2002                                                                                 2 Ampalu                                         Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.07.2003                                                                                 3 Padukuan                                       Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.07.2004                                                                                 4 Pulau Mainan                                   Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.07.2005                                                                                 5 Simalidu                                       Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.08.2001                                                                                 1 Tiumang                                        Semula wil Kec. Koto Baru Perda No. 3/2008
+13.10.08.2002                                                                                 2 Sungai Langkok                                 Semula wil Kec. Koto Baru Perda No. 3/2008
+13.10.08.2003                                                                                 3 Koto Beringin                                  Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.08.2004                                                                                 4 Sipangkur                                      Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.09.2001                                                                                 1 Padang Laweh                                   Semula wil Kec. Koto Baru Perda No. 3/2008
+13.10.09.2002                                                                                 2 Batu Rijal                                     Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.09.2003                                                                                 3 Muaro Sopan                                    Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.09.2004                                                                                 4 Sopan Jaya                                     Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.10.2001                                                                                 1 Sungai Limau                                   Semula wil Kec. Sungai Rumbai Perda No. 3/2008
+13.10.10.2002                                                                                 2 Alahan Nan Tigo                                Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.10.2003                                                                                 3 Lubuk Besar                                    Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.10.2004                                                                                 4 Tanjung Alam                                   Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.10.2005                                                                                 5 Sinamar                                        Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.11.2001                                                                                 1 Koto Besar                                     Semula wil Kec. Sungai Rumbai Perda No. 3/2008
+13.10.11.2002                                                                                 2 Koto Tinggi                                    Semula wil Kec. Sungai Rumbai Perda No. 3/2008
+13.10.11.2003                                                                                 3 Koto Gadang                                    Semula wil Kec. Sungai Rumbai Perda No. 3/2008
+13.10.11.2004                                                                                 4 Bonjol                                         Pemekaran sebagian Kec. Sungai Rumbai Perda No. 3/2008
+13.10.11.2005                                                                                 5 Abai Siat                                      Pemekaran sebagian Kec. Sungai Rumbai Perda No. 3/2008
+13.10.11.2006                                                                                 6 Koto Laweh                                     Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.10.11.2007                                                                                 7 Koto Ranah                                     Nagari hasil pemekaran Perda No. 3/2008 - No. 4/2009
+13.11.01.2001                                                                                 1 Lubuk Gadang
+13.11.01.2002                                                                                 2 Lubuk Gadang Timur                             Perda No. 6/2007
+13.11.01.2003                                                                              3 Lubuk Gadang                                    Perda No. 6/2007
+13.11.01.2004                                                                              4 Lubuk Gadang Utara                              Pemekaran Desa Perda No. 2/2010
+13.11.02.2001                                                                              1 Pasir Talang
+13.11.02.2002                                                                              2 Koto Baru
+13.11.02.2004                                                                              3 Sako Pasia Talang
+13.11.02.2005                                                                              4 Pasar Muara Labuh
+13.11.02.2006                                                                              5 Pulakek Koto Baru
+13.11.02.2007                                                                              6 Bomas                                           Perda No. 6/2007
+13.11.02.2008                                                                              7 Sako Utara Pasia                                Perda No. 12/2008
+13.11.02.2009                                                                              8 Sako Selatan Pasia                              Perda No. 12/2008
+13.11.02.2010                                                                              9 Pasir Talang Barat                              Hasil pemekaran sebagian Nagari Pasir Talang, Perda No. 5/2009
+13.11.02.2011                                                                             10 Pasir Talang Timur                              Hasil pemekaran sebagian Nagari Pasir Talang, Perda No. 5/2009
+13.11.02.2012                                                                             11 Pasir Talang Selatan                            Hasil pemekaran sebagian Nagari Pasir Talang, Perda No. 5/2009
+13.11.03.2001                                                                              1 Pakan Rabaa
+13.11.03.2002                                                                              2 Pakan Rabaa Timur
+13.11.03.2003                                                                              3 Pakan Rabaa Utara
+13.11.03.2004                                                                              4 Pakan Rabaa Tengah
+13.11.04.2001                                                                              1 Lubuk Malako
+13.11.04.2002                                                                              2 Bidar Alam
+13.11.04.2004                                                                              3 Padang Air Dingin
+13.11.04.2005                                                                              4 Padang Limau Sundai
+13.11.04.2006                                                                              5 Padang Gantiang                                 Perda No.11/2008
+13.11.05.2001                                                                              1 Abai
+13.11.05.2002                                                                              2 Dusun Tangah
+13.11.05.2003                                                                              3 Lubuk Ulang Aling
+13.11.05.2004                                                                              4 Ranah Pantai Cermin
+13.11.05.2005                                                                                        5 Sitapus
+13.11.05.2006                                                                                        6 Lubuk Ulang Aling
+13.11.05.2007                                                                                        7 Lubuk Ulang Aling
+13.11.06.2001                                                                                        1 Alam Pauh Duo                                     Semula wil. Kec. Sungai Pagu
+13.11.06.2002                                                                                        2 Kapau Alam Pauh                                   Semula wil. Kec. Sungai Pagu
+13.11.06.2003                                                                                        3 Luak Kapau Alam                                   Semula wil. Kec. Sungai Pagu
+13.11.06.2004                                                                                        4 Pauh Duo Nan Batigo                               Semula wil. Kec. Sungai Pagu
+13.11.07.2001                                                                                        1 Sungai Kunyit                                     Semula wil. Kec. Sangir Jujuan
+13.11.07.2002                                                                                        2 Talao Sungai Kunyit                               Semula wil. Kec. Sangir Jujuan
+13.11.07.2003                                                                                        3 Sungai Kunyit Barat                               Semula wil. Kec. Sangir Jujuan
+13.11.07.2004                                                                                        4 Talunan Maju                                      Semula wil. Kec. Sangir Jujuan
+13.12.01.2001                                                                                        1 Aia Bangih                                        Perubahan nama dari Desa Air Bangih, Perda No. 5/2011
+13.12.02.2001                                                                                        1 Ujung Gading
+13.12.03.2003                                                                                        1 Lingkuang Aua
+13.12.03.2004                                                                                        2 Aua Kuniang                                       Perubahan nama dari Desa Aur Kuning, Perda No. 5/2011
+13.12.03.2006                                                                                        3 Aia Gadang                                        Perubahan nama dari Desa Air Gadang, Perda No. 5/2011
+13.12.04.2001                                                                                        1 Kajai
+13.12.04.2002                                                                                        2 Talu
+13.12.04.2003                                                                                        3 Sinuruik
+13.12.05.2001                                                                                                 1 Kinali
+13.12.05.2002                                                                                                 2 Katiagan
+13.12.06.2001                                                                                                 1 Muaro Kiawai
+13.12.06.2002                                                                                                 2 Rabi Jonggor
+13.12.07.2001                                                                                                 1 Batahan
+13.12.07.2002                                                                                                 2 Desa Baru
+13.12.08.2001                                                                                                 1 Parit                                     Perubahan nama dari Desa Parik, Perda No. 5/2011
+13.12.09.2001                                                                                                 1 Sungai Aua
+13.12.10.2001                                                                                                 1 Koto Baru
+13.12.10.2002                                                                                                 2 Kapa
+13.12.11.2001                                                                                                 1 Sasak
+13.71.01.1001                                                                      1 Belakang Pondok
+13.71.01.1002                                                                      2 Alang Laweh
+13.71.01.1003                                                                      3 Ranah Parak Rumbio
+13.71.01.1004                                                                      4 Pasa Gadang
+13.71.01.1005                                                                      5 Batang Arau
+13.71.01.1006                                                                      6 Seberang Palinggam
+13.71.01.1007                                                                      7 Seberang Padang
+13.71.01.1008                                                                      8 Mata Air
+13.71.01.1009                                                                      9 Rawang
+13.71.01.1010                                                                     10 Teluk Bayur
+13.71.01.1011                                                                     11 Air Manis
+13.71.01.1012                                                                     12 Bukit Gado-gado
+13.71.02.1001                                                                      1 Sawahan
+13.71.02.1002                                                             2 Jati Baru
+13.71.02.1003                                                             3 Jati
+13.71.02.1004                                                             4 Sawahan Timur
+13.71.02.1005                                                             5 Simpang Haru
+13.71.02.1006                                                             6 Kubu Marapalam
+13.71.02.1007                                                             7 Andalas
+13.71.02.1008                                                             8 Kubu Dalam Parak
+13.71.02.1009                                                             9 Parak Gadang Timur
+13.71.02.1010                                                            10 Ganting Parak
+13.71.03.1001                                                             1 Flamboyan Baru
+13.71.03.1002                                                             2 Rimbo Kaluang
+13.71.03.1003                                                             3 Ujung Gurun
+13.71.03.1004                                                             4 Purus
+13.71.03.1005                                                             5 Padang Pasir
+13.71.03.1006                                                             6 Olo
+13.71.03.1007                                                             7 Kampung Jao
+13.71.03.1008                                                             8 Belakang Tangsi
+13.71.03.1009                                                             9 Kampung Pondok
+13.71.03.1010                                                            10 Berok Nipah
+13.71.04.1001                                                             1 Air Tawar Timur
+13.71.04.1002                                                             2 Air Tawar Barat
+13.71.04.1003                                                             3 Ulak Karang Utara
+13.71.04.1004                                                             4 Ulak Karang Selatan
+13.71.04.1005                                                             5 Lolong Belanti
+13.71.04.1006                                                             6 Alai Parak Kopi
+13.71.04.1007                                                             7 Gunung Pangilun
+13.71.05.1001                                                             1 Bungus Timur
+13.71.05.1002                                                             2 Bungus Barat
+13.71.05.1003                                                             3 Bungus Selatan
+13.71.05.1004                                                             4 Teluk Kabung Utara
+13.71.05.1005                                                        5 Teluk Kabung Tengah
+13.71.05.1006                                                        6 Teluk Kabung Selatan
+13.71.06.1001                                                        1 Cangkeh Nan XX
+13.71.06.1002                                                        2 Kampung Baru Nan
+13.71.06.1003                                                        3 Tanah Sirah Piai Nan
+13.71.06.1004                                                        4 Tanjung Saba Pitamen                                    Perda No. 20/2008
+13.71.06.1005                                                        5 Lubuk Begalung Nan
+13.71.06.1006                                                        6 Gurun Laweh Nan XX
+13.71.06.1007                                                        7 Tanjung Aua Nan XX
+13.71.06.1008                                                        8 Koto Baru Nan XX
+13.71.06.1009                                                        9 Banuaran Nan XX
+13.71.06.1010                                                       10 Parak Laweh Pulau
+13.71.06.1011                                                       11 Batung Taba Nan XX
+13.71.06.1012                                                       12 Pagambiran Ampalu
+13.71.06.1013                                                       13 Pampangan Nan XX
+13.71.06.1014                                                       14 Gates Nan XX
+13.71.06.1015                                                       15 Kampung Jua Nan XX
+13.71.07.1001                                                        1 Indarung
+13.71.07.1002                                                        2 Padang Besi
+13.71.07.1003                                                        3 Batu Gadang
+13.71.07.1004                                                        4 Bandar Buat                                             Perda No. 20/2008
+13.71.07.1005                                                        5 Koto Lalang
+13.71.07.1006                                                        6 Baringin
+13.71.07.1007                                                        7 Tarantang
+13.71.08.1001                                                        1 Limau Manis
+13.71.08.1002                                                        2 Koto Lua
+13.71.08.1003                                                        3 Limau Manis Selatan
+13.71.08.1004                                                        4 Piai Tangah
+13.71.08.1005                                                      5 Cupak Tangah
+13.71.08.1006                                                      6 Pisang
+13.71.08.1007                                                      7 Binuang Kampuang
+13.71.08.1008                                                      8 Kapalo Koto
+13.71.08.1009                                                      9 Lambung Bukik
+13.71.09.1001                                                      1 Pasar Ambacang
+13.71.09.1002                                                      2 Anduring
+13.71.09.1003                                                      3 Lubuk Lintah
+13.71.09.1004                                                      4 Ampang
+13.71.09.1005                                                      5 Kalumbuk
+13.71.09.1006                                                      6 Korong Gadang
+13.71.09.1007                                                      7 Kuranji
+13.71.09.1008                                                      8 Gunung Sarik
+13.71.09.1009                                                      9 Sungai Sapih
+13.71.10.1001                                                      1 Surau Gadang
+13.71.10.1002                                                      2 Kampung Olo
+13.71.10.1003                                                      3 Kurao Pagang
+13.71.10.1004                                                      4 Gurun Laweh
+13.71.10.1005                                                      5 Tabing Banda Gadang                                      Perda No. 20/2008
+13.71.10.1006                                                      6 Kampung Lapai
+13.71.11.1001                                                      1 Balai Gadang
+13.71.11.1002                                                      2 Lubuk Minturun
+13.71.11.1003                                                      3 Aie Pacah
+13.71.11.1004                                                      4 Dadok Tunggul Hitam
+13.71.11.1005                                                      5 Koto Panjang Ikua
+13.71.11.1006                                                      6 Koto Pulai
+13.71.11.1007                                                      7 Batipuh Panjang
+13.71.11.1008                                                      8 Padang Sarai
+13.71.11.1009                                                      9 Lubuk Buaya
+13.71.11.1010                                                     10 Batang Kabung
+13.71.11.1011                                                               11 Bungo Pasang
+13.71.11.1012                                                               12 Parupuk Tabing
+13.71.11.1013                                                               13 Pasie Nan Tigo
+13.72.01.1001                                                                1 Tanah Garam
+13.72.01.1002                                                                2 VI Suku
+13.72.01.1003                                                                3 Sinapa Piliang
+13.72.01.1004                                                                4 IX Korong
+13.72.01.1005                                                                5 Kampai Tabu
+13.72.01.1006                                                                6 Aro IV Korong
+13.72.01.1007                                                                7 Simpang Rumbio
+13.72.02.1001                                                                1 Koto Panjang
+13.72.02.1002                                                                2 Pasar Pandan Air Mati
+13.72.02.1003                                                                3 Tanjung Paku
+13.72.02.1004                                                                4 Nan Balimo
+13.72.02.1005                                                                5 Kampung Jawa
+13.72.02.1006                                                                6 Laing
+13.73.01.1001                                                                1 Aur Mulio
+13.73.01.1002                                                                2 Kubang Sirakuk Utara
+13.73.01.1003                                                                3 Kubang S. Selatan
+13.73.01.1004                                                                4 Pasar
+13.73.01.1005                                                                5 Tanah Lapang
+13.73.01.1006                                                                6 Aia Dingin
+13.73.01.2007                                                                                           1 Lunto Timur
+13.73.01.2008                                                                                           2 Lunto Barat
+13.73.01.2009                                                                                           3 Kubang Tangah
+13.73.01.2010                                                                                           4 Kubang Utara Sikabu
+13.73.01.2011                                                                                           5 Pasa Kubang
+13.73.02.1001                                                                    1 Saringan
+13.73.02.1002                                                                    2 Lubang Panjang
+13.73.02.1003                                                                    3 Durian I
+13.73.02.1004                                                                    4 Durian II
+13.73.02.2005                                                                                               1 Santua
+13.73.02.2006                                                                                               2 Kolok Mudiak
+13.73.02.2007                                                                                               3 Kolok Nan Tuo
+13.73.02.2008                                                                                               4 Talago Gunung
+13.73.02.2009                                                                                               5 Lumindai
+13.73.02.2010                                                                                               6 Balai Batu Sadara
+13.73.03.2001                                                                                               1 Silungkang Duo
+13.73.03.2002                                                                                               2 Silungkang Oso
+13.73.03.2003                                                                                               3 Silungkang Tigo
+13.73.03.2004                                                                                               4 Muaro Kalaban
+13.73.03.2005                                                                                               5 Taratak Boncah
+13.73.04.2001                                                                                               1 Talawi Hilie
+13.73.04.2002                                                                                               2 Talawi Mudiak
+13.73.04.2003                                                                                               3 Bukit Gadang
+13.73.04.2004                                                                                               4 Batu Tanjung
+13.73.04.2005                                                                                               5 Kumbayau
+13.73.04.2006                                                                                               6 Tumpuk Tangah
+13.73.04.2007                                                                                               7 Data Mansiang
+13.73.04.2008                                                                                               8 Sijantang Koto
+13.73.04.2009                                                                                               9 Salak
+13.73.04.2010                                                                                              10 Sikalang
+13.73.04.2011                                                                                              11 Rantih
+13.74.01.1001                                                                    1 Ganting
+13.74.01.1002                                                                    2 Sigando
+13.74.01.1003                                                                  3 Ekor Lubuk
+13.74.01.1004                                                                  4 Ngalau
+13.74.01.1005                                                                  5 Guguk Malintang
+13.74.01.1006                                                                  6 Koto Panjang
+13.74.01.1007                                                                  7 Koto Katik
+13.74.01.1008                                                                  8 Tanah Pak Lambik
+13.74.02.1001                                                                  1 Bukit Surungan
+13.74.02.1002                                                                  2 Pasar Usang
+13.74.02.1003                                                                  3 Kampung Manggis
+13.74.02.1004                                                                  4 Silaing Bawah
+13.74.02.1005                                                                  5 Silaing Atas
+13.74.02.1006                                                                  6 Pasar Baru
+13.74.02.1007                                                                  7 Tanah Hitam
+13.74.02.1008                                                                  8 Balai-balai
+13.75.01.1001                                                                  1 Tarok Dipo
+13.75.01.1002                                                                  2 Bukik Cangang/Kayu
+13.75.01.1003                                                                  3 Pakan Kurai
+13.75.01.1004                                                                  4 Aur Tajungkang/Tgh.
+13.75.01.1005                                                                  5 Benteng Pasar Atas
+13.75.01.1006                                                                  6 Kayu Kubu
+13.75.01.1007                                                                  7 Bukik Apik Puhun
+13.75.02.1001                                                                  1 Campago Guguk
+13.75.02.1002                                                                  2 Campago Ipuh
+13.75.02.1003                                                                  3 Puhun Tembok
+13.75.02.1004                                                                  4 Kubu Gulai Bancah
+13.75.02.1005                                                                  5 Puhun Pintu Kabun
+13.75.02.1006                                                                  6 Pulai Anak Air
+13.75.02.1007                                                                  7 Koto Selayan
+13.75.02.1008                                                                      8 Garegeh
+13.75.02.1009                                                                      9 Manggis/Ganting
+13.75.03.1001                                                                      1 Aur Kuning
+13.75.03.1002                                                                      2 Birugo
+13.75.03.1003                                                                      3 Belakang Balok
+13.75.03.1004                                                                      4 Sapiran
+13.75.03.1005                                                                      5 Kubu Tanjung
+13.75.03.1006                                                                      6 Pakan Labuh
+13.75.03.1007                                                                      7 Parit Rantang
+13.75.03.1008                                                                      8 Ladang Cakiah
+13.76.01.1002                                                                      1 Pakan Sinayan                                               Nagari Koto Nan IV
+13.76.01.1003                                                                      2 Kubu Gadang                                                 Nagari Koto Nan IV
+13.76.01.1004                                                                      3 Bulakan Balai Kandi                                         Nagari Koto Nan IV
+13.76.01.1005                                                                      4 Payolansek                                                  Nagari Koto Nan IV
+13.76.01.1007                                                                      5 Talang                                                      Nagari Koto Nan IV
+13.76.01.1009                                                                      6 Padang Tinggi Piliang                                       Nagari Koto Nan IV, Penggabungan Kel. Padang Tinggi dan Kel.
+13.76.01.1011                                                                      7 Koto Tangah                                                 Nagari Koto Nan IV
+13.76.01.1013                                                                      8 Subarang Batuang                                            Nagari Koto Nan IV
+13.76.01.1016                                                                      9 Parik Rantang                                               Nagari Koto Nan IV
+13.76.01.1017                                                                     10 Parak Batuang                                               Nagari Koto Nan IV
+13.76.01.1018                                                                     11 Nunang Daya Bangun                                          Nagari Koto Nan IV, Penggabungan Kel. Nunang dan Kel. Daya
+13.76.01.1020                                                         12 Labuah Basilang                                       Nagari Koto Nan IV
+13.76.01.1021                                                         13 Ibuah                                                 Nagari Koto Nan IV
+13.76.01.1022                                                         14 Tanjung Pauh                                          Nagari Koto Nan IV
+13.76.01.1032                                                         15 Tanjuanggodang                                        Penggabungan Kel. Tanjuang Gadang dan Kel. Sungai Pinago,
+13.76.01.1033                                                         16 Padangtongah                                          Penggabungan Kel. Padang Tangah dan Kel. Balai Nan Duo, Perda
+13.76.01.1034                                                         17 Padangdata                                            Penggabungan Kel. Padang Datar dan Kel. Tanah Mati, Perda No.
+13.76.02.1002                                                          1 Napar                                                 Nagari Koto Nan Gadang
+13.76.02.1032                                                          2 Ompang Tanah Sirah                                        Penggabungan Kel. Tanjuang Anau, Kel. Balai Batuang, dan Kel.
+13.76.02.1033                                                          3 Taratak Padang                                            Penggabungan Kel. Payonibuang dan Kel. Tambago Perda No.
+13.76.02.1034                                                          4 Tigo Koto Dibaruah                                        Penggabungan Kel. Kaniang Bukik, Kel. Nan Kodok dan Kel.
+13.76.02.1035                                                          5 Tigo Koto Diate                                           Penggabungan Kel. Padang Kaduduak, Kel. Cubadak Air, Kel
+13.76.02.1036                                                          6 Ikua Koto Dibalai                                         Penggabungan Kel. Muaro, Kel. Pasia, Kel. Taruko dan Kel. Balai
+13.76.02.1037                                                          7 Balai Tongah Koto                                         Penggabungan Kel. Balai Jariang, Kel. Balai Gadang dan Kel. Balai
+13.76.02.1038                                                          8 Kapalo Koto Dibalai                                       Penggabungan Kel. Koto Baru, Kel. Bunian dan Kel. Balai Baru,
+13.76.02.1039                                                          9 Kotokociak Kubu                                           Penggabungan Kel. Labuah Baru, Kel. Balai Kaliki dan Kel. Kubu
+13.76.03.1001                                                             1 Balai Jaring                                             Nagari Air Tabit
+13.76.03.1002                                                             2 Padang Alai Bodi                                         Nagari Air Tabit, Penggabungan Kel. Padang Alai dan Kel. Bodi,
+13.76.03.1003                                                             3 Padang Tangah                                            Nagari Air Tabit
+13.76.03.1005                                                             4 Sicincin                                                 Nagari Air Tabit, Penggabungan Kel. Sicincin Hilir dan Kel.
+13.76.03.1007                                                             5 Padang Tiakar                                            Nagari Air Tabit, Penggabungan Kel. Padang Tiakar Hilir dan Kel.
+13.76.03.1009                                                             6 Payobasung                                               Nagari Payobasung
+13.76.03.1010                                                             7 Koto Panjang                                             Nagari Payobasung
+13.76.03.1011                                                             8 Koto Baru                                                Nagari Payobasung
+13.76.03.1015                                                             9 Tiakar                                                   Penggabungan Kel Balai Batimah, Kel. Balai Nan Tuo, dan Kel.
+13.76.04.1001                                                             1 Sungai Durian                                            Semula wil. Kec. Payakumbuh Utara
+13.76.04.1002                                                             2 Parit Muko Aie                                           Semula wil. Kec. Payakumbuh Utara
+13.76.04.1003                                                             3 Parambahan                                               Semula wil. Kec. Payakumbuh Utara
+13.76.04.1004                                                             4 Padang Sikabu                                            Semula wil. Kec. Payakumbuh Utara
+13.76.04.1005                                                             5 Koto Panjang Padang                                      Semula wil. Kec. Payakumbuh Utara
+13.76.04.1006                                                             6 Koto Panjang Dalam                                       Semula wil. Kec. Payakumbuh Utara
+13.76.05.1001                                                             1 Padang Karambia                                          Semula wil. Kec. Payakumbuh Barat
+13.76.05.1002                                                             2 Kototuo                                                  Semula wil. Kec. Payakumbuh Barat, Penggabungan Kel. Koto Tuo
+13.76.05.1003                                                             3 Limbukan                                                 Semula wil. Kec. Payakumbuh Barat
+13.76.05.1005                                                             4 Balai Panjang                                            Semula wil. Kec. Payakumbuh Barat
+13.76.05.1006                                                             5 Kapalo Koto                                              Semula wil. Kec. Payakumbuh Barat, Penggabungan Kel. Kapalo
+13.76.05.1010                                                                6 Sawahpadang Aua                                                        Penggabungan   Kel. Aur Kuning dan Kel. Sawah Padang, Perda No.
+13.77.01.1001                                                                1 Karan Aur                                                              Nagari Pasar Pariaman
+13.77.01.1002                                                                2 Kampung Perak                                                          Nagari Pasar Pariaman
+13.77.01.1003                                                                3 Lohong                                                                 Nagari Pasar Pariaman
+13.77.01.1004                                                                4 Pasir                                                                  Nagari Pasar Pariaman
+13.77.01.1005                                                                5 Kampung Pondok                                                         Nagari Koto Air Pampan
+13.77.01.1006                                                                6 Pondok II                                                              Nagari Koto Air Pampan
+13.77.01.1007                                                                7 Kampung Jawa I                                                         Nagari Koto Air Pampan
+13.77.01.1008                                                                8 Kampung Jawa II                                                        Nagari Koto Air Pampan
+13.77.01.1009                                                                9 Alai Gelombang                                                         Nagari Koto Air Pampan
+13.77.01.1010                                                               10 Jawi Jawi I                                                            Nagari Koto Air Pampan
+13.77.01.1011                                                               11 Jawi Jawi II                                                           Nagari Koto Air Pampan
+13.77.01.1012                                                               12 Jalan Baru                                                             Nagari Koto Air Pampan
+13.77.01.1013                                                               13 Taratak                                                                Nagari Koto Air Pampan
+13.77.01.1014                                                               14 Jalan Kereta Api                                                       Nagari Koto Air Pampan
+13.77.01.1015                                                               15 Ujung Batung                                                           Nagari Koto Air Pampan
+13.77.01.1016                                                               16 Jati Hilir                                                             Nagari Koto Air Pampan
+13.77.01.2017                                                                                          1 Pauh Barat                                   Nagari Koto Air Pampan
+13.77.01.2018                                                                                          2 Pauh Timur                                   Nagari Koto Air Pampan
+13.77.01.2019                                                                                          3 Rawang                                       Nagari Koto Air Pampan
+13.77.01.2020                                                                                          4 Kampung Baru                                 Nagari Koto Air Pampan
+13.77.01.2021                                                                                          5 Cimparuh                                     Nagari Koto Air Pampan
+13.77.01.2025                                                                                          6 Jati Mudik                                   Nagari Koto Air Pampan
+13.77.02.2005                                                                               1 Ampalu                                         Nagari Manggung - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2006                                                                               2 Apar                                           Nagari Manggung - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2007                                                                               3 Tanjung Sabar                                  Nagari Manggung - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2008                                                                               4 Cubadak Air Selatan                            Nagari Cubadak Air - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2009                                                                               5 Sikapak Barat                                  Nagari Tungkal - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2010                                                                               6 Sikapak Timur                                  Nagari Tungkal - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2011                                                                               7 Manggung                                       Nagari Manggung - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2012                                                                               8 Cubadak Air Utara                              Nagari Cubadak Air - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2013                                                                               9 Tungkal Selatan                                Menjadi kelurahan - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2014                                                                              10 Naras Hilir                                    Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2015                                                                              11 Naras I                                        Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2016                                                                              12 Balai Naras                                    Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2017                                                                              13 Padang Birik Birik                             Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2018                                                                              14 Sintuk                                         Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2019                                                                              15 Sungai Rambai                                  Nagari Naras III Koto - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2020                                                                              16 Tungkal Utara                                  Menjadi Kelurahan - PMD, Perubahan status sesuai Surat Prov
+13.77.02.2021                                                                              17 Cubadak Air                                    Nagari Cubadak Air - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2006                                                                            1 Pasir Sunur                                  Nagari Pasir Sunur - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2007                                                                            2 Balai Kurai Taji                             Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2008                                                                            3 Pauh Kurai Taji                              Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2009                                                                            4 Simpang                                      Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2010                                                                            5 Toboh Palabah                                Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2011                                                                            6 Marabau                                      Nagari Kurai Taji - PMDPerubahan status sesuai Surat Prov
+13.77.03.2012                                                                            7 Batang Tajongkek                             Nagari Kurai Taji - PMD,Perubahan status sesuai Surat Prov
+13.77.03.2013                                                                            8 Sikabu                                       Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2014                                                                            9 Sungai Kasai                                 Nagari Kurai Taji - PMD,Perubahan status sesuai Surat Prov
+13.77.03.2015                                                                           10 Palak Aneh                                   Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2016                                                                           11 Kampung Apar                                 Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2017                                                                           12 Marunggi                                     Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2018                                                                           13 Taluk                                        Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2019                                                                           14 Padang Cakur                                 Nagari Kurai Taji - PMD, Perubahan status sesuai Surat Prov
+13.77.03.2020                                                                           15 Punggung Lading                              Nagari Lareh Nan Panjang - PMD, Perubahan status sesuai Surat
+13.77.03.2021                                                                           16 Rambai                                       Nagari Lareh Nan Panjang - PMD, Perubahan status sesuai Surat
+13.77.04.2001                                                                            1 Talago Sarik                                 Semula wil. Kec. Pariaman Timur, Perda No. 5/2008 - PMD,
+13.77.04.2002                                                                            2 Pakasai                                      Semula wil. Kec. Pariaman Tengah, Perda No. 5/2008 - PMD,
+13.77.04.2003                                                                            3 Kampung Baru                                 Semula wil. Kec. Pariaman Tengah, Perda No. 5/2008 - PMD,
+13.77.04.2004                                                                           4 Kampung Gadang                                  Semula wil. Kec. Pariaman Tengah, Perda No. 5/2008 - PMD,
+13.77.04.2005                                                                           5 Koto Marapak                                    Semula wil. Kec. Pariaman Timur, Perda No. 5/2008 - PMD,
+13.77.04.2006                                                                           6 Batang Kabung                                   Semula wil. Kec. Pariaman Timur, Perda No. 5/2008
+13.77.04.2007                                                                           7 Bato                                            Semula wil. Kec. Pariaman Timur, Perda No. 5/2008
+13.77.04.2008                                                                           8 Air Santok                                      Semula wil. Kec. Pariaman Timur, Perda No. 5/2008
+13.77.04.2009                                                                           9 Cubadak Mentawai                                Semula wil. Kec. Pariaman Timur, Perda No. 5/2008 - PMD,
+13.77.04.2010                                                                          10 Sungai Sirah                                    Semula wil. Kec. Pariaman Timur, Perda No. 5/2008
+13.77.04.2011                                                                          11 Sungai Pasak                                    Semula wil. Kec. Pariaman Timur, Perda No. 5/2008
+13.77.04.2012                                                                          12 Bungo Tanjung                                   Semula wil. Kec. Pariaman Selatan, Perda No. 5/2008 - PMD,
+13.77.04.2013                                                                          13 Kampung Tangah                                  Semula wil. Kec. Pariaman Selatan, Perda No. 5/2008 - PMD,
+13.77.04.2014                                                                          14 Kampung Kandang                                 Semula wil. Kec. Pariaman Selatan, Perda No. 5/2008 - PMD,
+13.77.04.2015                                                                          15 Kaluat                                          Semula wil. Kec. Pariaman Selatan, Perda No. 5/2008 - PMD,
+13.77.04.2016                                                                          16 Kajai                                           Semula wil. Kec. Pariaman Selatan, Perda No. 5/2008 - PMD,

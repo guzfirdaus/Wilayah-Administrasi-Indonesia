@@ -1,0 +1,14 @@
+  1      61.01   KAB. SAMBAS                               19       0     193          6.716,52        635.379
+  2      61.02   KAB. MEMPAWAH                               9      7      60          2.797,88        304.795    Semula bernama Kabupaten Pontianak, PP No. 58 Tahun 2014
+  3      61.03   KAB. SANGGAU                              15       6     163         12.857,80        486.129
+  4      61.04   KAB. KETAPANG                             20       9     253         31.240,74        581.594
+  5      61.05   KAB. SINTANG                              14      16     390         21.638,20        408.841
+  6      61.06   KAB. KAPUAS HULU                          23       4     278         29.842,00        242.170
+  7      61.07   KAB. BENGKAYANG                           17       2     122          5.075,48        287.121
+  8      61.08   KAB. LANDAK                               13       0     156          8.915,10        399.421
+  9      61.09   KAB. SEKADAU                                7      0      87          5.444,20        212.202
+ 10      61.10   KAB. MELAWI                               11       0     169         10.640,80        232.536    Luas wil. koreksi dari Gubernur Surat No.140/Pem-D Juni 2006
+ 11      61.11   KAB. KAYONG UTARA                           6      0      43          4.568,26        125.974    UU No. 6 /2007
+ 12      61.12   KAB. KUBU RAYA                              9      0     117          6.958,22        604.563    UU No 35/2007
+ 13      61.71   KOTA PONTIANAK                              6     29                     107,80       665.694
+ 14      61.72   KOTA SINGKAWANG                             5     26                     504,00       236.395

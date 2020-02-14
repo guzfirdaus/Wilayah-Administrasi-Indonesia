@@ -1,0 +1,8 @@
+  1      36.01   KAB. PANDEGLANG                           35      13     326         2.746,89        1.187.664
+  2      36.02   KAB. LEBAK                                28       5     340         3.426,56        1.277.425
+  3      36.03   KAB. TANGERANG                            29      28     246         1.011,86        2.728.654
+  4      36.04   KAB. SERANG                               29       0     326         1.734,28        1.464.291   PP. No. 32 Tahun 2012
+  5      36.71   KOTA TANGERANG                            13     104                     153,93      1.742.604
+  6      36.72   KOTA CILEGON                                8     43                     175,50       416.866
+  7      36.73   KOTA SERANG                                 6     66                     266,71       642.586    UU No. 32/2007 - PP. 32/2012 Pemindahan Ibukota
+  8      36.74   KOTA TANGERANG SELATAN                      7     54                     147,19      1.262.284   UU No. 51/2008

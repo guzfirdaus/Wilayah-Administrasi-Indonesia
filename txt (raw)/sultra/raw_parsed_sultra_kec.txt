@@ -1,0 +1,219 @@
+       74.01.01     1 Wundulako                                                                       6          5
+       74.01.04     2 Kolaka                                                                          7
+       74.01.07     3 Pomalaa                                                                         4          8
+       74.01.08     4 Watubangga                                                                      3       11
+       74.01.10     5 Wolo                                                                            2       12
+       74.01.12     6 Baula                                                                           1          9
+       74.01.14     7 Latambaga                                                                       7
+       74.01.18     8 Tanggetada                                                                      1       13
+       74.01.20     9 Samaturu                                                                        2       17
+       74.01.24    10 Toari                                                                           1          9                              Perda No. 20/2007
+       74.01.25    11 Polinggona                                                                      1          6                              Perda No. 20/2007
+       74.01.27    12 Iwoimendaa                                                                              10                                Pemekaran sebagian wil Kec Wolo Perda No. 8/2012
+     74.02.01    1 Lambuya                                                      1          9
+     74.02.02    2 Unaaha                                                    12
+     74.02.03    3 Wawotobi                                                  12            7
+     74.02.04    4 Pondidaha                                                    1      17
+     74.02.05    5 Sampara                                                      2      13
+     74.02.10    6 Abuki                                                        1      11
+     74.02.11    7 Soropia                                                      1      14
+     74.02.15    8 Tongauna                                                     5      15
+     74.02.16    9 Latoma                                                       1      12
+     74.02.17   10 Puriala                                                      1      15
+     74.02.18   11 Uepai                                                               17
+     74.02.19   12 Wonggeduku                                                   1      15
+     74.02.20   13 Besulutu                                                     1      15
+     74.02.21   14 Bondoala                                                     1          8
+     74.02.23   15 Routa                                                        1          7                            Perda No. 6/2005
+     74.02.24   16 Anggaberi                                                    6          2                            Perda No. 6/2005
+     74.02.25   17 Meluhu                                                       1          8                            Perda No. 6/2005
+     74.02.28   18 Amonggedo                                                    1      14                               Perda No. 6/2005
+     74.02.31   19 Asinua                                                       1          7                            Perda No. 8/2007
+     74.02.32   20 Konawe                                                       4          8                            Perda No. 8/2007
+     74.02.33   21 Kapoiala                                                     1      13                               Perda No. 8/2007
+     74.02.36   22 Lalonggasumeeto                                              1      11                               Perda No. 6/2008
+     74.02.37   23 Onembute                                                     1      11                               Perda No. 6/2008
+     74.02.38   24 Padangguni                                                          11                               Pemekaran sebagian Kec. Abuki, Perda No. 2/2014
+     74.02.39   25 Morosi                                                              10                               Pemekaran sebagian Kec. Bondoala, Perda No. 2/2014
+     74.02.40   26 Anggalomoare                                                        10                               Pemekaran sebagian Kec. Sampara, Perda No. 2/2014
+     74.02.41   27 Wonggeduku Barat                                                    14                               Pemekaran sebagian Kec. Wonggeduku, Perda No. 2/2014
+     74.03.06    1 Napabalano                                                   2          4
+     74.03.07    2 Maligano                                                                6
+     74.03.13    3 Wakorumba Selatan                                            1          4
+     74.03.14    4 Lasalepa                                                                7
+     74.03.15    5 Batalaiwaru                                                  2          2
+     74.03.16    6 Katobu                                                       8
+     74.03.17    7 Duruka                                                       2          5
+     74.03.18    8 Lohia                                                                   9
+     74.03.19    9 Watopute                                                     2          6
+     74.03.20   10 Kontunaga                                                               6
+     74.03.23   11 Kabangka                                                                9
+     74.03.24   12 Kabawo                                                       1      10
+     74.03.25   13 Parigi                                                       4          7
+     74.03.26   14 Bone                                                                    5
+     74.03.27   15 Tongkuno                                                     3          9
+     74.03.28   16 Pasir Putih                                                             6
+     74.03.30   17 Kontu Kowuna                                                            6
+     74.03.31   18 Marobo                                                                  5
+     74.03.32   19 Tongkuno Selatan                                             1          5
+     74.03.33   20 Pasi Kolaga                                                             4
+     74.03.34    21 Batukara                                                                  4
+     74.03.37    22 Towea                                                                     5
+     74.04.11     1 Pasarwajo                                                      9      13
+     74.04.22     2 Kapontori                                                      2      15
+     74.04.23     3 Lasalimu                                                       1      14
+     74.04.24     4 Lasalimu Selatan                                                      16
+     74.04.27     5 Siotapina                                                             11                               Perda No. 15/2004
+     74.04.28     6 Wolowa                                                                    7                            Perda No. 17/2004
+     74.04.29     7 Wabula                                                                    7                            Perda No. 16/2004
+     74.05.01    1 Tinanggea                                                    2      22
+     74.05.02    2 Angata                                                              24
+     74.05.03    3 Andoolo                                                      2          8
+     74.05.04    4 Palangga                                                     1      14
+     74.05.05    5 Landono                                                      1      12
+     74.05.06    6 Lainea                                                              12
+     74.05.07    7 Konda                                                        1      17
+     74.05.08    8 Ranomeeto                                                    1      11
+     74.05.09    9 Kolono                                                       1      20
+     74.05.10   10 Moramo                                                       1      19
+     74.05.11   11 Laonti                                                              19
+     74.05.12   12 Lalembuu                                                     1      17                               Perda No. 6/2006
+     74.05.13   13 Benua                                                               12                               Perda No. 6/2006
+     74.05.14   14 Palangga Selatan                                             1          9                            Perda No. 6/2006
+     74.05.15   15 Mowila                                                              20                               Perda No. 6/2006
+     74.05.16   16 Moramo Utara                                                 1          9                            Perda No. 6/2006
+     74.05.17   17 Buke                                                                16                               Perda No. 6/2006
+     74.05.18   18 Wolasi                                                                  6                            Perda No. 6/2006
+     74.05.19   19 Laeya                                                        2      15                               Perda No. 6/2006
+     74.05.20   20 Baito                                                                   8                            Perda No. 6/2006
+     74.05.21   21 Basala                                                                  9                            Perda No. 6/2006
+     74.05.22   22 Ranomeeto Barat                                                         9                            Perda No. 6/2006
+     74.05.23   23 Kolono Timur                                                        10                               Pemekaran sebagian Kec. Kolono Timur, Perda No.5/2014
+     74.05.24   24 Sabulakoa                                                               8                            Pemekaran sebagian Kec. Landono, Perda No.5/2014
+     74.05.25   25 Andoolo Barat                                                       10                               Pemekaran sebagian Kec. Andoolo, Perda No.5/2014
+     74.06.01    1 Poleang                                                      6          4
+     74.06.02    2 Poleang Timur                                                2          3
+     74.06.03    3 Rarowatu                                                     1          8
+     74.06.04    4 Rumbia                                                       4          1
+     74.06.05    5 Kabaena                                                      2          2
+     74.06.06    6 Kabaena Timur                                                2          5
+     74.06.07    7 Poleang Barat                                                       11
+     74.06.08    8 Mata Oleo                                                           11
+     74.06.09    9 Rarowatu Utara                                               1          7
+     74.06.10    10 Poleang Utara                                                                8
+     74.06.11    11 Poleang Selatan                                                              5
+     74.06.12    12 Poleang Tenggara                                                             5
+     74.06.13    13 Kabaena Selatan                                                              4
+     74.06.14    14 Kabaena Barat                                                     1          4
+     74.06.15    15 Kabaena Utara                                                                6
+     74.06.16    16 Kabaena Tengah                                                               7
+     74.06.17    17 Kep. Masaloka Raya                                                           5
+     74.06.18    18 Rumbia Tengah                                                     3          2
+     74.06.19    19 Poleang Tengah                                                               4
+     74.06.20    20 Tontonunu                                                                    5
+     74.06.21    21 Lantari Jaya                                                                 9
+     74.06.22    22 Mata Usu                                                                     5
+     74.07.01     1 Wangi-Wangi                                                       6      14
+     74.07.02     2 Kaledupa                                                          4      12
+     74.07.03     3 Tomia                                                             2          8
+     74.07.04     4 Binongko                                                          4          5
+     74.07.05     5 Wangi Wangi Selatan                                               3      18
+     74.07.06     6 Kaledupa Selatan                                                         10                               Perda No. 19/2005
+     74.07.07     7 Tomia Timur                                                       5          5                            Perda No. 20/2005
+     74.07.08     8 Togo Binongko                                                     2          3                            Perda No. 41/2007
+     74.08.01     1 Lasusua                                                           1      11
+     74.08.02     2 Pakue                                                             1      10
+     74.08.03     3 Batu Putih                                                        1      10
+     74.08.04     4 Rante Angin                                                       1          6
+     74.08.05     5 Kodeoha                                                           1      11
+     74.08.06     6 Ngapa                                                             1      11
+     74.08.07     7 Wawo                                                                         7                            Perda No.6/2006
+     74.08.08     8 Lambai                                                                       7                            Perda No.6/2006
+     74.08.09     9 Watunohu                                                                     8                            Perda No.6/2006
+     74.08.10    10 Pakue Tengah                                                             10                               Perda No.6/2006
+     74.08.11    11 Pakue Utara                                                                  9                            Perda No.6/2006
+     74.08.12    12 Porehu                                                                       8                            Perda No.6/2006
+     74.08.13    13 Katoi                                                                        6                            Pemekaran Kec. Perda No. 14/2007
+     74.08.14    14 Tiwu                                                                         7                            Pemekaran Kec. Perda No. 17/2008
+     74.08.15    15 Tolala                                                                    6                            Pemekaran Kec. Perda No. 17/2008
+     74.09.01     1 Asera                                                          2      17                               Semula wil. Kab. Konawe
+     74.09.02     2 Wiwirano                                                       1      14                               Semula wil. Kab. Konawe
+     74.09.03     3 Langgikima                                                     1      11                               Semula wil. Kab. Konawe
+     74.09.04     4 Molawe                                                         1          8                            Semula wil. Kab. Konawe
+     74.09.05     5 Lasolo                                                         1      16                               Semula wil. Kab. Konawe
+     74.09.06     6 Lembo                                                          1      11                               Semula wil. Kab. Konawe
+     74.09.07     7 Sawa                                                           1      13                               Semula wil. Kab. Konawe
+     74.09.08     8 Oheo                                                           1      16                               Pemekaran Kec. Perda No. 4/2010
+     74.09.09     9 Andowia                                                        1      14                               Pemekaran Kec. Perda No. 4/2010
+     74.09.10    10 Motui                                                          1      14                               Pemekaran Kec. Perda No. 4/2010
+     74.09.11    11 Wawolesea                                                                 8                            Pemekaran sebagian wil Kec. Lasolo, Perda No. 13/2014
+     74.09.12    12 Lasolo Kepulauan                                                          6                            Pemekaran sebagian wil Kec. Lasolo, Perda No. 14/2014
+     74.09.13    13 Landawe                                                               11                               Pemekaran sebagian wil Kec. Wiwirano, Perda No. 15/2014
+     74.10.01     1 Kulisusu                                                       7      16
+     74.10.02     2 Kambowa                                                        1      10
+     74.10.03     3 Bonegunu                                                       2      13
+     74.10.04     4 Kulisusu Barat                                                        14
+     74.10.05     5 Kulisusu Utara                                                        14                               Semula wil. Kab Muna, UU No.14/2007
+     74.10.06     6 Wakorumba Utara                                                2      11                               Semula wil. Kab. Muna UU No. 14/2007
+     74.11.01     1 Tirawuta                                                       2      14                               Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.02     2 Loea                                                           2          7                            Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.03     3 Ladongi                                                        4          6                            Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.04     4 Poli Polia                                                     1      11                               Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.05     5 Lambandia                                                      1      14                               Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.06     6 Lalolae                                                        1          4                            Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.07     7 Mowewe                                                         3          7                            Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.08     8 Uluiwoi                                                        1          9                            Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.09     9 Tinondo                                                        1      11                               Semula wil Kab. Kolaka, sesuai UU No. 8/2013
+     74.11.10    10 Aere                                                                  11                               Pemekaran sebagian wil Kec. Lambandia Perda No. 8/2012
+     74.11.11    11 Ueesi                                                                 11                               Pemekaran sebagian wil Kec. Uluiwoi Perda No. 8/2012
+     74.11.12    12 Dangia                                                                12                               Pemekaran sebagian wil Kec. Ladongi dan Kec. Lambandia Perda No.
+     74.12.01     1 Wawonii Barat                                                        1      15                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.02     2 Wawonii Utara                                                        1      20                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.03     3 Wawonii Timur Laut                                                   1          9                            Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.04     4 Wawonii Timur                                                        1      10                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.05     5 Wawonii Tenggara                                                     1      14                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.06     6 Wawonii Selatan                                                      1      10                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.12.07     7 Wawonii Tengah                                                       1      11                               Semula wil Kab. Konawe, sesuai UU No. 13/2013
+     74.13.01     1 Sawerigadi                                                                  10                               Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.02     2 Barangka                                                                        8                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.03     3 Lawa                                                                 2          6                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.04     4 Wadaga                                                                          7                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.05     5 Tiworo Selatan                                                                  5                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.06     6 Maginti                                                                         8                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.07     7 Tiworo Tengah                                                                   8                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.08     8 Tiworo Utara                                                                    7                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.09     9 Tiworo Kepulauan                                                     2          7                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.10    10 Kusambi                                                              1          9                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.13.11    11 Napano Kusambi                                                                  6                            Semula wil Kab. Muna, sesuai UU No. 14 Tahun 2014
+     74.14.01     1 Lakudo                                                               3      12                               Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.02     2 Mawasangka Timur                                                                8                            Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.03     3 Mawasangka Tengah                                                    1          9                            Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.04     4 Mawasangka                                                           2      17                               Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.05     5 Talaga Raya                                                          1          6                            Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.06     6 Gu                                                                   2      10                               Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.14.07     7 Sangia Wambulu                                                       1          5                            Semula wil Kab. Buton, Sesuai UU No. 15 Tahun 2014
+     74.15.01     1 Batauga                                                              7          5                            Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.02     2 Sampolawa                                                            3      13                               Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.03     3 Lapandewa                                                                       7                            Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.04     4 Batu Atas                                                                       7                            Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.05     5 Siompu Barat                                                                    8                            Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.06     6 Siompu                                                                      10                               Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.15.07     7 Kadatua                                                               10                            Semula wil Kab. Buton, sesuai UU No. 16 Tahun 2014
+     74.71.01     1 Mandonga                                                       6
+     74.71.02     2 Kendari                                                        9
+     74.71.03     3 Baruga                                                         4
+     74.71.04     4 Poasia                                                         4
+     74.71.05     5 Kendari Barat                                                  9
+     74.71.06     6 Abeli                                                      13
+     74.71.07     7 Wua-Wua                                                        4                                    Perda No. 20/2006
+     74.71.08     8 Kadia                                                          5                                    Perda No. 21/2006
+     74.71.09     9 Puuwatu                                                        6                                    Perda No. 22/2006
+     74.71.10    10 Kambu                                                          4                                    Perda No. 23/2006
+     74.72.01     1 Betoambari                                                     5
+     74.72.02     2 Wolio                                                          7
+     74.72.03     3 Sorawolio                                                      4
+     74.72.04     4 Bungi                                                          5
+     74.72.05     5 Kokalukuna                                                     6                                    Perda No. 2/2006
+     74.72.06     6 Murhum                                                         5                                    Perda No. 3/2006
+     74.72.07     7 Lea-Lea                                                        5                                    Perda No.11/2008
+     74.72.08     8 Batupoaro                                                      6                                    Pemekaran sebagian Kec. Murhum, Perda No. 2/2012

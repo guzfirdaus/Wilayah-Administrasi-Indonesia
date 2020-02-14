@@ -1,0 +1,289 @@
+     11.01.01     1 Bakongan                                                                                7
+     11.01.02     2 Kluet Utara                                                                          21
+     11.01.03     3 Kluet Selatan                                                                        17
+     11.01.04     4 Labuhan Haji                                                                         16
+     11.01.05     5 Meukek                                                                               23
+     11.01.06     6 Samadua                                                                              28
+     11.01.07     7 Sawang                                                                               15
+     11.01.08     8 Tapaktuan                                                                            16
+     11.01.09     9 Trumon                                                                               12
+     11.01.10    10 Pasi Raja                                                                            21
+     11.01.11    11 Labuhan Haji Timur                                                                   12
+     11.01.12    12 Labuhan Haji Barat                                                                   15
+     11.01.13    13 Kluet Tengah                                                                         13
+     11.01.14    14 Kluet Timur                                                                             9
+     11.01.15    15 Bakongan Timur                                                                          7
+     11.01.16    16 Trumon Timur                                                                            8
+     11.01.17    17 Kota Bahagia                                                                         10                                Pemekaran Kec Perda No. 3/2010
+     11.01.18    18 Trumon Tengah                                                                        10                                Pemekaran Kec Perda No. 4/2010
+     11.02.01     1 Lawe Alas                                                                            28
+     11.02.02     2 Lawe Sigala-Gala                                                                     35
+     11.02.03     3 Bambel                                                                               33
+     11.02.04     4 Babussalam                                                                           27
+     11.02.05     5 Badar                                                                                18
+     11.02.06     6 Babul Makmur                                                                         21
+     11.02.07     7 Darul Hasanah                                                                        28
+     11.02.08     8 Lawe Bulan                                                                           24
+     11.02.09     9 Bukit Tusam                                                     23
+     11.02.10    10 Semadam                                                         19
+     11.02.11    11 Babul Rahmah                                                    27
+     11.02.12    12 Ketambe                                                         25                               Qanun No. 19/2006
+     11.02.13    13 Deleng Pokhkisen                                                22                               Qanun No. 19/2006
+     11.02.14    14 Lawe Sumur                                                      18                               Qanun No. 19/2006
+     11.02.15    15 Tanoh Alas                                                      14                               Qanun No. 19/2006
+     11.02.16    16 Leuser                                                          23                               Qanun No. 19/2006
+     11.03.01     1 Darul Aman                                                      45
+     11.03.02     2 Julok                                                           37
+     11.03.03     3 Idi Rayeuk                                                      35
+     11.03.04     4 Birem Bayeun                                                    27
+     11.03.05     5 Serbajadi                                                       17
+     11.03.06     6 Nurussalam                                                      31
+     11.03.07     7 Peureulak                                                       38
+     11.03.08     8 Rantau Selamat                                                  14
+     11.03.09     9 Simpang Ulim                                                    23
+     11.03.10    10 Rantau Peureulak                                                23
+     11.03.11    11 Pante Bidari                                                    25
+     11.03.12    12 Madat                                                           26
+     11.03.13    13 Indra Makmu                                                     13
+     11.03.14    14 Idi Tunong                                                      25
+     11.03.15    15 Banda Alam                                                      16
+     11.03.16    16 Peudawa                                                         17
+     11.03.17    17 Peureulak Timur                                                 20
+     11.03.18    18 Peureulak Barat                                                 15
+     11.03.19    19 Sungai Raya                                                     13
+     11.03.20    20 Simpang Jernih                                                      8
+     11.03.21    21 Darul Ihsan                                                     16
+     11.03.22    22 Darul Falah                                                     11                               Qanun No. 5/2007
+     11.03.23    23 Idi Timur                                                       13                               Qanun No. 5/2007
+     11.03.24    24 Peunaron                                                            5                            Qanun No. 5/2007
+     11.04.01     1 Linge                                                           26
+     11.04.02     2 Silih Nara                                                      33
+     11.04.03     3 Bebesen                                                        28
+     11.04.07     4 Pegasing                                                       31
+     11.04.08     5 Bintang                                                        24
+     11.04.10     6 Ketol                                                          25
+     11.04.11     7 Kebayakan                                                      20
+     11.04.12     8 Kute Panang                                                    24
+     11.04.13     9 Celala                                                         17
+     11.04.17    10 Laut Tawar                                                     18
+     11.04.18    11 Atu Lintang                                                    11                            Qanun No. 1/2006
+     11.04.19    12 Jagong Jeget                                                   10                            Qanun No. 1/2006
+     11.04.20    13 Bies                                                           12                            Qanun No. 1/2006
+     11.04.21    14 Rusip Antara                                                   16                            Qanun No. 1/2006
+     11.05.01     1 Johan Pahwalan                                                 21
+     11.05.02     2 Kaway XVI                                                      44
+     11.05.03     3 Sungai Mas                                                     18
+     11.05.04     4 Woyla                                                          43
+     11.05.05     5 Samatiga                                                       32
+     11.05.06     6 Bubon                                                          17
+     11.05.07     7 Arongan Lambalek                                               27
+     11.05.08     8 Pante Ceureumen                                                25
+     11.05.09     9 Meureubo                                                       26
+     11.05.10    10 Woyla Barat                                                    24
+     11.05.11    11 Woyla Timur                                                    26
+     11.05.12    12 Panton Reu                                                     19                            Qanun No. 5/2007
+     11.06.01     1 Lhoong                                                         28
+     11.06.02     2 Lhoknga                                                        28
+     11.06.03     3 Indrapuri                                                      52
+     11.06.04     4 Seulimeum                                                      47
+     11.06.05     5 Montasik                                                         39
+     11.06.06     6 Sukamakmur                                                       35
+     11.06.07     7 Darul Imarah                                                     32
+     11.06.08     8 Peukan Bada                                                      26
+     11.06.09     9 Mesjid Raya                                                      13
+     11.06.10    10 Ingin Jaya                                                       50
+     11.06.11    11 Kuta Baro                                                        47
+     11.06.12    12 Darussalam                                                       29
+     11.06.13    13 Pulo Aceh                                                        17
+     11.06.14    14 Lembah Seulawah                                                  12
+     11.06.15    15 Kota Jantho                                                      13
+     11.06.16    16 Kota Cot Glie                                                    32
+     11.06.17    17 Kuta Malaka                                                      15
+     11.06.18    18 Simpang Tiga                                                     18
+     11.06.19    19 Darul Kamal                                                      14
+     11.06.20    20 Baitussalam                                                      13
+     11.06.21    21 Krueng Barona Jaya                                               12
+     11.06.22    22 Leupung                                                              6
+     11.06.23    23 Blang Bintang                                                    26                               Pemekaran Kec Qanun No. 3/2006
+     11.07.03     1 Batee                                                            28
+     11.07.04     2 Delima                                                           44
+     11.07.05     3 Geumpang                                                             5
+     11.07.06     4 Geulumpang Tiga                                                  34
+     11.07.07     5 Indra Jaya                                                       49
+     11.07.08     6 Kembang Tanjong                                                  45
+     11.07.09     7 Kota Sigli                                                       15
+     11.07.11     8 Mila                                                             20
+     11.07.12     9 Muara Tiga                                                       18
+     11.07.13    10 Mutiara                                                          29
+     11.07.14    11 Padang Tiji                                                      64
+     11.07.15    12 Peukan Baro                                                      48
+     11.07.16    13 Pidie                                                            64
+     11.07.17    14 Sakti                                                            49
+     11.07.18    15 Simpang Tiga                                                   52
+     11.07.19    16 Tangse                                                         28
+     11.07.21    17 Tiro/Truseb                                                    19
+     11.07.22    18 Keumala                                                        18                               Perubahan nama Kec. Titeue Keumala, Perda No. 9/2007
+     11.07.24    19 Mutiara Timur                                                  48
+     11.07.25    20 Grong-grong                                                    15
+     11.07.27    21 Mane                                                               4
+     11.07.29    22 Glumpang Baro                                                  21
+     11.07.31    23 Titeue                                                         13                               Qanun No. 9/2007
+     11.08.01     1 Baktiya                                                        57
+     11.08.02     2 Dewantara                                                      15
+     11.08.03     3 Kuta Makmur                                                    39
+     11.08.04     4 Lhoksukon                                                      75
+     11.08.05     5 Matangkuli                                                     49
+     11.08.06     6 Muara Batu                                                     24
+     11.08.07     7 Meurah Mulia                                                   50
+     11.08.08     8 Samudera                                                       40
+     11.08.09     9 Seunuddon                                                      33
+     11.08.10    10 Syamtalira Aron                                                34
+     11.08.11    11 Syamtalira Bayu                                                38
+     11.08.12    12 Tanah Luas                                                     57
+     11.08.13    13 Tanah Pasir                                                    18
+     11.08.14    14 T. Jambo Aye                                                   47
+     11.08.15    15 Sawang                                                         39
+     11.08.16    16 Nisam                                                          29
+     11.08.17    17 Cot Girek                                                      24
+     11.08.18    18 Langkahan                                                      23
+     11.08.19    19 Baktiya Barat                                                  26
+     11.08.20    20 Paya Bakong                                                    39
+     11.08.21    21 Nibong                                                         20
+     11.08.22    22 Simpang Kramat                                                 16
+     11.08.23    23 Lapang                                                          11
+     11.08.24    24 Pirak Timur                                                     23                               Qanun No. 32/2005
+     11.08.25    25 Geuredong Pase                                                  11                               Qanun No. 32/2005
+     11.08.26    26 Banda Baro                                                          9                            Qanun No. 32/2005
+     11.08.27    27 Nisam Antara                                                        6                            Qanun No. 32/2005
+     11.09.01     1 Simeulue Tengah                                                 16
+     11.09.02     2 Salang                                                          16
+     11.09.03     3 Teupah Barat                                                    18
+     11.09.04     4 Simeulue Timur                                                  17
+     11.09.05     5 Teluk Dalam                                                     10
+     11.09.06     6 Simeulue Barat                                                  14
+     11.09.07     7 Teupah Selatan                                                  19
+     11.09.08     8 Alapan                                                              8
+     11.09.09     9 Teupah Tengah                                                   12                               Pemekaran sebagian wil Kec. Simeulue Timur, Perda No. 14/2012
+     11.09.10    10 Simeulue Cut                                                        8                            Pemekaran sebagian wil Kec. Simeulue Tengah, Perda No. 14/2012
+     11.10.01     1 Pulau Banyak                                                        3
+     11.10.02     2 Simpang Kanan                                                   25
+     11.10.04     3 Singkil                                                         16
+     11.10.06     4 Gunung Meriah                                                   25
+     11.10.09     5 Kota Baharu                                                         9
+     11.10.10     6 Singkil Utara                                                       7
+     11.10.11     7 Danau Paris                                                         6
+     11.10.12     8 Suro Makmur                                                     11
+     11.10.13     9 Singkohor                                                           6
+     11.10.14    10 Kuala Baru                                                          4                            Qanun No.3/2004
+     11.10.16    11 Pulau Banyak Barat                                                  4                            Pemekaran Kec. Pulau Banyak Perda No. 2/2010
+     11.11.01     1 Samalanga                                                       46
+     11.11.02     2 Jeunieb                                                         43
+     11.11.03     3 Peudada                                                                   52
+     11.11.04     4 Jeumpa                                                                    42
+     11.11.05     5 Peusangan                                                                 69
+     11.11.06     6 Makmur                                                                    27
+     11.11.07     7 Gandapura                                                                 40
+     11.11.08     8 Pandrah                                                                   19
+     11.11.09     9 Juli                                                                      36
+     11.11.10    10 Jangka                                                                    46
+     11.11.11    11 Simpang Mamplam                                                           41
+     11.11.12    12 Peulimbang                                                                22
+     11.11.13    13 Kota Juang                                                                23
+     11.11.14    14 Kuala                                                                     20
+     11.11.15    15 Peusangan Siblah Krueng                                                   21
+     11.11.16    16 Peusangan Selatan                                                         21
+     11.11.17    17 Kuta Blang                                                                41
+     11.12.01     1 Blang Pidie                                                               20
+     11.12.02     2 Tangan-Tangan                                                             15
+     11.12.03     3 Manggeng                                                                  18
+     11.12.04     4 Susoh                                                                     29
+     11.12.05     5 Kuala Batee                                                               21
+     11.12.06     6 Babah Rot                                                                 14
+     11.12.07     7 Setia                                                                         9                            Qanun No. 4/2006
+     11.12.08     8 Jeumpa                                                                    12                               Qanun No. 4/2006
+     11.12.09     9 Lembah Sabil                                                              14                               Qanun No. 5/2006
+     11.13.01     1 Blangkejeren                                                              20
+     11.13.02     2 Kutapanjang                                                               12
+     11.13.03     3 Rikit Gaib                                                                13
+     11.13.04     4 Terangun                                                                  23
+     11.13.05     5 Pining                                                                        9
+     11.13.06     6 Blangpegayon                                                              12
+     11.13.07     7 Puteri Betung                                                                 9
+     11.13.08     8 Dabun Gelang                                                                  9
+     11.13.09     9 Blangjerango                                                              10
+     11.13.10    10 Teripe Jaya                                                               10
+     11.13.11    11 Pantan Cuaca                                                                  9
+     11.14.01     1 Teunom                                                                        22
+     11.14.02     2 Krueng Sabee                                                                  17
+     11.14.03     3 Setia Bhakti                                                                  13
+     11.14.04     4 Sampoiniet                                                                    19
+     11.14.05     5 Jaya                                                                          34
+     11.14.06     6 Panga                                                                         20
+     11.14.07     7 Indra Jaya                                                                    14                               Pemekaran Kec. Perda No. 3/2011
+     11.14.08     8 Darul Hikmah                                                                  19                               Pemekaran Kec. Perda No. 3/2011
+     11.14.09     9 Pasie Raya                                                                    14                               Pemekaran Kec. Perda No. 3/2011
+     11.15.01     1 Kuala                                                                         17
+     11.15.02     2 Seunagan                                                                      35
+     11.15.03     3 Seunagan Timur                                                                34
+     11.15.04     4 Beutong                                                                       24
+     11.15.05     5 Darul Makmur                                                                  40
+     11.15.06     6 Suka Makmue                                                                   19                               Perda No. 2/2007
+     11.15.07     7 Kuala Pesisir                                                                 16                               Perda No. 2/2007
+     11.15.08     8 Tadu Raya                                                                     22                               Perda No. 2/2007
+     11.15.09     9 Tripa Makmur                                                                  11                               Pemekaran Kec Darul Makmur, Qonun No. 3/2011
+     11.15.10    10 Beutong Ateuh Banggalang                                                          4                            Pemekaran sebagian wil Kec. Beutong, Qonun No. 2/2011
+     11.16.01     1 Manyak Payed                                                                  36
+     11.16.02     2 Bendahara                                                                     33
+     11.16.03     3 Karang Baru                                                                   31
+     11.16.04     4 Seruway                                                                       24
+     11.16.05     5 Kota Kualasinpang                                                                 5
+     11.16.06     6 Kejuruan Muda                                                                 15
+     11.16.07     7 Tamiang Hulu                                                                      9
+     11.16.08     8 Rantau                                                                        16
+     11.16.09     9 Banda Mulia                                                                   10                               Qanun No.6/2006
+     11.16.10    10 Bandar Pusaka                                                                 15                               Qanun No.6/2006
+     11.16.11    11 Tenggulun                                                                         5                            Qanun No.6/2006
+     11.16.12    12 Sekerak                                                                       14                               Qanun No.6/2006
+     11.17.01     1 Pintu Rime Gayo                                                     23
+     11.17.02     2 Permata                                                             27
+     11.17.03     3 Syiah Utama                                                         14
+     11.17.04     4 Bandar                                                              35
+     11.17.05     5 Bukit                                                               40
+     11.17.06     6 Wih Pesam                                                           26
+     11.17.07     7 Timang gajah                                                        30
+     11.17.08     8 Bener Kelipah                                                       12                               Pemekaran Kec. Perda No. 5/2007
+     11.17.09     9 Mesidah                                                             15                               Pemekaran Kec. Perda No. 5/2007
+     11.17.10    10 Gajah Putih                                                         10                               Pemekaran Kec. Perda No. 5/2007
+     11.18.01     1 Meureudu                                                            30                               Semula wil. Kab. Pidie
+     11.18.02     2 Ulim                                                                30                               Semula wil. Kab. Pidie
+     11.18.03     3 Jangka Buaya                                                        18                               Semula wil. Kab. Pidie
+     11.18.04     4 Bandar Dua                                                          45                               Semula wil. Kab. Pidie
+     11.18.05     5 Meurah Dua                                                          19                               Semula wil. Kab. Pidie
+     11.18.06     6 Bandar Baru                                                         43                               Semula wil. Kab. Pidie
+     11.18.07     7 Panteraja                                                           10                               Semula wil. Kab. Pidie
+     11.18.08     8 Trienggadeng                                                        27                               Semula wil. Kab. Pidie
+     11.71.01     1 Baiturrahman                                                        10
+     11.71.02     2 Kuta Alam                                                           11
+     11.71.03     3 Meuraxa                                                             16
+     11.71.04     4 Syiah Kuala                                                         10
+     11.71.05     5 Lueng Bata                                                              9
+     11.71.06     6 Kuta Raja                                                               6
+     11.71.07     7 Banda Raya                                                          10
+     11.71.08     8 Jaya Baru                                                               9
+     11.71.09     9 Ulee Kareng                                                             9
+     11.72.01     1 Sukakarya                                                               8
+     11.72.02     2 Sukajaya                                                            10
+     11.73.01     1 Muara Dua                                                           17
+     11.73.02     2 Banda Sakti                                                         18
+     11.73.03     3 Blang Mangat                                                          22
+     11.73.04     4 Muara Satu                                                            11                              Qanun No. 1/2006
+     11.74.01     1 Langsa Timur                                                          16
+     11.74.02     2 Langsa Barat                                                          13
+     11.74.03     3 Langsa Kota                                                           10
+     11.74.04     4 Langsa Lama                                                           15                              Qanun No. 5/2007
+     11.74.05     5 Langsa Baro                                                           12                              Qanun No. 5/2007
+     11.75.01     1 Simpang Kiri                                                          17                              Semula wil. Kab. Aceh Singkil
+     11.75.02     2 Penanggalan                                                           13                              Semula wil. Kab. Aceh Singkil
+     11.75.03     3 Rundeng                                                               23                              Semula wil. Kab. Aceh Singkil
+     11.75.04     4 Sultan Daulat                                                         19                              Semula wil. Kab. Aceh Singkil
+     11.75.05     5 Longkib                                                               10                              Semula wil. Kab. Aceh Singkil

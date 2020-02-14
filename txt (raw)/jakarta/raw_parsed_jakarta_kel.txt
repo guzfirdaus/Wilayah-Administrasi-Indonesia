@@ -1,0 +1,267 @@
+31.01.01.1001                                                                      1 Pulau Panggang
+31.01.01.1002                                                                      2 Pulau Kelapa
+31.01.01.1003                                                                      3 Pulau Harapan
+31.01.02.1001                                                                      1 Pulau Untung Jawa
+31.01.02.1002                                                                      2 Pulau Tidung
+31.01.02.1003                                                                      3 Pulau Pari
+31.71.01.1001                                                                      1 Gambir
+31.71.01.1002                                                                      2 Cideng
+31.71.01.1003                                                                      3 Petojo Utara
+31.71.01.1004                                                                      4 Petojo Selatan
+31.71.01.1005                                                                      5 Kebon Kelapa
+31.71.01.1006                                                                      6 Duri Pulo
+31.71.02.1001                                                                      1 Pasar Baru
+31.71.02.1002                                                                      2 Karang Anyar
+31.71.02.1003                                                                      3 Kartini
+31.71.02.1004                                                                      4 Gunung Sahari Utara
+31.71.02.1005                                                                      5 Mangga Dua Selatan
+31.71.03.1001                                                                      1 Kemayoran
+31.71.03.1002                                                                      2 Kebon Kosong
+31.71.03.1003                                                       3 Harapan Mulia
+31.71.03.1004                                                       4 Serdang
+31.71.03.1005                                                       5 Gunung Sahari
+31.71.03.1006                                                       6 Cempaka Baru
+31.71.03.1007                                                       7 Sumur Batu
+31.71.03.1008                                                       8 Utan Panjang
+31.71.04.1001                                                       1 Senen
+31.71.04.1002                                                       2 Kenari
+31.71.04.1003                                                       3 Paseban
+31.71.04.1004                                                       4 Kramat
+31.71.04.1005                                                       5 Kwitang
+31.71.04.1006                                                       6 Bungur
+31.71.05.1001                                                       1 Cempaka Putih Timur
+31.71.05.1002                                                       2 Cempaka Putih Barat
+31.71.05.1003                                                       3 Rawasari
+31.71.06.1001                                                       1 Menteng
+31.71.06.1002                                                       2 Pegangsaan
+31.71.06.1003                                                       3 Cikini
+31.71.06.1004                                                       4 Gondangdia
+31.71.06.1005                                                       5 Kebon Sirih
+31.71.07.1001                                                       1 Gelora
+31.71.07.1002                                                       2 Bendungan Hilir
+31.71.07.1003                                                       3 Karet Tengsin
+31.71.07.1004                                                       4 Petamburan
+31.71.07.1005                                                       5 Kebon Melati
+31.71.07.1006                                                       6 Kebon Kacang
+31.71.07.1007                                                       7 Kampung Bali
+31.71.08.1001                                                       1 Johar Baru
+31.71.08.1002                                                       2 Kampung Rawa
+31.71.08.1003                                                                    3 Galur
+31.71.08.1004                                                                    4 Tanah Tinggi
+31.72.01.1001                                                                    1 Penjaringan
+31.72.01.1002                                                                    2 Kamal Muara
+31.72.01.1003                                                                    3 Kapuk Muara
+31.72.01.1004                                                                    4 Pejagalan
+31.72.01.1005                                                                    5 Pluit
+31.72.02.1001                                                                    1 Tanjung Priok
+31.72.02.1002                                                                    2 Sunter Jaya
+31.72.02.1003                                                                    3 Papanggo
+31.72.02.1004                                                                    4 Sungai Bambu
+31.72.02.1005                                                                    5 Kebon Bawang
+31.72.02.1006                                                                    6 Sunter Agung
+31.72.02.1007                                                                    7 Warakas
+31.72.03.1001                                                                    1 Koja
+31.72.03.1002                                                                    2 Tugu Utara
+31.72.03.1003                                                                    3 Lagoa
+31.72.03.1004                                                                    4 Rawa Badak Utara
+31.72.03.1005                                                                    5 Tugu Selatan
+31.72.03.1006                                                                    6 Rawa Badak Selatan
+31.72.04.1001                                                                    1 Cilincing
+31.72.04.1002                                                                    2 Sukapura
+31.72.04.1003                                                                    3 Marunda
+31.72.04.1004                                                                    4 Kalibaru
+31.72.04.1005                                                                    5 Semper Timur
+31.72.04.1006                                                                    6 Rorotan
+31.72.04.1007                                                                    7 Semper Barat
+31.72.05.1001                                                                        1 Pademangan Timur
+31.72.05.1002                                                                        2 Pademangan Barat
+31.72.05.1003                                                                        3 Ancol
+31.72.06.1001                                                                        1 Kelapa Gading Timur
+31.72.06.1002                                                                        2 Pegangsaan Dua
+31.72.06.1003                                                                        3 Kelapa Gading Barat
+31.73.01.1001                                                                        1 Cengkareng Barat
+31.73.01.1002                                                                        2 Duri Kosambi
+31.73.01.1003                                                                        3 Rawa Buaya
+31.73.01.1004                                                                        4 Kedaung Kali Angke
+31.73.01.1005                                                                        5 Kapuk
+31.73.01.1006                                                                        6 Cengkareng Timur
+31.73.02.1001                                                                        1 Grogol
+31.73.02.1002                                                                        2 Tanjung Duren Utara
+31.73.02.1003                                                                        3 Tomang
+31.73.02.1004                                                                        4 Jelambar
+31.73.02.1005                                                                        5 Tanjung Duren
+31.73.02.1006                                                                        6 Jelambar Baru
+31.73.02.1007                                                                        7 Wijaya Kusuma
+31.73.03.1001                                                                        1 Taman Sari
+31.73.03.1002                                                                        2 Krukut
+31.73.03.1003                                                                        3 Maphar
+31.73.03.1004                                                                        4 Tangki
+31.73.03.1005                                                                        5 Mangga Besar
+31.73.03.1006                                                                        6 Keagungan
+31.73.03.1007                                                                        7 Glodok
+31.73.03.1008                                                                        8 Pinangsia
+31.73.04.1001                                                     1 Tambora
+31.73.04.1002                                                     2 Kali Anyar
+31.73.04.1003                                                     3 Duri Utara
+31.73.04.1004                                                     4 Tanah Sereal
+31.73.04.1005                                                     5 Krendang
+31.73.04.1006                                                     6 Jembatan Besi
+31.73.04.1007                                                     7 Angke
+31.73.04.1008                                                     8 Jembatan Lima
+31.73.04.1009                                                     9 Pekojan
+31.73.04.1010                                                    10 Roa Malaka
+31.73.04.1011                                                    11 Duri Selatan
+31.73.05.1001                                                     1 Kebon Jeruk
+31.73.05.1002                                                     2 Sukabumi Utara
+31.73.05.1003                                                     3 Sukabumi Selatan
+31.73.05.1004                                                     4 Kelapa Dua
+31.73.05.1005                                                     5 Duri Kepa
+31.73.05.1006                                                     6 Kedoya Utara
+31.73.05.1007                                                     7 Kedoya Selatan
+31.73.06.1001                                                     1 Kalideres
+31.73.06.1002                                                     2 Semanan
+31.73.06.1003                                                     3 Tegal Alur
+31.73.06.1004                                                     4 Kamal
+31.73.06.1005                                                     5 Pegadungan
+31.73.07.1001                                                     1 Palmerah
+31.73.07.1002                                                     2 Slipi
+31.73.07.1003                                                     3 Kota Bambu Utara
+31.73.07.1004                                                     4 Jatipulo
+31.73.07.1005                                                     5 Kemanggisan
+31.73.07.1006                                                     6 Kota Bambu Selatan
+31.73.08.1001                                                     1 Kembangan Utara
+31.73.08.1002                                                                          2 Meruya Utara
+31.73.08.1003                                                                          3 Meruya Selatan
+31.73.08.1004                                                                          4 Srengseng
+31.73.08.1005                                                                          5 Joglo
+31.73.08.1006                                                                          6 Kembangan Selatan
+31.74.01.1001                                                                          1 Tebet Timur
+31.74.01.1002                                                                          2 Tebet Barat
+31.74.01.1003                                                                          3 Menteng Dalam
+31.74.01.1004                                                                          4 Kebon Baru
+31.74.01.1005                                                                          5 Bukit Duri
+31.74.01.1006                                                                          6 Manggarai Selatan
+31.74.01.1007                                                                          7 Manggarai
+31.74.02.1001                                                                          1 Setia Budi
+31.74.02.1002                                                                          2 Karet Semanggi
+31.74.02.1003                                                                          3 Karet Kuningan
+31.74.02.1004                                                                          4 Karet
+31.74.02.1005                                                                          5 Menteng Atas
+31.74.02.1006                                                                          6 Pasar Manggis
+31.74.02.1007                                                                          7 Guntur
+31.74.02.1008                                                                          8 Kuningan Timur
+31.74.03.1001                                                                          1 Mampang Prapatan
+31.74.03.1002                                                                          2 Bangka
+31.74.03.1003                                                                          3 Pela Mampang
+31.74.03.1004                                                                          4 Tegal Parang
+31.74.03.1005                                                                          5 Kuningan Barat
+31.74.04.1001                                                                          1 Pasar Minggu
+31.74.04.1002                                                                          2 Jati Padang
+31.74.04.1003                                                                          3 Cilandak Timur
+31.74.04.1004                                                        4 Ragunan
+31.74.04.1005                                                        5 Pejaten Timur
+31.74.04.1006                                                        6 Pejaten Barat
+31.74.04.1007                                                        7 Kebagusan
+31.74.05.1001                                                        1 Kebayoran Lama
+31.74.05.1002                                                        2 Pondok Pinang
+31.74.05.1003                                                        3 Cipulir
+31.74.05.1004                                                        4 Grogol Utara
+31.74.05.1005                                                        5 Grogol Selatan
+31.74.05.1006                                                        6 Kebayoran Lama
+31.74.06.1001                                                        1 Cilandak Barat
+31.74.06.1002                                                        2 Lebak Bulus
+31.74.06.1003                                                        3 Pondok Labu
+31.74.06.1004                                                        4 Gandaria Selatan
+31.74.06.1005                                                        5 Cipete Selatan
+31.74.07.1001                                                        1 Melawai
+31.74.07.1002                                                        2 Gunung
+31.74.07.1003                                                        3 Kramat Pela
+31.74.07.1004                                                        4 Selong
+31.74.07.1005                                                        5 Rawa Barat
+31.74.07.1006                                                        6 Senayan
+31.74.07.1007                                                        7 Pulo
+31.74.07.1008                                                        8 Petogogan
+31.74.07.1009                                                        9 Gandaria Utara
+31.74.07.1010                                                       10 Cipete Utara
+31.74.08.1001                                                        1 Pancoran
+31.74.08.1002                                                        2 Kalibata
+31.74.08.1003                                                        3 Rawajati
+31.74.08.1004                                                        4 Duren Tiga
+31.74.08.1005                                                                     5 Pengadegan
+31.74.08.1006                                                                     6 Cikoko
+31.74.09.1001                                                                     1 Jagakarsa
+31.74.09.1002                                                                     2 Srengseng Sawah
+31.74.09.1003                                                                     3 Ciganjur
+31.74.09.1004                                                                     4 Lenteng Agung
+31.74.09.1005                                                                     5 Tanjung Barat
+31.74.09.1006                                                                     6 Cipedak
+31.74.10.1001                                                                     1 Pesanggrahan
+31.74.10.1002                                                                     2 Bintaro
+31.74.10.1003                                                                     3 Petukangan Utara
+31.74.10.1004                                                                     4 Petukangan Selatan
+31.74.10.1005                                                                     5 Ulujami
+31.75.01.1001                                                                     1 Pisangan Baru
+31.75.01.1002                                                                     2 Utan Kayu Utara
+31.75.01.1003                                                                     3 Kayu Manis
+31.75.01.1004                                                                     4 Palmeriam
+31.75.01.1005                                                                     5 Kebon Manggis
+31.75.01.1006                                                                     6 Utan Kayu Selatan
+31.75.02.1001                                                                     1 Pulo Gadung
+31.75.02.1002                                                                     2 Pisangan Timur
+31.75.02.1003                                                                     3 Cipinang
+31.75.02.1004                                                                     4 Jatinegara Kaum
+31.75.02.1005                                                                     5 Rawamangun
+31.75.02.1006                                                                     6 Kayu Putih
+31.75.02.1007                                                                     7 Jati
+31.75.03.1001                                                                     1 Kampung Melayu
+31.75.03.1002                                                     2 Bidara Cina
+31.75.03.1003                                                     3 Bali Mester
+31.75.03.1004                                                     4 Rawa Bunga
+31.75.03.1005                                                     5 Cipinang Cempedak
+31.75.03.1006                                                     6 Cipinang Muara
+31.75.03.1007                                                     7 Cipinang Besar
+31.75.03.1008                                                     8 Cipinang Besar Utara
+31.75.04.1001                                                     1 Kramatjati
+31.75.04.1002                                                     2 Tengah
+31.75.04.1003                                                     3 Dukuh
+31.75.04.1004                                                     4 Batu Ampar
+31.75.04.1005                                                     5 Balekambang
+31.75.04.1006                                                     6 Cililitan
+31.75.04.1007                                                     7 Cawang
+31.75.05.1001                                                     1 Gedong
+31.75.05.1002                                                     2 Baru
+31.75.05.1003                                                     3 Cijantung
+31.75.05.1004                                                     4 Kalisari
+31.75.05.1005                                                     5 Pekayon
+31.75.06.1001                                                     1 Jatinegara
+31.75.06.1002                                                     2 Rawa Terate
+31.75.06.1003                                                     3 Penggilingan
+31.75.06.1004                                                     4 Cakung Timur
+31.75.06.1005                                                     5 Pulo Gebang
+31.75.06.1006                                                     6 Ujung Menteng
+31.75.06.1007                                                     7 Cakung Barat
+31.75.07.1001                                                     1 Duren Sawit
+31.75.07.1002                                                     2 Pondok Bambu
+31.75.07.1003                                                     3 Klender
+31.75.07.1004                                                     4 Pondok Kelapa
+31.75.07.1005                                                           5 Malaka Sari
+31.75.07.1006                                                           6 Malaka Jaya
+31.75.07.1007                                                           7 Pondok Kopi
+31.75.08.1001                                                           1 Makasar
+31.75.08.1002                                                           2 Pinangranti
+31.75.08.1003                                                           3 Kebon Pala
+31.75.08.1004                                                           4 Halim Perdana
+31.75.08.1005                                                           5 Cipinang Melayu
+31.75.09.1001                                                           1 Ciracas
+31.75.09.1002                                                           2 Cibubur
+31.75.09.1003                                                           3 Kelapa Dua Wetan
+31.75.09.1004                                                           4 Susukan
+31.75.09.1005                                                           5 Rambutan
+31.75.10.1001                                                           1 Cipayung
+31.75.10.1002                                                           2 Cilangkap
+31.75.10.1003                                                           3 Pondok Ranggon
+31.75.10.1004                                                           4 Munjul
+31.75.10.1005                                                           5 Setu
+31.75.10.1006                                                           6 Bambu Apus
+31.75.10.1007                                                           7 Lubang Buaya
+31.75.10.1008                                                           8 Ceger

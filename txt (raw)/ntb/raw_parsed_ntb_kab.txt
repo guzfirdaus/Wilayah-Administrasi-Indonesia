@@ -1,0 +1,10 @@
+  1      52.01   KAB. LOMBOK BARAT                         10       3     119            896,56       718.648
+  2      52.02   KAB. LOMBOK TENGAH                        12      12     127         1.095,03       1.041.669
+  3      52.03   KAB. LOMBOK TIMUR                         21      15     239         1.230,76       1.294.756
+  4      52.04   KAB. SUMBAWA                              24       8     157         6.643,98        514.063
+  5      52.05   KAB. DOMPU                                  8      9      72         2.391,54        220.503
+  6      52.06   KAB. BIMA                                 18       0     191         3.405,63        528.993    Pemindahan ibukota PP No. 31/2008
+  7      52.07   KAB. SUMBAWA BARAT                          8      7      57         1.849,02        139.448
+  8      52.08   KAB. LOMBOK UTARA                           5      0      33            776,25       239.332    UU No. 26/2008
+  9      52.71   KOTA MATARAM                                6     50                     61,30       425.876
+ 10      52.72   KOTA BIMA                                   5     41                    222,25       146.959

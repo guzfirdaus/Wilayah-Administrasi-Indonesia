@@ -1,0 +1,6 @@
+  1      31.01   KAB. ADM. KEP. SERIBU                        2      6                    10,18        28.289    UU No. 29/2007
+  2      31.71   KOTA ADM. JAKARTA PUSAT                      8     44                    52,38      1.145.569   UU No. 29/2007
+  3      31.72   KOTA ADM. JAKARTA UTARA                      6     31                   139,99      1.780.721   UU No. 29/2007
+  4      31.73   KOTA ADM. JAKARTA BARAT                      8     56                   124,44      2.485.224   UU No. 29/2007
+  5      31.74   KOTA ADM. JAKARTA SELATAN                 10       65                   154,32      2.294.779   UU No. 29/2007
+  6      31.75   KOTA ADM. JAKARTA TIMUR                   10       65                   182,70      3.111.563   UU No. 29/2007

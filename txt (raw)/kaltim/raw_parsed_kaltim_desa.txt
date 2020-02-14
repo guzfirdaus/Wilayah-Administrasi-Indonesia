@@ -1,0 +1,1038 @@
+64.01.01.2009                                                                                1 Samuranggau
+64.01.01.2010                                                                                2 Busui
+64.01.01.2011                                                                                3 Batu Kajang
+64.01.01.2012                                                                                4 Legai
+64.01.01.2013                                                                                5 Sungai Terik                                   Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.01.2014                                                                                6 Kasungai
+64.01.01.2015                                                                                7 Rantau Buta
+64.01.01.2016                                                                                8 Rantau Layung
+64.01.01.2017                                                                                9 Songka                                         Pemekaran sebagian Desa Batu Kajang Perda No. 1/2010
+64.01.02.2004                                                                                1 Keladen
+64.01.02.2006                                                                                2 Tanjung Aru                                    Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.02.2007                                                                                3 Labuangkallo
+64.01.02.2012                                                                                 4 Lori
+64.01.02.2013                                                                                 5 Selengot
+64.01.02.2014                                                                                 6 Random                                       Pembentukan desa Perda No. 3.c/2007
+64.01.02.2015                                                                                 7 Senipah                                      Pembentukan desa Perda No. 3.g/2007
+64.01.03.2001                                                                                 1 Lempesu
+64.01.03.2002                                                                                 2 Bekoso
+64.01.03.2003                                                                                 3 Damit
+64.01.03.2004                                                                                 4 Suatang
+64.01.03.2005                                                                                 5 Suliliran
+64.01.03.2006                                                                                 6 Pasir Belengkong
+64.01.03.2007                                                                                 7 Sangkuriman
+64.01.03.2008                                                                                 8 Laburan
+64.01.03.2009                                                                                 9 Suliliran Baru
+64.01.03.2010                                                                                10 Keresik Bura                                 Perubahan nama Desa Suatang Baru sesuai Perbup No. 2/2014
+64.01.03.2011                                                                                11 Laburan Baru
+64.01.03.2012                                                                                12 Seniung Jaya
+64.01.03.2013                                                                                13 Sunge Batu                                   Pemekaran sebagian Desa Laburan Perda No, 1/2010
+64.01.03.2014                                                                                14 Olong Pinang                                 Pemekaran sebagian Desa Bekoso Perda No, 1/2010
+64.01.03.2015                                                                                15 Suatang Keteban                              Pemekaran sebagian Desa Suatang, Perda No. 6/2011
+64.01.04.1001                                                          1 Tanah Grogot
+64.01.04.2002                                                                                 1 Janju
+64.01.04.2003                                                                                 2 Tepian Batang
+64.01.04.2004                                                                                 3 Tanah Periuk
+64.01.04.2005                                                                                 4 Pepara
+64.01.04.2006                                                                                 5 Sungai Tuak                                  Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.04.2007                                                                                 6 Sempulang
+64.01.04.2008                                                                                 7 Jone
+64.01.04.2009                                                                                 8 Rantau Panjang
+64.01.04.2010                                                                                 9 Muara Pasir                                  Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.04.2011                                                                         10 Padang Pengrapat
+64.01.04.2012                                                                         11 Perepat                                      Perubahan nama Ds. Pasir Baru, Perbup No. 3.h/2007
+64.01.04.2013                                                                         12 Pulau Rantau                                 Pemekaran sebagian Desa Rantau Panjang Perda No. 4/2006,
+64.01.04.2014                                                                         13 Sungai Langir                                Pemekaran Desa Perda No. 3.h/2007, Perubahan nama desa
+64.01.04.2015                                                                         14 Tapis                                        Pemekaran sebagian Desa Jone, Perda No. 1/2012
+64.01.04.2016                                                                         15 Senaken                                      Pemekaran sebagian Desa Jone, Perda No. 1/2012
+64.01.05.1001                                                      1 Kuaro
+64.01.05.2002                                                                          1 Lolo                                         Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.05.2003                                                                          2 Sandeley
+64.01.05.2004                                                                          3 Harapan Baru                                 Perubahan nama Desa Air Mati sesuai Perbup No. 2/2014
+64.01.05.2005                                                                          4 Rangan
+64.01.05.2006                                                                          5 Modang
+64.01.05.2007                                                                          6 Pasir Mayang
+64.01.05.2008                                                                          7 Kerta Bumi
+64.01.05.2009                                                                          8 Pondang Baru
+64.01.05.2010                                                                          9 Padang Jaya
+64.01.05.2011                                                                         10 Kendarom                                     Pemekaran sebagian Desa Rangan Perda No. 7/2006
+64.01.05.2012                                                                         11 Klempang Sari                                Pemekaran Desa Perda No. 1/2010
+64.01.05.2013                                                                         12 Keluang Paser Jaya                           Pemekaran sebagian Desa Lolo, Perda No. 6/2011
+64.01.06.1001                                                      1 Long Ikis
+64.01.06.2002                                                                          1 Muara Adang
+64.01.06.2003                                                                          2 Teluk Waru                                   Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.06.2004                                                                          3 Tajur
+64.01.06.2005                                                                          4 Samuntai
+64.01.06.2006                                                                          5 Lombok
+64.01.06.2007                                                                          6 Pait
+64.01.06.2008                                                                          7 Olung
+64.01.06.2009                                                                          8 Kayungo
+64.01.06.2010                                                                          9 Jemparing
+64.01.06.2011                                                                         10 Tiwei
+64.01.06.2012                                                                         11 Belimbing
+64.01.06.2013                                                                        12 Long Gelang
+64.01.06.2014                                                                        13 Krayan Jaya
+64.01.06.2015                                                                        14 Bukit Saloka                               Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.06.2016                                                                        15 Krayan Sentosa
+64.01.06.2017                                                                        16 Krayan Makmur
+64.01.06.2018                                                                        17 Kayungo Sari
+64.01.06.2019                                                                        18 Krayan Bahagia
+64.01.06.2020                                                                        19 Sawit Jaya
+64.01.06.2021                                                                        20 Sekurou Jaya
+64.01.06.2022                                                                        21 Kerta Bhakti
+64.01.06.2023                                                                        22 Adang Jaya
+64.01.06.2024                                                                        23 Tajer Mulya                                Pemekaran sebagian Desa Kayungo Perda No. 1/2010
+64.01.06.2025                                                                        24 Brewe                                      Pemekaran sebagian Desa Lombok dan Desa Pait, Perda No.
+64.01.06.2026                                                                        25 Atang Pait                                 Pemekaran sebagian Desa Pait, Perda No. 1/2012
+64.01.07.1001                                                     1 Muarakomam
+64.01.07.2002                                                                         1 Batu Butok
+64.01.07.2003                                                                         2 Uko
+64.01.07.2004                                                                         3 Muara Langon                               Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.07.2005                                                                         4 Binangon
+64.01.07.2006                                                                         5 Muara Kuaro                                Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.07.2007                                                                         6 Prayon
+64.01.07.2008                                                                         7 Long Sayo
+64.01.07.2009                                                                         8 Muara Payang                               Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.07.2010                                                                         9 Lusan
+64.01.07.2011                                                                        10 Swan Slutung
+64.01.07.2012                                                                        11 Sekuan Makmur                              Pemekaran Desa Perda No. 3.b/2007
+64.01.07.2013                                                                        12 Selerong                                   Pemekaran sebagian Desa Muara Langon Perda No. 1/2010
+64.01.08.1001                                                     1 Long Kali
+64.01.08.2002                                                                         1 Muara Telake                               Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.08.2003                                                                         2 Sebakung                                   Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.08.2004                                                                       3 Bente Tualan
+64.01.08.2005                                                                       4 Mendik
+64.01.08.2006                                                                       5 Munggu
+64.01.08.2007                                                                       6 Muara Pias                                  Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.08.2008                                                                       7 Muara Toyu                                  Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.08.2009                                                                       8 Perkuwen
+64.01.08.2010                                                                       9 Pinang Jatus
+64.01.08.2011                                                                      10 Muara Lambakan                              Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.08.2012                                                                      11 Kepala Telake
+64.01.08.2013                                                                      12 Mendik Makmur
+64.01.08.2014                                                                      13 Mendik Karya
+64.01.08.2015                                                                      14 Mendik Bhakti
+64.01.08.2016                                                                      15 Sebakung Taka
+64.01.08.2017                                                                      16 Maruat                                      Pembentukan Desa Perda No. 3.d/2007
+64.01.08.2018                                                                      17 Sebakung Makmur                             Pembentukan Desa Perda No. 3.e/2007
+64.01.08.2019                                                                      18 Petiku                                      Pembentukan Desa Perda No. 3.f/2007
+64.01.08.2020                                                                      19 Muara Adang II                              Pembentukan Desa Perda No. 1/2010, Perubahan nama desa
+64.01.08.2021                                                                      20 Makmur Jaya                                 Pemekaran sebagian Desa Mendik Makmur, Perda No. 6/2011
+64.01.08.2022                                                                      21 Gunung Putar                                Pemekaran sebagian Desa Bente Tualan, Perda No. 1/2012,
+64.01.08.2023                                                                      22 Putang                                      Pemekaran sebagian Desa Sebakung Taka, Perda No. 1/2012
+64.01.09.2001                                                                       1 Kerang
+64.01.09.2002                                                                       2 Lomu
+64.01.09.2003                                                                       3 Segendang                                   Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.09.2004                                                                       4 Mengkudu
+64.01.09.2005                                                                       5 Riwang
+64.01.09.2006                                                                       6 Langgai
+64.01.09.2007                                                                       7 Petangis
+64.01.09.2008                                                                       8 Tampakan                                    Perubahan nama desa sesuai Surat Bup No. 140/389/VI/BPMPD
+64.01.09.2009                                                                       9 Kerang Dayo
+64.01.09.2010                                                                      10 Saing Prupuk                                Pemekaran sebagian Desa Petangis, Perda No. 1/2012
+64.01.09.2011                                                                      11 Bai Jaya                                    Pemekaran sebagian Desa Langgai, Perda No. 1/2012
+64.01.09.2012                                                                                     12 Pengguren Jaya                                   Pemekaran sebagian Desa Lomu, Perda No. 1/2012
+64.01.09.2013                                                                                     13 Tebru Paser Damai                                Pemekaran sebagian Desa Kerang, Perda No. 1/2012
+64.01.10.2001                                                                                      1 Tanjung Pinang
+64.01.10.2002                                                                                      2 Rantau Atas
+64.01.10.2003                                                                                      3 Libur Dinding
+64.01.10.2004                                                                                      4 Luan
+64.01.10.2005                                                                                      5 Suweto
+64.01.10.2006                                                                                      6 Muser
+64.01.10.2007                                                                                      7 Biu
+64.01.10.2008                                                                                      8 Rantau Bintungan
+64.01.10.2009                                                                                      9 Muara Andeh                                      Pembentukan Desa Perda No. 3.a/2007
+64.02.01.2001                                                                                      1 Perian
+64.02.01.2002                                                                                      2 Muara Leka
+64.02.01.2003                                                                                      3 Muara Aloh
+64.02.01.2004                                                                                      4 Jantur
+64.02.01.2005                                                                                      5 Batuq
+64.02.01.2006                                                                                      6 Rebaq Rinding
+64.02.01.2007                                                                                      7 Muara Muntai Ulu
+64.02.01.2008                                                                                      8 Muara Muntai Ilir
+64.02.01.2009                                                                                      9 Kayu Batu
+64.02.01.2010                                                                                     10 Jantur Selatan
+64.02.01.2011                                                                                     11 Tanjung Batuq
+64.02.01.2012                                                                                     12 Pulau Harapan
+64.02.01.2013                                                                                     13 Jantur Baru
+64.02.02.2001                                                                                      1 Jonggon Desa                                     Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.02.2002                                                                                      2 Sungai Payang
+64.02.02.2003                                                                                      3 Jembayan
+64.02.02.2004                                                                                      4 Loa Kulu Kota
+64.02.02.2005                                                                       5 Loh Sumber
+64.02.02.2006                                                                       6 Ponoragan
+64.02.02.2007                                                                       7 Rempanga
+64.02.02.2008                                                                       8 Margahayu                                   Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.02.2009                                                                       9 Karya Utama
+64.02.02.2010                                                                      10 Lung Anai
+64.02.02.2011                                                                      11 Jembayan Tengah
+64.02.02.2012                                                                      12 Jembayan Dalam
+64.02.02.2013                                                                      13 Sepakat                                     Pemekaran sebagaian Desa Loa Kulu Kota, Perda No. 11/2010
+64.02.02.2014                                                                      14 Sumber Sari                                 Pemekaran sebagaian Desa Luh Sumber, Perda No. 12/2010
+64.02.02.2015                                                                      15 Jongkang                                    Pemekaran sebagaian Desa Rempanga, Perda No. 13/2010
+64.02.03.2001                                                                       1 Bakungan
+64.02.03.2002                                                                       2 Loa Duri Ulu
+64.02.03.2003                                                                       3 Loa Janan Ulu
+64.02.03.2004                                                                       4 Purwajaya
+64.02.03.2005                                                                       5 Tani Bhakti
+64.02.03.2006                                                                       6 Batuah
+64.02.03.2007                                                                       7 Loa Duri Ilir
+64.02.03.2008                                                                       8 Tani Harapan
+64.02.04.2001                                                                       1 Sepatin
+64.02.04.2002                                                                       2 Muara Pantuan
+64.02.04.2003                                                                       3 Tani Baru
+64.02.04.2004                                                                       4 Kutai Lama
+64.02.04.2005                                                                       5 Anggana
+64.02.04.2006                                                                       6 Sungai Meriam
+64.02.04.2007                                                                       7 Sidomulyo
+64.02.04.2008                                                                       8 Handil Terusan
+64.02.05.2001                                                                       1 Saliki                                      Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.05.2002                                                                       2 Salo Palai
+64.02.05.2003                                                                              3 Muara Badak Ulu
+64.02.05.2004                                                                              4 Muara Badak Ilir
+64.02.05.2005                                                                              5 Tanjung Limau
+64.02.05.2006                                                                              6 Tanah Datar
+64.02.05.2007                                                                              7 Badak Baru
+64.02.05.2008                                                                              8 Suka Damai
+64.02.05.2009                                                                              9 Badak Mekar
+64.02.05.2010                                                                             10 Gas Alam Badak I
+64.02.05.2011                                                                             11 Batu-Batu
+64.02.05.2012                                                                             12 Salo Cella
+64.02.05.2013                                                                             13 Sungai Bawang
+64.02.06.1001                                                     1 Jahab
+64.02.06.1002                                                     2 Loa Ipuh
+64.02.06.1003                                                     3 Bukit Biru
+64.02.06.1004                                                     4 Timbau
+64.02.06.1005                                                     5 Melayu
+64.02.06.1006                                                     6 Panji
+64.02.06.1007                                                     7 Sukarame
+64.02.06.1008                                                     8 Kampung Baru
+64.02.06.1009                                                     9 Loa Tebu
+64.02.06.1010                                                    10 Mangkurawang
+64.02.06.1011                                                    11 Maluhu
+64.02.06.2012                                                                              1 Rampak Lambur
+64.02.06.1013                                                    12 Loa Ipuh Darat
+64.02.06.2014                                                                              2 Bendang Raya                                 Pemekaran sebagaian Desa Rampak Lambur, Perda No. 14/2010
+64.02.07.2001                                                                              1 Selerong
+64.02.07.2002                                                                              2 Tanjung Harapan
+64.02.07.2003                                                                              3 Beloro
+64.02.07.2004                                                                              4 Sebulu Ulu
+64.02.07.2005                                                                              5 Sebulu Ilir
+64.02.07.2006                                                                              6 Segihan
+64.02.07.2007                                                                              7 Sumber Sari
+64.02.07.2008                                                                       8 Manunggal Daya                               Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.07.2009                                                                       9 Giri Agung
+64.02.07.2010                                                                      10 Senoni
+64.02.07.2011                                                                      11 Sebulu Moderen
+64.02.07.2012                                                                      12 Sanggulan
+64.02.07.2013                                                                      13 Lekaq Kidau
+64.02.07.2014                                                                      14 Mekar Jaya                                   Pemekaran sebagaian Desa Sumber Sari, Perda No. 10/2010
+64.02.08.2001                                                                       1 Kedang Ipil
+64.02.08.2002                                                                       2 Benua Baru
+64.02.08.2003                                                                       3 Sedulang
+64.02.08.2004                                                                       4 Loleng
+64.02.08.2005                                                                       5 Kota Bangun Ulu
+64.02.08.2006                                                                       6 Kota Bangun Ilir
+64.02.08.2007                                                                       7 Liang
+64.02.08.2008                                                                       8 Muhuran
+64.02.08.2009                                                                       9 Pela
+64.02.08.2010                                                                      10 Kota Bangun I
+64.02.08.2011                                                                      11 Kota Bangun II
+64.02.08.2012                                                                      12 Kota Bangun III
+64.02.08.2013                                                                      13 Sumber Sari
+64.02.08.2014                                                                      14 Sari Nadi
+64.02.08.2015                                                                      15 Suka Bumi
+64.02.08.2016                                                                      16 Wonosari
+64.02.08.2017                                                                      17 Kedang Murung
+64.02.08.2018                                                                      18 Kota Bangun
+64.02.08.2019                                                                      19 Liang Ulu
+64.02.08.2020                                                                      20 Sebelimbingan
+64.02.08.2021                                                                      21 Sangkuliman                                  Pemekaran sebagaian Desa Pela, Perda No. 8/2010
+64.02.09.2001                                                                       1 Lamin Telihan
+64.02.09.2002                                                                       2 Lamin Pulut
+64.02.09.2003                                                                       3 Teluk Bingkai
+64.02.09.2004                                                                            4 Kahala
+64.02.09.2005                                                                            5 Tubuhan
+64.02.09.2006                                                                            6 Semayang
+64.02.09.2007                                                                            7 Teluk Muda
+64.02.09.2008                                                                            8 Tuana Tuha
+64.02.09.2009                                                                            9 Kahala Ilir                                  Pemekaran sebagian Desa Kahala, Perda No. 7/2010
+64.02.10.2001                                                                            1 Genting Tanah
+64.02.10.2002                                                                            2 Loa Sakoh                                    Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.10.2003                                                                            3 Hambau
+64.02.10.2004                                                                            4 Kembang Janggut
+64.02.10.2005                                                                            5 Kelekat
+64.02.10.2006                                                                            6 Pulau Pinang
+64.02.10.2007                                                                            7 Long Beleh Haloq
+64.02.10.2008                                                                            8 Long Beleh Modang
+64.02.10.2009                                                                            9 Muai
+64.02.10.2010                                                                           10 Perdana
+64.02.10.2011                                                                           11 Bukit Layang
+64.02.11.2001                                                                            1 Muara Kaman Ilir
+64.02.11.2002                                                                            2 Rantau Hempang
+64.02.11.2003                                                                            3 Teratak
+64.02.11.2004                                                                            4 Benua Puhun
+64.02.11.2005                                                                            5 Muara Kaman Ulu
+64.02.11.2006                                                                            6 Sabintulung
+64.02.11.2007                                                                            7 Muara Siran
+64.02.11.2008                                                                            8 Tunjungan
+64.02.11.2009                                                                            9 Sedulang
+64.02.11.2010                                                                           10 Menamang Kiri
+64.02.11.2011                                                                           11 Menamang Kanan
+64.02.11.2012                                                                           12 Sidomukti
+64.02.11.2013                                                                           13 Panca Jaya
+64.02.11.2014                                                                           14 Bunga Jadi
+64.02.11.2015                                                                                15 Kupang Baru
+64.02.11.2016                                                                                16 Lebaho Ulaq                               Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.11.2017                                                                                17 Bukit Jering
+64.02.11.2018                                                                                18 Liang Buaya
+64.02.11.2019                                                                                19 Puan Cepak
+64.02.11.2020                                                                                20 Cipari Makmur                             Pemekaran sebagaian Desa Sidomukti, Perda No. 9/2010
+64.02.12.2001                                                                                 1 Gunung Sari
+64.02.12.2002                                                                                 2 Long Lalang
+64.02.12.2003                                                                                 3 Muara Ritan
+64.02.12.2004                                                                                 4 Buluk Sen
+64.02.12.2005                                                                                 5 Umaq Dian
+64.02.12.2006                                                                                 6 Muara Pedohon
+64.02.12.2007                                                                                 7 Bila Talang
+64.02.12.2008                                                                                 8 Kampung Baru
+64.02.12.2009                                                                                 9 Umaq Tukung
+64.02.12.2010                                                                                10 Sidomulyo
+64.02.12.2011                                                                                11 Umaq Bekuay
+64.02.12.2012                                                                                12 Tabang Lama
+64.02.12.2013                                                                                13 Muara Tiq
+64.02.12.2014                                                                                14 Muara Salung
+64.02.12.2015                                                                                15 Muara Kebaq
+64.02.12.2016                                                                                16 Muara Belinau
+64.02.12.2017                                                                                17 Muara Tuboq                               Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.12.2018                                                                                18 Ritan Baru
+64.02.12.2019                                                                                19 Tukung Ritan
+64.02.13.1001                                                      1 Salok Api Barat
+64.02.13.1002                                                      2 Salok Api Laut
+64.02.13.1003                                                      3 Ambarawang Laut
+64.02.13.1004                                                      4 Ambarawang Darat
+64.02.13.1005                                                      5 Margomulyo
+64.02.13.1006                                                              6 Sungai Merdeka
+64.02.13.1007                                                              7 Sungai Seluang
+64.02.13.1008                                                              8 Wonotirto
+64.02.13.1009                                                              9 Tanjung Harapan
+64.02.13.1010                                                             10 Samboja Kuala
+64.02.13.1011                                                             11 Sanipah
+64.02.13.1012                                                             12 Handil Baru
+64.02.13.1013                                                             13 Muara Sembilang
+64.02.13.2014                                                                                        1 Karya Jaya
+64.02.13.1015                                                             14 Bukit Merdeka
+64.02.13.2016                                                                                        2 Bukit Raya
+64.02.13.1017                                                             15 Argo Sari
+64.02.13.2018                                                                                        3 Tani Bhakti
+64.02.13.2019                                                                                        4 Beringin Agung
+64.02.13.1020                                                             16 Karya Merdeka
+64.02.13.1021                                                             17 Teluk Pemedas
+64.02.13.1022                                                             18 Kampung Lama                                                         Pemekaran sebagian Kel. Kuala Semboja, Perda No. 4/2010
+64.02.13.1023                                                             19 Handil Baru Darat                                                    Pemekaran sebagian Kel. Handil Baru, Perda No. 5/2010
+64.02.14.1001                                                              1 Muara Jawa Ilir
+64.02.14.1002                                                              2 Muara Jawa Tengah
+64.02.14.1003                                                              3 Muara Jawa Ulu
+64.02.14.1004                                                              4 Teluk Dalam
+64.02.14.1005                                                              5 Dondang
+64.02.14.1006                                                              6 Tama Pole
+64.02.14.1007                                                              7 Muara Kembang
+64.02.14.1008                                                              8 Muara Jawa                                                           PMD
+64.02.15.1001                                                              1 Jawa
+64.02.15.1002                                                              2 Pendingin
+64.02.15.1003                                                              3 Sanga-Sanga Dalam
+64.02.15.1004                                                              4 Sari Jaya
+64.02.15.1005                                                              5 Sanga-Sanga Muara
+64.02.16.2001                                                                        1 Manunggal Jaya
+64.02.16.2002                                                                        2 Bukit Raya
+64.02.16.2003                                                                        3 Embalut
+64.02.16.2004                                                                        4 Bangun Rejo
+64.02.16.2005                                                                        5 Kerta Buana
+64.02.16.2006                                                                        6 Separi
+64.02.16.2007                                                                        7 Bukit Pariaman
+64.02.16.2008                                                                        8 Buana Jaya
+64.02.16.2009                                                                        9 Mulawarman
+64.02.16.2010                                                                       10 Loa Ulung
+64.02.16.2011                                                                       11 Loa Raya
+64.02.16.2012                                                                       12 Perjiwa
+64.02.16.2013                                                                       13 Teluk Dalam
+64.02.16.2014                                                                       14 Loa Lepu
+64.02.16.2015                                                                       15 Suka Maju
+64.02.16.2016                                                                       16 Loa Pari
+64.02.16.2017                                                                       17 Karang Tunggal
+64.02.16.2018                                                                       18 Tanjung Batu
+64.02.17.2001                                                                        1 Sebuntal
+64.02.17.2002                                                                        2 Santan Ulu
+64.02.17.2003                                                                        3 Santan Tengah
+64.02.17.2004                                                                        4 Santan Ilir
+64.02.17.2005                                                                        5 Kersik
+64.02.17.2006                                                                        6 Bunga Putih
+64.02.17.2007                                                                        7 Makarti
+64.02.17.2008                                                                        8 Prangat Selatan                             Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.17.2009                                                                        9 Prangat Baru                                Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.17.2010                                                                       10 Semangko
+64.02.17.2011                                                                       11 Sambera Baru
+64.02.18.2001                                                                        1 Muara Wis
+64.02.18.2002                                                                               2 Sebemban
+64.02.18.2003                                                                               3 Melintang
+64.02.18.2004                                                                               4 Enggelam
+64.02.18.2005                                                                               5 Lebak Mantan                                    Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.18.2006                                                                               6 Lebak Cilong                                    Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.02.18.2007                                                                               7 Muara Enggelam
+64.03.01.2001                                                                               1 Merabu
+64.03.01.2002                                                                               2 Panaan
+64.03.01.2003                                                                               3 Merapun
+64.03.01.2004                                                                               4 Muara Lesan
+64.03.01.2005                                                                               5 Merasa
+64.03.01.2006                                                                               6 Lesan Dayak
+64.03.01.2007                                                                               7 Long Beliu
+64.03.01.2008                                                                               8 Long Duhung
+64.03.01.2009                                                                               9 Long Lamcin
+64.03.01.2010                                                                              10 Long Keluh
+64.03.01.2011                                                                              11 Long Pelay
+64.03.01.2012                                                                              12 Mapulu
+64.03.01.2013                                                                              13 Long Sului
+64.03.01.2014                                                                              14 Sido Bangen
+64.03.02.2002                                                                               1 Dumaring
+64.03.02.2003                                                                               2 Talisayan
+64.03.02.2014                                                                           3 Campur Sari
+64.03.02.2015                                                                           4 Bumi Jaya                                    Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.02.2016                                                                           5 Tunggal Bumi
+64.03.02.2017                                                                           6 Sumber Mulya
+64.03.02.2018                                                                           7 Suka Murya                                   Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.02.2019                                                                           8 Purna Sari Jaya
+64.03.02.2021                                                                           9 Eka Sapta
+64.03.02.2023                                                                          10 Capuak                                       Pemekaran Desa, Perda No. 15/2014
+64.03.03.2001                                                                           1 Long Lanuk
+64.03.03.2002                                                                           2 Tumbit Dayak
+64.03.03.2004                                                                           3 Inaran
+64.03.03.2005                                                                           4 Pegat Bukur
+64.03.03.2006                                                                           5 Rantau Panjang
+64.03.03.2007                                                                           6 Suaran
+64.03.03.2008                                                                           7 Pilanjau
+64.03.03.2009                                                                           8 Pesayan                                      Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.03.2010                                                                           9 Sei Bebanir Bangun                           Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.03.2011                                                                          10 Gurimbang
+64.03.03.2012                                                                          11 Sukan Tengah
+64.03.03.1013                                                     1 Sambaliung
+64.03.03.2014                                                                          12 Tanjung Perangat
+64.03.03.2015                                                                          13 Bena Baru
+64.03.04.2001                                                                           1 Long La'ai                                   Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.04.2002                                                                           2 Punan Segah
+64.03.04.2003                                                                           3 Long Ayap
+64.03.04.2004                                                                                4 Long Ayan
+64.03.04.2005                                                                                5 Punan Malinau
+64.03.04.2006                                                                                6 Punan Mahkam                               Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.04.2007                                                                                7 Gunung Sari
+64.03.04.2008                                                                                8 Pandan Sari
+64.03.04.2009                                                                                9 Bukit Makmur
+64.03.04.2010                                                                               10 Harapan Jaya
+64.03.04.2011                                                                               11 Tepian Buah
+64.03.04.2012                                                                               12 Batu Rajang                                Pemekaran Desa, Perda No. 14/2014
+64.03.04.2013                                                                               13 Siduung Indah                              Pemekaran Desa, Perda No. 16/2014
+64.03.05.1003                                                       1 Sungai Bedungun
+64.03.05.1004                                                       2 Tanjung Redeb
+64.03.05.1005                                                       3 Bugis
+64.03.05.1006                                                       4 Gayam
+64.03.05.1007                                                       5 Karang Ambun
+64.03.05.1008                                                       6 Gunung Panjang
+64.03.06.2001                                                                                1 Tasuk
+64.03.06.2002                                                                                2 Birang
+64.03.06.1003                                                       1 Gunung Tabur
+64.03.06.2004                                                                                3 Maluang
+64.03.06.2005                                                                                4 Samburakat                                 Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.06.2006                                                                                5 Sambakungan
+64.03.06.2007                                                                                6 Merancang Ulu
+64.03.06.2008                                                                                7 Merancang Ilir
+64.03.06.2009                                                                                8 Pulau Besing
+64.03.06.2010                                                                                9 Melati Jaya
+64.03.06.2011                                                                               10 Batu-Batu
+64.03.07.2001                                                                                1 Pegat Batumbuk                               Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.07.2002                                                                                2 Teluk Semanting
+64.03.07.2003                                                                                3 Tanjung Batu
+64.03.07.2004                                                                                4 Pulau Derawan
+64.03.07.2009                                                                                5 Kasai
+64.03.08.2001                                                                                1 Biduk-Biduk
+64.03.08.2002                                                                                2 Pantai Harapan
+64.03.08.2003                                                                                3 Tanjung Prepat
+64.03.08.2004                                                                                4 Teluk Sumbang
+64.03.08.2008                                                                                5 Teluk Sulaiman
+64.03.08.2009                                                                                6 Giring-Giring
+64.03.09.2001                                                                                1 Tumbit Melayu
+64.03.09.1002                                                       1 Teluk Bayur
+64.03.09.1003                                                       2 Rinding
+64.03.09.2004                                                                                2 Labanan Jaya
+64.03.09.2005                                                                                3 Labanan Makmur
+64.03.09.2006                                                                                4 Labanan Makarti
+64.03.10.2002                                                                                1 Tabalar Muara
+64.03.10.2003                                                                                2 Tubaan                                       Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.10.2004                                                                                3 Tabalar Ulu
+64.03.10.2005                                                                                4 Semurut
+64.03.10.2006                                                                       5 Buyung-Buyung                                Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.10.2007                                                                       6 Harapan Maju
+64.03.11.2001                                                                       1 Bohe Silian                                  Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.11.2002                                                                       2 Payung-Payung                                Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.11.2003                                                                       3 Teluk Alulu                                  Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.11.2004                                                                       4 Teluk Harapan                                Sesuai Perda 4/2015 ttg Penetapan Kampung di Kab. Berau
+64.03.12.2001                                                                       1 Tembudan
+64.03.12.2002                                                                       2 Kayu Indah
+64.03.12.2003                                                                       3 Batu Putih
+64.03.12.2004                                                                       4 Lobang Kelatak
+64.03.12.2005                                                                       5 Ampen Medang
+64.03.12.2006                                                                       6 Balikukup
+64.03.12.2007                                                                       7 Sumber Agung
+64.03.13.2001                                                                       1 Biatan Ulu                                   Semula wil. Kec. Taliyasan
+64.03.13.2002                                                                       2 Biatan Ilir                                  Semula wil. Kec. Taliyasan
+64.03.13.2003                                                                       3 Karangan                                     Semula wil. Kec. Taliyasan
+64.03.13.2004                                                                       4 Biatan Lempake                               Semula wil. Kec. Taliyasan
+64.03.13.2005                                                                       5 Manunggal Jaya                               Semula wil. Kec. Taliyasan
+64.03.13.2006                                                                       6 Biatan Bapinang                              Semula wil. Kec. Tabalar
+64.03.13.2007                                                                       7 Biatan Baru                                  Semula wil. Kec. Tabalar
+64.03.13.2008                                                                       8 Bukit Makmur Jaya                            Semula wil. Kec. Tabalar
+64.07.05.2008                                                                      1 Linggang Muara                               Perbaikan nama sesuai Surat Pemkab No.
+64.07.05.2009                                                                      2 Long Iram Seberang
+64.07.05.2010                                                                         3 Long Iram Ilir
+64.07.05.2011                                                                         4 Anah
+64.07.05.2015                                                                         5 Long Daliq
+64.07.05.2016                                                                         6 Long Iram Kota
+64.07.05.2017                                                                         7 Long Iram Bayan
+64.07.05.2018                                                                         8 Keliwai
+64.07.05.2019                                                                         9 Ujoh Halang
+64.07.05.2021                                                                        10 Kelian Luar
+64.07.05.2022                                                                        11 Sukomulyo
+64.07.06.2001                                                                         1 Empas
+64.07.06.2002                                                                         2 Empakuq
+64.07.06.2003                                                                         3 Muara Bunyut
+64.07.06.1006                                                     1 Melak Ilir                                                      Peningkatan status menjadi Kelurahan Perda No. 4/2010
+64.07.06.1011                                                     2 Melak Ulu                                                       Peningkatan status menjadi Kelurahan Perda No. 4/2010
+64.07.06.2012                                                                         4 Muara Benangaq
+64.07.07.1001                                                        1 Barong Tongkok                                                     Peningkatan status menjadi Kelurahan Perda No. 4/2010
+64.07.07.2002                                                                                1 Mencimai
+64.07.07.2003                                                                                2 Engkuni Pasek
+64.07.07.2004                                                                                3 Pepas Eheng
+64.07.07.2006                                                                                4 Juhan Asa
+64.07.07.2007                                                                                5 Asa
+64.07.07.2008                                                                                6 Pepes Asa
+64.07.07.2009                                                                                7 Muara Asa
+64.07.07.2010                                                                                8 Ongko Asa
+64.07.07.2011                                                                                9 Juaq Asa
+64.07.07.2012                                                                               10 Ombau Asa
+64.07.07.2013                                                                               11 Ngenyan Asa
+64.07.07.2014                                                                               12 Gemuhan Asa
+64.07.07.2015                                                                               13 Geleo Baru
+64.07.07.2016                                                                               14 Geleo Asa
+64.07.07.2017                                                                               15 Rejo Basuki
+64.07.07.2018                                                                               16 Sumber Sari
+64.07.07.2019                                                                               17 Sendawar
+64.07.07.2020                                                                               18 Balok Asa                                  Perda No. 14 Tahun 2003
+64.07.07.1021                                                        2 Simpang Raya                                                       Peningkatan status menjadi Kelurahan Perda No. 4/2010
+64.07.07.2022                                                                               19 Belempung Ulaq                             Perda No. 14 Tahun 2003
+64.07.08.2001                                                                                1 Besiq
+64.07.08.2002                                                                                2 Bermai
+64.07.08.2003                                                                                3 Muara Niliq
+64.07.08.2004                                                                                4 Mantar
+64.07.08.2005                                                                                5 Muara Bomboy
+64.07.08.2006                                                                       6 Damai Seberang
+64.07.08.2007                                                                       7 Mendika
+64.07.08.2008                                                                       8 Damai Kota
+64.07.08.2009                                                                       9 Lumpat Dahuq
+64.07.08.2010                                                                      10 Muara Tokong
+64.07.08.2011                                                                      11 Jengan Danum
+64.07.08.2012                                                                      12 Keay
+64.07.08.2013                                                                      13 Tapulang
+64.07.08.2014                                                                      14 Benung
+64.07.08.2020                                                                      15 Muara Nyahing                              Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.08.2021                                                                      16 Sempatn                                    Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.08.2022                                                                      17 Kelian                                     Pemekaran sebagian wil Desa Muara Tokong Perda No. 23/2010
+64.07.09.2001                                                                       1 Muara Begai
+64.07.09.2002                                                                       2 Lotaq
+64.07.09.2003                                                                       3 Payang
+64.07.09.2004                                                                       4 Dingin
+64.07.09.2005                                                                       5 Muara Lawa
+64.07.09.2006                                                                       6 Lambing
+64.07.09.2007                                                                       7 Benggeris
+64.07.09.2008                                                                       8 Cempedes
+64.07.10.2015                                                                       1 Jerang Dayak
+64.07.10.2016                                                                       2 Mendung
+64.07.10.2017                                                                       3 Jerang Melayu
+64.07.10.2018                                                                       4 Dasaq
+64.07.10.2020                                                                       5 Tepian Ulaq
+64.07.10.2021                                                                       6 Sebelang
+64.07.10.2022                                                                       7 Muara Baroh
+64.07.10.2023                                                                       8 Teluk Tempudau
+64.07.10.2024                                                                       9 Tanjung Laong
+64.07.10.2025                                                                      10 Tanjung Pagar
+64.07.10.2029                                                                      11 Gunung Bayan                               Perda No. 14 Tahun 2003
+64.07.10.2030                                                                      12 Muara Beloan                               Perda No. 14 Tahun 2003
+64.07.11.2001                                                                       1 Pentat
+64.07.11.2002                                                                       2 Lembonah
+64.07.11.2003                                                                       3 Muara Nayan
+64.07.11.2004                                                                       4 Mancong
+64.07.11.2005                                                                       5 Perigiq
+64.07.11.2006                                                                       6 Muara Ohong
+64.07.11.2007                                                                       7 Tanjung Jone
+64.07.11.2008                                                                       8 Tanjung Isuy
+64.07.11.2009                                                                       9 Tanjung Jan
+64.07.11.2010                                                                      10 Pulau Lanting
+64.07.11.2011                                                                         11 Muara Tae                                     Perda No. 14 Tahun 2003
+64.07.11.2012                                                                         12 Bekokong Makmur                               Perda No. 14 Tahun 2003
+64.07.12.2001                                                                          1 Gerungung
+64.07.12.2002                                                                          2 Pereng Taliq
+64.07.12.2003                                                                          3 Tanjung Soke
+64.07.12.2004                                                                          4 Deraya
+64.07.12.2005                                                                          5 Lemper
+64.07.12.2006                                                                          6 Muara Siram
+64.07.12.2007                                                                          7 Resak
+64.07.12.2008                                                                          8 Jambuk
+64.07.12.2009                                                                          9 Muara Gusik
+64.07.12.2010                                                                         10 Penawai
+64.07.12.2011                                                                         11 Muara Kedang
+64.07.12.2012                                                                         12 Jambuk Makmur
+64.07.12.2014                                                                         13 Siram Makmur
+64.07.12.2015                                                                         14 Siram Jaya
+64.07.12.2016                                                                         15 Bukit Harapan                                 Perda No. 14 Tahun 2003
+64.07.12.2019                                                                         16 Tanjung Sari                                  Perda No. 14 Tahun 2003
+64.07.13.2001                                                                          1 Loa Deras
+64.07.13.2002                                                                          2 Minta
+64.07.13.2003                                                                          3 Tanjung Haur
+64.07.13.2004                                                                          4 Penyinggahan Ilir
+64.07.13.2005                                                                          5 Penyinggahan Ulu
+64.07.13.2006                                                                          6 Bakung                                        Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.14.2001                                                                          1 Randa Empas
+64.07.14.2002                                                                          2 Tukuq
+64.07.14.2003                                                                          3 Tende
+64.07.14.2004                                                                          4 Sambung
+64.07.14.2005                                                                            5 Anan Jaya
+64.07.14.2006                                                                            6 Jelmu Sibak
+64.07.14.2007                                                                            7 Suakong
+64.07.14.2008                                                                            8 Penarung
+64.07.14.2009                                                                            9 Dilang Puti
+64.07.15.2001                                                                            1 Linggang Melapeh                             Perbaikan nama sesuai Surat Pemkab No.
+64.07.15.2002                                                                            2 Linggang Bigung Baru                         Perbaikan nama sesuai Surat Pemkab No.
+64.07.15.2003                                                                            3 Linggang Tutung                              Perbaikan nama sesuai Surat Pemkab No.
+64.07.15.2004                                                                            4 Linggang Melapeh
+64.07.15.2005                                                                            5 Linggang Mapan
+64.07.15.2006                                                                            6 Linggang Bigung
+64.07.15.2007                                                                            7 Linggang Amer
+64.07.15.2008                                                                            8 Linggang Bangunsari                          Perbaikan nama sesuai Surat Pemkab No.
+64.07.15.2009                                                                            9 Linggang Purwodadi                           Perbaikan nama sesuai Surat Pemkab No.
+64.07.15.2010                                                                           10 Linggang Mencelew                            Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.15.2011                                                                           11 Linggang Kebut                               Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.16.2001                                                                            1 Dempar
+64.07.16.2002                                                                            2 Temula
+64.07.16.2003                                                                            3 Jontai
+64.07.16.2004                                                                            4 Sembuan
+64.07.16.2005                                                                            5 Intu Lingau
+64.07.16.2006                                                                            6 Mu'ut
+64.07.16.2007                                                                            7 Terajuk                                      Perda No. 14 Tahun 2003
+64.07.16.2008                                                                            8 Lakan Bilem                                  Perda No. 14 Tahun 2003
+64.07.16.2009                                                                            9 Sentalar                                     Perda No. 14 Tahun 2003
+64.07.16.2010                                                                           10 Awai                                         Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.17.2001                                                                            1 Tebisaq
+64.07.17.2002                                                                               2 Kaliq
+64.07.17.2003                                                                               3 Tanah Mea
+64.07.17.2004                                                                               4 Sang-Sang
+64.07.17.2005                                                                               5 Muhur
+64.07.17.2006                                                                               6 Muara Kelawit
+64.07.17.2007                                                                               7 Bentas
+64.07.17.2008                                                                               8 Betung
+64.07.17.2009                                                                               9 Kiaq
+64.07.17.2010                                                                              10 Tendiq
+64.07.17.2011                                                                              11 Penawang
+64.07.17.2012                                                                              12 Lendian Liang Nayuq
+64.07.17.2013                                                                              13 Kenyanyan
+64.07.17.2014                                                                              14 Rikong
+64.07.17.2015                                                                              15 Kendisiq
+64.07.17.2016                                                                              16 Muara Ponaq                                  Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.18.2001                                                                               1 Sakaq Lotoq
+64.07.18.2002                                                                               2 Sakaq Tada
+64.07.18.2003                                                                               3 Gemuruh
+64.07.18.2004                                                                               4 Karangan
+64.07.18.2005                                                                               5 Merayaq
+64.07.18.2006                                                                               6 Linggang Marimun
+64.07.18.2007                                                                               7 Kelumpang
+64.07.18.2008                                                                               8 Gadur
+64.07.18.2009                                                                               9 Linggang Muara                               Perbaikan nama sesuai Surat Pemkab No.
+64.07.18.2010                                                                              10 Muara Jawaq
+64.07.18.2011                                                                              11 Abit
+64.07.18.2012                                                                              12 Rembayan
+64.07.18.2014                                                                              13 Gunung Rampah                                Perda No. 14 Tahun 2003
+64.07.18.2015                                                                              14 Jengan                                       Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.18.2016                                                                              15 Muara Kalaq                                  Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.18.2017                                                                              16 Tondoh                                       Pemekaran sebagian wil Desa Muara Jawaq Perda No. 23/2010
+64.07.19.2001                                                                          1 Tering Baru                                    Perda No. 14 Tahun 2003
+64.07.19.2002                                                                          2 Tering Lama
+64.07.19.2003                                                                          3 Linggang Tering                                Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2004                                                                          4 Tukul
+64.07.19.2005                                                                          5 Linggang Kelubaq                               Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2006                                                                          6 Linggang Purworejo                             Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2007                                                                          7 Linggang Jelemuq                               Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2008                                                                          8 Kelian Dalam
+64.07.19.2009                                                                          9 Linggang Muara                                 Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2010                                                                         10 Muyub Ulu
+64.07.19.2011                                                                         11 Muyub Aket                                     Perda No. 14 tahun 2003
+64.07.19.2013                                                                         12 Linggang Muyub Ilir                            Perbaikan nama sesuai Surat Pemkab No.
+64.07.19.2014                                                                         13 Gabung Baru                                    Perda No. 14 Tahun 2009 direvisi dengan Perda No. 3/2010
+64.07.19.2015                                                                         14 Linggang Banjarejo                             Pemekaran sebagian wil Desa Purworejo Perda No. 23/2010,
+64.07.19.2016                                                                         15 Tering Lama Ulu                                Pemekaran sebagian wil Desa Tering Lama Perda No. 23/2010
+64.07.20.2001                                                                          1 Sekolaq Joleq
+64.07.20.2002                                                                          2 Sekolaq Muliaq
+64.07.20.2003                                                                          3 Sekolaq Oday
+64.07.20.2004                                                                          4 Srimulyo
+64.07.20.2005                                                                          5 Sember Bangun
+64.07.20.2006                                                                          6 Sumber Rejo
+64.07.20.2007                                                                          7 Sekolaq Darat
+64.07.20.2008                                                                          8 Leleng                                         Pemekaran sebagian wil Desa Sekolaq Muliaq Perda No. 23/2010
+64.08.01.2001                                                                                1 Senyiur
+64.08.01.2002                                                                                2 Kelinjau Ilir
+64.08.01.2003                                                                                3 Kelinjau Ulu
+64.08.01.2004                                                                                4 Long Nah
+64.08.01.2006                                                                                5 Long Tesak
+64.08.01.2009                                                                                6 Gemar Baru
+64.08.01.2012                                                                                7 Long Poq Baru                                     Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.01.2013                                                                                8 Muara Dun
+64.08.01.2014                                                                                9 Teluk Baru                                        Pemekaran sebagian Desa Long Nah, Perda 12/2011
+64.08.02.2001                                                                                1 Jak Luay                                          Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.02.2002                                                                                2 Nehes Liah Bing
+64.08.02.2003                                                                                3 Muara Wahau
+64.08.02.2004                                                                                4 Dabeq
+64.08.02.2005                                                                                5 Diaq Lay
+64.08.02.2006                                                                                6 Benhes
+64.08.02.2007                                                                                7 Wanasari
+64.08.02.2008                                                                                8 Wahau Baru
+64.08.02.2009                                                                               9 Karya Bhakti
+64.08.02.2010                                                                              10 Long Wehea
+64.08.03.2001                                                                               1 Senambah
+64.08.03.2002                                                                               2 Ngayau
+64.08.03.2003                                                                               3 Muara Bengkal Ilir
+64.08.03.2004                                                                               4 Muara Bengkal Ulu
+64.08.03.2005                                                                               5 Benua Baru
+64.08.03.2013                                                                               6 Mulupan
+64.08.03.2014                                                                               7 Batu Balai
+64.08.04.2001                                                                               1 Sangatta Utara
+64.08.04.1010                                                        1 Teluk Lingga                                                         Perubahan status menjadi Kel Perda No. 13/2005
+64.08.04.2011                                                                               2 Singa Gembara
+64.08.04.2012                                                                               3 Swarga Bara
+64.08.05.2001                                                                        1 Kerayaan
+64.08.05.2002                                                                        2 Tanjung Manis
+64.08.05.2003                                                                        3 Peridan
+64.08.05.2004                                                                        4 Saka                                       Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.05.2005                                                                        5 Mandu Dalam
+64.08.05.2006                                                                        6 Benua Baru                                 Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.05.2011                                                                        7 Sempayau
+64.08.05.2012                                                                        8 Pelawan
+64.08.05.2013                                                                        9 Tepian Terap                               Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.05.2015                                                                       10 Maloy
+64.08.05.2016                                                                       11 Benua Baru Ulu
+64.08.05.2017                                                                       12 Kolek
+64.08.05.2018                                                                       13 Pulau Miang
+64.08.05.2019                                                                       14 Perupuk
+64.08.05.2020                                                                       15 Mandu Pantai                               Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.06.2001                                                                        1 Long Bentuq                                Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.06.2002                                                                        2 Long Pejeng
+64.08.06.2003                                                                       3 Long Lees
+64.08.06.2004                                                                       4 Mekar Baru
+64.08.06.2005                                                                       5 Rantau Sentosa
+64.08.06.2006                                                                       6 Long Nyelong
+64.08.07.2001                                                                       1 Marah Haloq
+64.08.07.2002                                                                       2 Lung Melah                                  Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.07.2003                                                                       3 Juk Ayaq
+64.08.07.2004                                                                       4 Long Segar
+64.08.07.2005                                                                       5 Long Noran
+64.08.07.2006                                                                       6 Muara Pantun
+64.08.07.2007                                                                       7 Rantau Panjang
+64.08.07.2008                                                                       8 Kernyanyan                                  Pemekaran sebagian Desa Long Segar, Perda 12/2011
+64.08.08.2001                                                                       1 Makmur Jaya
+64.08.08.2002                                                                       2 Marga Mulya
+64.08.08.2003                                                                       3 Sukamaju
+64.08.08.2004                                                                       4 Sidomulyo
+64.08.08.2005                                                                       5 Sri Pantun
+64.08.08.2006                                                                       6 Kombeng Indah
+64.08.08.2007                                                                       7 Miau Baru
+64.08.09.2001                                                                       1 Sepaso
+64.08.09.2002                                                                       2 Sekerat
+64.08.09.2003                                                                       3 Keraitan
+64.08.09.2004                                                                       4 Tepian Langsat
+64.08.09.2005                                                                       5 Tebangan Lembak                             Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.09.2006                                                                       6 Sepaso Timur
+64.08.09.2007                                                                       7 Sepaso Selatan
+64.08.09.2008                                                                       8 Muara Bengalon
+64.08.09.2009                                                                       9 Tepian Baru
+64.08.09.2010                                                                      10 Tepian Indah
+64.08.09.2011                                                                                 11 Sepaso Barat
+64.08.10.2001                                                                                  1 Kaliorang
+64.08.10.2006                                                                                  2 Bukit Makmur
+64.08.10.2007                                                                                  3 Bukit Harapan
+64.08.10.2008                                                                                  4 Citra Manunggal Jaya                          Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.10.2009                                                                                  5 Bangun Jaya
+64.08.10.2010                                                                                  6 Bumi Sejahtera
+64.08.10.2013                                                                                  7 Selangkau
+64.08.11.2001                                                                                  1 Sandaran
+64.08.11.2002                                                                                  2 Manubar
+64.08.11.2003                                                                                  3 Tadoan
+64.08.11.2004                                                                                  4 Marukangan
+64.08.11.2005                                                                                  5 Susuk Luar
+64.08.11.2006                                                                                  6 Susuk Dalam
+64.08.11.2007                                                                                  7 Tanjung Mangkaliat                            Perbaikan nama sesuai Surat Pemprov Kaltim No.
+64.08.11.2008                                                                                  8 Manubar Dalam                                 Pemekaran sebagian Desa Manubar, Perda 12/2011
+64.08.11.2009                                                                                  9 Susuk Tengah                                  Pemekaran sebagian Desa Susuk Luar, Perda 12/2011
+64.08.12.2001                                                                                  1 Sangatta Selatan                              Semula wil. Kec. Sangatta Utara
+64.08.12.1002                                                           1 Singa Geweh                                                          Semula wil. Kec. Sangatta Utara, Perubahan status menjadi
+64.08.12.2003                                                                                  2 Sangkima                                      Semula wil. Kec. Sangatta Utara
+64.08.12.2004                                                                                  3 Teluk Singkama                                Semula wil. Kec. Sangatta Utara
+64.08.13.2001                                                                         1 Teluk Pandan                                 Semula wil. Kec. Sangatta Utara
+64.08.13.2002                                                                         2 Suka Rahmat                                  Semula wil. Kec. Sangatta Utara
+64.08.13.2003                                                                         3 Suka Damai                                   Semula wil. Kec. Sangatta Utara
+64.08.13.2004                                                                         4 Kandolo                                      Semula wil. Kec. Sangatta Utara
+64.08.13.2005                                                                         5 Danau Redan                                  Semula wil. Kec. Sangatta Utara
+64.08.13.2006                                                                         6 Martadinata                                  Semula wil. Kec. Sangatta Utara
+64.08.14.2001                                                                         1 Mukti Jaya                                   Semula wil. Kec. Sangatta Utara
+64.08.14.2002                                                                         2 Pulung Sari                                  Semula wil. Kec. Sangatta Utara
+64.08.14.2003                                                                         3 Margo Mulyo                                  Semula wil. Kec. Sangatta Utara
+64.08.14.2004                                                                         4 Rantau Makmur                                Semula wil. Kec. Sangatta Utara
+64.08.14.2005                                                                         5 Manunggal Jaya                               Semula wil. Kec. Sangatta Utara
+64.08.14.2006                                                                         6 Tanjung Labu                                 Semula wil. Kec. Sangatta Utara
+64.08.14.2007                                                                         7 Kebon Agung                                  Semula wil. Kec. Sangatta Utara
+64.08.14.2008                                                                         8 Tepian Makmur                                Semula wil. Kec. Sangatta Utara
+64.08.14.2009                                                                         9 Masalap Raya                                 Pemekaran sebagian Desa Mukti Jaya, Perda 12/2011
+64.08.15.2001                                                                         1 Bumi Etam                                    Semula wil. Kec. Kaliorang
+64.08.15.2002                                                                         2 Bumi Rapak                                   Semula wil. Kec. Kaliorang
+64.08.15.2003                                                                         3 Bumi Jaya                                    Semula wil. Kec. Kaliorang
+64.08.15.2004                                                                         4 Cipta Graha                                  Semula wil. Kec. Kaliorang
+64.08.15.2005                                                                         5 Kadungan Jaya                                Semula wil. Kec. Kaliorang
+64.08.15.2006                                                                         6 Pengadan Baru                                Semula wil. Kec. Kaliorang
+64.08.15.2007                                                                         7 Mata Air                                     Semula wil. Kec. Kaliorang
+64.08.15.2008                                                                         8 Bukit Permata                                Semula wil. Kec. Kaliorang
+64.08.16.2001                                                                         1 Karangan Dalam                               Semula wil. Kec. Sangkulirang
+64.08.16.2002                                                                         2 Batu Lepoq                                   Semula wil. Kec. Sangkulirang
+64.08.16.2003                                                                         3 Pengadan                                     Semula wil. Kec. Sangkulirang
+64.08.16.2004                                                                         4 Baay                                         Semula wil. Kec. Sangkulirang, Perbaikan nama sesuai Surat
+64.08.16.2005                                                                         5 Mukti Lestari                                Semula wil. Kec. Sangkulirang
+64.08.16.2006                                                                         6 Karangan Seberang
+64.08.16.2007                                                                                               7 Karangan Hilir
+64.08.17.2001                                                                                               1 Batu Timbau                                    Semula wil. Kec. Muara Bengkal
+64.08.17.2002                                                                                               2 Beno Harapan                                   Semula wil. Kec. Muara Bengkal
+64.08.17.2003                                                                                               3 Mugi Rahayu                                    Semula wil. Kec. Muara Bengkal
+64.08.17.2004                                                                                               4 Mawai Indah                                    Semula wil. Kec. Muara Bengkal
+64.08.17.2005                                                                                               5 Himba Lestari                                  Semula wil. Kec. Muara Bengkal
+64.08.17.2006                                                                                               6 Telaga                                         Perda No. 12/2005
+64.08.17.2007                                                                                               7 Batu Timbau Ulu                                Pemekaran sebagian Desa Batu Timbau, Perda 12/2011
+64.08.18.2001                                                                                               1 Sika Makmur                                    Semula wil. Kec. Muara Ancalong
+64.08.18.2002                                                                                               2 Segoy Makmur                                   Semula wil. Kec. Muara Ancalong, Perbaikan nama sesuai Surat
+64.08.18.2003                                                                                               3 Mukti Utama                                    Semula wil. Kec. Muara Ancalong
+64.08.18.2004                                                                                               4 Sumber Sari                                    Semula wil. Kec. Muara Ancalong
+64.08.18.2005                                                                                               5 Melan                                          Semula wil. Kec. Muara Ancalong
+64.08.18.2006                                                                                               6 Tanah Abang                                    Semula wil. Kec. Muara Bengkal
+64.08.18.2007                                                                                               7 Sumber Agung                                   Semula wil. Kec. Muara Bengkal
+64.09.01.1001                                                                      1 Tanjung Tengah
+64.09.01.1002                                                                      2 Salo Loang
+64.09.01.1003                                                                      3 Petung
+64.09.01.1004                                                                      4 Lawe-lawe
+64.09.01.1005                                                                      5 Pejala
+64.09.01.1006                                                                      6 Kampung Baru
+64.09.01.1007                                                                      7 Sesumpu
+64.09.01.1008                                                                      8 Sungai Parit
+64.09.01.1009                                                                      9 Nipah-Nipah
+64.09.01.1010                                                                     10 Nenang
+64.09.01.1011                                                                     11 Penajam
+64.09.01.1012                                                                     12 Gunung Seteleng
+64.09.01.1013                                                                     13 Buluminung
+64.09.01.1014                                                    14 Sotek
+64.09.01.1015                                                    15 Sepan
+64.09.01.1016                                                    16 Riko
+64.09.01.1017                                                    17 Gersik
+64.09.01.1018                                                    18 Jenebora
+64.09.01.1019                                                    19 Pantai Lango
+64.09.01.2020                                                                              1 Giri Mukti
+64.09.01.2021                                                                              2 Bukit Subur
+64.09.01.2022                                                                              3 Sidorejo                                   Pemekaran Desa Perda No. 5/2010
+64.09.01.2023                                                                              4 Giri Purwa                                 Pemekaran Desa Perda No. 11/2010, Perbaikan nama sesuai
+64.09.02.2001                                                                              1 Api-api
+64.09.02.2002                                                                              2 Sesulu
+64.09.02.1003                                                     1 Waru
+64.09.02.2004                                                                              3 Bangun Mulya                               Pemekaran Desa Perda No. 4/2010
+64.09.03.2001                                                                              1 Babulu Darat
+64.09.03.2002                                                                              2 Labangka
+64.09.03.2003                                                                              3 Babulu Laut
+64.09.03.2004                                                                              4 Gunung Intan
+64.09.03.2005                                                                              5 Gunung Makmur
+64.09.03.2006                                                                              6 Sebakung Jaya
+64.09.03.2007                                                                              7 Rawa Mulia
+64.09.03.2008                                                                              8 Sri Raharja
+64.09.03.2009                                                                              9 Sumber Sari
+64.09.03.2010                                                                             10 Rintik
+64.09.03.2011                                                                             11 Gunung Mulia                               Pemekaran Desa Perda No. 3/2010
+64.09.03.2012                                                                             12 Labangka Barat                             Pemekaran Desa Perda No. 7/2010
+64.09.04.2001                                                                              1 Tengin Baru
+64.09.04.2002                                                                              2 Bukit Raya
+64.09.04.2003                                                                              3 Suka Raja
+64.09.04.2004                                                                              4 Bumi Harapan
+64.09.04.1005                                                            1 Sepaku
+64.09.04.1006                                                            2 Pemaluan
+64.09.04.1007                                                            3 Maridan
+64.09.04.1008                                                            4 Mentawir
+64.09.04.2009                                                                                     5 Argo Mulyo
+64.09.04.2010                                                                                     6 Semoi Dua
+64.09.04.2011                                                                                     7 Suko Mulyo
+64.09.04.2012                                                                                     8 Wono Sari
+64.09.04.2013                                                                                     9 Karang Jinawi
+64.09.04.2014                                                                                    10 Binuang                                         Pemekaran Desa Perda No. 6/2010
+64.09.04.2015                                                                                    11 Telemow                                         Pemekaran Desa Perda No. 6/2010
+64.11.01.2001                                                                                     1 Long Hurai
+64.11.01.2002                                                                                     2 Long Melaham
+64.11.01.2003                                                                                     3 Memahak Besar
+64.11.01.2004                                                                                     4 Memahak Ulu
+64.11.01.2005                                                                                     5 Batu Majang
+64.11.01.2006                                                                                     6 Ujoh Bilang
+64.11.01.2007                                                                                     7 Long Bagun Ilir
+64.11.01.2008                                                                                     8 Long Bagun Ulu
+64.11.01.2009                                                                                     9 Batoq Kelo
+64.11.01.2010                                                                                    10 Long Merah
+64.11.01.2011                                                                                    11 Rukun Damai
+64.11.02.2001                                                                                     1 Long Hubung
+64.11.02.2002                                                                                     2 Memahak Teboq
+64.11.02.2003                                                                                     3 Lutan
+64.11.02.2004                                                                                     4 Matalibaq
+64.11.02.2005                                                                                     5 Datah Bilang Ilir
+64.11.02.2006                                                                                     6 Datah Bilang Ulu
+64.11.02.2007                                                                         7 Tri Pariq Makmur
+64.11.02.2008                                                                         8 Wana Pariq
+64.11.02.2009                                                                         9 Datah Bilang Baru
+64.11.02.2010                                                                        10 Sirau
+64.11.02.2011                                                                        11 Long Hubung Ulu                               Pemekaran sebagian wil Desa Long Hubung yang semula wil Kab.
+64.11.03.2001                                                                         1 Laham
+64.11.03.2002                                                                         2 Long Gelawang
+64.11.03.2003                                                                         3 Muara Ratah
+64.11.03.2004                                                                         4 Danum Paroy
+64.11.03.2005                                                                         5 Nyaribungan
+64.11.04.2001                                                                         1 Long Penaneh I
+64.11.04.2002                                                                         2 Long Kerioq
+64.11.04.2003                                                                         3 Long Penaneh II
+64.11.04.2004                                                                         4 Tiong Ohang
+64.11.04.2005                                                                         5 Long Penaneh III
+64.11.04.2006                                                                         6 Tiong Bu'u
+64.11.04.2007                                                                         7 Naha Buan
+64.11.04.2008                                                                         8 Naha Tifab
+64.11.04.2009                                                                         9 Naha Silat
+64.11.04.2010                                                                        10 Long Apari
+64.11.05.2001                                                                         1 Delang Kerohong
+64.11.05.2002                                                                         2 Long Pakaq
+64.11.05.2003                                                                         3 Long Lunuk
+64.11.05.2004                                                                         4 Long Isun
+64.11.05.2005                                                                         5 Naha Aru
+64.11.05.2006                                                                         6 Datah Naha
+64.11.05.2007                                                                         7 Lirung Ubing
+64.11.05.2008                                                                         8 Long Pahangai I
+64.11.05.2009                                                                         9 Long Pahangai II
+64.11.05.2010                                                                        10 Long Tuyoq
+64.11.05.2011                                                                        11 Liu Mulang
+64.11.05.2012                                                                                            12 Long Pakaq Baru
+64.11.05.2013                                                                                            13 Long Lunuk Baru
+64.71.01.1001                                                                   1 Manggar
+64.71.01.1002                                                                   2 Lamaru
+64.71.01.1003                                                                   3 Teritip
+64.71.01.1004                                                                   4 Manggar Baru
+64.71.02.1001                                                                   1 Baru Ilir
+64.71.02.1002                                                                   2 Baru Tengah
+64.71.02.1003                                                                   3 Baru Ulu
+64.71.02.1004                                                                   4 Kariangau
+64.71.02.1005                                                                   5 Margo Mulyo
+64.71.02.1006                                                                   6 Marga Sari
+64.71.03.1001                                                                   1 Batu Ampar
+64.71.03.1002                                                                   2 Gunungsamarinda
+64.71.03.1003                                                                   3 Karang Joang
+64.71.03.1004                                                                   4 Muararapak
+64.71.03.1005                                                                   5 Gunungsamarinda                                                        Pemekaran sebagian Kel. Gunungsamarinda, Perda No. 7/2012
+64.71.03.1006                                                                   6 Graha Indah                                                            Pemekaran sebagian Kel. Batu Ampar, Perda No. 7/2012
+64.71.04.1001                                                                   1 Gunungsari Ulu
+64.71.04.1002                                                                   2 Gunungsari Ilir
+64.71.04.1003                                                                   3 Karang Rejo
+64.71.04.1004                                                                   4 Karang Jati
+64.71.04.1005                                                                   5 Mekar Sari
+64.71.04.1006                                                                   6 Sumber Rejo
+64.71.05.1002                                                                   1 Sepinggan
+64.71.05.1006                                                                    2 Gunungbahagia
+64.71.05.1008                                                                    3 Sepinggan Baru                                            Pemekaran sebagian Kel. Sepinggan, Perda No. 7/2012
+64.71.05.1009                                                                    4 Sepinggan Raya                                            Pemekaran sebagian Kel. Sepinggan, Perda No. 7/2012
+64.71.05.1010                                                                    5 Sungainangka                                              Pemekaran sebagian Kel. Gunungbahagia, Perda No. 7/2012
+64.71.05.1011                                                                    6 Damai Baru                                                Pemekaran sebagian Kel. Damai, Perda No. 7/2012
+64.71.05.1012                                                                    7 Damai Bahagia                                             Pemekaran sebagian Kel. Bahagia dan Kel. Damai, Perda No.
+64.71.06.1001                                                                    1 Prapatan                                                  Semula wil kec. Balikpapan Selatan, Perda No. 8/2012
+64.71.06.1002                                                                    2 Telaga Sari                                               Semula wil kec. Balikpapan Selatan, Perda No. 8/2012
+64.71.06.1003                                                                    3 Klandasan Ulu                                             Semula wil kec. Balikpapan Selatan, Perda No. 8/2012
+64.71.06.1004                                                                    4 Klandasan Ilir                                            Semula wil kec. Balikpapan Selatan, Perda No. 8/2012
+64.71.06.1005                                                                    5 Damai                                                     Semula wil kec. Balikpapan Selatan, Perda No. 8/2012
+64.72.01.1001                                                                    1 Rawa Makmur
+64.72.01.1002                                                                    2 Handil Bakti
+64.72.01.1003                                                                    3 Bukuan
+64.72.01.1004                                                                    4 Simpang Pasir
+64.72.01.1005                                                                    5 Bantuas
+64.72.02.1001                                                                    1 Sungai Keledang
+64.72.02.1002                                                                    2 Baqa
+64.72.02.1003                                                                    3 Mesjid
+64.72.02.1009                                                                    4 Mangkupalas                                               Pemekaran sebagian wil Kel. Mesjid Perda No. 6/2014
+64.72.02.1010                                                                    5 Tenun Samarinda                                           Pemekaran sebagian wil Kel. Mesjid Perda No. 6/2014
+64.72.02.1011                                                         6 Gunung Panjang                                           Pemekaran sebagian wil Kel. Sungai Keledang Perda No. 6/2014
+64.72.03.1001                                                         1 Teluk Lerong Ilir
+64.72.03.1002                                                         2 Jawa
+64.72.03.1004                                                         3 Air Putih
+64.72.03.1005                                                         4 Sidodadi
+64.72.03.1006                                                         5 Air Hitam
+64.72.03.1007                                                         6 Dadi Mulya
+64.72.03.1008                                                         7 Gunung Kelua
+64.72.03.1009                                                         8 Bukit Pinang
+64.72.04.1001                                                         1 Selili
+64.72.04.1002                                                         2 Sungai Dama
+64.72.04.1003                                                         3 Sidomulyo
+64.72.04.1013                                                         4 Sidodamai
+64.72.04.1014                                                         5 Pelita
+64.72.05.1002                                                         1 Sempaja Selatan
+64.72.05.1003                                                         2 Lempake
+64.72.05.1004                                                         3 Sungai Siring
+64.72.05.1010                                                         4 Sempaja Utara
+64.72.05.1011                                                         5 Tanah Merah
+64.72.05.1012                                                         6 Sempaja Barat                                            Pemekaran sebagian wil Kel. Sempaja Selatan Perda No. 6/2014
+64.72.05.1013                                                         7 Sempaja Timur                                            Pemekaran sebagian wil Kel. Sempaja Selatan Perda No. 6/2014
+64.72.05.1014                                                         8 Budaya Pampang                                           Pemekaran sebagian wil Kel. Sungai Siring Perda No. 6/2014
+64.72.06.1001                                                         1 Loa Bakung
+64.72.06.1002                                                         2 Loa Buah
+64.72.06.1003                                                         3 Karang Asam Ulu
+64.72.06.1004                                                         4 Lok Bahu
+64.72.06.1005                                                         5 Teluk Lerong Ulu
+64.72.06.1006                                                         6 Karang Asam Ilir
+64.72.06.1007                                                         7 Karang Anyar
+64.72.07.1001                                                         1 Sungai Kapih                                             Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.07.1002                                                         2 Sambutan                                                 Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.07.1003                                                         3 Makroman                                                 Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.07.1004                                                         4 Sindang Sari                                             Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.07.1005                                                         5 Pulau Atas                                               Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.08.1001                                                         1 Temindung Permai                                         Semula wil Kec. Samarinda Utara Perda No. 2/2010
+64.72.08.1002                                                         2 Sungai Pinang Dalam                                      Semula wil Kec. Samarinda Utara Perda No. 2/2010
+64.72.08.1003                                                         3 Gunung Lingai                                            Semula wil Kec. Samarinda Utara Perda No. 2/2010
+64.72.08.1004                                                         4 Mugirejo                                                 Semula wil Kec. Samarinda Utara Perda No. 2/2010
+64.72.08.1005                                                         5 Bandara                                                  Semula wil Kec. Samarinda Utara Perda No. 2/2010
+64.72.09.1001                                                         1 Karang Mumus                                             Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.09.1002                                                         2 Pelabuhan                                                Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.09.1003                                                         3 Pasar Pagi                                               Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.09.1004                                                         4 Bugis                                                    Semula wil Kec. Samarinda Ulu Perda No. 2/2010
+64.72.09.1005                                                         5 Sungai Pinang Luar                                       Semula wil Kec. Samarinda Ilir Perda No. 2/2010
+64.72.10.1001                                                                  1 Simpang Tiga                                                    Semula wil Kec. Samarinda Seberang Perda No. 2/2010
+64.72.10.1002                                                                  2 Tani Aman                                                       Semula wil Kec. Samarinda Seberang Perda No. 2/2010
+64.72.10.1003                                                                  3 Sengkotek                                                       Semula wil Kec. Samarinda Seberang Perda No. 2/2010
+64.72.10.1004                                                                  4 Harapan Baru                                                    Semula wil Kec. Samarinda Seberang Perda No. 2/2010
+64.72.10.1005                                                                  5 Rapak Dalam                                                     Semula wil Kec. Samarinda Seberang Perda No. 2/2010
+64.74.01.1001                                                                  1 Bontang Kuala
+64.74.01.1002                                                                  2 Bontang Baru
+64.74.01.1003                                                                  3 Lok Tuan
+64.74.01.1004                                                                  4 Guntung
+64.74.01.1005                                                                  5 Gunung Elai                                                     Perubahan nama sesuai Perda No. 18/2002 dan Surat Gub.
+64.74.01.1006                                                                  6 Api-api
+64.74.02.1001                                                                  1 Tanjung Laut
+64.74.02.1002                                                                  2 Berbas Tengah                                                   Perubahan nama sesuai Perda No. 18/2002 dan Surat Gub.
+64.74.02.1003                                                                  3 Berbas Pantai
+64.74.02.1004                                                                  4 Satimpo
+64.74.02.1005                                                                  5 Bontang Lestari                                                 Perda No. 4/2005
+64.74.02.1006                                                                  6 Tanjung Laut Indah
+64.74.03.1001                                                                  1 Belimbing
+64.74.03.1002                                                                  2 Gunung Telihan
+64.74.03.1003                                                                  3 Kanaan

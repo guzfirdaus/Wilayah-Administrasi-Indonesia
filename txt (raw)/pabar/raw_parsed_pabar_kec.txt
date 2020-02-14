@@ -1,0 +1,218 @@
+92.01.01                                           1 Makbon                             1                       14
+92.01.04                                        2 Beraur                       -                   13
+92.01.05                                        3 Salawati                         4                       3
+92.01.06                                        4 Seget                                 -                   9
+92.01.07                                        5 Aimas                             11                      3
+92.01.08                                        6 Klamono                              -                   10
+92.01.10                                        7 Sayosa                       -                        6
+92.01.12                                        8 Segun                        -                   9
+92.01.13                                        9 Mayamuk                      3                   8                        Perda No. 05/2005
+92.01.14                                        10 Salawati Selatan                      -                     6                        Perda No. 05/2005
+92.01.17                                        11 Klabot                       -                    8                        Perda No. 12/2007
+92.01.18                                        12 Klawak                       -                   11                        Perda No. 12/2007
+92.01.20                                        13 Maudus                      -                    9                        Perda No. 12/2007
+92.01.39                                        14 Mariat                             7                       4                        Pemakaran Kec. Perda No. 22/2007
+92.01.40                                        15 Klayili                                -                   8                        Pemekaran Kec. Perda No. 22/2007
+92.01.41                                        16 Klaso                                  -                   7                        Pemekaran Kec. Perda No. 22/2007
+92.01.42                                        17 Moisegen                     -                  9                        Pemekaran Kec. Perda No. 22/2007
+92.01.43                                        18 Sorong                       -                  4                        Pemekaran Kec. Aimas Perda No. 22/2007
+92.01.44                                        19 Bagun                        -                  9                        Pemekaran Kec. Beraur Perda No. 31/2013
+92.01.45                                        20 Wemak                       -                  6                        Pemekaran Kec. Sayosa Perda No. 32/2013
+92.01.46                                        21 Sunook                      -                  7                        Pemekaran Kec. Maudus Perda No. 33/2013
+92.01.47                                        22 Buk                         -                  7                        Pemekaran Kec. Klabot Perda No. 35/2013
+92.01.48                                        23 Saengkeduk                   -                    6                        Pemekaran Kec. Klasou Perda No. 36/2013
+92.01.49                                        24 Malabotom                    -                    9                        Pemekaran Kec. Klamono Perda No. 38/2013
+92.01.50                                        25 Konhir                       -                    9                        Pemekaran Kec. Beraur & Klawak Perda No. 39/2013
+92.01.51                                        26 Klasafet                         -                     5                        Pemekaran Kec. Klamono Perda No. 40/2013
+92.01.52                                        27 Hobard                           -                     7                        Pemekaran Kec. Klawak Perda No. 41/2013
+92.01.53                                        28 Salawati Tengah                  -                    10                        Pemekaran Kec. Salawati Selatan Perda No. 42/2013
+92.01.54                                          29 Botain                                  -                     4                           Pemekaran Kec. Beraur & Klabot Perda No. 43/2013
+92.01.55                                          30 Sayosa Timur                            -                     6                           Pemekaran Kec. Sayosa Perda No. 44/2013
+92.02.03                                        1 Warmare                      -                    31
+92.02.04                                        2 Prafi                         -                    16
+92.02.05                                        3 Masni                        -                     33
+92.02.12                                        4 Manokwari Barat                         6                  4
+92.02.13                                        5 Manokwari Timur                     1                             6
+92.02.14                                        6 Manokwari Utara                        -                      22
+92.02.15                                        7 Manokwari Selatan                    2                   16
+92.02.17                                        8 Tanah Rubuh                  -                      24
+92.02.21                                        9 Sidey                         -                     12
+92.03.01                                          1 Fak-Fak                                  2                    3
+92.03.02                                        2 Fak-Fak Barat                     -                       9
+92.03.03                                        3 Fak-Fak Timur                     -                       6
+92.03.04                                        4 Kokas                             1                      14
+92.03.05                                        5 Fak-Fak Tengah                    1                      13
+92.03.06                                        6 Karas                            -                         7
+92.03.07                                        7 Bomberay                         -                         7
+92.03.08                                        8 Kramongmongga                  -                       10
+92.03.09                                        9 Teluk Patipi                   -                       13
+92.03.10                                        10 Pariwari                                3                           6                        Pemekaran Kec. Fakfak Perda No. 4/2012
+92.03.11                                        11 Wartutin                                   -                        6                        Pemekaran Kec. Fakfak Barat Perda No. 4/2012
+92.03.12                                        12 Fakfak Timur Tengah                        -                       10                        Pemekaran Kec. Fakfak Timur Perda No. 4/2012
+92.03.13                                        13 Arguni                         -                      5                        Pemekaran Kec. Kokas Perda No. 4/2012
+92.03.14                                        14 Mbahamdandara                  -                      7                        Pemekaran Kec. Kokas Perda No. 4/2012
+92.03.15                                        15 Kayauni                        -                      9                        Pemekaran Kec. Kramongmongga Perda No. 4/2012
+92.03.16                                        16 Furwagi                        -                      8                        Pemekaran Kec. Teluk Patipi Perda No. 4/2012
+92.03.17                                             17 Tomage                                  -                        9                           Pemekaran Kec. Bomberay Perda No. 4/2012
+92.04.01                                             1 Teminabuan                           2                           14
+92.04.04                                        2 Inanwatan                    -                  9
+92.04.06                                        3 Sawiat                       -                     8
+92.04.09                                        4 Kokoda                       -                     16
+92.04.10                                        5 Moswaren                     -                    7
+92.04.11                                        6 Seremuk                      -                    8                        Perda No. 23/2007
+92.04.12                                        7 Wayer                        -                    8                        Perda No. 23/2007
+92.04.14                                        8 Kais                           -                   5                        Perda No. 23/2007
+92.04.15                                        9 Konda                          -                   5                        Perda No. 23/2007
+92.04.20                                        10 Matemani                      -                      6                        Perda No. 23/2007
+92.04.21                                        11 Kokoda Utara                          -                          9                        Perda No. 23/2007
+92.04.22                                        12 Saifi                                 -                         10                        Perda No. 23/2007
+92.04.24                                        13 Fokour                                -                          4                        Perda No. 23/2007
+92.04.25                                          14 Salkma                                 -                     5                           Pemekaran Kec. Sawiat Perda No. 14/2011
+92.04.26                                          15 Kais Darat                             -                     7                           Pemekaran Kec. Kais Perda No. 14/2011
+92.05.01                                          1 Misool (Misool Utara)                   -                     5
+92.05.02                                        2 Waigeo Utara                    -                   6
+92.05.03                                        3 Waigeo Selatan                  -                   5
+92.05.04                                        4 Salawati Utara                       -                    6                        Perubahan nama Kec. Samate, Perda No. 3/2006
+92.05.05                                        5 Kepulauan Ayau                       -                    5
+92.05.06                                        6 Misool Timur                  -                     6                        Perubahan nama Kec. Misool Timur Selatan, Perda No. 3/2006
+92.05.07                                        7 Waigeo Barat                  -                     5
+92.05.08                                        8 Waigeo Timur                     -                   4
+92.05.09                                        9 Teluk Mayalibit                  -                   4
+92.05.10                                        10 Kofiau                          -                   5
+92.05.11                                        11 Meos Mansar                     -                   9                        Perda No. 3/2006
+92.05.13                                        12 Misool Selatan                  -                    5                        Perda No. 3/2006
+92.05.14                                        13 Warwarbomi                      -                    4                        Perda No. 7/2008
+92.05.15                                        14 Waigeo Barat                    -                    6                        Perda No. 7/2008
+92.05.16                                        15 Misool Barat                    -                    5                        Perda No. 7/2008
+92.05.17                                        16 Kepulauan Sembilan                         -                      4                        Perda No. 7/2008
+92.05.18                                        17 Kota Waisai                            4                          -                        Pemekaran Kec. Perda No. 2/2010
+92.05.19                                        18 Tiplol Mayalibit                           -                      6                        Pemekaran Kec. Perda No. 2/2010
+92.05.20                                        19 Batanta Utara                              -                      4                        Pemekaran Kec. Perda No. 2/2010
+92.05.21                                        20 Salawati Barat                             -                      4                        Pemekaran Kec. Perda No. 2/2010
+92.05.22                                        21 Salawati Tengah                            -                      7                        Pemekaran Kec. Perda No. 2/2010
+92.05.23                                            22 Supnin                                     -                        4                           Pemekaran Kec. Perda No. 2/2010
+92.05.24                                            23 Ayau                                       -                        4                           Pemekaran Kec. Perda No. 2/2010
+92.05.25                                            24 Batanta Selatan                            -                        4                           Pemekaran Kec. Perda No. 2/2010
+92.06.01                                            1 Bintuni                                     2                        6
+92.06.02                                        2 Merdey                       -                    9
+92.06.03                                        3 Babo                         -                     4
+92.06.04                                        4 Aranday                          -                       4
+92.06.05                                        5 Moskona Selatan                  -                       5
+92.06.06                                        6 Moskona Utara                  -                          4
+92.06.07                                        7 Wamesa                         -                          4                        Perubahan Kec. Idoor, Perda No. 3/2007
+92.06.08                                        8 Fafurwar                       -                          3
+92.06.09                                        9 Tembuni                        -                          4                        Perda No. 3/2007
+92.06.10                                        10 Kuri                          -                          5                        Perda No. 3/2007
+92.06.11                                        11 Manimeri                      -                          6                        Perda No. 3/2007
+92.06.12                                        12 Tuhiba                          -                      5                        Perda No. 3/2007
+92.06.13                                        13 Dataran Beimes                  -                      6                        Perda No. 3/2007
+92.06.14                                        14 Sumuri                          -                      5                        Perda No. 3/2007
+92.06.15                                        15 Kaitaro                         -                      5                        Perda No. 3/2007
+92.06.16                                        16 Aroba                           -                      5                        Perda No. 3/2007
+92.06.17                                        17 Masyeta                        -                       4                        Perda No. 3/2007
+92.06.18                                        18 Biscoop                        -                       7                        Perda No. 3/2007
+92.06.19                                        19 Tomu                           -                       4                        Perda No. 3/2007
+92.06.20                                        20 Kamundan                       -                       4                        Perda No. 3/2007
+92.06.21                                        21 Weriagar                       -                       5                        Perda No. 3/2007
+92.06.22                                        22 Moskona Barat                  -                       4                        Perda No. 3/2007
+92.06.23                                            23 Meyado                                       -                      4                           Perda No. 3/2007
+92.06.24                                            24 Moskona Timur                                -                      3                           Perda No. 3/2007
+92.07.01                                            1 Wasior                                    1                          9
+92.07.02                                        2 Windesi                       -                     5
+92.07.03                                        3 Teluk Duairi                  -                     4                        Perubahan nama Distrik Wasior Utara, Perda No. 15/2008
+92.07.04                                        4 Wondiboy                      -                     4                        Perubahan nama Distrik Wasior Selatan, Perda No. 15/2008
+92.07.05                                        5 Wamesa                       -                    5
+92.07.06                                        6 Rumberpon                    -                    7
+92.07.07                                        7 Naikere                       -                   6                        Perubahan nama Distrik Wasior Barat, Perda No. 15/2008
+92.07.08                                        8 Rasiei                        -                   9                        Perda No. 20/2008
+92.07.09                                        9 Kuri Wamesa                   -                   6                        Perda No. 20/2008
+92.07.10                                        10 Roon                         -                   7                        Perda No. 20/2008
+92.07.11                                        11 Roswar                       -                   3                        Perda No. 20/2008
+92.07.12                                          12 Nikiwar                                -                      5                           Perda No. 20/2008
+92.07.13                                          13 Soug Jaya                              -                      5                           Perda No. 20/2008
+92.08.01                                          1 Kaimana                               2                       17
+92.08.02                                        2 Buruway                                 -                     10
+92.08.03                                        3 Teluk Arguni Atas                       -                     24
+92.08.04                                        4 Teluk Etna                   -                    5
+92.08.05                                        5 Kambrau                      -                    7                        Perda No. 12/2007
+92.08.06                                          6 Teluk Arguni Bawah                            -                      15                           Perda No. 12/2007
+92.08.07                                          7 Yamor                                         -                       6
+92.09.01                                          1 Fef                                           -                      10                           Semula wil. Kab. Sorong
+92.09.02                                        2 Miyah                        -                    5                        Semula wil. Kab. Sorong
+92.09.03                                        3 Yembun                       -                  6                        Semula wil. Kab. Sorong
+92.09.04                                        4 Kwoor                        -                  5                        Semula wil. Kab. Sorong
+92.09.05                                        5 Sausapor                     -                    10                        Semula wil. Kab. Sorong
+92.09.06                                        6 Abun                         -                     5                        Semula wil. Kab. Sorong
+92.09.07                                        7 Syujak                       -                    4                        Pemekaran Kec. Fef. Perda No. 28/2008
+92.09.08                                        8 Moraid                       -                    9                        Semula wil. Kab Sorong Putusan MK No.127/PUU-VII/2009
+92.09.09                                        9 Kebar                        -                    9                        Semula wil. Kab. Manokwari Putusan MK No.127/PUU-VII/2009
+92.09.10                                        10 Amberbaken                   -                    9                        Semula wil. Kab. Manokwari Putusan MK No.127/PUU-VII/2009
+92.09.11                                        11 Senopi                       -                    9                        Semula wil. Kab. Manokwari Putusan MK No.127/PUU-VII/2009
+92.09.12                                        12 Mubrani                      -                     10                        Semula wil. Kab. Manokwari Putusan MK No.127/PUU-VII/2009
+92.09.13                                        13 Bikar                        -                     10                        Pemekaran sebagian wil Kec. Sausapor, Perda No. 16 tahun 2011
+92.09.14                                        14 Bamusbama                      -                    6                        Pemekaran sebagian wil Kecamatan Yembun, Perda No 16 tahun
+92.09.15                                        15 Ases                           -                    4                        Pemekaran sebagian wil Kecamatan Fef dan Miyah Perda No 16
+92.09.16                                        16 Miyah Selatan                  -                    9                        Pemekaran sebagian wil Kecamatan Miyah Perda No 16 tahun
+92.09.17                                        17 Ireres                            -                   7                        Pemekaran sebagian wil Kecamatan Miyah Perda No 16 tahun
+92.09.18                                        18 Tobouw                            -                   6                        Pemekaran sebagian wil Kecamatan Kwoor Perda No 16 tahun
+92.09.19                                        19 Wilhem Roumbouts                  -                   4                        Pemekaran sebagian wil Kecamatan Miyah Perda No 16 tahun
+92.09.20                                        20 Tinggouw                          -                   5                        Pemekaran sebagian wil Kecamatan Fef Perda No 16 tahun 2011
+92.09.21                                        21 Kwesefo                      -                     9                        Pemekaran sebagian wil Kecamatan Kwoor Perda No 16 tahun
+92.09.22                                        22 Mawabuan                     -                     6                        Pemekaran wil Kec Senopi Perda No 14/2012
+92.09.23                                        23 Kebar Timur                  -                    10                        Pemekaran Wilayah Kecamatan Kebar Perda No 14/2012
+92.09.24                                        24 Kebar Selatan                  -                     10                        Pemekaran Wil Kec Kebar Perda No 14/2012
+92.09.25                                        25 Manekar                        -                     10                        Pemekaran Wil Kec kebar Perda No 14/2012
+92.09.26                                        26 Mpur                              -                     7                        Pemekaran wil Kec Amberbaken Perda No 14/2012
+92.09.27                                        27 Amberbaken Barat                  -                     5                        Pemekaran Wil Kec Amberbaken Perda No 14/2012
+92.09.28                                        28 Kasi                              -                    12                        Pemekaran Wil Kec Mubrani Perda No 14/2012
+92.09.29                                           29 Selemkai                          -                       5                          Pemekaran Wil Kec Moraid Perda No 14/2012
+92.10.01                                           1 Aifat                              -                      23                          Semula wil. Kab. Sorong
+92.10.02                                        2 Aifat Utara                   -                        20                        Semula wil. Kab. Sorong
+92.10.03                                        3 Aifat Timur                  -                       9                        Semula wil. Kab. Sorong
+92.10.04                                        4 Aifat Selatan                  -                         16                        Semula wil. Kab. Sorong
+92.10.05                                        5 Aitinyo Barat                  -                          9                        Semula wil. Kab. Sorong
+92.10.06                                        6 Aitinyo                        -                         17                        Semula wil. Kab. Sorong
+92.10.07                                        7 Aitinyo Utara                      -                     12                        Semula wil. Kab. Sorong
+92.10.08                                        8 Ayamaru                         1                         7                        Semula wil. Kab. Sorong
+92.10.09                                        9 Ayamaru Utara                  -                   12                        Semula wil. Kab. Sorong
+92.10.10                                        10 Ayamaru Timur                  -                         8                        Semula wil. Kab. Sorong
+92.10.11                                        11 Mare                                -                     9                        Semula wil. Kab. Sorong
+92.10.12                                        12 Aifat Timur Tengah                  -                    12                        Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang
+92.10.13                                        13 Aifat Timur Jauh                     -                     7                        Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang
+92.10.14                                        14 Aifat Timur Selatan                  -                     6                        Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang
+92.10.15                                        15 Ayamaru Selatan                      -                    10                        Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang
+92.10.16                                        16 Ayamaru Jaya                          -                         10                        Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang
+92.10.17                                        17 Ayamaru Selatan Jaya                  -                          7                        Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang
+92.10.18                                        18 Ayamaru Timur                         -                          7                        Pemekaran Kec. Ayamaru Utara Perda No. 3/2012 Tentang
+92.10.19                                        19 Ayamaru Utara Timur                  -                     7                        Pemekaran Kec. Ayamaru Utara Perda No. 3/2012 Tentang
+92.10.20                                        20 Ayamaru Tengah                       -                    10                        Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang
+92.10.21                                        21 Ayamaru Barat                        -                     8                        Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang
+92.10.22                                        22 Aitinyo Tengah                  -                     14                        Pemekaran Kec. Aitinyo Perda No. 3/2012 Tentang Pembentukan
+92.10.23                                        23 Aitinyo Raya                    -                     10                        Pemekaran Kec. Aitonyo Perda No. 3/2012 Tentang Pembentukan
+92.10.24                                        24 Mare Selatan                    -                      9                        Pemekaran Kec. Mare Perda No. 3/2012 Tentang Pembentukan
+92.11.01                                                 1 Ransiki                          -                    13                          UU. No. 23 Tahun 2012
+92.11.02                                                 2 Oransbari                        -                    14                          UU. No. 23 Tahun 2012
+92.11.03                                        3 Neney                         -                      7                        UU. No. 23 Tahun 2012
+92.11.04                                        4 Dataran Isim                  -                     12                        UU. No. 23 Tahun 2012
+92.11.05                                        5 Momi Waren                    -                      7                        UU. No. 23 Tahun 2012
+92.11.06                                                6 Tahota                            -                         4                          UU. No. 23 Tahun 2012
+92.12.01                                                1 Anggi                             -                        13                          Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.02                                                2 Anggi Gida                        -                         8                          Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.03                                        3 Membey                       -                     6                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.04                                        4 Sururey                      -                    12                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.05                                        5 Didohu                       -                    14                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.06                                        6 Taige                        -                    11                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.07                                        7 Catubouw                     -                    21                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.08                                        8 Testega                      -                      15                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.09                                        9 Minyambaouw                  -                      37                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.12.10                                        10 Hingk                        -                    29                        Semula wil Kab. Manokwari UU No. 24 Tahun 2012
+92.71.01                                           1 Sorong                                  4                    -
+92.71.02                                           2 Sorong Timur                            4                    -
+92.71.03                                        3 Sorong Barat                             4          -
+92.71.04                                        4 Sorong Kepulauan                         4          -
+92.71.05                                        5 Sorong Utara                             4          -                        Perda No. 32/2006
+92.71.06                                        6 Sorong Manoi                      5          -                        Pemekaran Kec. Perda No. 4/2010
+92.71.07                                        7 Sorong Kota                       4          -                        Pemekaran Kec. Sorong Perda No. 40/2013
+92.71.08                                        8 Klaurung                          4          -                        Pemekaran Kec. Sorong Timur Perda No. 40/2013
+92.71.09                                        9 Malaimsimsa                       4          -                        Pemekaran Kec. Sorong Utara Perda No. 40/2013
+92.71.10                                        10 Maladum Mes                                4             -                              Pemekaran Kec. Sorong Barat Perda No. 40/2013

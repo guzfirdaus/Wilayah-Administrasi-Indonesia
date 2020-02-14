@@ -1,0 +1,155 @@
+       36.01.01     1 Sumur                                                                                      7
+       36.01.02     2 Cimanggu                                                                                12
+       36.01.03     3 Cibaliung                                                                                  9
+       36.01.04     4 Cikeusik                                                                                14
+       36.01.05     5 Cigeulis                                                                                   9
+       36.01.06     6 Panimbang                                                                                  6
+       36.01.07     7 Angsana                                                                                    9
+       36.01.08     8 Munjul                                                                                     9
+       36.01.09     9 Pagelaran                                                                               13
+       36.01.10    10 Bojong                                                                                     8
+       36.01.11    11 Picung                                                                                     9
+       36.01.12    12 Labuan                                                                                     9
+       36.01.13    13 Menes                                                                                   12
+       36.01.14    14 Saketi                                                                                  14
+       36.01.15    15 Cipeucang                                                                               10
+       36.01.16    16 Jiput                                                                                   13
+       36.01.17    17 Mandalawangi                                                                            15
+       36.01.18    18 Cimanuk                                                                                 11
+       36.01.19    19 Kaduhejo                                                                                10
+       36.01.20    20 Banjar                                                                                  11
+       36.01.21    21 Pandeglang                                                                      4
+       36.01.22    22 Cadasari                                                                                11
+       36.01.23    23 Cisata                                                                                     9
+       36.01.24    24 Patia                                                                                   10
+       36.01.25    25 Karang Tanjung                                                                  4
+       36.01.26    26 Cikedal                                                                                 10
+       36.01.27    27 Cibitung                                                                                10                               Perda No. 4/2004
+       36.01.28    28 Carita                                                                                  10                               Perda No. 4/2004
+     36.01.29    29 Sukaresmi                                                                10                                Perda No. 1/2005
+     36.01.30    30 Mekarjaya                                                                    8                             Perda No. 1/2005
+     36.01.31    31 Sindangresmi                                                                 9                             Perda No. 1/2005
+     36.01.32    32 Pulosari                                                                     9                             Perda No. 2/2007
+     36.01.33    33 Koroncong                                                                12                                Perda No. 2/2007
+     36.01.34    34 Majasari                                                          5                                        Perda No. 26/2007
+     36.01.35    35 Sobang                                                                       8                             Perda No. 26/2007
+     36.02.01     1 Malingping                                                               14
+     36.02.02     2 Panggarangan                                                             11
+     36.02.03     3 Bayah                                                                    11
+     36.02.04     4 Cipanas                                                                  14
+     36.02.05     5 Muncang                                                                  12
+     36.02.06     6 Leuwidamar                                                               12
+     36.02.07     7 Bojongmanik                                                                  9
+     36.02.08     8 Gunungkencana                                                            12
+     36.02.09     9 Banjarsari                                                               20
+     36.02.10    10 Cileles                                                                  12
+     36.02.11    11 Cimarga                                                                  17
+     36.02.12    12 Sajira                                                                   15
+     36.02.13    13 Maja                                                                     14
+     36.02.14    14 Rangkasbitung                                                     5      11
+     36.02.15    15 Warunggunung                                                             12
+     36.02.16    16 Cijaku                                                                   11
+     36.02.17    17 Cikulur                                                                  13
+     36.02.18    18 Cibadak                                                                  15
+     36.02.19    19 Cibeber                                                                  22
+     36.02.20    20 Cilograng                                                                10
+     36.02.21    21 Wanasalam                                                                13
+     36.02.22    22 Sobang                                                                   10
+     36.02.23    23 Curug bitung                                                             10
+     36.02.24    24 Kalanganyar                                                                  7                             Perda No. 2/2006
+     36.02.25    25 Lebakgedong                                                                  6                             Perda No. 2/2006
+     36.02.26    26 Cihara                                                                       9                             Perda No. 2/2006
+     36.02.27    27 Cirinten                                                                 10                                Perda No. 2/2006
+     36.02.28    28 Cigemlong                                                                    8                             Perda No. 2/2006
+     36.03.01     1 Balaraja                                                    1          8
+     36.03.02     2 Jayanti                                                                8
+     36.03.03     3 Tigaraksa                                                   2      12
+     36.03.04     4 Jambe                                                              10
+     36.03.05     5 Cisoka                                                             10
+     36.03.06     6 Kresek                                                                 9
+     36.03.07     7 Kronjo                                                             10
+     36.03.08     8 Mauk                                                        1      11
+     36.03.09     9 Kemiri                                                                 7
+     36.03.10    10 Sukadiri                                                               8
+     36.03.11    11 Rajeg                                                       1      12
+     36.03.12    12 Pasar Kemis                                                 4          5
+     36.03.13    13 Teluknaga                                                          13
+     36.03.14    14 Kosambi                                                     3          7
+     36.03.15    15 Pakuhaji                                                    1      13
+     36.03.16    16 Sepatan                                                     1          7
+     36.03.17    17 Curug                                                       3          4
+     36.03.18    18 Cikupa                                                      2      12
+     36.03.19    19 Panongan                                                    1          7
+     36.03.20    20 Legok                                                       1      10
+     36.03.22    21 Pagedangan                                                  1      10
+     36.03.23    22 Cisauk                                                      1          5
+     36.03.27    23 Sukamulya                                                              8                             Perda No.20/2006
+     36.03.28    24 Kelapa Dua                                                  5          1                             Perda No.20/2006
+     36.03.29    25 Sindang Jaya                                                           7                             Perda No.20/2006
+     36.03.30    26 Sepatan Timur                                                          8                             Perda No.20/2006
+     36.03.31    27 Solear                                                                 7                             Perda No.20/2006
+     36.03.32    28 Gunung Kaler                                                           9                             Perda No.20/2006
+     36.03.33    29 Mekar Baru                                                             8                             Perda No.20/2006
+     36.04.05    1 Kramatwatu                                                          15
+     36.04.06    2 Waringinkurung                                                      11
+     36.04.07    3 Bojonegara                                                          11
+     36.04.08    4 Pulo Ampel                                                              9                             Perda No.10/2007
+     36.04.09    5 Ciruas                                                              15                                Perda No.10/2007
+     36.04.11    6 Kragilan                                                            12
+     36.04.12    7 Pontang                                                             11
+     36.04.13    8 Tirtayasa                                                           14
+     36.04.14    9 Tanara                                                                  9
+     36.04.15   10 Cikande                                                             13
+     36.04.16   11 Kibin                                                                   9
+     36.04.17   12 Carenang                                                                8
+     36.04.18   13 Binuang                                                                 7
+     36.04.19   14 Petir                                                               15
+     36.04.20   15 Tunjung Teja                                                            9
+     36.04.22   16 Baros                                                               14
+     36.04.23   17 Cikeusal                                                            17
+     36.04.24   18 Pamarayan                                                           10
+     36.04.25   19 Kopo                                                                10
+     36.04.26   20 Jawilan                                                                 9
+     36.04.27   21 Ciomas                                                              11
+     36.04.28   22 Pabuaran                                                                8
+     36.04.29   23 Padarincang                                                         14
+     36.04.30   24 Anyar                                                               12
+     36.04.31   25 Cinangka                                                            14
+     36.04.32   26 Mancak                                                              14
+     36.04.33   27 Gunung Sari                                                             7
+     36.04.34   28 Bandung                                                                 8
+     36.04.35   29 Lebak Wangi                                                         10                                Pemekaran sebagian wil Kec. Kragilan, Pontang, Cerenang, Ciruas Perda No.
+     36.71.01    1 Tangerang                                                    8
+     36.71.02    2 Jatiuwung                                                         6
+     36.71.03    3 Batuceper                                                         7
+     36.71.04    4 Benda                                                             5
+     36.71.05    5 Cipondoh                                                      10
+     36.71.06    6 Ciledug                                                           8
+     36.71.07    7 Karawaci                                                      16
+     36.71.08    8 Periuk                                                            5
+     36.71.09    9 Cibodas                                                           6
+     36.71.10   10 Neglasari                                                         7
+     36.71.11   11 Pinang                                                        11
+     36.71.12   12 Karang Tengah                                                     7
+     36.71.13   13 Larangan                                                          8
+     36.72.01    1 Cibeber                                                           6
+     36.72.02    2 Cilegon                                                           5
+     36.72.03    3 Pulomerak                                                         4
+     36.72.04    4 Ciwandan                                                          6
+     36.72.05    5 Jombang                                                           5
+     36.72.06    6 Gerogol                                                           4
+     36.72.07    7 Purwakarta                                                        6
+     36.72.08    8 Citangkil                                                         7
+     36.73.01    1 Serang                                                        12                                       Semula wil Kab. Serang
+     36.73.02    2 Kasemen                                                       10                                       Semula wil Kab. Serang
+     36.73.03    3 Walantaka                                                     14                                       Semula wil Kab. Serang
+     36.73.04    4 Curug                                                         10                                       Semula wil Kab. Serang
+     36.73.05    5 Cipocok Jaya                                                      8                                    Semula wil Kab. Serang
+     36.73.06    6 Taktakan                                                      12                                       Semula wil Kab. Serang
+     36.74.01    1 Serpong                                                           9                                    Semula wil. Kab. Tangerang
+     36.74.02    2 Serpong Utara                                                     7                                    Semula wil. Kab. Tangerang
+     36.74.03    3 Pondok Aren                                                   11                                       Semula wil. Kab. Tangerang
+     36.74.04    4 Ciputat                                                           7                                    Semula wil. Kab. Tangerang
+     36.74.05    5 Ciputat Timur                                                     6                                    Semula wil. Kab. Tangerang
+     36.74.06    6 Pamulang                                                          8                                    Semula wil. Kab. Tangerang
+     36.74.07    7 Setu                                                              6                                    Semula wil. Kab. Tangerang

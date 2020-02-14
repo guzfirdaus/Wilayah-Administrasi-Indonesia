@@ -1,0 +1,117 @@
+       52.01.01     1 Gerung                                                                          3      11
+       52.01.02     2 Kediri                                                                                 10
+       52.01.03     3 Narmada                                                                                21
+       52.01.07     4 Sekotong                                                                                   9
+       52.01.08     5 Labuapi                                                                                12
+       52.01.09     6 Gunungsari                                                                             16
+       52.01.12     7 Lingsar                                                                                15
+       52.01.13     8 Lembar                                                                                 10
+       52.01.14     9 Batu Layar                                                                                 9
+       52.01.15    10 Kuripan                                                                                    6
+       52.02.01     1 Praya                                                                           9          6
+       52.02.02     2 Jonggat                                                                                13
+       52.02.03     3 Batukliang                                                                             10
+       52.02.04     4 Pujut                                                                                  16
+       52.02.05     5 Praya Barat                                                                            10
+       52.02.06     6 Praya Timur                                                                            10
+       52.02.07     7 Janapria                                                                               12
+       52.02.08     8 Pringgarata                                                                            11
+       52.02.09     9 Kopang                                                                                 11
+       52.02.10    10 Praya Tengah                                                                    3          9
+       52.02.11    11 Praya Barat Daya                                                                       11
+     52.02.12    12 Batukliang Utara                                                           8
+     52.03.01     1 Keruak                                                                 15
+     52.03.02     2 Sakra                                                                  12
+     52.03.03     3 Terara                                                                 16
+     52.03.04     4 Sikur                                                                  14
+     52.03.05     5 Masbagik                                                               10
+     52.03.06     6 Sukamulia                                                                  9
+     52.03.07     7 Selong                                                       11            1
+     52.03.08     8 Pringgabaya                                                            15
+     52.03.09     9 Aikmel                                                                 14
+     52.03.10    10 Sambelia                                                               11
+     52.03.11    11 Montong Gading                                                             8
+     52.03.12    12 Pringgasela                                                            10
+     52.03.13    13 Suralaga                                                               15
+     52.03.14    14 Wanasaba                                                               14
+     52.03.15    15 Sembalun                                                                   6
+     52.03.16    16 Suwela                                                                     8
+     52.03.17    17 Labuhan Haji                                                    4          8
+     52.03.18    18 Sakra Timur                                                            10
+     52.03.19    19 Sakra Barat                                                            18
+     52.03.20    20 Jerowaru                                                               15
+     52.03.21    21 Lenek                                                                  10                                Pemekaran sebagian dari wil Kec Aikmel Perda 9/2017 ttg Pembentukan Kec
+     52.04.02     1 Lunyuk                                                                     7
+     52.04.05     2 Alas                                                                       8
+     52.04.06     3 Utan                                                                       9
+     52.04.07     4 Batu Lanteh                                                                6
+     52.04.08     5 Sumbawa                                                         8
+     52.04.09     6 Moyo Hilir                                                             10
+     52.04.10     7 Moyo Hulu                                                              12
+     52.04.11     8 Ropang                                                                     5                             Perda No. 9/2005, diperbaharui Perda No 12/2007
+     52.04.12     9 Lape                                                                       4
+     52.04.13    10 Plampang                                                              11
+     52.04.14    11 Empang                                                                10
+     52.04.17    12 Alas Barat                                                                8
+     52.04.18    13 Labuhan Badas                                                             7
+     52.04.19    14 Labangka                                                                  5
+     52.04.20    15 Buer                                                                      6
+     52.04.21    16 Rhee                                                                      4
+     52.04.22    17 Unter Iwes                                                                8
+     52.04.23    18 Moyo Utara                                                                6
+     52.04.24    19 Maronge                                                                   4
+     52.04.25    20 Tarano                                                                    8
+     52.04.26    21 Lopok                                                                     7                            Perda No. 8/2005
+     52.04.27    22 Lenangguar                                                                4                            Perda No. 9/2005, diperbaharui Perda No. 13/2007
+     52.04.28    23 Orong Telu                                                                4                            Perda No.10/2005
+     52.04.29    24 Lantung                                                                   4                            Perda No. 14/2007
+     52.05.01     1 Dompu                                                          6          9
+     52.05.02     2 Kempo                                                                     8
+     52.05.03     3 Hu'u                                                                      8
+     52.05.04     4 Kilo                                                                      6
+     52.05.05     5 Woja                                                           3      11
+     52.05.06     6 Pekat                                                                 12
+     52.05.07     7 Manggalewa                                                            12
+     52.05.08     8 Pajo                                                                      6
+     52.06.01     1 Monta                                                                 14
+     52.06.02     2 Bolo                                                                  14
+     52.06.03     3 Woha                                                                  15
+     52.06.04     4 Belo                                                                      9
+     52.06.05     5 Wawo                                                                      9
+     52.06.06     6 Sape                                                                  18
+     52.06.07     7 Wera                                                                  14
+     52.06.08     8 Donggo                                                                    9
+     52.06.09     9 Sanggar                                                                   6
+     52.06.10    10 Ambalawi                                                                  6
+     52.06.11    11 Langgudu                                                              15
+     52.06.12    12 Lambu                                                                 14
+     52.06.13    13 Madapangga                                                            11
+     52.06.14    14 Tambora                                                                   7
+     52.06.15    15 Soromandi                                                                 7                            Perda No. 2/2006
+     52.06.16    16 Parado                                                                    5                            Perda No. 2/2006
+     52.06.17    17 Lambitu                                                                   6                            Perda No. 2/2006
+     52.06.18    18 Palibelo                                                              12                               Perda No. 2/2006
+     52.07.01     1 Jereweh                                                                   4
+     52.07.02     2 Taliwang                                                       7          8
+     52.07.03     3 Seteluk                                                               10
+     52.07.04     4 Sekongkang                                                                7
+     52.07.05     5 Brang Rea                                                                 9
+     52.07.06     6 Poto Tano                                                                 8                            Perda No. 4/2007
+     52.07.07     7 Brang Ene                                                                 6                            Perda No. 5/2007
+     52.07.08     8 Maluk                                                                     5                            Perda No. 6/2007
+     52.08.01     1 Tanjung                                                                   7                            Semula wil. Kab. Lombok Barat
+     52.08.02     2 Gangga                                                                    5                            Semula wil. Kab. Lombok Barat
+     52.08.03     3 Kayangan                                                                  8                            Semula wil. Kab. Lombok Barat
+     52.08.04     4 Bayan                                                                     9                            Semula wil. Kab. Lombok Barat
+     52.08.05     5 Pemenang                                                                  4                            Semula wil. Kab. Lombok Barat
+     52.71.01     1 Ampenan                                                    10
+     52.71.02     2 Mataram                                                        9
+     52.71.03     3 Cakranegara                                                10
+     52.71.04     4 Sekarbela                                                      5                                       Perda No. 3/2007
+     52.71.05     5 Selaprang                                                      9                                       Perda No. 3/2007
+     52.71.06     6 Sandubaya                                                      7                                       Perda No. 3/2007
+     52.72.01     1 Rasanae Barat                                                  6
+     52.72.02     2 Rasanae Timur                                                  8
+     52.72.03     3 Asakota                                                        6
+     52.72.04     4 Raba                                                       11                                          Perda No. 21/2006
+     52.72.05   5 Mpunda                                                      10                                      Perda No. 22/2006

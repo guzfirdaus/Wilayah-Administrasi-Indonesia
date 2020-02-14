@@ -1,0 +1,311 @@
+       73.01.01     1 Benteng                                                                           3
+       73.01.02     2 Bontoharu                                                                         2          6
+       73.01.03     3 Bontomatene                                                                       2       10
+       73.01.04     4 Bontomanai                                                                                10
+       73.01.05     5 Bontosikuyu                                                                               12
+       73.01.06     6 Pasimasunggu                                                                                 7
+       73.01.07     7 Pasimarannu                                                                                  8
+       73.01.08     8 Taka Bonerate                                                                                9
+       73.01.09     9 Pasilambena                                                                                  6
+       73.01.10    10 Pasimasunggu Timur                                                                           6
+       73.01.11    11 Buki                                                                                         7                              Perda Nomor 16 Tahun 2007
+       73.02.01     1 Gantorang                                                                         3       18
+       73.02.02     2 Ujung Bulu                                                                        9
+       73.02.03     3 Bonto Bahari                                                                      4          4
+       73.02.04     4 Bonto Tiro                                                                        1       12
+       73.02.05     5 Herlang                                                                           2          6
+       73.02.06     6 Kajang                                                                            2       17
+       73.02.07     7 Bulukumpa                                                                         3       14
+       73.02.08     8 Kindang                                                                           1       12
+       73.02.09     9 Ujungloe                                                                          1       12
+       73.02.10    10 Rilauale                                                                          1       14
+       73.03.01     1 Bissappu                                                                          7          4
+       73.03.02     2 Bantaeng                                                                          8          1
+       73.03.03     3 Eremerasa                                                                                    9
+     73.03.04    4 Tompo Bulu                                                          4          6
+     73.03.05    5 Pajukukang                                                                 10
+     73.03.06    6 Uluere                                                                         6
+     73.03.07    7 Gantarang Keke                                                      2          4
+     73.03.08    8 Sinoa                                                                          6
+     73.04.01    1 Bangkala                                                            4      10
+     73.04.02    2 Tamalatea                                                           6          6
+     73.04.03    3 Binamu                                                           12            1
+     73.04.04    4 Batang                                                              2          4
+     73.04.05    5 Kelara                                                              5          5
+     73.04.06    6 Bangkala Barat                                                      1          7
+     73.04.07    7 Bontoramba                                                          1      11
+     73.04.08    8 Turatea                                                                    11
+     73.04.09    9 Arungkeke                                                                      7
+     73.04.10    10 Rumbia                                                                    12
+     73.04.11    11 Tarowang                                                                      8                            Pemekaran Kec., Perda No. 9/2006
+     73.05.01    1 Mappakasunggu                                                       1          3
+     73.05.02    2 Mangarabombang                                                      1      11
+     73.05.03    3 Polombangkeng Selatan                                               6          4
+     73.05.04    4 Polombangkeng Utara                                                 6      12
+     73.05.05    5 Galesong Selatan                                                           12
+     73.05.06    6 Galesong Utara                                                      1          9
+     73.05.07    7 Pattallassang                                                       9
+     73.05.08    8 Sanrobone                                                                      6
+     73.05.09    9 Galesong                                                                   14
+     73.05.10    10 Kepulauan Tanakeke                                                            5                            Pemekaran sebagian wil Kec. Mappakasunggu Perda No. 3/2019 dan ND
+     73.06.01    1 Bontonompo                                                          3      11
+     73.06.02    2 Bajeng                                                              4      10
+     73.06.03    3 Tompobullu                                                          2          6
+     73.06.04    4 Tinggimoncong                                                       6          1
+     73.06.05    5 Parangloe                                                           2          5
+     73.06.06    6 Bontomarannu                                                        3          6
+     73.06.07     7 Palangga                                                        4      12
+     73.06.08     8 Somba Upu                                                   14
+     73.06.09     9 Bungaya                                                         2          5
+     73.06.10    10 Tombolopao                                                      1          8
+     73.06.11    11 Biringbulu                                                      2          9
+     73.06.12    12 Barombong                                                       2          5
+     73.06.13    13 Pattalasang                                                                8
+     73.06.14    14 Manuju                                                                     7
+     73.06.15    15 Bontolempangang                                                            8
+     73.06.16    16 Bontonompo Selatan                                              1          8
+     73.06.17    17 Parigi                                                                     5
+     73.06.18    18 Bajeng Barat                                                               7
+     73.07.01     1 Sinjai Barat                                                    2          7
+     73.07.02     2 Sinjai Selatan                                                  1      10
+     73.07.03     3 Sinjai Timur                                                    1      12
+     73.07.04     4 Sinjai Tengah                                                   1      10
+     73.07.05     5 Sinjai Utara                                                    6
+     73.07.06     6 Bulupoddo                                                                  7
+     73.07.07     7 Sinjai Borong                                                   1          7
+     73.07.08     8 Tellu Limpoe                                                    1      10
+     73.07.09     9 Pulau Sembilan                                                             4
+     73.08.01     1 Bontocani                                                       1      10
+     73.08.02     2 Kahu                                                            1      19
+     73.08.03     3 Kajuara                                                         1      17
+     73.08.04     4 Salomekko                                                       1          7
+     73.08.05     5 Tonra                                                                  11
+     73.08.06     6 Libureng                                                        2      18
+     73.08.07     7 Mare                                                            1      17
+     73.08.08     8 Sibulue                                                         1      19
+     73.08.09     9 Barebbo                                                         1      17
+     73.08.10    10 Cina                                                            1      11
+     73.08.11    11 Ponre                                                                      9
+     73.08.12    12 Lappariaja                                                                 9
+     73.08.13    13 Lamuru                                                          1      11
+     73.08.14    14 Ulaweng                                                         1      14
+     73.08.15    15 Palakka                                                                   15
+     73.08.16    16 Awangpone                                                          1      17
+     73.08.17    17 Tellu Siattinge                                                    2      15
+     73.08.18    18 Ajangale                                                           2      12
+     73.08.19    19 Dua Boccoe                                                         1      21
+     73.08.20    20 Cenrana                                                            1      15
+     73.08.21    21 Tanete Riattang                                                    8
+     73.08.22    22 Tanete Riattang Barat                                              8
+     73.08.23    23 Tanete Riattang Timur                                              8
+     73.08.24    24 Amali                                                              1      14
+     73.08.25    25 Tellulimpoe                                                               11
+     73.08.26    26 Bengo                                                                         9
+     73.08.27    27 Patimpeng                                                                 10
+     73.09.01     1 Mandai                                                             2          4
+     73.09.02     2 Camba                                                              2          6
+     73.09.03     3 Bantimurung                                                        2          6
+     73.09.04     4 Maros Baru                                                         3          4
+     73.09.05     5 Bontoa                                                             1          8
+     73.09.06     6 Malllawa                                                           1      10
+     73.09.07     7 Tanralili                                                          1          7
+     73.09.08     8 Marusu                                                                        7
+     73.09.09     9 Simbang                                                                       6
+     73.09.10    10 Cenrana                                                                       7
+     73.09.11    11 Tompobulu                                                                     8
+     73.09.12    12 Lau                                                                4          2
+     73.09.13    13 Moncong Loe                                                                   5
+     73.09.14    14 Turikale                                                           7
+     73.10.01     1 Liukang Tangaya                                                    1          8
+     73.10.02     2 Liukang Kalmas                                                     1          6
+     73.10.03     3 Liukang Tupabbiring                                                2          7
+     73.10.04     4 Pangkajene                                                         9
+     73.10.05     5 Balocci                                                            4          1
+     73.10.06     6 Bungoro                                                            3          5
+     73.10.07     7 Labakkang                                                          4          9
+     73.10.08     8 Marang                                                             4          6
+     73.10.09     9 Segeri                                                                    4          2
+     73.10.10    10 Minasa Tene                                                               6          2
+     73.10.11    11 Mandalle                                                                             6
+     73.10.12    12 Tondong Tallasa                                                                      6
+     73.10.13    13 Liukang Tupabbiring Utara                                                            7                            Perda No.10/2008, Rekomendasi Gubernur No. 135/7718/Dekon, Tgl 23
+     73.11.01     1 Tanete Riaja                                                              1          6
+     73.11.02     2 Tanete Rilau                                                              2          8
+     73.11.03     3 Barru                                                                     5          5
+     73.11.04     4 Soppeng Riaja                                                             2          5
+     73.11.05     5 Mallusetasi                                                               3          5
+     73.11.06     6 Pujananting                                                               1          6
+     73.11.07     7 Balusu                                                                    1          5
+     73.12.01     1 Marioriwawo                                                               2      11
+     73.12.02     2 Liliraja                                                                  3          5
+     73.12.03     3 Lilirilau                                                                 4          8
+     73.12.04     4 Lalabata                                                                  7          3
+     73.12.05     5 Marioriawa                                                                5          5
+     73.12.06     6 Donri Donri                                                                          9
+     73.12.07     7 Ganra                                                                                4
+     73.12.08     8 Citta                                                                                4
+     73.13.01     1 Sabangparu                                                                3      12
+     73.13.02     2 Pammana                                                                   2      14
+     73.13.03     3 Takkalalla                                                                2      11
+     73.13.04     4 Sajoanging                                                                3          6
+     73.13.05     5 Majauleng                                                                 4      14
+     73.13.06     6 Tempe                                                                 16
+     73.13.07     7 Belawa                                                                    3          6
+     73.13.08     8 Tanasitolo                                                                4      15
+     73.13.09     9 Maniangpajo                                                               3          5
+     73.13.10    10 Pitumpanua                                                                4      23
+     73.13.11    11 Bola                                                                      1      10
+     73.13.12    12 Penrang                                                                   1          9
+     73.13.13    13 Gilireng                                                        1          8
+     73.13.14    14 Keera                                                           1          9
+     73.14.01     1 Panca Lautan                                                    3          7
+     73.14.02     2 Tellu Limpoe                                                    6          3
+     73.14.03     3 Watang Pulu                                                     5          5
+     73.14.04     4 Baranti                                                         5          4
+     73.14.05     5 Panca Rijang                                                    4          4
+     73.14.06     6 Kulo                                                                       6
+     73.14.07     7 Maritengngae                                                    7          5
+     73.14.08     8 WT. Sidenreng                                                   3          5
+     73.14.09     9 Dua Pitue                                                       2          8
+     73.14.10    10 Pitu Riawa                                                      2      10
+     73.14.11    11 Pitu Raise                                                      1      11
+     73.15.01     1 Matirro Sompe                                                   2          7
+     73.15.02     2 Suppa                                                           2          8
+     73.15.03     3 Mattiro Bulu                                                    2          7
+     73.15.04     4 Watang Sawito                                                   8
+     73.15.05     5 Patampanua                                                      4          7
+     73.15.06     6 Duampanua                                                       5      10
+     73.15.07     7 Lembang                                                         2      14
+     73.15.08     8 Cempa                                                           1          6
+     73.15.09     9 Tiroang                                                         5
+     73.15.10    10 Lansirang                                                       1          6
+     73.15.11    11 Paleteang                                                       6
+     73.15.12    12 Batu Lappa                                                      1          4
+     73.16.01     1 Maiwa                                                           1      21
+     73.16.02     2 Enrekang                                                        6      12
+     73.16.03     3 Baraka                                                          3      12
+     73.16.04     4 Anggeraja                                                       3      12
+     73.16.05     5 Alla                                                            3          5
+     73.16.06     6 Bungin                                                                     6                            Perubahan Nama Kec. Maiwa Atas, Perda No.5/2002
+     73.16.07     7 Cendana                                                                    7                            Perubahan Nama Kec. Enrekang Selatan, Perda No.4/2002
+     73.16.08     8 Curio                                                                  11                               Perubahan Nama Kec. Alla Timur, Perda No.7/2002
+     73.16.09     9 Malua                                                           1          7                            Perubahan Nama Kec.Anggeraja Timur, Perda No.6/2002
+     73.16.10    10 Buntu Batu                                                                 8
+     73.16.11    11 Masalle                                                                    6
+     73.16.12    12 Baroko                                                                     5                            PMD, Perda No. 35 Tahun 2007
+     73.17.01     1 Basse Sangtempe                                                        12
+     73.17.02     2 Larompong                                                       1      12
+     73.17.03     3 Suli                                                            1      12
+     73.17.04     4 Bajo                                                            1      11
+     73.17.05     5 Bua Ponrang                                                     1          9
+     73.17.06     6 Walenrang                                                       1          8
+     73.17.07     7 Belopa                                                          4          5
+     73.17.08     8 Bua                                                             1      14
+     73.17.09     9 Lamasi                                                          1          9
+     73.17.10    10 Larompong Selatan                                               1          9
+     73.17.11    11 Ponrang                                                         2          8
+     73.17.12    12 Latimojong                                                             12
+     73.17.13    13 Kamanre                                                         1          7
+     73.17.14    14 Belopa Utara                                                    2          6
+     73.17.15    15 Walenrang Barat                                                            6
+     73.17.16    16 Walenrang Utara                                                 1      10
+     73.17.17    17 Walenrang Timur                                                            8
+     73.17.18    18 Lamasi Timur                                                               9
+     73.17.19    19 Suli Barat                                                      1          7
+     73.17.20    20 Bajo Barat                                                                 9
+     73.17.21    21 Ponrang Selatan                                                 1      12
+     73.17.22    22 Basse Sangtempe Utara                                                  12                               Pemekaran sebagian Kec. Basse Sangtempe, Perda No. 1/2012
+     73.18.01     1 Saluputi                                                        1          8                            SK. Gub No. 2067A Th. 1961
+     73.18.02     2 Bittuang                                                        1      14                               Perda No. 18/2000
+     73.18.03     3 Bonggakaradeng                                                  1          5                            SK Gub. No. 2067A Th 1961
+     73.18.05     4 Makale                                                       14            1                            SK Gub. No. 2067A Th 1961
+     73.18.09     5 Simbuang                                                        1          5                            Perda No. 18/2000
+     73.18.11    6 Rantetayo                                                    3          3                         Perda No. 18/2000
+     73.18.12    7 Mengkendek                                                   4      13                            SK Gub. No. 2067A Th 1961
+     73.18.13    8 Sangalla                                                     2          3                         SK Gub. No. 2067A Th 1961
+     73.18.19    9 Gandangbatu Sillanan                                         3          9                         Perda No.2/2004
+     73.18.20   10 Rembon                                                       2      11                            Perda No.2/2004
+     73.18.27   11 Makale Utara                                                 5                                    Perda No.8/2004
+     73.18.28   12 Mappak                                                       1          5                         Perda No.6/2005
+     73.18.29   13 Makale Selatan                                               4          4                         Perda No.8/2004
+     73.18.31   14 Masanda                                                                 8                         Perda No.8/2004
+     73.18.33   15 Sangalla Selatan                                             1          4                         Perda No.6/2005
+     73.18.34   16 Sangalla Utara                                               2          4                         Perda No.6/2005
+     73.18.35   17 Malimbong Balepe                                             1          5                         Perda No.6/2005
+     73.18.37   18 Rano                                                                    5                         Perda No.6/2005
+     73.18.38   19 Kurra                                                        1          5                         Perda No.6/2005
+     73.22.01     1 Malangke                                                             14
+     73.22.02     2 Bone Bone                                                     1      10
+     73.22.03     3 Masamba                                                       4      15
+     73.22.04     4 Sabbang                                                       1          9
+     73.22.05     5 Limbong                                                                  7
+     73.22.06     6 Sukamaju                                                             14
+     73.22.07     7 Seko                                                                 12
+     73.22.08     8 Malangke Barat                                                       13
+     73.22.09     9 Rampi                                                                    6
+     73.22.10    10 Mappedeceng                                                          15
+     73.22.11    11 Baebunta                                                      1      10
+     73.22.12    12 Tana Lili                                                            10                               Pemekaran sebagian Kec. Bone-Bone, Perda No. 1/2012
+     73.22.13    13 Sukamaju Selatan                                                     11                               Pemekaran sebagian wil Kec. Sukamaju, Perda No. 1/2018
+     73.22.14    14 Baebunta Selatan                                                     10                               Pemekaran sebagian wil Kec. Baebunta, Perda No. 2/2018
+     73.22.15    15 Sabbang Selatan                                                      10                               Pemekaran sebagian wil Kec. Sabbang, Perda No. 3/2018
+     73.24.01     1 Mangkutana                                                           11
+     73.24.02     2 Nuha                                                          1          4
+     73.24.03     3 Towuti                                                               18
+     73.24.04     4 Malili                                                        1      14
+     73.24.05     5 Angkona                                                              10
+     73.24.06     6 Wotu                                                                 16
+     73.24.07     7 Burau                                                                18
+     73.24.08     8 Tomoni                                                        1      12
+     73.24.09     9 Tomoni Timur                                                             8                            Perda No. 4/2006
+     73.24.10    10 Kalaena                                                                  7                            Perda No. 4/2006
+     73.24.11    11 Wasuponda                                                                6                            Perda No. 4/2006
+     73.26.01     1 Rantepao                                                        9          2                             SK Gub No. 2067A Th 1961
+     73.26.02     2 Sesean                                                          5          4                             SK Gub No. 2067A Th 1961
+     73.26.03     3 Nanggala                                                        1          8                             Perda No. 18/2000
+     73.26.04     4 Rindingallo                                                     2          7                             SK Gub No. 2067A Th 1961
+     73.26.05     5 Buntao                                                          2          4                             Perda No. 18/2000
+     73.26.06     6 Sa'dan                                                          2          8                             Perda No. 18/2000
+     73.26.07     7 Sanggalangi                                                     1          5                             SK Gub No. 2067A Th 1961
+     73.26.08     8 Sopai                                                           1          7                             Perda No. 2/2004
+     73.26.09     9 Tikala                                                          2          5                             Perda No. 2/2004
+     73.26.10    10 Balusu                                                          2          5                             Perda No. 8/2004
+     73.26.11    11 Tallunglipu                                                     6          1                             Perda No. 8/2004
+     73.26.12    12 Dende' Piongan Napo                                             1          7                             Perda No. 8/2004
+     73.26.13    13 Buntu Pepasan                                                   1      12                                Perda No. 8/2004
+     73.26.14    14 Baruppu                                                         1          3                             Perda No. 8/2004
+     73.26.15    15 Kesu                                                            2          5                             Perda No. 8/2004
+     73.26.16    16 Tondon                                                                     4                             Perda No. 8/2004
+     73.26.17    17 Bangkelekila                                                               4                             Perda No. 6/2005
+     73.26.18    18 Rantebua                                                        2          5                             Perda No. 6/2005
+     73.26.19    19 Sesean Suloara                                                             5                             Perda No. 6/2005
+     73.26.20    20 Kapala Pitu                                                                6                             Perda No. 6/2005
+     73.26.21    21 Awan Rante Karua                                                           4                             Perda No. 6/2005
+     73.71.01     1 Mariso                                                          9
+     73.71.02     2 Mamajang                                                     13
+     73.71.03     3 Makassar                                                     14
+     73.71.04     4 Ujung Pandang                                                10
+     73.71.05     5 Wajo                                                            8
+     73.71.06     6 Bontoala                                                     12
+     73.71.07     7 Tallo                                                        15
+     73.71.08     8 Ujung Tanah                                                     9
+     73.71.09     9 Panakkukang                                                  11
+     73.71.10    10 Tamalate                                                     11
+     73.71.11    11 Biringkanaya                                                 11
+     73.71.12    12 Manggala                                                        8
+     73.71.13    13 Rappocini                                                    11
+     73.71.14    14 Tamalanrea                                                      8
+     73.71.15    15 Kepulauan Sangkarrang                                           3                                        Pemekaran sebagian wil Kec. Ujung Tanah, Perda No. 3/2015
+     73.72.01     1 Bacukiki                                                       4
+     73.72.02     2 Ujung                                                          5
+     73.72.03     3 Soreang                                                        7
+     73.72.04     4 Bacukiki Barat                                                 6                                       Perda No. 4/2007
+     73.73.01     1 Wara                                                           6
+     73.73.02     2 Wara Utara                                                     6
+     73.73.03     3 Wara Selatan                                                   4
+     73.73.04     4 Telluwanua                                                     7
+     73.73.05     5 Wara Timur                                                     7                                       Perda No. 3/2005
+     73.73.06     6 Wara Barat                                                     5                                       Perda No. 3/2005
+     73.73.07     7 Sendana                                                        4                                       Perda No. 3/2005
+     73.73.08     8 Mungkajang                                                     4
+     73.73.09     9 Bara                                                           5

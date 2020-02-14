@@ -1,0 +1,716 @@
+51.01.01.2001                                                                                    1 Cupel
+51.01.01.2002                                                                                    2 Baluk
+51.01.01.2003                                                                                    3 Banyu Biru
+51.01.01.2004                                                                                    4 Kaliakah
+51.01.01.2005                                                                                    5 Berangbang
+51.01.01.1006                                                          1 Baler Bale Agung
+51.01.01.1008                                                          2 Banjar Tengah
+51.01.01.2009                                                                                    6 Tegal Badeng Timur
+51.01.01.2010                                                                                    7 Tegal Badeng Barat
+51.01.01.2011                                                                                    8 Pengambengan
+51.01.01.1013                                                          3 Lelateng
+51.01.01.1014                                                          4 Loloan Barat
+51.01.02.2001                                                                                    1 Mendoyo Dauh Tukad
+51.01.02.2002                                                                                    2 Pohsanten
+51.01.02.2003                                                                                    3 Mendoyo Dangin
+51.01.02.2004                                                                              4 Pergung
+51.01.02.2005                                                                              5 Delodberawah
+51.01.02.1006                                                     1 Tegalcangkring                                                       Menjadi Kel. Perda No. 15/2007
+51.01.02.2007                                                                              6 Penyaringan
+51.01.02.2008                                                                              7 Yehembang
+51.01.02.2009                                                                              8 Yeh Sumbul
+51.01.02.2010                                                                              9 Yehembang Kauh
+51.01.02.2011                                                                             10 Yehembang Kangin
+51.01.03.2001                                                                              1 Medewi
+51.01.03.2002                                                                              2 Pulukan
+51.01.03.2003                                                                              3 Asahduren
+51.01.03.2004                                                                              4 Pekutatan
+51.01.03.2005                                                                              5 Pangyangan
+51.01.03.2006                                                                              6 Gumbrih
+51.01.03.2007                                                                              7 Manggissari
+51.01.03.2008                                                                              8 Pengragoan
+51.01.04.1001                                                     1 Gilimanuk
+51.01.04.2002                                                                              1 Melaya
+51.01.04.2003                                                                              2 Belimbingsari
+51.01.04.2004                                                                              3 Ekasari
+51.01.04.2005                                                                              4 Nusasari
+51.01.04.2006                                                                              5 Warnasari
+51.01.04.2007                                                                              6 Candikusuma
+51.01.04.2008                                                                              7 Tuwed
+51.01.04.2009                                                                              8 Tukadaya
+51.01.04.2010                                                                              9 Manistutu
+51.01.05.1001                                                     1 Pendem                                                               Semula wil. Kec. Negara
+51.01.05.2002                                                                              1 Perancak                                    Semula wil. Kec. Negara
+51.01.05.1003                                                     2 Loloan Timur                                                         Semula wil. Kec. Negara
+51.01.05.2004                                                                              2 Batu Agung                                  Semula wil. Kec. Negara
+51.01.05.1005                                                     3 Dauhwaru                                                             Semula wil. Kec. Negara
+51.01.05.2006                                                                                      3 Budeng                                          Semula wil. Kec. Negara
+51.01.05.2007                                                                                      4 Air Kuning                                      Semula wil. Kec. Negara
+51.01.05.2008                                                                                      5 Yehkuning                                       Semula wil. Kec. Negara
+51.01.05.1009                                                                4 Sangkaragung                                                          Semula wil. Kec. Negara
+51.01.05.2010                                                                                      6 Dangin Tukadaya                                 Semula wil. Kec. Negara
+51.02.01.2001                                                                                      1 Bajera
+51.02.01.2002                                                                                      2 Wanagiri
+51.02.01.2003                                                                                      3 Pupuan Sawah
+51.02.01.2004                                                                                      4 Berembeng
+51.02.01.2005                                                                                      5 Selemadeg
+51.02.01.2006                                                                                      6 Sarampingan
+51.02.01.2007                                                                                      7 Antap
+51.02.01.2008                                                                                      8 Wanagiri Kauh
+51.02.01.2009                                                                                      9 Manikyang                                       PMD dan Dukcapil
+51.02.01.2010                                                                                     10 Bajera Utara                                    PMD dan Dukcapil
+51.02.02.2001                                                                                      1 Gunung Salak
+51.02.02.2002                                                                                      2 Gadungan
+51.02.02.2003                                                                                      3 Bantas
+51.02.02.2004                                                                                      4 Mambang
+51.02.02.2005                                                                                      5 Megati
+51.02.02.2006                                                                                      6 Tangguntiti
+51.02.02.2007                                                                                      7 Beraban
+51.02.02.2008                                                                                      8 Tegal Mengkeb
+51.02.02.2009                                                                                      9 Dalang
+51.02.02.2010                                                                                     10 Gadungsari                                      PMD dan Dukcapil
+51.02.03.2001                                                                                      1 Mundeh
+51.02.03.2002                                                                                      2 Mundeh Kangin
+51.02.03.2003                                                                                      3 Lalanglinggah
+51.02.03.2004                                                                                      4 Antosari
+51.02.03.2005                                                                       5 Lumbung
+51.02.03.2006                                                                       6 Lumbung Kauh
+51.02.03.2007                                                                       7 Tiing Gading
+51.02.03.2008                                                                       8 Mundeh Kauh
+51.02.03.2009                                                                       9 Angkah
+51.02.03.2010                                                                      10 Selabih                                     PMD
+51.02.03.2011                                                                      11 Bengkel Sari                                PMD
+51.02.04.2001                                                                       1 Tibubiu
+51.02.04.2002                                                                       2 Kelating
+51.02.04.2003                                                                       3 Penarukan
+51.02.04.2004                                                                       4 Belumbang
+51.02.04.2005                                                                       5 Tista
+51.02.04.2006                                                                       6 Kerambitan
+51.02.04.2007                                                                       7 Pangkung Karung
+51.02.04.2008                                                                       8 Samsam
+51.02.04.2009                                                                       9 Kukuh
+51.02.04.2010                                                                      10 Baturiti
+51.02.04.2011                                                                      11 Meliling
+51.02.04.2012                                                                      12 Sembung Gede
+51.02.04.2013                                                                      13 Batuaji
+51.02.04.2014                                                                      14 Kesiut
+51.02.04.2015                                                                      15 Timpag
+51.02.05.2001                                                                       1 Sudimara
+51.02.05.2002                                                                       2 Gubug
+51.02.05.2003                                                                       3 Bongan
+51.02.05.2004                                                                       4 Delod Peken
+51.02.05.2005                                                                       5 Dauh Peken
+51.02.05.2006                                                                       6 Dajan Peken
+51.02.05.2007                                                                       7 Denbantas
+51.02.05.2008                                                                       8 Subamia
+51.02.05.2009                                                                       9 Wanasari
+51.02.05.2010                                                                      10 Tunjuk
+51.02.05.2011                                                                       11 Buahan
+51.02.05.2012                                                                       12 Sedandan                                     PMD dan Dukcapil
+51.02.06.2001                                                                        1 Bengkel
+51.02.06.2002                                                                        2 Pangkung Tibah
+51.02.06.2003                                                                        3 Belalang
+51.02.06.2004                                                                        4 Beraban
+51.02.06.2005                                                                        5 Buwit
+51.02.06.2006                                                                        6 Cepaka
+51.02.06.2007                                                                        7 Kaba-kaba
+51.02.06.2008                                                                        8 Nyambu
+51.02.06.2009                                                                        9 Pandak Bandung
+51.02.06.2010                                                                       10 Pandak Gede
+51.02.06.2011                                                                       11 Nyitdah
+51.02.06.2012                                                                       12 Pejaten
+51.02.06.2013                                                                       13 Kediri
+51.02.06.2014                                                                       14 Abian Tuwung
+51.02.06.2015                                                                       15 Banjar Anyar
+51.02.07.2001                                                                        1 Kukuh
+51.02.07.2002                                                                        2 Beringkit
+51.02.07.2003                                                                        3 Peken
+51.02.07.2004                                                                        4 Batannyuh
+51.02.07.2005                                                                        5 Tegaljadi
+51.02.07.2006                                                                        6 Kuwum
+51.02.07.2007                                                                        7 Selanbawak
+51.02.07.2008                                                                        8 Marga
+51.02.07.2009                                                                        9 Petiga
+51.02.07.2010                                                                       10 Cau Belayu
+51.02.07.2011                                                                       11 Tua
+51.02.07.2012                                                                       12 Payangan
+51.02.07.2013                                                                       13 Marga Dajan Puri
+51.02.07.2014                                                                       14 Marga Dauh Puri
+51.02.07.2015                                                                       15 Geluntung                                    PMD dan Dukcapil
+51.02.07.2016                                                                       16 Baru                                      Pemekaran desa Tua Perda No. 1/2014
+51.02.08.2001                                                                        1 Rejasa
+51.02.08.2002                                                                        2 Jegu
+51.02.08.2003                                                                        3 Riang Gede
+51.02.08.2004                                                                        4 Buruan
+51.02.08.2005                                                                        5 Biaung
+51.02.08.2006                                                                        6 Pitra
+51.02.08.2007                                                                        7 Penatahan
+51.02.08.2008                                                                        8 Tengkudak
+51.02.08.2009                                                                        9 Mengesta
+51.02.08.2010                                                                       10 Penebel
+51.02.08.2011                                                                       11 Babakan
+51.02.08.2012                                                                       12 Senganan
+51.02.08.2013                                                                       13 Jatiluwih
+51.02.08.2014                                                                       14 Wongaya Gede
+51.02.08.2015                                                                       15 Tajen
+51.02.08.2016                                                                       16 Tegallinggah
+51.02.08.2017                                                                       17 Pesagi
+51.02.08.2018                                                                       18 Sangketan
+51.02.09.2001                                                                        1 Perean
+51.02.09.2002                                                                        2 Luwus
+51.02.09.2003                                                                        3 Apuan
+51.02.09.2004                                                                        4 Angseri
+51.02.09.2005                                                                        5 Bangli
+51.02.09.2006                                                                        6 Baturiti
+51.02.09.2007                                                                        7 Antapan
+51.02.09.2008                                                                        8 Candikuning
+51.02.09.2009                                                                        9 Mekarsari
+51.02.09.2010                                                                       10 Batunya
+51.02.09.2011                                                                       11 Perean Tengah
+51.02.09.2012                                                                       12 Perean Kangin
+51.02.10.2001                                                                                  1 Belimbing
+51.02.10.2002                                                                                  2 Sanda
+51.02.10.2003                                                                                  3 Batungsel
+51.02.10.2004                                                                                  4 Kebon Padangan
+51.02.10.2005                                                                                  5 Munduk Temu
+51.02.10.2006                                                                                  6 Pujungan
+51.02.10.2007                                                                                  7 Pupuan
+51.02.10.2008                                                                                  8 Bantiran
+51.02.10.2009                                                                                  9 Padangan
+51.02.10.2010                                                                                 10 Jelijih Punggung
+51.02.10.2011                                                                                 11 Belatungan
+51.02.10.2012                                                                                 12 Pajahan
+51.02.10.2013                                                                                 13 Karyasari                                     PMD dan Dukcapil
+51.02.10.2014                                                                                 14 Sai                                           Pemekaran desa Pajahan Perda No. 2/2014
+51.03.01.1001                                                           1 Tuban
+51.03.01.1002                                                           2 Kuta
+51.03.01.1003                                                           3 Kedonganan
+51.03.01.1004                                                           4 Legian
+51.03.01.1005                                                           5 Seminyak
+51.03.02.2001                                                                                  1 Munggu
+51.03.02.2002                                                                                  2 Buduk
+51.03.02.2003                                                                                  3 Mengwitani
+51.03.02.1004                                                           1 Kapal
+51.03.02.1005                                                           2 Sempidi
+51.03.02.2006                                                                                  4 Penarungan
+51.03.02.2007                                                                                  5 Sembung
+51.03.02.2008                                                                                  6 Baha
+51.03.02.2009                                                                                  7 Mengwi
+51.03.02.2010                                                                                  8 Kekeran
+51.03.02.2011                                                                                  9 Sobangan
+51.03.02.2012                                                                             10 Gulingan
+51.03.02.2013                                                                             11 Werdi Bhuwana
+51.03.02.1014                                                     3 Abianbase
+51.03.02.1015                                                     4 Sading
+51.03.02.1016                                                     5 Lukluk
+51.03.02.2017                                                                             12 Cemagi
+51.03.02.2018                                                                             13 Pererenan
+51.03.02.2019                                                                             14 Tumbakbayuh
+51.03.02.2020                                                                             15 Kuwun
+51.03.03.2001                                                                              1 Darmasaba
+51.03.03.2002                                                                              2 Sibangkaja                                   koreksi nama desa Rekom Pemdes No145/1820/SET tgl 15 nov
+51.03.03.2003                                                                              3 Sibanggede                                   koreksi nama desa Rekom Pemdes No145/1820/SET tgl 15 nov
+51.03.03.2004                                                                              4 Jagapati
+51.03.03.2005                                                                              5 Angantaka
+51.03.03.2006                                                                              6 Sedang
+51.03.03.2007                                                                              7 Mambal
+51.03.03.2008                                                                              8 Abiansemal
+51.03.03.2009                                                                              9 Bongkasa
+51.03.03.2010                                                                             10 Taman
+51.03.03.2011                                                                             11 Blahkiuh
+51.03.03.2012                                                                             12 Ayunan
+51.03.03.2013                                                                             13 Sangeh
+51.03.03.2014                                                                             14 Punggul
+51.03.03.2015                                                                             15 Mekar Bhuwana
+51.03.03.2016                                                                             16 Abiansemal Dauh Yeh                          koreksi nama desa Rekom Pemdes No145/1820/SET tgl 15 nov
+51.03.03.2017                                                                             17 Selat
+51.03.03.2018                                                                             18 Bongkasa Pertiwi
+51.03.04.2001                                                                              1 Carangsari
+51.03.04.2002                                                                              2 Petang
+51.03.04.2003                                                                              3 Belok/Sidan                                  koreksi nama desa Rekom Pemdes No145/1820/SET tgl 15 nov
+51.03.04.2004                                                                              4 Pelaga
+51.03.04.2005                                                                                     5 Getasan
+51.03.04.2006                                                                                     6 Pangsan
+51.03.04.2007                                                                                     7 Sulangai
+51.03.05.2001                                                                                     1 Pecatu
+51.03.05.2002                                                                                     2 Ungasan
+51.03.05.2003                                                                                     3 Kutuh
+51.03.05.1004                                                            1 Benoa
+51.03.05.1005                                                            2 Tanjung Benoa
+51.03.05.1006                                                            3 Jimbaran
+51.03.06.1001                                                            1 Kerobokan Kelod
+51.03.06.1002                                                            2 Kerobokan
+51.03.06.1003                                                            3 Kerobokan Kaja
+51.03.06.2004                                                                                     1 Tibubeneng
+51.03.06.2005                                                                                     2 Canggu
+51.03.06.2006                                                                                     3 Dalung
+51.04.01.2001                                                                                     1 Batubulan
+51.04.01.2002                                                                                     2 Ketewel
+51.04.01.2003                                                                                     3 Guwang
+51.04.01.2004                                                                                     4 Sukawati
+51.04.01.2005                                                                                     5 Celuk
+51.04.01.2006                                                                                     6 Singapadu
+51.04.01.2007                                                                                     7 Batuan
+51.04.01.2008                                                                                     8 Kemenuh
+51.04.01.2009                                                                                     9 Batubulan Kangin
+51.04.01.2010                                                                                    10 Singapadu Tengah
+51.04.01.2011                                                                                    11 Singapadu Kaler
+51.04.01.2012                                                                                    12 Batuan Kaler
+51.04.02.2001                                                                                     1 Saba
+51.04.02.2002                                                                                2 Pering
+51.04.02.2003                                                                                3 Keramas
+51.04.02.2004                                                                                4 Belega
+51.04.02.2005                                                                                5 Blahbatuh
+51.04.02.2006                                                                                6 Buruan
+51.04.02.2007                                                                                7 Bedulu
+51.04.02.2008                                                                                8 Medahan
+51.04.02.2009                                                                                9 Bona
+51.04.03.2001                                                                                1 Tulikup
+51.04.03.2002                                                                                2 Sidan
+51.04.03.1003                                                      1 Samplangan
+51.04.03.2004                                                                                3 Lebih
+51.04.03.1005                                                      2 Abianbase
+51.04.03.1006                                                      3 Gianyar
+51.04.03.1007                                                      4 Bitera
+51.04.03.1008                                                      5 Beng
+51.04.03.2009                                                                                4 Bakbakan                                  Koreksi nama, Srt PMD 140/4474/Pemdes/2016 tgl 12 April 2016
+51.04.03.2010                                                                                5 Siangan
+51.04.03.2011                                                                                6 Suwat
+51.04.03.2012                                                                                7 Petak
+51.04.03.2013                                                                                8 Serongga
+51.04.03.2014                                                                                9 Petak Kaja
+51.04.03.2015                                                                               10 Temesi
+51.04.03.2016                                                                               11 Sumita
+51.04.03.2017                                                                               12 Tegal Tugu                                Perda Kab. Gianyar No. 1 Tahun 2010
+51.04.04.2001                                                                                1 Pejeng
+51.04.04.2002                                                                                2 Sanding
+51.04.04.2003                                                                                3 Tampaksiring
+51.04.04.2004                                                                                4 Manukaya
+51.04.04.2005                                                                                5 Pejeng Kawan
+51.04.04.2006                                                                                6 Pejeng Kaja
+51.04.04.2007                                                                                7 Pejeng Kangin
+51.04.04.2008                                                                                 8 Pejeng Kelod
+51.04.05.2001                                                                                 1 Lodtunduh
+51.04.05.2002                                                                                 2 Mas
+51.04.05.2003                                                                                 3 Singakerta                                    Koreksi nama, berdasarkan rekomendasi Ditjen PMD. koreksi
+51.04.05.2004                                                                                 4 Kedewatan
+51.04.05.1005                                                           1 Ubud
+51.04.05.2006                                                                                 5 Peliatan
+51.04.05.2007                                                                                 6 Petulu
+51.04.05.2008                                                                                 7 Sayan
+51.04.06.2001                                                                                 1 Keliki
+51.04.06.2002                                                                                 2 Tegallalang
+51.04.06.2003                                                                                 3 Kenderan
+51.04.06.2004                                                                                 4 Kedisan
+51.04.06.2005                                                                                 5 Pupuan
+51.04.06.2006                                                                                 6 Sebatu
+51.04.06.2007                                                                                 7 Taro
+51.04.07.2001                                                                                 1 Melinggih
+51.04.07.2002                                                                                 2 Kelusa
+51.04.07.2003                                                                                 3 Bukian
+51.04.07.2004                                                                                 4 Puhu
+51.04.07.2005                                                                                 5 Buahan
+51.04.07.2006                                                                                 6 Kerta
+51.04.07.2007                                                                                 7 Melinggih Kelod
+51.04.07.2008                                                                                 8 Buahan Kaja
+51.04.07.2009                                                                                 9 Bresela
+51.05.01.2001                                                                                 1 Sakti
+51.05.01.2002                                                                                 2 Batumadeg
+51.05.01.2003                                                                        3 Klumpu
+51.05.01.2004                                                                        4 Batukandik
+51.05.01.2005                                                                        5 Sekartaji
+51.05.01.2006                                                                        6 Tanglad
+51.05.01.2007                                                                        7 Suana
+51.05.01.2008                                                                        8 Batununggul
+51.05.01.2009                                                                        9 Kutampi
+51.05.01.2010                                                                       10 Ped
+51.05.01.2011                                                                       11 Kampung Toyapakeh
+51.05.01.2012                                                                       12 Lembongan
+51.05.01.2013                                                                       13 Jungutbatu
+51.05.01.2014                                                                       14 Pejukutan
+51.05.01.2015                                                                       15 Kutampi Kaler
+51.05.01.2016                                                                       16 Bunga Mekar
+51.05.02.2001                                                                        1 Negari
+51.05.02.2002                                                                        2 Takmung
+51.05.02.2003                                                                        3 Banjarangkan
+51.05.02.2004                                                                        4 Tusan
+51.05.02.2005                                                                        5 Bakas
+51.05.02.2006                                                                        6 Getakan
+51.05.02.2007                                                                        7 Tihingan
+51.05.02.2008                                                                        8 Aan
+51.05.02.2009                                                                        9 Nyalian
+51.05.02.2010                                                                       10 Bungbungan
+51.05.02.2011                                                                       11 Timuhun
+51.05.02.2012                                                                       12 Nyanglan
+51.05.02.2013                                                                       13 Tohpati
+51.05.03.2001                                                                        1 Satra
+51.05.03.2002                                                                        2 Tojan
+51.05.03.2003                                                                        3 Gelgel
+51.05.03.2004                                                                        4 Kampung Gelgel
+51.05.03.2005                                                                        5 Jumpai
+51.05.03.2006                                                                                      6 Tangkas
+51.05.03.2007                                                                                      7 Kamasan
+51.05.03.1008                                                           1 Semarapura Kaja
+51.05.03.1009                                                           2 Semarapura Kauh
+51.05.03.1010                                                           3 Semarapura Tengah
+51.05.03.1011                                                           4 Semarapura Kangin
+51.05.03.1012                                                           5 Semarapura Kelod
+51.05.03.1013                                                           6 Semarapura Kelod
+51.05.03.2014                                                                                      8 Akah
+51.05.03.2015                                                                                      9 Manduang
+51.05.03.2016                                                                                     10 Selat
+51.05.03.2017                                                                                     11 Tegak
+51.05.03.2018                                                                                     12 Selisihan
+51.05.04.2001                                                                                      1 Paksebali
+51.05.04.2002                                                                                      2 Sampalan Tengah
+51.05.04.2003                                                                                      3 Sampalan Kelod
+51.05.04.2004                                                                                      4 Sulang
+51.05.04.2005                                                                                      5 Gunaksa
+51.05.04.2006                                                                                      6 Kusamba
+51.05.04.2007                                                                                      7 Kampung Kusamba
+51.05.04.2008                                                                                      8 Pesinggahan
+51.05.04.2009                                                                                      9 Dawan Kelod
+51.05.04.2010                                                                                     10 Pikat
+51.05.04.2011                                                                                     11 Dawan Kaler
+51.05.04.2012                                                                                     12 Besan
+51.06.01.2001                                                                                      1 Apuan
+51.06.01.2002                                                                                      2 Demulih
+51.06.01.2003                                                                                      3 Abuan
+51.06.01.2004                                                                                      4 Susut
+51.06.01.2005                                                                                      5 Sulahan
+51.06.01.2006                                                                             6 Penglumbaran
+51.06.01.2007                                                                             7 Tiga
+51.06.01.2008                                                                             8 Selat                                    Perda No. 7/2008
+51.06.01.2009                                                                             9 Pengiangan                               Perda No. 7/2008
+51.06.02.2001                                                                             1 Bunutin
+51.06.02.2002                                                                             2 Tamanbali
+51.06.02.1003                                                     1 Bebalang
+51.06.02.1004                                                     2 Kawan
+51.06.02.1005                                                     3 Cempaga
+51.06.02.1006                                                     4 Kubu
+51.06.02.2007                                                                             3 Kayubihi
+51.06.02.2008                                                                             4 Pengotan
+51.06.02.2009                                                                             5 Landih                                   Perda No. 7/2008
+51.06.03.2001                                                                             1 Jehem
+51.06.03.2002                                                                             2 Tembuku
+51.06.03.2003                                                                             3 Yangapi
+51.06.03.2004                                                                             4 Undisan
+51.06.03.2005                                                                             5 Bangbang
+51.06.03.2006                                                                             6 Peninjoan
+51.06.04.2001                                                                             1 Mengani
+51.06.04.2002                                                                             2 Binyan
+51.06.04.2003                                                                             3 Ulian
+51.06.04.2004                                                                             4 Bunutin
+51.06.04.2005                                                                             5 Langgahan
+51.06.04.2006                                                                             6 Lembean
+51.06.04.2007                                                                             7 Manikliyu
+51.06.04.2008                                                                             8 Bayung Cerik
+51.06.04.2009                                                                             9 Mangguh
+51.06.04.2010                                                                            10 Belancan
+51.06.04.2011                                                                            11 Katung
+51.06.04.2012                                                                            12 Banua
+51.06.04.2013                                                               13 Abuan
+51.06.04.2014                                                               14 Bonyoh
+51.06.04.2015                                                               15 Sekaan
+51.06.04.2016                                                               16 Bayung Gede
+51.06.04.2017                                                               17 Sekardadi
+51.06.04.2018                                                               18 Kedisan
+51.06.04.2019                                                               19 Buahan
+51.06.04.2020                                                               20 Abangsongan
+51.06.04.2021                                                               21 Suter
+51.06.04.2022                                                               22 Batudinding
+51.06.04.2023                                                               23 Terunyan
+51.06.04.2024                                                               24 Songan A
+51.06.04.2025                                                               25 Songan B
+51.06.04.2026                                                               26 Batur Selatan
+51.06.04.2027                                                               27 Batur Tengah
+51.06.04.2028                                                               28 Batur Utara
+51.06.04.2029                                                               29 Kintamani
+51.06.04.2030                                                               30 Serai
+51.06.04.2031                                                               31 Daup
+51.06.04.2032                                                               32 Awan
+51.06.04.2033                                                               33 Gunungbau
+51.06.04.2034                                                               34 Belanga
+51.06.04.2035                                                               35 Batukaang
+51.06.04.2036                                                               36 Belantih
+51.06.04.2037                                                               37 Catur
+51.06.04.2038                                                               38 Pengejaran
+51.06.04.2039                                                               39 Selulung
+51.06.04.2040                                                               40 Satra
+51.06.04.2041                                                               41 Dausa
+51.06.04.2042                                                               42 Bantang
+51.06.04.2043                                                               43 Sukawana
+51.06.04.2044                                                               44 Kutuh
+51.06.04.2045                                                               45 Subaya
+51.06.04.2046                                                               46 Siakin
+51.06.04.2047                                                                            47 Pinggan
+51.06.04.2048                                                                            48 Belandingan
+51.07.01.2001                                                                             1 Nongan
+51.07.01.2002                                                                             2 Rendang
+51.07.01.2003                                                                             3 Menanga
+51.07.01.2004                                                                             4 Besakih
+51.07.01.2005                                                                             5 Pempatan
+51.07.01.2006                                                                             6 Pesaban
+51.07.02.2001                                                                             1 Tangkup
+51.07.02.2002                                                                             2 Talibeng
+51.07.02.2003                                                                             3 Sidemen
+51.07.02.2004                                                                             4 Sangkan Gunung
+51.07.02.2005                                                                             5 Telaga Tawang
+51.07.02.2006                                                                             6 Sinduwati
+51.07.02.2007                                                                             7 Tri Eka Buana
+51.07.02.2008                                                                             8 Kerta Buana
+51.07.02.2009                                                                             9 Lakasari
+51.07.02.2010                                                                            10 Wismakerta                                   PMD dan Dukcapil, Perda No. 2/2008
+51.07.03.2001                                                                             1 Gegelang
+51.07.03.2002                                                                             2 Antiga
+51.07.03.2003                                                                             3 Ulakan
+51.07.03.2004                                                                             4 Manggis
+51.07.03.2005                                                                             5 Nyuh Tebel
+51.07.03.2006                                                                             6 Tenganan
+51.07.03.2007                                                                             7 Ngis
+51.07.03.2008                                                                             8 Selumbung
+51.07.03.2009                                                                             9 Padangbai
+51.07.03.2010                                                                            10 Antiga Kelod                                 PMD dan Dukcapil, Perda No. 2/2008
+51.07.03.2011                                                                            11 Pasedahan                                    PMD dan Dukcapil, Perda No. 2/2008
+51.07.03.2012                                                                           12 Sengkidu                                  PMD dan Dukcapil, Perda No. 2/2008
+51.07.04.2001                                                                            1 Bugbug
+51.07.04.1002                                                     1 Subagan
+51.07.04.1003                                                     2 Padang Kerta
+51.07.04.1004                                                     3 Karang asem
+51.07.04.2005                                                                            2 Tumbu
+51.07.04.2006                                                                            3 Seraya
+51.07.04.2007                                                                            4 Seraya Barat
+51.07.04.2008                                                                            5 Seraya Timur
+51.07.04.2009                                                                            6 Pertima
+51.07.04.2010                                                                            7 Tegalinggah
+51.07.04.2011                                                                            8 Bukit
+51.07.05.2001                                                                            1 Ababi
+51.07.05.2002                                                                            2 Tiying Tali
+51.07.05.2003                                                                            3 Bunutan
+51.07.05.2004                                                                            4 Tista
+51.07.05.2005                                                                            5 Abang
+51.07.05.2006                                                                            6 Pidpid
+51.07.05.2007                                                                            7 Datah
+51.07.05.2008                                                                            8 Culik
+51.07.05.2009                                                                            9 Purwakerti
+51.07.05.2010                                                                           10 Kerta Mandala
+51.07.05.2011                                                                           11 Labasari
+51.07.05.2012                                                                           12 Nawa Kerti
+51.07.05.2013                                                                           13 Kesimpar
+51.07.05.2014                                                                           14 Tribuana                                  PMD dan Dukcapil, Perda No. 2/2008
+51.07.06.2001                                                                            1 Bungaya
+51.07.06.2002                                                                            2 Budekeling
+51.07.06.2003                                                                            3 Bebanden
+51.07.06.2004                                                                            4 Sibetan
+51.07.06.2005                                                                            5 Jungutan
+51.07.06.2006                                                                             6 Bungaya Kangin
+51.07.06.2007                                                                             7 Buana Giri
+51.07.06.2008                                                                             8 Macang                                         PMD dan Dukcapil, Perda No. 2/2008
+51.07.07.2001                                                                             1 Muncan
+51.07.07.2002                                                                             2 Selat
+51.07.07.2003                                                                             3 Duda
+51.07.07.2004                                                                             4 Sebudi
+51.07.07.2005                                                                             5 Duda Utara
+51.07.07.2006                                                                             6 Duda Timur
+51.07.07.2007                                                                             7 Pering Sari
+51.07.07.2008                                                                             8 Amerta Bhuana                                  PMD dan Dukcapil, Perda No. 2/2008
+51.07.08.2001                                                                             1 Ban
+51.07.08.2002                                                                             2 Dukuh
+51.07.08.2003                                                                             3 Kubu
+51.07.08.2004                                                                             4 Tianyar
+51.07.08.2005                                                                             5 Tianyar Barat
+51.07.08.2006                                                                             6 Tianyar Tengah
+51.07.08.2007                                                                             7 Tulamben
+51.07.08.2008                                                                             8 Baturinggit
+51.07.08.2009                                                                             9 Sukadana
+51.08.01.2001                                                                             1 Sumberklampok                                  Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.01.2002                                                                             2 Pejarakan
+51.08.01.2003                                                                             3 Sumberkima
+51.08.01.2004                                                                             4 Pemuteran
+51.08.01.2005                                                                             5 Banyupoh
+51.08.01.2006                                                                             6 Penyambangan
+51.08.01.2007                                                                             7 Musi
+51.08.01.2008                                                                             8 Sanggalangit
+51.08.01.2009                                                                             9 Gerokgak
+51.08.01.2010                                                                               10 Patas
+51.08.01.2011                                                                               11 Pengulon
+51.08.01.2012                                                                               12 Tinga-tinga
+51.08.01.2013                                                                               13 Celukanbawang                              Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.01.2014                                                                               14 Tukadsumaga                                Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.02.2001                                                                                1 Unggahan
+51.08.02.2002                                                                                2 Ularan
+51.08.02.2003                                                                                3 Ringdikit
+51.08.02.2004                                                                                4 Rangdu
+51.08.02.2005                                                                                5 Mayong
+51.08.02.2006                                                                                6 Gunungsari                                 Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.02.2007                                                                                7 Munduk Bestala
+51.08.02.2008                                                                                8 Bestala
+51.08.02.2009                                                                                9 Kalianget
+51.08.02.2010                                                                               10 Joanyar
+51.08.02.2011                                                                               11 Tangguwisia                                Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.02.2012                                                                               12 Sulanyah
+51.08.02.2013                                                                               13 Bubunan
+51.08.02.2014                                                                               14 Patemon                                    Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt'
+51.08.02.1015                                                      1 Seririt
+51.08.02.2016                                                                               15 Pengastulan
+51.08.02.2017                                                                               16 Lokapaksa                                  Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.02.2018                                                                               17 Pangkungparuk                              Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.02.2019                                                                               18 Banjarasem
+51.08.02.2020                                                                               19 Kalisada
+51.08.02.2021                                                                               20 Umeanyar
+51.08.03.2001                                                                                1 Sepang
+51.08.03.2002                                                                                2 Tista
+51.08.03.2003                                                                                3 Bongancina
+51.08.03.2004                                                                                4 Pucaksari
+51.08.03.2005                                                                                5 Telaga
+51.08.03.2006                                                                                6 Titab
+51.08.03.2007                                                                       7 Subuk
+51.08.03.2008                                                                       8 Tinggarsari                               Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.03.2009                                                                       9 Kedis
+51.08.03.2010                                                                      10 Kekeran
+51.08.03.2011                                                                      11 Busungbiu
+51.08.03.2012                                                                      12 Pelapuan
+51.08.03.2013                                                                      13 Bengkel
+51.08.03.2014                                                                      14 Umejero
+51.08.03.2015                                                                      15 Sepang Kelod
+51.08.04.2001                                                                       1 Banyuseri
+51.08.04.2002                                                                       2 Tirtasari
+51.08.04.2003                                                                       3 Kayuputih
+51.08.04.2004                                                                       4 Banyuatis                                 Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.04.2005                                                                       5 Gesing
+51.08.04.2006                                                                       6 Munduk
+51.08.04.2007                                                                       7 Gobleg
+51.08.04.2008                                                                       8 Pedawa
+51.08.04.2009                                                                       9 Cempaga
+51.08.04.2010                                                                      10 Sidetapa
+51.08.04.2011                                                                      11 Tampekan
+51.08.04.2012                                                                      12 Banjar Tegeha
+51.08.04.2013                                                                      13 Banjar
+51.08.04.2014                                                                      14 Dencarik
+51.08.04.2015                                                                      15 Temukus
+51.08.04.2016                                                                      16 Tigawasa
+51.08.04.2017                                                                      17 Kaliasem
+51.08.05.2001                                                                       1 Pancasari
+51.08.05.2002                                                                       2 Wanagiri
+51.08.05.2003                                                                       3 Ambengan
+51.08.05.2004                                                                       4 Gitgit
+51.08.05.2005                                                                       5 Pegayaman
+51.08.05.2006                                                                       6 Silangjana
+51.08.05.2007                                                                               7 Pegadungan
+51.08.05.2008                                                                               8 Padangbulia
+51.08.05.1009                                                     1 Sukasada
+51.08.05.2010                                                                               9 Sambangan
+51.08.05.2011                                                                              10 Panji
+51.08.05.2012                                                                              11 Panji Anom
+51.08.05.2013                                                                              12 Tegallinggah
+51.08.05.2014                                                                              13 Selat
+51.08.05.2015                                                                              14 Kayu Putih
+51.08.06.2001                                                                               1 Kalibukbuk
+51.08.06.2002                                                                               2 Anturan
+51.08.06.2003                                                                               3 Tukadmungga                              Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.06.2004                                                                               4 Pemaron
+51.08.06.2005                                                                               5 Baktiseraga                              Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.06.1006                                                     1 Banyuasri                                                          Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt'
+51.08.06.1007                                                     2 Banjar Tegal
+51.08.06.1008                                                     3 Kendran
+51.08.06.1009                                                     4 Paket Agung
+51.08.06.1010                                                     5 Kampung Singaraja
+51.08.06.1011                                                     6 Liligundi
+51.08.06.1012                                                     7 Beratan
+51.08.06.2013                                                                               6 Sarimekar
+51.08.06.2014                                                                               7 Nagasepaha                               Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt'
+51.08.06.2015                                                                               8 Petandakan
+51.08.06.2016                                                                               9 Alasangker
+51.08.06.2017                                                                              10 Poh Bergong                              Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt'
+51.08.06.2018                                                                              11 Jinangdalem                              Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016,
+51.08.06.1019                                                     8 Banyuning
+51.08.06.1020                                                     9 Penarukan
+51.08.06.1021                                                    10 Kampung Kajanan
+51.08.06.1022                                                    11 Astina
+51.08.06.1023                                                    12 Banjar Jawa
+51.08.06.1024                                                     13 Kaliuntu
+51.08.06.1025                                                     14 Kampung Anyar
+51.08.06.1026                                                     15 Kampung Bugis
+51.08.06.1027                                                     16 Banjar Bali
+51.08.06.2028                                                                             12 Penglatan                                Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.06.1029                                                     17 Kampung Baru
+51.08.07.2001                                                                              1 Lemukih
+51.08.07.2002                                                                              2 Galungan
+51.08.07.2003                                                                              3 Sekumpul
+51.08.07.2004                                                                              4 Bebetin
+51.08.07.2005                                                                              5 Sudaji
+51.08.07.2006                                                                              6 Sawan
+51.08.07.2007                                                                              7 Menyali
+51.08.07.2008                                                                              8 Suwug
+51.08.07.2009                                                                              9 Jagaraga
+51.08.07.2010                                                                             10 Sinabun
+51.08.07.2011                                                                             11 Kerobokan
+51.08.07.2012                                                                             12 Sangsit
+51.08.07.2013                                                                             13 Bungkulan
+51.08.07.2014                                                                             14 Giri Emas
+51.08.08.2001                                                                              1 Tambakan
+51.08.08.2002                                                                              2 Pakisan
+51.08.08.2003                                                                              3 Bontihing
+51.08.08.2004                                                                              4 Tajun
+51.08.08.2005                                                                              5 Tunjung
+51.08.08.2006                                                                              6 Depeha                                   Koreksi nama, Surat Bup no 138/1460/Pem, tgl 31 maret 2016
+51.08.08.2007                                                                              7 Tamblang
+51.08.08.2008                                                                              8 Bulian
+51.08.08.2009                                                                              9 Bila
+51.08.08.2010                                                                             10 Bengkala
+51.08.08.2011                                                                             11 Kubutambahan
+51.08.08.2012                                                                             12 Bukti
+51.08.08.2013                                                                                         13 Mengening
+51.08.09.2001                                                                                          1 Sembiran
+51.08.09.2002                                                                                          2 Pacung
+51.08.09.2003                                                                                          3 Julah
+51.08.09.2004                                                                                          4 Madenan
+51.08.09.2005                                                                                          5 Bondalem
+51.08.09.2006                                                                                          6 Tejakula
+51.08.09.2007                                                                                          7 Les
+51.08.09.2008                                                                                          8 Penuktukan
+51.08.09.2009                                                                                          9 Sambirenteng
+51.08.09.2010                                                                                         10 Tembok
+51.71.01.1001                                                                1 Serangan
+51.71.01.1002                                                                2 Pedungan
+51.71.01.1003                                                                3 Sesetan
+51.71.01.1004                                                                4 Panjer
+51.71.01.1005                                                                5 Renon
+51.71.01.1006                                                                6 Sanur
+51.71.01.2007                                                                                          1 Sidakarya
+51.71.01.2008                                                                                          2 Pemogan
+51.71.01.2009                                                                                          3 Sanur Kaja
+51.71.01.2010                                                                                          4 Sanur Kauh
+51.71.02.2001                                                                                          1 Dangin Puri Kelod
+51.71.02.2002                                                                                          2 Sumerta Kelod
+51.71.02.1003                                                                1 Kesiman
+51.71.02.2004                                                                                          3 Kesiman Petilan
+51.71.02.2005                                                                                          4 Kesiman Kertalangu
+51.71.02.1006                                                                2 Sumerta
+51.71.02.2007                                                                                          5 Sumerta Kaja
+51.71.02.2008                                                                                          6 Sumerta Kauh
+51.71.02.1010                                                        3 Dangin Puri
+51.71.02.1014                                                        4 Penatih
+51.71.02.2015                                                                              7 Penatih Dangin Puri
+51.71.03.2001                                                                              1 Padangsambian Kelod
+51.71.03.2002                                                                              2 Pemecutan Kelod
+51.71.03.2003                                                                              3 Dauh Puri Kauh
+51.71.03.2004                                                                              4 Dauh Puri Kelod
+51.71.03.1005                                                        1 Dauh Puri
+51.71.03.2006                                                                              5 Dauh Puri Kangin
+51.71.03.1007                                                        2 Pemecutan
+51.71.03.2008                                                                              6 Tegal Harum
+51.71.03.2009                                                                              7 Tegal Kertha
+51.71.03.1010                                                        3 Padangsambian
+51.71.03.2011                                                                              8 Padang Sambian Kaja
+51.71.04.2001                                                                              1 Dangin Puri Kangin
+51.71.04.2002                                                                              2 Dangin Puri Kauh
+51.71.04.2003                                                                              3 Dangin Puri Kaja
+51.71.04.1004                                                        1 Tonja
+51.71.04.2005                                                                              4 Pemecutan Kaja
+51.71.04.2006                                                                              5 Dauh Puri Kaja
+51.71.04.1007                                                        2 Ubung
+51.71.04.2008                                                                          6 Ubung Kaja
+51.71.04.1009                                                      3 Peguyangan
+51.71.04.2010                                                                          7 Peguyangan Kaja
+51.71.04.2011                                                                          8 Peguyangan Kangin

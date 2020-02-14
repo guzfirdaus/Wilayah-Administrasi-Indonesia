@@ -1,0 +1,53 @@
+       65.01.01     1 Tanjung Palas                                                                   4          5
+       65.01.02     2 Tanjung Palas Barat                                                                        5
+       65.01.03     3 Tanjung Palas Utara                                                                        6
+       65.01.04     4 Tanjung Palas Timur                                                                        8
+       65.01.05     5 Tanjung Selor                                                                   3          6
+       65.01.06     6 Tanjung Palas Tengah                                                                       3
+       65.01.07     7 Peso                                                                                   10
+       65.01.08     8 Peso Hilir                                                                                 6
+       65.01.09     9 Sekatak                                                                                22
+       65.01.10    10 Bunyu                                                                                      3
+       65.02.01     1 Mentarang                                                                                  9
+       65.02.02     2 Malinau Kota                                                                               6
+       65.02.03     3 Pujungan                                                                                   9
+       65.02.04     4 Kayan Hilir                                                                                5
+       65.02.05     5 Kayan Hulu                                                                                 5
+       65.02.06     6 Malinau Selatan                                                                            9
+       65.02.07     7 Malinau Utara                                                                          12
+       65.02.08     8 Malinau Barat                                                                              9
+       65.02.09     9 Sungai Boh                                                                                 6
+       65.02.10    10 Kayan Selatan                                                                              5
+       65.02.11    11 Bahau Hulu                                                                                 6
+       65.02.12    12 Mentarang Hulu                                                                             7
+       65.02.13    13 Malinau Selatan Hilir                                                                      8                             Pemekaran sebagian Kec. Malinau Selatan, Perda No. 1/2012
+       65.02.14    14 Malinau Selatan Hulu                                                                       8                             Pemekaran sebagian Kec. Malinau Selatan, Perda No. 1/2012
+       65.02.15    15 Sungai Tubu                                                                                5                             Pemekaran sebagian Kec. Mentarang, Perda No. 1/2012
+     65.03.01     1 Sebatik                                                                    4
+     65.03.02     2 Nunukan                                                         4          1
+     65.03.03     3 Sembakung                                                              10
+     65.03.04     4 Lumbis                                                                 28
+     65.03.05     5 Krayan                                                                 23
+     65.03.06     6 Sebuku                                                                 10
+     65.03.07     7 Krayan Selatan                                                         13                                Perda No. 49/2003
+     65.03.08     8 Sebatik Barat                                                              4                             Perda No. 3/2006
+     65.03.09     9 Nunukan Selatan                                                 4                                        Perda No. 9/2007
+     65.03.10    10 Sebatik Timur                                                              4                             Pemekaran wil Kec. Sebatik, Perda No. 25/2011
+     65.03.11    11 Sebatik Utara                                                              3                             Pemekaran wil Kec. Sebatik, Perda No. 25/2011
+     65.03.12    12 Sebatik Tengah                                                             4                             Pemekaran wil Kec. Sebatik dan Kec. Sebatik Barat, Perda No. 25/2011
+     65.03.13    13 Sei Menggaris                                                              4                             Pemekaran wil Kec. Nunukan, Perda No. 26/2011
+     65.03.14    14 Tulin Onsoi                                                            12                                Pemekaran wil Kec. Sebuku, Perda No. 27/2011
+     65.03.15    15 Lumbis Ogong                                                           49                                Pemekaran wil Kec. Lumbis, Perda No. 28/2011
+     65.03.16    16 Sembakung Atulai                                                       10                                Pemekaran sebagian Kec. Sembakung, Perda No. 2/2012
+     65.03.17    17 Krayan Tengah                                                          11                                Pemekaran sebagian wil Kec. Krayan Selatan, Perda No. 11/2015
+     65.03.18    18 Krayan Timur                                                           17                                Pemekaran sebagian wil Kec. Krayan, Perda No. 12/2015
+     65.03.19    19 Krayan Barat                                                           25                                Pemekaran sebagian wil Kec. Krayan, Perda No. 12/2015
+     65.04.01     1 Sesayap                                                                    7                             Semula wil. Kab. Bulungan
+     65.04.02     2 Sesayap Hilir                                                              8                             Semula wil. Kab. Bulungan
+     65.04.03     3 Tana Lia                                                                   5                             Semula wil. Kab. Bulungan
+     65.04.04     4 Betayau                                                                    6                             Pemekaran sebagian Kec. Sesayap dan Kec. Sesayap Hilir, Perda No.
+     65.04.05     5 Muruk Rian                                                                 6                             Pemekaran sebagian Kec. Sesayap, Perda No. 10/2012
+     65.71.01     1 Tarakan Barat                                                   5
+     65.71.02     2 Tarakan Tengah                                                  5
+     65.71.03     3 Tarakan Timur                                                   7
+     65.71.04     4 Tarakan Utara                                                   3

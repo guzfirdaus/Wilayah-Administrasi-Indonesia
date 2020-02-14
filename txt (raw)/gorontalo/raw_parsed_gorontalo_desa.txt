@@ -1,0 +1,729 @@
+75.01.01.1001                                                            1 Kayubulan                                                         Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016
+75.01.01.1002                                                            2 Kayumerah                                                         Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016
+75.01.01.1003                                                            3 Hunggaluwa
+75.01.01.1004                                                            4 Bolihuangga
+75.01.01.1005                                                            5 Hepuhulawa
+75.01.01.1006                                                            6 Hutuo
+75.01.01.1007                                                            7 Dutulanaa
+75.01.01.1008                                                            8 Tenilo
+75.01.01.1009                                                            9 Biyonga
+75.01.01.1010                                                           10 Bongohulawa
+75.01.01.1011                                                           11 Bulota
+75.01.01.1012                                                           12 Malahu
+75.01.01.1013                                                           13 Tilihuwa                                                          Pemekaran Kel. Kayumerah Perda No. 2/2010
+75.01.01.1014                                                           14 Polohungo                                                         Pemekaran Kel. Biyonga Perda No. 3/2010
+75.01.02.2011                                                                                     1 Bulila
+75.01.02.2014                                                                      2 Mongolato
+75.01.02.2015                                                                      3 Luhu
+75.01.02.2016                                                                      4 Hulawa
+75.01.02.2017                                                                      5 Pilohayanga
+75.01.02.2018                                                                      6 Dulamayo Selatan
+75.01.02.2019                                                                      7 Dulamayo Barat                                Perda No. 42/2007
+75.01.02.2020                                                                      8 Dulohupa                                      Perda No. 43/2007
+75.01.02.2021                                                                      9 Pilohayanga Barat                             Perda No. 44/2007
+75.01.03.2001                                                                      1 Iluta
+75.01.03.2002                                                                      2 Bua
+75.01.03.2003                                                                      3 Huntu
+75.01.03.2004                                                                      4 Payunga
+75.01.03.2012                                                                      5 Barakati
+75.01.03.2013                                                                      6 Ilohungayo                                    Perda No. 47/2007
+75.01.03.2014                                                                      7 Dunggala                                      Perda No. 48/2007
+75.01.03.2015                                                                      8 Pilobuhuta                                    Perda No. 49/2007
+75.01.04.2001                                                                      1 Isimu Utara
+75.01.04.2002                                                                      2 Isimu Selatan
+75.01.04.2003                                                                      3 Datahu
+75.01.04.2004                                                                      4 Tolotio
+75.01.04.2005                                                                      5 Labanu
+75.01.04.2006                                                                      6 Reksonegoro
+75.01.04.2007                                                                      7 Buhu
+75.01.04.2008                                                                          8 Dunggala
+75.01.04.2009                                                                          9 Molowahu
+75.01.04.2010                                                                         10 Iloponu
+75.01.04.2011                                                                         11 Ilomata
+75.01.04.2012                                                                         12 Motilango
+75.01.04.2013                                                                         13 Isimu Raya                               Perda No. 61/2007
+75.01.04.2014                                                                         14 Balahu                                   Perda No. 62/2007
+75.01.04.2015                                                                         15 Botumoputi                               Perda No. 63/2007
+75.01.04.2016                                                                         16 Ulobua                                   Perda No. 64/2007
+75.01.05.2004                                                                          1 Tontayuo
+75.01.05.2005                                                                          2 Biluhu Timur
+75.01.05.2006                                                                          3 Kayubulan
+75.01.05.2007                                                                          4 Bongo
+75.01.05.2008                                                                          5 Lopo
+75.01.05.2009                                                                          6 Lamu
+75.01.05.2012                                                                          7 Olimoo'o
+75.01.05.2014                                                                          8 Buhudaa                                  Pemekaran Desa Bungo Perda No. 30/2010
+75.01.05.2015                                                                          9 Langgula                                 Pemekaran desa Tontayu'o Perda No. 31/2010
+75.01.09.2001                                                                      1 Sidomulyo
+75.01.09.2004                                                                      2 Parungi
+75.01.09.2006                                                                       3 Diloniyohu
+75.01.09.2007                                                                       4 Sidodadi
+75.01.09.2010                                                                       5 Potanga
+75.01.09.2011                                                                       6 Motoduto
+75.01.09.2012                                                                       7 Iloheluma                                     Perda No. 56/2007
+75.01.09.2014                                                                       8 Monggolito                                    Perda No. 58/2007
+75.01.09.2015                                                                       9 Bandung Rejo                                  Perda No. 59/2007
+75.01.09.2018                                                                      10 Dulohupa                                      Pemekaran Desa Parungi dan Motoduto Perda No. 12/2010
+75.01.09.2019                                                                      11 Sidomulya Selatan                             Pemekaran Desa Sidomulyo Perda No. 13/2010
+75.01.09.2020                                                                      12 Bongongoayu                                   Pemekaran Desa Diloniyohu Perda No. 14/2010
+75.01.09.2021                                                                      13 Tolite                                        Pemekaran Desa Diloniyohu Perda No. 15/2010
+75.01.10.2001                                                                       1 Dulamayo Utara
+75.01.10.2002                                                                       2 Ulapato A
+75.01.10.2003                                                                       3 Ulapato B
+75.01.10.2004                                                                       4 Talumelito
+75.01.10.2005                                                                       5 Tuladenggi
+75.01.10.2006                                                                       6 Pantungo
+75.01.10.2007                                                                       7 Lupoyo
+75.01.10.2008                                                                       8 Pentadio Timur
+75.01.10.2009                                                                       9 Pentadio Barat
+75.01.10.2010                                                                      10 Dumati
+75.01.10.2011                                                                      11 Modelidu
+75.01.10.2012                                                                      12 Tinelo                                        Perda No. 65/2007
+75.01.10.2013                                                                      13 Timuato                                       Perda No. 66/2007
+75.01.10.2014                                                                      14 Tapaluluo                                     Perda No. 67/2007
+75.01.10.2015                                                                     15 Tonala                                        Pemekaran desa Modelidu Perda No. 35/2010
+75.01.11.2001                                                                      1 Dulamayo
+75.01.11.2008                                                                      2 Upomela
+75.01.11.2009                                                                      3 Tohupo
+75.01.11.2010                                                                      4 Molanihu
+75.01.11.2011                                                                      5 Molopatodu                                    Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016
+75.01.11.2012                                                                      6 Molas
+75.01.11.2013                                                                      7 Batulayar
+75.01.11.2014                                                                      8 Batuloreng
+75.01.11.2015                                                                      9 Bongohulawa
+75.01.11.2016                                                                     10 Otopade
+75.01.11.2018                                                                     11 Huntulo Hulawa                                Perda No. 53/2007. Koreksi nama Srt Sekda No 100/1223/Pem,
+75.01.11.2022                                                                     12 Owalanga                                      Pemekaran desa Molopatodu Perda No. 6/2010
+75.01.11.2023                                                                     13 Liyodu                                        Pemekaran desa Molanihu Perda No. 7/2010
+75.01.11.2024                                                                     14 Liyoto                                        Pemekaran desa Otopade Perda No. 8/2010
+75.01.11.2025                                                                     15 Kayumerah                                     Pemekaran desa Batulayar Perda No. 9/2010
+75.01.13.2001                                                                        1 Sukamakmur
+75.01.13.2002                                                                        2 Lakeya
+75.01.13.2003                                                                        3 Gandasari
+75.01.13.2004                                                                        4 Molohu
+75.01.13.2007                                                                        5 Polohungo
+75.01.13.2008                                                                        6 Bina Jaya                                 Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016
+75.01.13.2009                                                                        7 Tamaila
+75.01.13.2010                                                                        8 Sidoarjo                                  Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016
+75.01.13.2013                                                                        9 Sukamakmur Utara                          Perda No. 60/2007. Koreksi nama Srt Sekda No 100/1223/Pem,
+75.01.13.2014                                                                       10 Margomulya                                Pemekaran Desa Gandasari Perda No. 18/2010. Koreksi nama Srt
+75.01.13.2015                                                                       11 Makmur Abadi                              Pemekaran Desa Sukamakmur Perda No. 19/2010
+75.01.13.2016                                                                       12 Gandaria                                  Pemekaran Desa Lakeya Perda No. 20/2010
+75.01.13.2017                                                                       13 Ombulo Tango                              Pemekaran Desa Tamaila Perda No. 22/2010
+75.01.13.2018                                                                       14 Tamalia Utara                             Pemekaran Desa Tamaila Perda No. 22/2010
+75.01.13.2019                                                                       15 Himalaya                                  Pemekaran Desa Sidoharjo Perda No. 23/2010
+75.01.14.2001                                                                        1 Paris
+75.01.14.2002                                                                        2 Helumo
+75.01.14.2003                                                                        3 Pilomonu
+75.01.14.2004                                                                        4 Satria
+75.01.14.2005                                                                        5 Karyamukti
+75.01.14.2006                                                                        6 Talumopatu
+75.01.14.2007                                                                        7 Sidomukti
+75.01.14.2008                                                                        8 Payu
+75.01.14.2009                                                                          9 Sukamaju
+75.01.14.2010                                                                         10 Huyula
+75.01.16.2001                                                                          1 Pongongaila
+75.01.16.2002                                                                          2 Pulubala
+75.01.16.2003                                                                          3 Molamahu
+75.01.16.2004                                                                          4 Bakti
+75.01.16.2005                                                                          5 Tridharma
+75.01.16.2006                                                                          6 Molalahu
+75.01.16.2007                                                                          7 Mulyonegoro
+75.01.16.2008                                                                          8 Puncak
+75.01.16.2009                                                                          9 Toyidito
+75.01.16.2010                                                                         10 Ayumolingo                              Perda No. 55/2007
+75.01.16.2011                                                                         11 Bukit Aren                              Pemekaran Desa Pongongaila Perda No. 34/2010
+75.01.17.2001                                                                          1 Pone
+75.01.17.2002                                                                          2 Huidu
+75.01.17.2003                                                                          3 Ombulo
+75.01.17.2004                                                                          4 Daenaa
+75.01.17.2005                                                                          5 Yosonegoro
+75.01.17.2006                                                                          6 Tunggulo
+75.01.17.2007                                                                          7 Hutabohu
+75.01.17.2008                                                                          8 Padengo                                 Koreksi nama Srt Sekda No 100/1223/Pem, tgl 14 April 2016.
+75.01.17.2009                                                                        9 Haya-Haya                                 Perda No. 45/2007
+75.01.17.2010                                                                       10 Huidu Utara                               Perda No. 46/2007
+75.01.18.2001                                                                        1 Tualango                                  Semula wil. Kec. Telaga
+75.01.18.2002                                                                        2 Dulomo                                    Semula wil. Kec. Telaga
+75.01.18.2003                                                                        3 Tilote                                    Semula wil. Kec. Telaga
+75.01.18.2004                                                                        4 Tabumela                                  Semula wil. Kec. Telaga
+75.01.18.2005                                                                        5 Ilotidea                                  Semula wil. Kec. Telaga
+75.01.18.2006                                                                        6 Lauwonu                                   Semula wil. Kec. Telaga
+75.01.18.2007                                                                        7 Tenggela                                  Semula wil. Kec. Telaga
+75.01.18.2008                                                                        8 Tinelo                                    Pemekaran Desa Tenggela Perda No. 36/2010
+75.01.19.2001                                                                        1 Tabongo Timur                             Semula wil. Kec. Batudaa
+75.01.19.2002                                                                        2 Tabongo Barat                             Semula wil. Kec. Batudaa
+75.01.19.2003                                                                        3 Limehe Barat                              Semula wil. Kec. Batudaa
+75.01.19.2004                                                                        4 Limehe Timur                              Semula wil. Kec. Batudaa
+75.01.19.2005                                                                        5 Ilomangga                                 Semula wil. Kec. Batudaa
+75.01.19.2006                                                                        6 Motinelo                                  Semula wil. Kec. Batudaa
+75.01.19.2007                                                                        7 Moahudu                                   Semula wil. Kec. Batudaa
+75.01.19.2008                                                                        8 Teratai                                   Perda No. 50/2007
+75.01.19.2009                                                                        9 Limehu                                    Perda No. 51/2007
+75.01.20.2001                                                                        1 Biluhu Barat                              Semula wil. Kec. Batudaa Pantai
+75.01.20.2002                                                                        2 Lobuto                                    Semula wil. Kec. Batudaa Pantai
+75.01.20.2003                                                                        3 Biluhu Tengah                             Semula wil. Kec. Batudaa Pantai
+75.01.20.2004                                                                        4 Luluo                                     Semula wil. Kec. Batudaa Pantai
+75.01.20.2005                                                                        5 Huwongo                                   Semula wil. Kec. Batudaa Pantai
+75.01.20.2006                                                                        6 Lobuto Timur                              Semula wil. Kec. Batudaa Pantai. Koreksi nama Srt Sekda No
+75.01.20.2007                                                                        7 Botu Boluo                                Pemekaran Desa Lulu'o Perda No. 32/2010. Koreksi nama Srt
+75.01.20.2008                                                                        8 Olimeyala                                 Pemekaran Desa Huwongo Perda No. 33/2010
+75.01.21.2001                                                                        1 Bululi                                    Semula wil. Kec. Tolangohula
+75.01.21.2002                                                                        2 Mohiyolo                                  Semula wil. Kec. Tolangohula
+75.01.21.2003                                                                        3 Pangahu                                   Semula wil. Kec. Tolangohula
+75.01.21.2004                                                                        4 Karya Indah                             Semula wil. Kec. Tolangohula
+75.01.21.2005                                                                        5 Prima                                   Pemekaran Desa Bululi Perda No. 24/2010
+75.01.21.2006                                                                        6 Tiohu                                   Pemekaran Desa Bululi Perda No. 25/2010
+75.01.21.2007                                                                        7 Olimohulo                               Pemekaran Desa Karya Indah Perda No. 26/2010
+75.01.21.2008                                                                        8 Karya Baru                              Pemekaran Desa Mohiyolo Perda No. 27/2010
+75.01.21.2009                                                                        9 Bontula                                 Pemekaran Desa Mohiyolo Perda No. 28/2010. Koreksi nama Srt
+75.01.21.2010                                                                       10 Bihe                                    Pemekaran Desa Mohiyolo dan Pangahu Perda No. 29/2010
+75.01.22.2001                                                                        1 Hutadaa                                 Semula wil. Kec. Telaga
+75.01.22.2002                                                                        2 Buhu                                    Semula wil. Kec. Telaga
+75.01.22.2003                                                                        3 Luwoo                                   Semula wil. Kec. Telaga
+75.01.22.2004                                                                        4 Bunggalo                                Semula wil. Kec. Telaga
+75.01.22.2005                                                                        5 Bulota                                  Semula wil. Kec. Telaga
+75.01.23.2001                                                                        1 Totopo                                  Semula wil kec Bolihoyuto Perda No 40/2010
+75.01.23.2002                                                                        2 Bilato                                  Semula wil kec Bolihoyuto Perda no. 40/2010
+75.01.23.2003                                                                        3 Ilomata                                 Semula wil kec Bolihoyuto Perda No. 40/2010
+75.01.23.2004                                                                        4 Taula'a                                 Perda No. 57/2007- Semula wil kec Bolihoyuto Perda No. 40/2010
+75.01.23.2005                                                                        5 Juriya                                  Pemekaran Desa Totopo Perda No. 17/2010-Semula wil kec
+75.01.23.2006                                                                        6 Pelehu                                  Pemekaran Desa Ilomata Perda No. 16/2010-Semula wil kec
+75.01.23.2007                                                                        7 Bumela                                  Semula wil kec Bolihoyuto Perda No. 40/2010
+75.01.23.2008                                                                        8 Lamahu                                  Semula wil kec Bolihoyuto Perda No. 40/2010
+75.01.23.2009                                                                        9 Musyawarah                              Pemekaran Desa Bilato Perda No. 40/2010-Semula wil kec
+75.01.23.2010                                                                       10 Suka Damai                              Pemekaran Desa Bilato Perda No.40/2010- Semula wil kec
+75.01.24.2001                                                                        1 Pilolalenga                             Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2002                                                                        2 Kaliyoso                                Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2003                                                                        3 Dungaliyo                               Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2004                                                                        4 Ambara                                  Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2005                                                                        5 Bongomeme                               Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2006                                                                        6 Duwanga                                 Perda No. 54/2007, Semula wil Kec. Bongomeme Perda No.
+75.01.24.2007                                                                        7 Ayuhula                                 Perda No. 52/2007, Semula wil Kec. Bongomeme Perda No.
+75.01.24.2008                                                                             8 Pangadaa                                    Semula wil Kec. Bongomeme Perda No. 4/2012
+75.01.24.2009                                                                             9 Botubulowe                                  Pemekaran desa Dungaliyo Perda No. 4/2010, Semula wil Kec.
+75.01.24.2010                                                                            10 Momala                                      Pemekaran desa Amara Perda No. 5/2010, Semula wil Kec.
+75.02.01.2004                                                                             1 Bongo Nol
+75.02.01.2005                                                                             2 Bongo IV
+75.02.01.2006                                                                             3 Molombulahe
+75.02.01.2007                                                                             4 Mutiara
+75.02.01.2008                                                                             5 Saripi
+75.02.01.2009                                                                             6 Wonggahu
+75.02.01.2010                                                                             7 Tangkobu
+75.02.01.2011                                                                             8 Bongo Tua
+75.02.01.2012                                                                             9 Kuala Lumpur                                Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.01.2013                                                                            10 Mustika
+75.02.01.2014                                                                            11 Tenilo
+75.02.01.2015                                                                            12 Huwongo
+75.02.01.2016                                                                            13 Karya Murni
+75.02.01.2019                                                                            14 Girisa
+75.02.01.2020                                                                            15 Batu Kramat
+75.02.01.2021                                                                            16 Bualo
+75.02.01.2022                                                                            17 Sosial
+75.02.01.2023                                                                            18 Permata
+75.02.01.2024                                                                            19 Hulawa
+75.02.01.2025                                                                            20 Balate Jaya
+75.02.01.2026                                                                            21 Rejonegoro
+75.02.01.2027                                                                            22 Diloato
+75.02.02.2001                                                                       1 Harapan                                     Perubahan nama desa Bongo I, Perda No. 74/2001
+75.02.02.2002                                                                       2 Bongo II                                    Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.02.2003                                                                       3 Bongo III                                   Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.02.2004                                                                       4 Mekarjaya
+75.02.02.2005                                                                       5 Sukamaju
+75.02.02.2006                                                                       6 Pangeya
+75.02.02.2007                                                                       7 Jatimulya
+75.02.02.2008                                                                       8 Suka Mulya                                  Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.02.2009                                                                       9 Sari Tani
+75.02.02.2010                                                                      10 Dimito
+75.02.02.2011                                                                      11 Tanjung Harapan
+75.02.02.2012                                                                      12 Raharja
+75.02.02.2013                                                                      13 Trirukun                                    Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.02.2014                                                                      14 Dulohupa
+75.02.03.2001                                                                       1 Dulupi
+75.02.03.2002                                                                       2 Tabongo
+75.02.03.2003                                                                       3 Kotaraja
+75.02.03.2004                                                                       4 Polohungo
+75.02.03.2005                                                                       5 Pangi
+75.02.03.2006                                                                       6 Tangga Jaya
+75.02.03.2007                                                                       7 Tanah Putih
+75.02.03.2008                                                                       8 Tangga Barito
+75.02.04.2001                                                                       1 Limbato
+75.02.04.2002                                                                       2 Piloliyanga
+75.02.04.2003                                                                       3 Ayuhulalo
+75.02.04.2004                                                                       4 Hungayonaa
+75.02.04.2005                                                                       5 Modelomo
+75.02.04.2006                                                                       6 Pentadu Barat
+75.02.04.2007                                                                       7 Pentadu Timur
+75.02.04.2008                                                                       8 Bajo
+75.02.04.2009                                                                       9 Mohungo
+75.02.04.2010                                                                      10 Lahumbo
+75.02.04.2011                                                                           11 Lamu
+75.02.04.2018                                                                           12 Tenilo
+75.02.05.2001                                                                            1 Tabulo
+75.02.05.2002                                                                            2 Kaaruyan
+75.02.05.2003                                                                            3 Salilama
+75.02.05.2004                                                                            4 Bendungan
+75.02.05.2005                                                                            5 Mananggu
+75.02.05.2006                                                                            6 Buti
+75.02.05.2007                                                                            7 Pontolo
+75.02.05.2008                                                                            8 Kramat
+75.02.05.2009                                                                            9 Tabulo Selatan
+75.02.06.2001                                                                            1 Tutulo
+75.02.06.2002                                                                            2 Hutamonu
+75.02.06.2003                                                                            3 Patoameme
+75.02.06.2004                                                                            4 Tapadaa
+75.02.06.2005                                                                            5 Potanga
+75.02.06.2006                                                                            6 Botumoito
+75.02.06.2007                                                                            7 Bolihutuo
+75.02.06.2008                                                                            8 Rumbia
+75.02.06.2009                                                                            9 Dulangeya
+75.02.07.2001                                                                            1 Bubaa
+75.02.07.2002                                                                            2 Lito
+75.02.07.2003                                                                            3 Limbatihu
+75.02.07.2004                                                                            4 Bukit Karya
+75.02.07.2005                                                                            5 Apitalawu                                 Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.02.07.2006                                                                              6 Bangga
+75.02.07.2007                                                                              7 Towayu
+75.02.07.2008                                                                              8 Olibu
+75.03.01.2004                                                                              1 Talumopatu
+75.03.01.2005                                                                              2 Talulobutu
+75.03.01.2006                                                                              3 Dunggala
+75.03.01.2007                                                                              4 Langge
+75.03.01.2027                                                                           5 Talulobutu Selatan                            Perda No. 19/2007
+75.03.01.2028                                                                           6 Keramat                                       Perda No. 19/2007
+75.03.01.2029                                                                           7 Meranti                                       Perda No. 19/2007
+75.03.02.2006                                                                           1 Dutohe
+75.03.02.2007                                                                           2 Tanggilingo
+75.03.02.1008                                                     1 Padengo
+75.03.02.1009                                                     2 Olohuta                                                             Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.03.02.1010                                                     3 Tumbihe
+75.03.02.1011                                                     4 Pauwo
+75.03.02.2012                                                                           3 Toto Selatan
+75.03.02.2013                                                                           4 Poowo
+75.03.02.2024                                                                           5 Talango                                       Perda No.   15/2006
+75.03.02.2026                                                                           6 Poowo Barat                                   Perda No. 15/2006
+75.03.02.1028                                                     5 Olohuta Utara                                                       Perda No. 20/2007. Koreksi nama Srt Sekda No 100/1223/Pem
+75.03.02.2029                                                                           7 Dutohe Barat                                  Perda No. 20/2007
+75.03.03.2011                                                                       1 Tingkohubu
+75.03.03.2012                                                                       2 Boludawa
+75.03.03.2013                                                                       3 Bube
+75.03.03.2014                                                                       4 Huluduotamo                                  koreksi nama Srt Bup No 470/BUP-BB/42/11/2016
+75.03.03.2020                                                                       5 Ulanta                                       Perda No.   18/2007
+75.03.03.2021                                                                       6 Tinelo                                       Perda No. 18/2007
+75.03.03.2022                                                                       7 Bubeya                                       Perda No. 18/2007
+75.03.03.2023                                                                       8 Bube Baru                                    Perda No. 18/2007
+75.03.03.2027                                                                       9 Tingkohubu Timur                             PMD, Pemekaran Desa Tingkohubu Perda No. 22/2011
+75.03.03.2028                                                                      10 Helumo                                       Pemekaran Desa Huluduotama Perda No. 22/2011
+75.03.04.2003                                                                         1 Tamboo
+75.03.04.2004                                                                         2 Bilungala
+75.03.04.2005                                                                         3 Uabanga
+75.03.04.2008                                                                         4 Tolotio
+75.03.04.2012                                                                         5 Tongo
+75.03.04.2025                                                                         6 Bilungala Utara                            Perda No.16/2006
+75.03.04.2026                                                                         7 Tihu                                       Perda No.16/2006
+75.03.04.2027                                                                         8 Tunas Jaya                                 Perda No. 23/2007
+75.03.04.2028                                                                         9 Lembah Hijau                               Perda No. 23/2007
+75.03.04.2029                                                                        10 Batu Hijau                                 Perda No. 23/2007
+75.03.04.2031                                                                        11 Ombulo Hijau                               Perda No. 23/2007
+75.03.04.2032                                                                        12 Kemiri                                     Perda No. 23/2007
+75.03.04.2033                                                                        13 Pelita Hijau                               Pemekaran desa Bilungala Utara Perda No. 18/2011
+75.03.05.2001                                                                        1 Boidu                                        Semula wil. Kec. Tapa
+75.03.05.2002                                                                        2 Bandungan                                    Semula wil. Kec. Tapa
+75.03.05.2003                                                                        3 Tupa                                         Semula wil. Kec. Tapa
+75.03.05.2004                                                                        4 Longalo                                      Semula wil. Kec. Tapa
+75.03.05.2009                                                                        5 Tuloa                                        Semula wil.   Kec. Tapa
+75.03.05.2010                                                                        6 Kopi                                         Perda No. 25/2007
+75.03.05.2011                                                                        7 Lomaya                                       Perda No. 25/2007
+75.03.05.2012                                                                        8 Suka Damai                                   Perda No. 25/2007
+75.03.05.2015                                                                        9 Bunuo                                        Perda No. 25/2007
+75.03.06.2001                                                                        1 Bongoime                                     Semula wil. Kec. Kabila
+75.03.06.2002                                                                        2 Bongopini                                    Semula wil. Kec. Kabila
+75.03.06.2003                                                                        3 Toto Utara                                   Semula wil. Kec. Kabila
+75.03.06.2004                                                                        4 Moutong                                      Semula wil. Kec. Kabila
+75.03.06.2005                                                                        5 Tunggulo                                     Semula wil. Kec. Kabila
+75.03.06.2006                                                                        6 Lonuo                                        Semula wil. Kec. Kabila
+75.03.06.2007                                                                        7 Tamboo                                       Semula wil. Kec. Kabila
+75.03.06.2008                                                                        8 Iloheluma                                    Semula wil. Kec. Kabila
+75.03.06.2009                                                                        9 Motilango                                    Semula wil Kec. Kabila. Koreksi nama Srt Bup No
+75.03.06.2010                                                                       10 Butu                                         Perda No. 26/2007
+75.03.06.2011                                                                       11 Permata                                      Perda No. 26/2007
+75.03.06.2012                                                                       12 Tunggulo Selatan                             Pemekaran desa Tunggulo Perda No. 26/2011. Koreksi nama Srt
+75.03.06.2013                                                                       13 Bongohulawa                                  Pemekaran desa Bonggopini Perda No. 26/2011. Koreksi nama Srt
+75.03.06.2014                                                                       14 Berlian                                      Pemekaran desa Tambo Perda No. 26/2011
+75.03.07.2001                                                                        1 Timbuolo                                     Semula wil. Kec. Kabila. Koreksi nama Srt Bup No
+75.03.07.2002                                                                       2 Panggulo                                    Semula wil. Kec. Kabila
+75.03.07.2003                                                                       3 Luwohu                                      Semula wil. Kec. Kabila
+75.03.07.2004                                                                       4 Buata                                       Semula wil. Kec. Kabila
+75.03.07.2005                                                                       5 Timbuolo Timur                              Semula wil. Kec. Kabila
+75.03.07.2006                                                                       6 Tanah Putih                                 Perda No. 22/2007
+75.03.07.2007                                                                       7 Panggulo Barat                              Pemekaran desa Panggulo Perda No. 19/2011. Koreksi nama Srt
+75.03.07.2008                                                                       8 Timbuolo Tengah                             Pemekaran desa Timbuolo dan Timbuolo Timur Perda No.
+75.03.07.2009                                                                       9 Sukma                                       Pemekaran Desa Luwohu, Buata, Kel. Oluhuta, Tumbihe Perda
+75.03.08.2001                                                                       1 Huangobotu                                  Semula wil. Kec. Kabila
+75.03.08.2002                                                                       2 Molutabu                                    Semula wil. Kec. Bonepantai. Koreksi nama Srt Bup No
+75.03.08.2003                                                                       3 Oluhuta                                     Semula wil. Kec. Bonepantai
+75.03.08.2004                                                                       4 Olele                                       Semula wil. Kec. Bonepantai
+75.03.08.2005                                                                       5 Botutonuo                                   Semula wil. Kec. Bonepantai. Koreksi nama Srt Bup No
+75.03.08.2006                                                                       6 Modelomo                                    Semula wil. Kec. Bonepantai
+75.03.08.2007                                                                       7 Biluango                                    Semula wil. Kec. Kabila
+75.03.08.2008                                                                       8 Botubarani                                  Semula wil. Kec. Kabila
+75.03.08.2009                                                                       9 Bintalahe                                   Perda No. 21/2007
+75.03.09.2001                                                                       1 Taludaa                                     Semula wil. Kec. Bonepantai
+75.03.09.2002                                                                       2 Sogitia                                     Semula wil. Kec. Bonepantai
+75.03.09.2003                                                                       3 Moodulio                                    Semula wil. Kec. Bonepantai
+75.03.09.2004                                                                       4 Bilonlantunga                               Semula wil. Kec. Bonepantai. Koreksi nama Srt Sekda No
+75.03.09.2005                                                                       5 Inogaluma                                   Semula wil. Kec. Bonepantai
+75.03.09.2006                                                                       6 Monano                                      Semula wil. Kec. Bonepantai
+75.03.09.2007                                                                       7 Tumbuh Mekar                                Perda No. 17/2007
+75.03.09.2008                                                                       8 Molamahu                                    Perda No. 17/2007
+75.03.09.2009                                                                       9 Masiaga                                     Perda No. 17/2007
+75.03.09.2010                                                                      10 Ilohuuwa                                    Perda No. 17/2007. Koreksi nama Srt Bup No
+75.03.09.2011                                                                      11 Muara Bone                                  Pemekaran desa Masiaga Perda No. 17/2011
+75.03.09.2012                                                                      12 Cendana Putih                               Pemekaran desa Sogitia Perda No. 17/2011
+75.03.09.2013                                                                        13 Waluhu                                     Pemekaran desa Bilolatunga Perda No. 17/2011
+75.03.09.2014                                                                        14 Permata                                    Pemekaran desa Inogaluma Perda No. 17/2011
+75.03.10.2001                                                                         1 Inomata                                    Semula wil. Kec. Bonepantai
+75.03.10.2003                                                                         2 Tumbulilato                                Semula wil. Kec. Bonepantai. Koreksi nama Srt Sekda No
+75.03.10.2004                                                                         3 Mootayu                                    Semula wil. Kec. Bonepantai
+75.03.10.2006                                                                         4 Mootinelo                                  Semula wil. Kec. Bonepantai
+75.03.10.2009                                                                         5 Pelita Jaya                                Perda No. 24/2007
+75.03.10.2010                                                                         6 Moopiya                                    Perda No. 24/2007. Koreksi nama Srt Sekda No 100/1223/Pem
+75.03.10.2011                                                                         7 Alo                                        Perda No. 24/2007
+75.03.10.2012                                                                         8 Laut Biru                                  Perda No. 24/2007
+75.03.10.2014                                                                         9 Bunga                                      Pemekaran desa Mootinelo Perda No. 16/2011
+75.03.10.2015                                                                        10 Mootawa                                    Pemekaran desa Mootayu Perda No. 16/2011
+75.03.11.2001                                                                         1 Tulabolo                                   Semula wil. Kec. Suwawa
+75.03.11.2003                                                                         2 Dumbaya Bulan                              Semula wil. Kec. Suwawa
+75.03.11.2004                                                                         3 Tulabolo Timur                             Semula wil. Kec. Suwawa
+75.03.11.2005                                                                         4 Tilangobula                                Semula wil. Kec. Suwawa
+75.03.11.2007                                                                         5 Poduwoma                                   Pemekaran desa Tulabolo Perda No. 25/2011
+75.03.11.2008                                                                         6 Panggulo                                   Pemekaran desa Dumbayabulan Perda No. 25/2011
+75.03.11.2009                                                                         7 Tulabolo Barat                             Pemekaran desa Tulabolo Perda No. 25/2011
+75.03.11.2010                                                                         8 Pangi                                      Pemekaran desa Tilangobula Perda No. 25/2011
+75.03.11.2011                                                                         9 Tinemba                                    Pemekaran desa Dumbayabulan dan Lompotoo Perda No. 25/2011
+75.03.12.2001                                                                           1 Bulontala                                   Semula wil. Kec. Suwawa
+75.03.12.2002                                                                           2 Libungo                                     Semula wil. Kec. Suwawa
+75.03.12.2003                                                                           3 Molintogupo                                 Semula wil. Kec. Suwawa
+75.03.12.2004                                                                           4 Bonedaa                                     Semula wil. Kec. Suwawa
+75.03.12.2005                                                                           5 Bondawuna                                   Semula wil. Kec. Suwawa
+75.03.12.2006                                                                           6 Bulontala Timur                             Semula wil. Kec. Suwawa
+75.03.12.2007                                                                           7 Pancuran                                    Pemekaran desa Libungo Perda No. 23/2011
+75.03.12.2008                                                                           8 Bondaraya                                   Pemekaran desa Bonedaa Perda No. 23/2011
+75.03.13.2001                                                                           1 Lompotoo                                    Semula wil. Kec. Suwawa
+75.03.13.2002                                                                           2 Lombongo                                    Semula wil. Kec. Suwawa
+75.03.13.2003                                                                           3 Duano                                       Semula wil. Kec. Suwawa
+75.03.13.2004                                                                           4 Tolomato                                    Semula wil. Kec. Suwawa
+75.03.13.2005                                                                           5 Alale                                       Semula wil. Kec. Suwawa
+75.03.13.2006                                                                           6 Tapadaa                                     Pemekaran desa Tolomato Perda No. 24/2011
+75.03.14.2001                                                                           1 Mongiilo                                    Semula wil. Kec. Bulango Utara
+75.03.14.2002                                                                           2 Owata                                       Semula wil. Kec. Bulango Utara
+75.03.14.2003                                                                           3 Mongiilo Utara                              Semula wil. Kec. Bulango Utara
+75.03.14.2004                                                                           4 Pilolaheya                                  Semula wil. Kec. Bulango Utara
+75.03.14.2005                                                                           5 Ilomata                                     Semula wil. Kec. Bulango Utara
+75.03.14.2006                                                                           6 Suka Makmur                                 Semula wil. Kec. Bulango Utara
+75.03.15.2001                                                                           1 Ayula Selatan                               Semula wil. Kec. Tapa
+75.03.15.2002                                                                           2 Huntu Utara                                 Semula wil. Kec.Tapa
+75.03.15.2003                                                                           3 Ayula Utara                                 Semula wil. Kec. Tapa
+75.03.15.2004                                                                           4 Huntu Selatan                               Semula wil. Kec. Tapa
+75.03.15.2006                                                                           5 Ayula Tilango                               Semula wil. Kec. Tapa
+75.03.15.2007                                                                           6 Ayula Timur                                 Semula wil. Kec. Tapa
+75.03.15.2008                                                                           7 Lamahu                                      Semula wil. Kec. Tapa
+75.03.15.2009                                                                                 8 Tinelo Ayula                                      Pemekaran desa Ayula Utara Perda No. 20/2011
+75.03.15.2010                                                                                 9 Sejahtera                                         Pemekaran desa Ayula Selatan dan desa Ayula Tilango Perda No.
+75.03.15.2011                                                                                10 Huntu Barat                                       Perubahan nama desa Mekar Jaya menjadi desa Huntu Barat
+75.03.16.2001                                                                                 1 Bulotalangi                                       Semula wil. Kec. Tapa
+75.03.16.2002                                                                                 2 Toluwaya                                          Menjadi wil. Kec. Tapa
+75.03.16.2003                                                                                 3 Popodu                                            Semula wil. Kec. Tapa
+75.03.16.2004                                                                                 4 Bulotalangi Timur                                 Semula wil. Kec. Tapa
+75.03.16.2005                                                                                 5 Bulotalangi Barat                                 Semula wil. Kec. Tapa
+75.03.17.2001                                                                                 1 Mamungaa                                          Semula wil. Kec. Bone Raya
+75.03.17.2002                                                                                 2 Kaidundu Barat                                    Semula wil. Kec. Bone Raya
+75.03.17.2003                                                                                 3 Mopuya                                            Semula wil. Kec. Bone Raya
+75.03.17.2004                                                                                 4 Kaidundu                                          Semula wil. Kec. Bone Raya
+75.03.17.2005                                                                                 5 Bukit Hijau                                       Semula wil. Kec. Bone Pantai
+75.03.17.2006                                                                                 6 Mamungaa Timur                                    Semula wil. Kec. Bone Raya
+75.03.17.2007                                                                                 7 Dunggilata                                        Pemekaran desa Mopuya Perda No. 21/2011
+75.03.17.2008                                                                                 8 Pinomotiga                                        Pemekaran desa Kaidundu Barat Perda No. 21/2011. Koreksi
+75.03.17.2009                                                                                 9 Patoa                                             Pemekaran desa Mamungaa dan Mopuya Perda No. 21/2011
+75.03.18.2001                                                                                 1 Pinogu                                            Semula wil. Kec. Suwawa, Semula wil Kec. Suwawa Timur Perda
+75.03.18.2002                                                                                 2 Bangio                                            Semula wil. Kec. Suwawa, Semula wil Kec. Suwawa Timur Perda
+75.03.18.2003                                                                                 3 Dataran Hijau                                     Pemekaran desa Pinogu Perda No. 25/2011, Semula wil. Kec.
+75.03.18.2004                                                                                 4 Pinogu Permai                                     Pemekaran desa Pinogu Perda No. 25/2011, Semula wil. Kec.
+75.03.18.2005                                                                                 5 Tilonggibila                                      Pemekaran desa Pinogu Perda No. 25/2011, Semula wil. Kec.
+75.04.01.2003                                                                                 1 Torosiaje Jaya
+75.04.01.2004                                                                                 2 Popayato
+75.04.01.2008                                                                       3 Telaga
+75.04.01.2012                                                                       4 Torosiaje
+75.04.01.2015                                                                       5 Bukit Tingki
+75.04.01.2016                                                                       6 Tunas Harapan                                Perda No. 3/2008
+75.04.01.2017                                                                       7 Trikora                                      Perda No. 3/2008
+75.04.01.2018                                                                       8 Dambalo                                      Perda No. 3/2008
+75.04.01.2019                                                                       9 Telaga Biru                                  Perda No. 3/2008
+75.04.01.2020                                                                      10 Bumi Bahari                                  Perda No. 3/2008
+75.04.02.2001                                                                       1 Lemito
+75.04.02.2002                                                                       2 Wonggarasi Barat
+75.04.02.2004                                                                       3 Lomuli
+75.04.02.2008                                                                       4 Lemito Utara
+75.04.02.2009                                                                       5 Kenari
+75.04.02.2010                                                                       6 Wonggarasi Tengah
+75.04.02.2011                                                                       7 Suka Damai
+75.04.02.2012                                                                       8 Babalonge                                    Perda No. 3/2008
+75.04.03.2001                                                                       1 Motolohu
+75.04.03.2002                                                                       2 Imbodu
+75.04.03.2003                                                                       3 Manunggal Karya
+75.04.03.2004                                                                       4 Sidorukun                                    Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.04.03.2008                                                                       5 Sarimurni                                   Koreksi nama Srt Sekda No 100/1223/Pem tgl 14 April 2016
+75.04.03.2009                                                                       6 Huyula
+75.04.03.2012                                                                       7 Omayuwa
+75.04.03.2013                                                                       8 Ayula
+75.04.03.2014                                                                       9 Patuhu
+75.04.03.2015                                                                      10 Banuroja
+75.04.03.2016                                                                      11 Pelambane                                   Perda No. 3/2008
+75.04.03.2017                                                                      12 Motolohu Selatan                            Perda No. 3/2008
+75.04.03.2018                                                                      13 Sidowonge                                   Perda No. 3/2008. Koreksi nama Srt Sekda No 100/1223/Pem tgl
+75.04.04.2003                                                                       1 Marisa Selatan
+75.04.04.2004                                                                       2 Marisa Utara
+75.04.04.2007                                                                       3 Teratai
+75.04.04.2008                                                                       4 Pohuwato
+75.04.04.2015                                                                               5 Batubilotahu
+75.04.04.2016                                                                               6 Palopo                                    Perda No. 3/2008
+75.04.04.2017                                                                               7 Pohuwato Timur                            Perda No. 3/2008
+75.04.04.2018                                                                               8 Bulangita                                 Perda No. 3/2008
+75.04.05.1001                                                      1 Libuo
+75.04.05.1002                                                      2 Pentadu
+75.04.05.1003                                                      3 Siduan
+75.04.05.2004                                                                               1 Bunuyo
+75.04.05.2005                                                                               2 Sipayo
+75.04.05.2006                                                                               3 Soginti
+75.04.05.2010                                                                               4 Bumbulan
+75.04.05.2012                                                                               5 Maleo
+75.04.05.2013                                                                               6 Molamahu                                  Perda No. 3/2008
+75.04.05.2014                                                                               7 Buhu Jaya                                 Perda No. 3/2008
+75.04.05.2015                                                                               8 Kemiri                                    Perda No. 3/2008. Koreksi nama Srt Sekda No 100/1223/Pem tgl
+75.04.06.2001                                                                               1 Iloheluma
+75.04.06.2002                                                                               2 Balayo
+75.04.06.2003                                                                               3 Suka Makmur
+75.04.06.2004                                                                               4 Manawa
+75.04.06.2005                                                                               5 Dulomo                                    Perda No. 3/2008
+75.04.06.2006                                                                               6 Dudepo                                    Perda No. 3/2008
+75.04.07.2001                                                                               1 Pancakarsa I                              Semula wil. Kec. Randangan. Koreksi nama Srt Sekda No
+75.04.07.2002                                                                               2 Pancakarsa II                             Semula wil. Kec. Randangan. Koreksi nama Srt Sekda No
+75.04.07.2003                                                                               3 Makarti Jaya                              Semula wil. Kec. Randangan. Koreksi nama Srt Sekda No
+75.04.07.2004                                                                               4 Kalimas                                   Semula wil. Kec. Randangan
+75.04.07.2005                                                                       5 Malango                                     Semula wil. Kec. Randangan
+75.04.07.2006                                                                       6 Puncak Jaya                                 Perubahan nama Desa "Marisa IV"sesuai Surat Pernyataan Bup
+75.04.07.2007                                                                       7 Tirto Asri                                  Perda No. 3/2008
+75.04.08.2001                                                                       1 Popaya                                      Semula wil. Kec. Paguat
+75.04.08.2002                                                                       2 Karya Baru                                  Semula wil. Kec. Paguat
+75.04.08.2003                                                                       3 Karangetan                                  Semula wil. Kec. Paguat
+75.04.08.2004                                                                       4 Padengo                                     Semula wil. Kec. Paguat
+75.04.08.2005                                                                       5 Hutamoputi                                  Perda No. 3/2008. Koreksi nama Srt Sekda No 100/1223/Pem tgl
+75.04.09.2001                                                                       1 Hulawa                                      Semula wil. Kec. Marisa
+75.04.09.2002                                                                       2 Karya Indah                                 Semula wil. Kec. Marisa
+75.04.09.2003                                                                       3 Taluduyunu                                  Semula wil. Kec. Marisa
+75.04.09.2004                                                                       4 Buntulia Utara                              Semula wil. Kec. Marisa
+75.04.09.2005                                                                       5 Buntulia Tengah                             Semula wil. Kec. Marisa
+75.04.09.2006                                                                       6 Taluduyunu Utara                            Perda No. 3/2008
+75.04.09.2007                                                                       7 Sipatana                                    Perda No. 3/2008
+75.04.10.2001                                                                       1 Bulili                                      Semula wil. Kec. Marisa
+75.04.10.2002                                                                       2 Buntulia Barat                              Semula wil. Kec. Marisa
+75.04.10.2003                                                                       3 Buntulia Selatan                            Semula wil. Kec. Marisa
+75.04.10.2004                                                                       4 Duhiadaa                                    Semula wil. Kec. Marisa
+75.04.10.2005                                                                       5 Mekar Jaya                                  Semula wil. Kec. Marisa
+75.04.10.2006                                                                       6 Buntulia Jaya                               Perda No. 3/2008
+75.04.10.2007                                                                       7 Padengo                                     Perda No. 3/2008
+75.04.10.2008                                                                       8 Mootilango                                  Perda No. 3/2008
+75.04.11.2001                                                                       1 Wanggarasi Timur                            Semula wil. Kec. Lemito. Koreksi nama Srt Sekda No
+75.04.11.2002                                                                       2 Bukit Harapan                               Semula wil. Kec. Lemito
+75.04.11.2003                                                                       3 Bohusami                                    Semula wil. Kec. Lemito
+75.04.11.2004                                                                       4 Lembah Permai                               Semula wil. Kec. Lemito
+75.04.11.2005                                                                                     5 Limbula                                        Semula wil Kec. Randangan Surat Bupati No.
+75.04.11.2006                                                                                     6 Yipilo                                         Semula wil Kec. Randangan Surat Bupati No.
+75.04.11.2007                                                                                     7 Tuweya                                         Semula wil Kec. Randangan Surat Bupati No.
+75.04.12.2001                                                                                     1 Milangodaa                                     Semula wil. Kec. Popayato
+75.04.12.2002                                                                                     2 Londoun                                        Semula wil. Kec. Popayato
+75.04.12.2003                                                                                     3 Marisa                                         Semula wil. Kec. Popayato
+75.04.12.2004                                                                                     4 Tahele                                         Semula wil. Kec. Popayato
+75.04.12.2005                                                                                     5 Bunto                                          Semula wil. Kec. Popayato
+75.04.12.2006                                                                                     6 Maleo                                          Semula wil. Kec. Popayato
+75.04.12.2007                                                                                     7 Kelapa Lima                                    Perda No. 3/2008
+75.04.13.2001                                                                                     1 Dudewulo                                       Semula wil. Kec. Popayato
+75.04.13.2002                                                                                     2 Tunas Jaya                                     Semula wil. Kec. Popayato
+75.04.13.2003                                                                                     3 Padengo                                        Semula wil. Kec. Popayato
+75.04.13.2004                                                                                     4 Molosifat                                      Semula wil. Kec. Popayato. Koreksi nama Srt Sekda No
+75.04.13.2005                                                                                     5 Butungale                                      Perda No. 3/2008
+75.04.13.2006                                                                                     6 Persatuan                                      Perda No. 3/2008
+75.04.13.2007                                                                                     7 Molosifat Utara                                Perda No. 3/2008. Koreksi nama Srt Sekda No 100/1223/Pem tgl
+75.05.01.2003                                                                                     1 Imana
+75.05.01.2004                                                                                     2 Bintana
+75.05.01.2005                                                                                     3 Buata
+75.05.01.2006                                                                                     4 Pinontoyonga
+75.05.01.2007                                                                                     5 Monggupo
+75.05.01.2008                                                                                     6 Kotajin
+75.05.01.2011                                                                       7 Ilomata
+75.05.01.2013                                                                       8 Iloheluma                                  Pemekaran Desa Ilomata No. Perda 7/2010
+75.05.01.2014                                                                       9 Wapalo                                     Pemekaran Desa Imana Perda No. 8/2010
+75.05.01.2015                                                                      10 Posono                                     Pemekaran Desa Buana Perda No. 9/2010
+75.05.01.2016                                                                      11 Sigaso                                     Pemekaran Desa Bintana Perda No. 10/2010
+75.05.01.2017                                                                      12 Tombulilato                                Pemekaran Desa Buata Perda No. 11/2010
+75.05.01.2018                                                                      13 Kotajin Utara                              Pemekaran Desa Kotajin Perda No. 12/2010
+75.05.01.2019                                                                      14 Oluhuta                                    Pemekaran Desa Kotajin Perda No. 13/2010
+75.05.02.2001                                                                       1 Pontolo
+75.05.02.2002                                                                       2 Molingkapoto                               Koreksi nama, Srt Ditjen Bina PemDes
+75.05.02.2003                                                                       3 Leboto
+75.05.02.2004                                                                       4 Posso
+75.05.02.2005                                                                       5 Titidu
+75.05.02.2006                                                                       6 Moluo
+75.05.02.2010                                                                       7 Mootinelo
+75.05.02.2011                                                                       8 Bualemo
+75.05.02.2013                                                                       9 Bulalo
+75.05.02.2017                                                                      10 Katialada                                  Pemekaran Desa Moluo Perda No. 30/2010
+75.05.02.2019                                                                      11 Ombulodata                                 Pemekaran Desa Pontolo Perda No. 32/2010
+75.05.02.2021                                                                      12 Alata Karya                                Pemekaran Desa Leboto Perda No. 34/2010
+75.05.02.2023                                                                      13 Cisadane                                   Pemekaran Desa Moluo Perda No. 36/2010
+75.05.02.2024                                                                      14 Botuwombata                                 Pemekaran Desa Pontolo Perda No. 37/2010
+75.05.02.2025                                                                      15 Botungobungo                                Pemekaran Desa Molinggapoto Perda No. 38/2010
+75.05.02.2026                                                                      16 Molingkapoto Selatan                        Pemekaran Desa Molinggapoto Perda No. 39/2010
+75.05.02.2030                                                                      17 Pontolo Atas                                Pemekaran Desa Pontolo Perda No. 79/2010
+75.05.02.2032                                                                      18 Masuru                                      Pemekaran Desa Titidu Perda No. 81/2010
+75.05.03.2001                                                                       1 Ilangata
+75.05.03.2002                                                                       2 Tolongio
+75.05.03.2006                                                                       3 Tolango
+75.05.03.2007                                                                       4 Popalo
+75.05.03.2008                                                                       5 Dudepo
+75.05.03.2009                                                                       6 Mootilango
+75.05.03.2011                                                                       7 Langge                                      Pemekaran Desa Tolongio Perda No. 43/2010
+75.05.03.2012                                                                       8 Tutuwoto                                    Pemekaran Desa Tolongio Perda No. 44/2010
+75.05.03.2013                                                                       9 Hiyalooile                                  Pemekaran Desa Popalo Perda No. 45/2010
+75.05.03.2014                                                                      10 Ibarat                                      Pemekaran Desa Ilangata Perda No. 46/2010
+75.05.03.2017                                                                      11 Iloheluma                                   Pemekaran Desa Talango Perda No. 49/2010
+75.05.03.2021                                                                      12 Ilodulunga                                  Pemekaran Desa Tolongiu Perda No. 53/2010
+75.05.03.2023                                                                      13 Putiana                                     Pemekaran Desa Popalo Perda No. 55/2010
+75.05.03.2024                                                                      14 Heluma                                      Pemekaran Desa Motilango Perda No. 56/2010. Perbaikan nama
+75.05.03.2025                                                                      15 Datahu                                        Pemekaran Desa Ilangata Perda No. 82/2010
+75.05.04.2001                                                                       1 Bulontiyo Timur                               Perbaikan nama Surat Ditjen Bina Pemdes
+75.05.04.2002                                                                       2 Bulontiyo Barat                               Perbaikan nama Surat Ditjen Bina Pemdes
+75.05.04.2007                                                                       3 Buloila
+75.05.04.2009                                                                       4 Kasia
+75.05.04.2010                                                                       5 Kikia
+75.05.04.2012                                                                       6 Tumba                                         Pemekaran Desa Buloila Perda No. 58/2010
+75.05.04.2013                                                                       7 Mebongo                                       Pemekaran Desa Bulontio Barat Perda No. 59/2010
+75.05.04.2014                                                                       8 Lelato                                        Pemekaran Desa Buloila Perda No. 60/2010
+75.05.04.2016                                                                       9 Pulohenti                                     Pemekaran Desa Bulontio Timur Perda No. 62/2010
+75.05.04.2019                                                                      10 Puncak Mandiri                                Pemekaran Desa Kikia Perda No. 65/2010
+75.05.04.2020                                                                      11 Hutakalo                                      Pemekaran Desa Bulontio Timur Perda No. 66/2010
+75.05.05.2001                                                                       1 Tolinggula Tengah
+75.05.05.2002                                                                       2 Tolinggula Pantai
+75.05.05.2003                                                                       3 Tolinggula Ulu
+75.05.05.2006                                                                       4 Limbato
+75.05.05.2007                                                                       5 Papualangi
+75.05.05.2008                                                                       6 Molangga
+75.05.05.2011                                                                        7 Cempaka Putih
+75.05.05.2014                                                                        8 Tolite Jaya                                Pemekaran Desa Tolinggula Perda No. 69/2010
+75.05.05.2017                                                                        9 Ilomangga                                  Pemekaran Desa Molangga Perda No. 72/2010
+75.05.05.2018                                                                       10 Ilotunggulo                                Pemekaran Desa Tolinggula Ulu Perda No. 73/2010
+75.05.06.2001                                                                        1 Gentuma                                    Semula wil. Kec. Atinggola Perda No. 23/2008
+75.05.06.2002                                                                        2 Dumolodo                                   Semula wil. Kec. Atinggola Perda No. 23/2008
+75.05.06.2003                                                                        3 Molonggota                                 Semula wil. Kec. Atinggola Perda No. 23/2008
+75.05.06.2004                                                                        4 Ipilo                                      Semula wil. Kec. Atinggola Perda No. 23/2008
+75.05.06.2005                                                                        5 Langke                                     Semula wil. Kec. Atinggola Perda No. 23/2008
+75.05.06.2006                                                                        6 Pasalae                                    Pemekaran desa Gentuma Perda No. 14/2010
+75.05.06.2007                                                                        7 Nanati Jaya                                Pemekaran desa Dumolodo Perda No. 14/2010
+75.05.06.2008                                                                        8 Ketapang                                   Pemekaran desa Gentuma Perda No. 14/2010
+75.05.06.2009                                                                        9 Motomingo                                  Pemekaran desa Molonggota Perda No. 14/2010
+75.05.06.2010                                                                       10 Durian                                     Pemekaran desa Ipilo Perda No. 14/2010
+75.05.06.2011                                                                       11 Bohusami                                   Pemekaran desa Gentuma Perda No. 14/2010
+75.05.07.2001                                                                        1 Dambalo                                    Semula wil Kec. Kwandang, Perda No. 14/2011
+75.05.07.2002                                                                        2 Milango                                    Pemekaran Desa Dambalo Perda No. 28/2010, Semula   wil Kec.
+75.05.07.2003                                                                        3 Jembatan Merah                             Pemekaran Desa Dambalo Perda No. 31/2010, Semula   wil Kec.
+75.05.07.2004                                                                        4 Bubode                                     Pemekaran Desa Dambalo Perda No. 40/2010, Semula   wil Kec.
+75.05.07.2005                                                                        5 Leyao                                      Pemekaran Desa Dambalo Perda No. 80/2010, Semula   wil Kec.
+75.05.07.2006                                                                        6 Molantadu                                  Semula wil Kec. Kwandang, Perda No. 14/2011
+75.05.07.2007                                                                        7 Huidu Melito                               Pemekaran Desa Molantandu Perda No. 27/2010, Semula wil Kec.
+75.05.07.2008                                                                        8 Bulango Raya                               Pemekaran Desa Dambalo & Molantandu Perda No. 42/2010,
+75.05.07.2009                                                                        9 Tanjung Karang                             Semula wil Kec. Kwandang, Perda No. 14/2011
+75.05.07.2010                                                                           10 Mutiara Laut                             Pemekaran Desa Tanjung Karang Perda No. 29/2010, Semula wil
+75.05.08.2001                                                                            1 Ponelo                                   Semula wil Kec. Kwandang, Perda No. 15/2011
+75.05.08.2002                                                                            2 Malambe                                  Pemekaran   Desa Ponelo Perda No. 41/2010, Semula wil Kec.
+75.05.08.2003                                                                            3 Otiola                                   Pemekaran   Desa Ponelo Perda No. 35/2010, Semula wil Kec.
+75.05.08.2004                                                                            4 Tihengo                                  Pemekaran   Desa Ponelo Perda No. 33/2010, Semula wil Kec.
+75.05.09.2001                                                                            1 Monano                                   Semula wil Kec. Anggrek, Perda No. 15/2011
+75.05.09.2002                                                                            2 Tudi                                     Semula wil Kec. Anggrek, Perda No. 15/2011
+75.05.09.2003                                                                            3 Monas                                    Semula wil Kec. Anggrek, Perda No. 15/2011
+75.05.09.2004                                                                            4 Dunu                                     Semula wil Kec. Anggrek, Perda No. 15/2011
+75.05.09.2005                                                                            5 Garapia                                  Pemekaran Desa Tudi Perda No. 54/2010, Semula wil Kec.
+75.05.09.2006                                                                            6 Sogu                                     Pemekaran Desa Monas Perda No. 47/2010, Semula wil Kec.
+75.05.09.2007                                                                            7 Pilohulata                               Pemekaran Desa Tudi Perda No. 48/2010, Semula wil Kec.
+75.05.09.2008                                                                            8 Mokonowu                                 Pemekaran Desa Tudi Perda No. 52/2010, Semula wil Kec.
+75.05.09.2009                                                                            9 Tolitehuyu                               Pemekaran Desa Dunu Perda No. 51/2010, Semula wil Kec.
+75.05.09.2010                                                                           10 Zuriyati                                 Pemekaran Desa Monano Perda No. 50/2010, Semula wil Kec.
+75.05.10.2001                                                                            1 Biau                                     Semula wil Kec. Tolinggula, Perda No. 17/2011. Perbaikan nama
+75.05.10.2002                                                                            2 Omuto                                    Pemekaran Desa Biawu Perda No. 67/2010, Semula wil Kec.
+75.05.10.2003                                                                            3 Luhuto                                   Pemekaran Desa Biawu Perda No. 68/2010, Semula wil Kec.
+75.05.10.2004                                                                            4 Windu                                    Semula wil Kec. Tolinggula, Perda No. 17/2011
+75.05.10.2005                                                                            5 Topi                                     Pemekaran Desa Mindu Perda No. 84/2010, Semula wil Kec.
+75.05.10.2006                                                                            6 Sembihinga                               Pemekaran Desa Didingga Perda No. 85/2010, Semula wil Kec.
+75.05.10.2007                                                                            7 Didingga                                 Semula wil Kec. Tolinggula, Perda No. 17/2011
+75.05.10.2008                                                                            8 Bualo                                    Pemekaran Desa Didingga Perda No. 71/2010, Semula wil Kec.
+75.05.10.2009                                                                            9 Potanga                                  Semula wil Kec. Tolinggula, Perda No. 17/2011. Perbaikan nama
+75.05.10.2010                                                                           10 Bohulo                                   Pemekaran Desa Potanga Perda No. 70/2010, Semula wil Kec.
+75.05.11.2001                                                                                    1 Deme Satu                               Semula wil Kec. Sumalata, Perda No. 18/2011
+75.05.11.2002                                                                                    2 Buluwatu                                Pemekaran Desa Deme Perda No. 63/2010, Semula wil Kec.
+75.05.11.2003                                                                                    3 Dulukapa                                Semula wil Kec. Sumalata, Perda No. 18/2011
+75.05.11.2004                                                                                    4 Deme Dua                                Semula wil Kec. Sumalata, Perda No. 18/2011
+75.05.11.2005                                                                                    5 Buladu                                  Semula wil Kec. Sumalata, Perda No. 18/2011
+75.05.11.2006                                                                                    6 Hulawa                                  Pemekaran Desa Buladu Perda No. 64/2010, Semula wil Kec.
+75.05.11.2007                                                                                    7 Wubudu                                  Semula wil Kec. Sumalata, Perda No. 18/2011
+75.05.11.2008                                                                                    8 Bubalango                               Pemekaran Desa Muwudu Perda No. 83/2010, Semula wil Kec.
+75.05.11.2009                                                                                    9 Motiheluma                              Pemekaran Desa Dulukapa Perda No. 57/2010, Semula wil Kec.
+75.05.11.2010                                                                                   10 Koluwoka                                Pemekaran Desa Deme Perda No. 61/2010, Semula wil Kec.
+75.71.01.1001                                                            1 Dembe I
+75.71.01.1002                                                            2 Lekobalo
+75.71.01.1003                                                            3 Pilolodaa
+75.71.01.1004                                                            4 Buliide
+75.71.01.1005                                                            5 Tenilo
+75.71.01.1006                                                            6 Molosipat W
+75.71.01.1008                                                            7 Buladu
+75.71.02.1010                                                     1 Biawao
+75.71.02.1012                                                     2 Biawu
+75.71.02.1013                                                     3 Limba B
+75.71.02.1019                                                     4 Limba U I
+75.71.02.1020                                                     5 Limba U II
+75.71.03.1003                                                     1 Dembe II
+75.71.03.1004                                                     2 Wongkaditi Timur                                       Perbaikan nama, srt Gorontalo no 100/1223/Pem tgl 14 April
+75.71.03.1005                                                     3 Wongkaditi Barat                                       Perbaikan nama, srt Gorontalo no 100/1223/Pem tgl 14 April
+75.71.03.1010                                                     4 Dulomo Selatan
+75.71.03.1014                                                     5 Dulomo Utara
+75.71.03.1015                                                     6 Dembe Jaya                                             Perda No. 2/2007
+75.71.04.1001                                                     1 Huangobotu
+75.71.04.1002                                                     2 Libuo
+75.71.04.1003                                                     3 Tomulabutao
+75.71.04.1004                                                       4 Tuladengi                                               Perbaikan nama, srt Gorontalo no 100/1223/Pem tgl 14 April
+75.71.04.1005                                                       5 Tomulabutao Selatan                                     Perda No. 4/2007
+75.71.05.1003                                                       1 Heledulaa Utara
+75.71.05.1004                                                       2 Heledulaa Selatan
+75.71.05.1005                                                       3 Ipilo
+75.71.05.1008                                                       4 Moodu
+75.71.05.1009                                                       5 Padebuolo
+75.71.05.1011                                                       6 Tamalate
+75.71.06.1001                                                       1 Wumialo                                                 Semula wil. Kec. Kota Utara
+75.71.06.1002                                                       2 Dulalowo                                                Semula wil. Kec. Kota Utara
+75.71.06.1003                                                       3 Liluwo                                                  Semula wil. Kec. Kota Utara
+75.71.06.1004                                                       4 Pulubala                                                Semula wil. Kec. Kota Utara
+75.71.06.1005                                                       5 Paguyaman                                               Semula wil. Kec. Kota Utara
+75.71.06.1006                                                       6 Dulalowo Timur                                          Perda No. 3/2007
+75.71.07.1001                                                       1 Tanggikiki                                              Pemekaran Kel. Molosipat U Perda No. 23/2011
+75.71.07.1002                                                       2 Tapa                                                    Semula wil. Kec. Kota Utara Perda No. 19/2011
+75.71.07.1003                                                       3 Bulotadaa Barat                                         Semula wil. Kec. Kota Utara Perda No. 19/2011
+75.71.07.1004                                                       4 Bulotadaa Timur                                         Semula wil. Kec. Kota Utara Perda No. 19/2011
+75.71.07.1005                                                       5 Molosifat U                                             Semula wil. Kec. Kota Utara Perda No. 19/2011
+75.71.08.1001                                                       1 Leato Utara                                             Semula wil. Kec. Kota Timur Perda No. 20/2011
+75.71.08.1002                                                       2 Leato Selatan                                           Semula wil. Kec. Kota Timur Perda No. 20/2011
+75.71.08.1003                                                       3 Talumolo                                                Semula wil. Kec. Kota Timur Perda No. 20/2011
+75.71.08.1004                                                       4 Botu                                                    Semula wil. Kec. Kota Timut Perda No. 20/2011
+75.71.08.1005                                                       5 Bugis                                                   Semula wil. Kec. Kota Timur Perda No. 20/2011
+75.71.09.1001                                                      1 Tanjung Kramat                                              Semula wil. Kec. Kota Selatan Perda No. 21/2011
+75.71.09.1002                                                      2 Pohe                                                        Semula wil. Kec. Kota Selatan Perda No. 21/2011
+75.71.09.1003                                                      3 Tenda                                                       Semula wil. Kec. Kota Selatan Perda No. 21/2011
+75.71.09.1004                                                      4 Donggala                                                    Semula wil. Kec. Kota Selatan Perda No. 21/2011
+75.71.09.1005                                                      5 Siendeng                                                    Semula wil. Kec. Kota Selatan Perda No. 21/2011
