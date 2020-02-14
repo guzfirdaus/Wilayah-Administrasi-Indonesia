@@ -1,4 +1,3 @@
-  I    52         NUSA TENGGARA BARAT                                    8         2      117    145        995       18.572,32     5.270.247
        52.01.01     1 Gerung                                                                          3      11
        52.01.02     2 Kediri                                                                                 10
        52.01.03     3 Narmada                                                                                21
@@ -9,7 +8,6 @@
        52.01.13     8 Lembar                                                                                 10
        52.01.14     9 Batu Layar                                                                                 9
        52.01.15    10 Kuripan                                                                                    6
-       52.02      2 KAB. LOMBOK TENGAH            Praya                                    12      12       127        1.095,03     1.041.669
        52.02.01     1 Praya                                                                           9          6
        52.02.02     2 Jonggat                                                                                13
        52.02.03     3 Batukliang                                                                             10
@@ -22,7 +20,6 @@
        52.02.10    10 Praya Tengah                                                                    3          9
        52.02.11    11 Praya Barat Daya                                                                       11
      52.02.12    12 Batukliang Utara                                                           8
-     52.03      3 KAB. LOMBOK TIMUR     Selong                          21       15       239       1.230,76     1.294.756
      52.03.01     1 Keruak                                                                 15
      52.03.02     2 Sakra                                                                  12
      52.03.03     3 Terara                                                                 16
@@ -118,4 +115,3 @@
      52.72.03     3 Asakota                                                        6
      52.72.04     4 Raba                                                       11                                          Perda No. 21/2006
      52.72.05   5 Mpunda                                                      10                                      Perda No. 22/2006
-                 JUMLAH                               8      2      117      145     995    18.572,32     5.270.247

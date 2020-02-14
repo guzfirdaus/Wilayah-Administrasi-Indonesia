@@ -15,4 +15,4 @@
  15      74.15   KAB. BUTON SELATAN                           7     10      60             509,92        98.070    Luas wilayah berdasarkan UU No. 16 Tahun 2014
  16      74.71   KOTA KENDARI                              10       64                     300,89       340.102
  17      74.72   KOTA BAU BAU                                 8     43                     221,00       157.549
-                         JUMLAH                           219      377    1.911        38.067,70       2.635.461
+ 

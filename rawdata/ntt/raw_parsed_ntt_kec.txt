@@ -1,4 +1,3 @@
-  I    53         NUSA TENGGARA TIMUR                                 21          1      309    327       3.026      48.718,10     5.411.321
        53.01.04     1 Semau                                                                                     8
        53.01.05     2 Kupang Barat                                                                   2       10
        53.01.06     3 Kupang Timur                                                                   5          8
@@ -308,4 +307,3 @@
      53.71.04     4 Oebobo                                                         7
      53.71.05     5 Kota Raja                                                      8                                         Pemekaran Kec. Perda No. 3/2010
      53.71.06     6 Kota Lama                                                  10                                            Pemekaran Kec. Perda No. 4/2010
-                   JUMLAH                             21      1      309      327       3.026      48.718,10     5.411.321

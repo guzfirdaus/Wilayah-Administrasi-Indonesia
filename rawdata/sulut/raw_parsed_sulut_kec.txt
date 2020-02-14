@@ -1,4 +1,3 @@
-  I    71         SULAWESI UTARA                                      11          4      171    332       1.507    13.892,47     2.641.884
        71.01.05     1 Sang Tombolang                                                                         12
        71.01.09     2 Dumoga Barat                                                                           12
        71.01.10     3 Dumoga Timur                                                                   1       15
@@ -170,4 +169,3 @@
      71.74.02     2 Kotamobagu Timur                                                 6          4                              Semula wil. Kab. Bolaang Mongondow
      71.74.03     3 Kotamobagu Selatan                                               3          6                              Semula wil. Kab. Bolaang Mongondow
      71.74.04     4 Kotamobagu Barat                                                 6                                         Semula wil. Kab. Bolaang Mongondow
-                   JUMLAH                               11      4      171      332       1.507      13.892,47     2.641.884

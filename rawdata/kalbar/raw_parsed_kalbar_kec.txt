@@ -1,4 +1,3 @@
-  I    61         KALIMANTAN BARAT                                     12          2      174       99       2.031     147.307,00     5.422.814
        61.01.01     1 Sambas                                                                                    18
        61.01.02     2 Teluk Keramat                                                                             25
        61.01.03     3 Jawai                                                                                     13
@@ -173,4 +172,3 @@
      61.72.03     3 Singkawang Timur                                                 5
      61.72.04     4 Singkawang Utara                                                 7
      61.72.05     5 Singkawang Selatan                                               4
-                   JUMLAH                               12      2      174       99       2.031   147.307,00     5.422.814

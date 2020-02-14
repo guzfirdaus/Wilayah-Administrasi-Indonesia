@@ -2,7 +2,6 @@
   2      92.02   KAB. MANOKWARI                              9      9     164          3.186,28        188.806    Luas Wil. hasil perhitungan BIG sesuai surat Nomor
   3      92.03   KAB. FAK FAK                              17       7     142         14.320,00         87.024    Luas wilayah indikatif berdasarkan UU No. 26/2002
   4      92.04   KAB. SORONG SELATAN                       15       2     121          6.594,31         60.357    Luas Wilayah sesuai hasil perhitungan BIG melalui Surat BIG No.
-                                                                                                                  B-1729.2/BIG/KA/LP/12/2012 Tgl. 8 Desember 2012
   5      92.05   KAB. RAJA AMPAT                           24       4     117          8.034,44         65.339
   6      92.06   KAB. TELUK BINTUNI                        24       2     115         20.840,83         79.501
   7      92.07   KAB. TELUK WONDAMA                        13       1      75          3.959,53         43.986
@@ -12,4 +11,3 @@
  11      92.11   KAB. MANOKWARI SELATAN                      6      0      57          2.812,44         36.467    Luas Wil. Berdasarkan UU. No. 23 Tahun 2012
  12      92.12   KAB. PEGUNUNGAN ARFAK                     10       0     166          2.773,74         38.426    Luas Wil. Berdasarkan UU. No. 24 Tahun 2012
  13      92.71   KOTA SORONG                               10      41                     656,64       279.307
-                         JUMLAH                           218      95    1.742       102.955,15       1.140.701

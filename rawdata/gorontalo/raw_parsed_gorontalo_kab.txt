@@ -4,4 +4,4 @@
   4      75.04   KAB. PAHUWATO                             13        3     101         4.244,31       145.469
   5      75.05   KAB. GORONTALO UTARA                      11        0     123         1.676,15       128.599    UU No. 11/2007
   6      75.71   KOTA GORONTALO                               9     50                    79,59       199.767    Data luas wil.berdasarkan GIS Pusat, 2007
-                         JUMLAH                            77       72     657        11.257,07      1.180.651
+  

@@ -1,4 +1,3 @@
-  I    72         SULAWESI TENGAH                                      12          1      175    175       1.842      61.841,29     2.955.567
        72.01.01     1 Batui                                                                           7          6
        72.01.02     2 Bunta                                                                           4       18
        72.01.03     3 Kintom                                                                          3       11
@@ -174,4 +173,3 @@
      72.71.06     6 Tatanga                                                        6                                         Pemekaran Kec. Palu Barat & Kec. Palu Selatan Perda No. 4/2012
      72.71.07     7 Tawaeli                                                        5                                         Pemekaran Kec. Palu Utara Perda No. 4/2012
      72.71.08     8 Mantikulore                                                    8                                         Pemekaran sebagian Kec. Palu Timur & Palu Selatan Perda No. 4/2012
-                   JUMLAH                             12      1      175      175       1.842      61.841,29     2.955.567

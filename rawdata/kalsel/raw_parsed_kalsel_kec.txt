@@ -1,4 +1,3 @@
-  I    63         KALIMANTAN SELATAN                                   11          2      153    144       1.864      38.744,23     4.023.049
        63.01.01     1 Takisung                                                                                12
        63.01.02     2 Jorong                                                                                  11
        63.01.03     3 Pelaihari                                                                       5       15
@@ -152,4 +151,3 @@
      63.72.04   3 Banjarbaru Utara                                            4                                       Perda No. 4/2007
      63.72.05   4 Banjarbaru Selatan                                          4                                       Perda No. 4/2007
      63.72.06   5 Liang Anggang                                               4                                       Perda No. 4/2007
-                 JUMLAH                            11      2      153      144     1.864    38.744,23     4.023.049

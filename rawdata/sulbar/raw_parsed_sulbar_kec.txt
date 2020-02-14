@@ -1,4 +1,3 @@
-  I    76         SULAWESI BARAT                                        6             69       73       575       16.787,18     1.559.984
        76.01.01     1 Bambalamotu                                                                 1          5
        76.01.02     2 Pasangkayu                                                                  2          4
        76.01.03     3 Baras                                                                       1          5
@@ -68,4 +67,3 @@
      76.06.03    3 Budong-Budong                                                             11                                 Semula wil Kab. Mamuju, sesuai UU No. 4/2013
      76.06.04    4 Topoyo                                                                    15                                 Semula wil Kab. Mamuju, sesuai UU No. 4/2013
      76.06.05    5 Karossa                                                                   11                                 Semula wil Kab. Mamuju, sesuai UU No. 4/2013
-                   JUMLAH                                 6             69        73        575       16.787,18     1.559.984

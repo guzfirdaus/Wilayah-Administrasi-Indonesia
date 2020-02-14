@@ -1,4 +1,3 @@
-  I    81         MALUKU                                                  9        2      118      35      1.198      46.914,03     1.847.097
        81.01.01     1 Amahai                                                                          1       14
        81.01.02     2 Teon Nila Serua                                                                         16
        81.01.06     3 Seram Utara                                                                             20
