@@ -1,0 +1,562 @@
+  I    91         PAPUA                                                28          1      560    110       5.411     319.036,05     4.340.348
+       91.01.01     1 Merauke                                                                      11            5
+       91.01.02     2 Muting                                                                                  12
+       91.01.03     3 Okaba                                                                                      9
+       91.01.04     4 Kimaam                                                                                  14
+       91.01.05     5 Semangga                                                                                10
+       91.01.06     6 Tanah Miring                                                                            14
+       91.01.07     7 Jagebob                                                                                 14
+       91.01.08     8 Sota                                                                                       5
+       91.01.09     9 Ulilin                                                                                  11
+       91.01.10    10 Elikobal                                                                                12
+       91.01.11    11 Kurik                                                                                   13
+       91.01.12    12 Naukenjerai                                                                                5                              Perda No. 2/2006
+       91.01.13    13 Animha                                                                                     5                              Perda No. 2/2006
+       91.01.14    14 Malind                                                                                     7                              Perda No. 2/2006
+       91.01.15    15 Tubang                                                                                     6                              Perda No. 2/2006
+       91.01.16    16 Ngguti                                                                                     6                              Perda No. 2/2006
+       91.01.17    17 Kaptel                                                                                     5                              Perda No. 2/2006
+       91.01.18    18 Tabonji                                                                                    9                              Perda No. 2/2006
+       91.01.19    19 Waan                                                                                    11                                Perda No. 2/2006
+       91.01.20    20 Ilwayab                                                                                    6                              Perda No. 2/2006
+       91.02.01     1 Wamena                                                                          3          8
+       91.02.03     2 Kurulu                                                                                  12
+       91.02.04     3 Asologaima                                                                              10
+     91.02.12    4 Hubikosi                                                     11
+     91.02.15    5 Bolakme                                                      12
+     91.02.25    6 Walelagama                                                       6
+     91.02.27    7 Musatfak                                                     10
+     91.02.28    8 Wolo                                                             8
+     91.02.29    9 Asolokobal                                                       9
+     91.02.34   10 Pelebaga                                                     13                            Perda No. 20/2006
+     91.02.35   11 Yalengga                                                     11                            Perda No. 20/2006
+     91.02.40   12 Trikora                                                          6                         Pemekaran Kec. Wamena Perda No. 16/2009
+     91.02.41   13 Napua                                                            9                         Pemekaran Kec. Wamena Perda No. 16/2009
+     91.02.42   14 Walaik                                                           5                         Pemekaran Kec. Wamena Perda No. 16/2009
+     91.02.43   15 Wouma                                                            7                         Pemekaran Kec. Wamena Perda No. 16/2009
+     91.02.44   16 Hubikiak                                                         8                         Pemekaran Kec. Hubikosi Perda No. 16/2009
+     91.02.45    17 Ibele                                                               10                                Pemekaran Kec Pelebaga Perda No 16/2009
+     91.02.46    18 Taelarek                                                                8                             Pemekaran Kec Pelebaga Perda No 16/2009
+     91.02.47    19 Itlay Hisage                                                            9                             Pemekaran Kec Walelagama Perda No 16/2009
+     91.02.48    20 Siepkosi                                                                9                             Pemekaran Kec Walelagama Perda No 16/2009
+     91.02.49    21 Usilimo                                                             10                                Pemekaran Kec Kurulu Perda No 16/2009
+     91.02.50    22 Wita Waya                                                               5                             Pemekaran Kec Kurulu Perda No 16/2009
+     91.02.51    23 Libarek                                                                 5                             Pemekaran Kec Kurulu Perda No 16/2009
+     91.02.52    24 Wadangku                                                                5                             Pemekaran Kec Kurulu Perda No 16/2009
+     91.02.53    25 Pisugi                                                                  7                             Pemekaran Kec Kurulu Perda No 16/2009
+     91.02.54    26 Koragi                                                                  5                             Pemekaran Kec Yalengga Perda No 16/2009
+     91.02.55    27 Tagime                                                              11                                Pemekaran Kec Bolakme Perda No 16/2009
+     91.02.56    28 Molagalome                                                              6                             Pemekaran Kec Bolakme Perda No 16/2009
+     91.02.57    29 Tagineri                                                                9                             Pemekaran Kec Bolakme Perda No 16/2009
+     91.02.58    30 Silo Karno Doga                                                         8                             Pemekaran Kec Asologaima Perda No 16/2009
+     91.02.59    31 Piramid                                                             10                                Pemekaran Kec Asologaima Perda No 16/2009
+     91.02.60    32 Muliama                                                             12                                Pemekaran Kec Asologaima Perda No 16/2009
+     91.02.61    33 Bugi                                                                    8                             Pemekaran Kec Wollo Perda No 16/2009
+     91.02.62    34 Bpiri                                                                   7                             Pemekaran Kec Wollo Perda No 16/2009
+     91.02.63    35 Welesi                                                                  7                             Pemekaran Kec Asolo Kobal Perda No 16/2009
+     91.02.64    36 Asotipo                                                             10                                Pemekaran Kec Asolo Kobal Perda No 16/2009
+     91.02.65    37 Maima                                                                   7                             Pemekaran Kec Asolo Kobal Perda No 16/2009
+     91.02.66    38 Popugoba                                                                4                             Pemekaran Kec Maima Perda No 17/2011
+     91.02.67    39 Wame                                                                    4                             Pemekaran Kec Asolo Gaima Perda No 17/2011
+     91.02.68    40 Wesaput                                                      1          7                             Pemekaran Kec Wamena Perda No 17/2011
+     91.03.01     1 Sentani                                                      3          7
+     91.03.02     2 Sentani Timur                                                           7
+     91.03.03     3 Depapre                                                                 8
+     91.03.04     4 Sentani Barat                                                           5
+     91.03.05     5 Kemtuk                                                              12
+     91.03.06     6 Kemtuk Gresi                                                 1      11
+     91.03.07     7 Nimboran                                                     1      13
+     91.03.08     8 Nimbokrang                                                              9
+     91.03.09     9 Unurum Guay                                                             6
+     91.03.10    10 Demta                                                                   7
+     91.03.11    11 Kaureh                                                                  5
+     91.03.12    12 Ebungfao                                                                5
+     91.03.13    13 Waibu                                                                   7
+     91.03.14    14 Nambluong                                                               9
+     91.03.15    15 Yapsi                                                                   9
+     91.03.16    16 Airu                                                                    6
+     91.03.17    17 Raveni Rara                                                             4                             Pemekaran Kec. Depapre Perda No. 2/2006
+     91.03.18    18 Gresi Selatan                                                           4                             Pemekaran Kec. Kemtuk Gresi Perda No. 2/2006
+     91.03.19    19 Yokari                                                                  5                             Pemekaran Kec. Demta Perda No. 2/2006
+     91.04.01     1 Nabire                                                       9          3
+     91.04.02     2 Napan                                                                   3
+     91.04.03     3 Yaur                                                                    4
+     91.04.06     4 Uwapa                                                                   6
+     91.04.07     5 Wanggar                                                                 3
+     91.04.10     6 Siriwo                                                                  6
+     91.04.11     7 Makimi                                                                  6                             Perda No. 6/2005
+     91.04.12     8 Teluk Umar                                                              4                             Perda No. 7/2005
+     91.04.16     9 Teluk Kimi                                                              5                             Perda No. 15/2006
+     91.04.17    10 Yaro                                                                    8                             Perda No. 16/2006
+     91.04.21    11 Wapoga                                                                  5                             Perda No. 11/2007
+     91.04.22    12 Nabire Barat                                                            5                             Perda No. 12/2007
+     91.04.23    13 Moora                                                                   5                             Pemekaran Kecamatan Napan, Perda No. 12/2010
+     91.04.24    14 Dipa                                                                    5                             Pemekaran Kecamatan Uwapa, Perda No. 19/2008
+     91.04.25    15 Menou                                                                   4                             Pemekaran Kecamatan Uwapa, Perda No. 22/2008
+     91.05.01     1 Yapen Selatan                                                3      10
+     91.05.02     2 Yapen Barat                                                  1      16
+     91.05.03     3 Yapen Timur                                                         11
+     91.05.04     4 Angkaisera                                                          11
+     91.05.05     5 Poom                                                                    8
+     91.05.06     6 Kosiwo                                                              15
+     91.05.07     7 Yapen Utara                                                             7
+     91.05.08     8 Raimbawi                                                                7
+     91.05.09     9 Teluk Ampimoi                                                       11
+     91.05.10    10 Kepulauan Ambai                                                     18
+     91.05.11    11 Wonawa                                                              10
+     91.05.12    12 Windesi                                                                 9
+     91.05.13    13 Pulau Kurudu                                                            8                            Pemekaran Kec Raimbawi Perda No. 17/2009
+     91.05.14    14 Pulau Yerui                                                             5                            Pemekaran Kec Miosnum Perda No. 17/2009
+     91.05.15    15 Anotaurei                                                    1          7                            Pemekaran wil Kec Yapen Selatan, Perda No 22/2012.
+     91.05.16    16 Yawakukat                                                               7                            Pemekaran wil Kec Angkaisera, Perda No 22/2012.
+     91.06.01     1 Biak Kota                                                    7      15
+     91.06.02     2 Biak Utara                                                          16
+     91.06.03     3 Biak Timur                                                          26
+     91.06.04     4 Numfor Barat                                                        12
+     91.06.05     5 Numfor Timur                                                            9
+     91.06.08     6 Biak Barat                                                          22
+     91.06.09     7 Warsa                                                               20
+     91.06.10     8 Padaido                                                             11
+     91.06.11     9 Yendidori                                                           19
+     91.06.12    10 Samofa                                                       7      10
+     91.06.13    11 Yawosi                                                                  8                            Pemekaran Kec. Perda No. 4/2007
+     91.06.14    12 Andey                                                               11                               Pemekaran Kec. Perda No. 4/2007
+     91.06.15    13 Swandiwe                                                            15                               Pemekaran Kec. Perda No. 4/2007
+     91.06.16    14 Bruyadori                                                           10                               Pemekaran Kec. Perda No. 4/2007
+     91.06.17    15 Orkeri                                                                  9                            Pemekaran Kec. Perda No. 4/2007
+     91.06.18    16 Poiru                                                                   9                            Pemekaran Kec. Perda No. 4/2007
+     91.06.19    17 Aimando Padaido                                                     13                               Pemekaran Kec. Perda No. 4/2007
+     91.06.20    18 Oridek                                                              14                               Pemekaran Kec. Perda No. 4/2007
+     91.06.21    19 Bondifuar                                                               5                            Pemekaran Kec. Perda No. 4/2007
+     91.07.01     1 Mulia                                                        2          9
+     91.07.03     2 Ilu                                                          1      20
+     91.07.06     3 Fawi                                                                    9
+     91.07.07     4 Mewoluk                                                                 8
+     91.07.08     5 Yamo                                                                14
+     91.07.10     6 Nume                                                                13                               Perubahan nama Kec. Jigonikme Perda No. 1/2013
+     91.07.11     7 Torere                                                              13
+     91.07.12     8 Tingginambut                                                        22
+     91.07.17     9 Pagaleme                                                                5                            Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.18    10 Gurage                                                              11                               Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.19    11 Irimuli                                                                 9                            Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.20    12 Muara                                                                   8                            Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.21    13 Ilamburawi                                                              5                            Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.22    14 Yambi                                                                   9                            Pemekaran Kec. Mulia Perda No. 1/2013
+     91.07.23    15 Lumo                                                                    9                            Pemekaran Kec. Mewoluk Perda No. 1/2013
+     91.07.24    16 Molanikime                                                              5                            Pemekaran Kec. Mewoluk Perda No. 1/2013
+     91.07.25    17 Dokome                                                                  9                            Pemekaran Kec. Yamo Perda No. 1/2013
+     91.07.26    18 Kalome                                                              16                               Pemekaran Kec. Tingginambut Perda No. 1/2013
+     91.07.27    19 Wanwi                                                               17                               Pemekaran Kec. Tingginambut Perda No. 1/2013
+     91.07.28    20 Yamoneri                                                            16                               Pemekaran Kec. Ilu Perda No. 1/2013
+     91.07.29    21 Waegi                                                               19                               Pemekaran Kec. Ilu Perda No. 1/2013
+     91.07.30    22 Nioga                                                               11                               Pemekaran Kec. Jigonikme Perda No. 1/2013
+     91.07.31    23 Gubume                                                              17                               Pemekaran Kec. Jigonikme Perda No. 1/2013
+     91.07.32    24 Taganombak                                                          10                               Pemekaran Kec. Jigonikme Perda No. 1/2013
+     91.07.33    25 Dagai                                                               10                               Pemekaran Kec. Fawi Perda No. 1/2013
+     91.07.34    26 Kiyage                                                                  8                            Pemekaran Kec. Fawi Perda No. 1/2013
+     91.08.01     1 Paniai Timur                                                 2      24
+     91.08.02     2 Paniai Barat                                                 1      12
+     91.08.04     3 Aradide                                                            13
+     91.08.07     4 Bogabaida                                                              9
+     91.08.09     5 Bibida                                                      1          6
+     91.08.12     6 Dumadama                                                               5                             Perda No.3/2003
+     91.08.13     7 Siriwo                                                             14                                Perda No.3/2003
+     91.08.19     8 Kebo                                                               13                                Perda No.3/2003
+     91.08.20     9 Yatamo                                                                 5                             Perda No.3/2003
+     91.08.21    10 Ekadide                                                            12                                Perda No.3/2003
+     91.08.22    11 Wegee Muka                                                  1      10                                Pemekaran Kec Paniai Timur Perda No 11/2011.
+     91.08.23    12 Wegee Bino                                                             9                             Pemekaran Kec Paniai Timur Perda No 11/2011.
+     91.08.24    13 Pugo Dagi                                                              9                             Pemekaran Kec Paniai Timur Perda No 11/2011.
+     91.08.25    14 Muye                                                               10                                Pemekaran Kec Paniai Barat Perda No 11/2011.
+     91.08.26    15 Nakama                                                                 7                             Pemekaran Kec Paniai Barat Perda No 11/2011.
+     91.08.27    16 Teluk Deya                                                             6                             Pemekaran Kec Paniai Barat Perda No 11/2011.
+     91.08.28    17 Yagai                                                              10                                Pemekaran Kec Kebo Perda No 11/2011.
+     91.08.29    18 Youtadi                                                                6                             Pemekaran Kec Bogobaida Perda No 11/2011.
+     91.08.30    19 Baya Biru                                                              6                             Pemekaran Kec Bogobaida Perda No 11/2011.
+     91.08.31    20 Deiyai Miyo                                                            6                             Pemekaran Kec Yatamo Perda No 11/2011.
+     91.08.32    21 Dogomo                                                                 5                             Pemekaran Kec Duma Dama Perda No 11/2011.
+     91.08.33    22 Aweida                                                                 9                             Pemekaran Kec Aradide Perda No 11/2011.
+     91.08.34    23 Topiyai                                                            10                                Pemekaran Kec Ekadide Perda No 11/2011.
+     91.09.01     1 Mimika Baru                                              11            3
+     91.09.02     2 Agimuga                                                                8
+     91.09.03     3 Mimika Timur                                                1          5
+     91.09.04     4 Mimika Barat                                                           7
+     91.09.05     5 Jita                                                                       10
+     91.09.06     6 Jila                                                                       12
+     91.09.07     7 Mimika Timur Jauh                                                              5
+     91.09.08     8 Mimika Tengah                                                                  5
+     91.09.09     9 Kuala Kencana                                                       2          8
+     91.09.10    10 Tembagapura                                                         1      13
+     91.09.11    11 Mimika Barat Jauh                                                              5
+     91.09.12    12 Mimika Barat Tengah                                                            9
+     91.09.13    13 Kwamki Narama                                                       1          9                             Pemekaran Kec. Mimika baru Perda No. 11/2010
+     91.09.14    14 Hoya                                                                           6                             Pemekaran Kec. Jila Perda No. 12/2011
+     91.09.15    15 Iwaka                                                                          7                             Pemekaran Kec. Mimika Baru, Kuala Kencana dan Mimika Timur Perda No.
+     91.09.16    16 Wania                                                               3          4                             Pemekaran Kec. Mimika Baru dan Mimika Timur Perda No. 12/2011
+     91.09.17    17 Amar                                                                           6                             Pemekaran Kec. Mimika Barat Perda No. 12/2011
+     91.09.18    18 Alama                                                                      11                                Pemekaran Kec. Jila Perda No. 12/2011
+     91.10.01     1 Sarmi                                                               2          9
+     91.10.02     2 Tor Atas                                                                   10
+     91.10.03     3 Pantai Barat                                                               16
+     91.10.04     4 Pantai Timur                                                                   7
+     91.10.05     5 Bonggo                                                                     10
+     91.10.09     6 Apawer Hulu                                                                10                                Perda No. 4/2005
+     91.10.12     7 Sarmi Selatan                                                                  6                             Perda No. 6/2006
+     91.10.13     8 Sarmi Timur                                                                    8                             Perda No. 6/2006
+     91.10.14     9 Pantai Timur Bagian Barat                                                  11                                Perda No. 6/2006
+     91.10.15    10 Bonggo Timur                                                                   5                             Perda No. 6/2006
+     91.11.01     1 Waris                                                                          8
+     91.11.02     2 Arso                                                                       12
+     91.11.03     3 Senggi                                                                         7
+     91.11.04     4 Web                                                                            6
+     91.11.05     5 Skanto                                                                     12
+     91.11.06     6 Arso Timur                                                             9                             Pemekaran Kec. Perda No. 7/2008
+     91.11.07     7 Towe                                                               10                                Pemekaran Kec. Perda No. 7/2008
+     91.11.08     8 Arso Barat                                                             8                             Pemekaran wil Kec Arso Perda No 7/2014
+     91.11.09     9 Mannem                                                                 7                             Pemekaran wil Kec Arso Timur dan Kec Arso Perda No 7/2014
+     91.11.10    10 Yaffi                                                                  7                             Pemekaran wil Kec Senggi dan Kec Web Perda No 7/2014
+     91.11.11    11 Kaisenar                                                               5                             Pemekaran wil Kec Senggi Perda No 7/2014
+     91.12.01     1 Oksibil                                                                8
+     91.12.02     2 Kiwirok                                                            12
+     91.12.03     3 Okbibab                                                                8
+     91.12.04     4 Iwur                                                               10
+     91.12.05     5 Batom                                                              11
+     91.12.06     6 Borme                                                              13
+     91.12.07     7 Kiwirok Timur                                                          9                             Perda No. 2/2005
+     91.12.08     8 Aboy                                                                   7                             Perda No. 2/2005
+     91.12.09     9 Pepera                                                                 7                             Perda No. 2/2005
+     91.12.10    10 Bime                                                               10                                Perda No. 2/2005
+     91.12.11    11 Alemsom                                                            12                                Pemekaran sebagian Kec. Oksibil Perda No. 12/2008
+     91.12.12    12 Okbape                                                                 6                             Pemekaran Kec. Perda No. 12/2008
+     91.12.13    13 Kalomdol                                                               5                             Pemekaran Kec. Perda No. 12/2008
+     91.12.14    14 Oksop                                                                  5                             Pemekaran Kec. Perda No. 12/2008
+     91.12.15    15 Serambakon                                                             8                             Pemekaran Kec. Perda No. 12/2008
+     91.12.16    16 Ok Aom                                                                 6                             Pemekaran Kec. Perda No. 12/2008
+     91.12.17    17 Kawor                                                                  7                             Pemekaran Kec. Perda No. 12/2008
+     91.12.18    18 Awinbon                                                                5                             Pemekaran Kec. Perda No. 12/2008
+     91.12.19    19 Tarup                                                                  7                             Pemekaran Kec. Perda No. 12/2008
+     91.12.20    20 Okhika                                                                 4                             Pemekaran Kec. Perda No. 12/2008
+     91.12.21    21 Oksamol                                                            12                                Pemekaran Kec. Perda No. 12/2008
+     91.12.22    22 Oklip                                                                  7                             Pemekaran Kec. Perda No. 12/2008
+     91.12.23    23 Okbemtau                                                               9                             Pemekaran Kec. Perda No. 12/2008
+     91.12.24    24 Oksebang                                                               4                             Pemekaran Kec. Perda No. 12/2008
+     91.12.25    25 Okbab                                                              12                                Pemekaran Kec. Perda No. 12/2008
+     91.12.26    26 Batani                                                                 7                             Pemekaran Kec. Perda No. 12/2008
+     91.12.27    27 Weime                                                                  9                             Pemekaran Kec. Perda No. 12/2008
+     91.12.28    28 Murkim                                                                 4                             Pemekaran Kec. Perda No. 12/2008
+     91.12.29    29 Mofinop                                                                5                             Pemekaran Kec. Perda No. 12/2008
+     91.12.30    30 Jetfa                                                                  6                             Pemekaran Kec. Perda No. 12/2008
+     91.12.31    31 Teiraplu                                                            10                                Pemekaran Kec. Perda No. 12/2008
+     91.12.32    32 Eipumek                                                             14                                Pemekaran Kec. Perda No. 12/2008
+     91.12.33    33 Pamek                                                               11                                Pemekaran Kec. Perda No. 12/2008
+     91.12.34    34 Nongme                                                                  7                             Pemekaran Kec. Perda No. 12/2008
+     91.13.01     1 Kurima                                                       1      22
+     91.13.02     2 Anggruk                                                             12
+     91.13.03     3 Ninia                                                               10
+     91.13.06     4 Silimo                                                              20                                Perda No. 5/2006
+     91.13.07     5 Samenage                                                                9                             Perda No. 5/2006
+     91.13.08     6 Nalca                                                                   8                             Perda No 5/2006
+     91.13.09     7 Dekai                                                               12                                Perda No. 5/2006
+     91.13.10     8 Obio                                                                13                                Perda No. 5/2006
+     91.13.11     9 Suru Suru                                                               7                             Perda No. 5/2006
+     91.13.12    10 Wusama                                                              11                                Perda No. 5/2006
+     91.13.13    11 Amuma                                                               13                                Perda No. 5/2006
+     91.13.14    12 Musaik                                                              10                                Perda No. 5/2006
+     91.13.15    13 Pasema                                                                  7                             Perda No. 5/2006
+     91.13.16    14 Hogio                                                                   8                             Perda No. 5/2006
+     91.13.17    15 Mugi                                                                20                                Perda No. 5/2006
+     91.13.18    16 Soba                                                                    6                             Perda No. 5/2006
+     91.13.19    17 Werima                                                              14                                Perda No. 5/2006
+     91.13.20    18 Tangma                                                              10                                Perda No. 5/2006
+     91.13.21    19 Ukha                                                                10                                Perda No. 5/2006
+     91.13.22    20 Panggema                                                            13                                Perda No. 5/2006
+     91.13.23    21 Kosarek                                                             11                                Perda No. 5/2006
+     91.13.24    22 Nipsan                                                                  8                             Perda No. 5/2006
+     91.13.25    23 Ubahak                                                              17                                Perda No. 5/2006
+     91.13.26    24 Pronggoli                                                               8                             Perda No. 5/2006
+     91.13.27    25 Walma                                                                   8                             Perda No. 5/2006
+     91.13.28    26 Yahuliambut                                                             5                             Perda No. 5/2006
+     91.13.29    27 Hereapini                                                           11                                Perda No. 5/2006
+     91.13.30    28 Ubalihi                                                             11                                Perda No. 5/2006
+     91.13.31    29 Talambo                                                                 9                             Perda No. 5/2006
+     91.13.32    30 Puldama                                                                 8                             Perda No. 5/2006
+     91.13.33    31 Endomen                                                                 8                            Perda No. 5/2006
+     91.13.34    32 Kona                                                                    5                            Perda No. 5/2006
+     91.13.35    33 Dirwemna                                                                5                            Perda No. 5/2006
+     91.13.36    34 Holuon                                                                  7                            Perda No. 5/2006
+     91.13.37    35 Lolat                                                                   8                            Perda No. 5/2006
+     91.13.38    36 Soloikma                                                                8                            Perda No. 5/2006
+     91.13.39    37 Sela                                                                16                               Perda No. 5/2006
+     91.13.40    38 Korupun                                                             12                               Perda No. 5/2006
+     91.13.41    39 Langda                                                                  9                            Perda No. 5/2006
+     91.13.42    40 Bomela                                                                  6                            Perda No. 5/2006
+     91.13.43    41 Suntamon                                                                8                            Perda No. 5/2006
+     91.13.44    42 Seredela                                                                9                            Perda No. 5/2006
+     91.13.45    43 Sobaham                                                             13                               Perda No. 5/2006
+     91.13.46    44 Kabianggama                                                             7                            Perda No. 5/2006
+     91.13.47    45 Kwelemdua                                                           10                               Perda No. 5/2006
+     91.13.48    46 Kwikma                                                              10                               Perda No. 5/2006
+     91.13.49    47 Hilipuk                                                                 7                            Perda No. 5/2006
+     91.13.50    48 Duram                                                                   6                            Perda No. 5/2006
+     91.13.51    49 Yogosem                                                                 7                            Perda No. 5/2006
+     91.13.52    50 Kayo                                                                    7                            Perda No. 5/2006
+     91.13.53    51 Sumo                                                                11                               Perda No. 5/2006
+     91.14.01     1 Karubaga                                                     1      22
+     91.14.02     2 Bokondini                                                    1      10
+     91.14.03     3 Kanggime                                                     1          9
+     91.14.04     4 Kembu                                                        1      10
+     91.14.05     5 Goyage                                                              19                               Perda No. 6/2006
+     91.14.06     6 Wunim                                                                   9                            Perda No. 2/2006
+     91.14.07     7 Wina                                                                13                               Perda No.16/2006
+     91.14.08     8 Umagi                                                               12                               Perda No. 16/2005
+     91.14.09     9 Panaga                                                                  9                            Perda No, 16/2006
+     91.14.10    10 Woniki                                                              10                               Perda No. 16/2006
+     91.14.11    11 Kubu                                                                    9                            Perda No. 16/2006
+     91.14.12    12 Konda/ Kondaga                                                      11                               Perda No. 16/2006
+     91.14.13    13 Nelawi                                                              12                               Perda No. 16/2006
+     91.14.14    14 Kuari                                                               17                               Perda No. 16/2006
+     91.14.15    15 Bokoneri                                                            17                               Perda No.16/2006
+     91.14.16    16 Bewani                                                          14                                Perda No.16/2006
+     91.14.18    17 Nabunage                                                        11                                Perda No.16/2006
+     91.14.19    18 Gilubandu                                                       10                                Perda No.16/2006
+     91.14.20    19 Nunggawi                                                        26                                Perda No. 16/2006
+     91.14.21    20 Gundagi                                                         17                                Perda No. 16/2006
+     91.14.22    21 Numba                                                           10                                Perda No. 16/2006
+     91.14.23    22 Timori                                                          12                                Perda No. 16/2006
+     91.14.24    23 Dundu                                                           10                                Perda No.16/2006
+     91.14.25    24 Geya                                                            12                                Perda No.16/2006
+     91.14.26    25 Egiam                                                           10                                Perda No.16/2006
+     91.14.27    26 Poganeri                                                        10                                Perda No.16/2006
+     91.14.28    27 Kamboneri                                                           8                             Perda No.16/2006
+     91.14.29    28 Airgaram                                                            8                             Perda No.16/2006
+     91.14.30    29 Wari/Taiyeve II                                                 17                                Perda No.16/2006
+     91.14.31    30 Dow                                                             11                                Perda No.16/2006
+     91.14.32    31 Tagineri                                                        10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.33    32 Yuneri                                                          11                                Pemekaran Kec. Perda No. 5/2010
+     91.14.34    33 Wakuwo                                                          12                                Pemekaran Kec. Perda No. 5/2010
+     91.14.35    34 Gika                                                            10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.36    35 Telenggeme                                                      10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.37    36 Anawi                                                           10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.38    37 Wenam                                                           10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.39    38 Wugi                                                            11                                Pemekaran Kec. Perda No. 5/2010
+     91.14.40    39 Danime                                                          10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.41    40 Tagime                                                          10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.42    41 Kai                                                             10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.43    42 Aweku                                                           10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.44    43 Bogonuk                                                         10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.45    44 Li Anogomma                                                     10                                Pemekaran Kec. Perda No. 5/2010
+     91.14.46    45 Biuk                                                            11
+     91.14.47    46 Yuko                                                            11                                Pemekaran Kec. Perda No. 5/2010
+     91.15.01     1 Waropen Bawah                                                       7
+     91.15.03     2 Masirei                                                             9
+     91.15.07     3 Risei Sayati                                                          10                                Perda No. 4/2006
+     91.15.08     4 Urei Faisei                                                           12                                Perda No. 4/2006
+     91.15.09     5 Inggerus                                                                  7                             Perda No. 4/2006
+     91.15.10     6 Kirihi                                                                10                                Perda No. 4/2006
+     91.15.11     7 Oudate                                                                    8                             Pemekaran Kec. Waropen Perda No. 4/2009, Srt Gub. No. 135/3781/SET
+     91.15.12     8 Wapoga                                                                    7                             Pemekaran Kec. Inggerus Perda No. 4/2009, Srt Gub. No. 135/3781/SET
+     91.15.13     9 Demba                                                                 10                                Pemekaran Kec. Masirei Perda No. 4/2009, Srt Gub. No. 135/3781/SET Tgl.
+     91.15.14    10 Wonti                                                                 10                                Pemekaran Kec. Demba Perda No. 3/2011
+     91.15.15    11 Soyoi Mambai                                                          10                                Pemekaran Kec. Risei Sayati Perda No. 3/2011
+     91.16.01     1 Mandobo                                                                   5
+     91.16.02     2 Mindiptana                                                            13
+     91.16.03     3 Waropko                                                                   9
+     91.16.04     4 Kouh                                                                      3
+     91.16.05     5 Jair                                                                      6
+     91.16.06     6 Bomakia                                                                   5
+     91.16.07     7 Kombut                                                                    4                             Perda No. 25/2005
+     91.16.08     8 Iniyandit                                                                 5                             Perda No. 25/2005
+     91.16.09     9 Arimop                                                                    7                             Perda No. 25/2005
+     91.16.10    10 Fofi                                                                      8                             Perda No. 25/2005
+     91.16.11    11 Ambatkwi                                                                  5                             Perda No. 25/2005
+     91.16.12    12 Manggelum                                                                 6                             Perda No. 25/2005
+     91.16.13    13 Firiwage                                                                  4                             Perda No. 25/2005
+     91.16.14    14 Yaniruma                                                                  3                             Perda No. 25/2005
+     91.16.15    15 Subur                                                                     4                             Perda No. 25/2005
+     91.16.16    16 Kombay                                                                    5                             Pemekaran Kec. Yaniruma Perda No. 11/2008
+     91.16.17    17 Ninati                                                                    5                             Pemekaran Kec. Waropko Perda No. 11/2008
+     91.16.18    18 Sesnuk                                                                    5                             Pemekaran Kec. Mindiptana Perda No. 11/2008
+     91.16.19    19 Ki                                                                        4                             Pemekaran Kec. Jair Perda No. 11/2008
+     91.16.20    20 Kawagit                                                                   6                             Pemakaran Kec. Kouh Perda No. 11/2008
+     91.17.01     1 Obaa                                                           1      23
+     91.17.02     2 Mambioman Bapai                                                       15
+     91.17.03     3 Citak-Mitak                                                               7
+     91.17.04     4 Edera                                                            1          6
+     91.17.05     5 Haju                                                                    19
+     91.17.06     6 Assue                                                                   18
+     91.17.07     7 Kaibar                                                                      7                             Perda No. 7/2006
+     91.17.08     8 Passue                                                                  13                                Perda No. 7/2006
+     91.17.09     9 Minyamur                                                                12                                Perda No. 7/2006
+     91.17.10    10 Venaha                                                                      8                             Perda No. 7/2006
+     91.17.11    11 Syahcame                                                                    6                             Pemekaran Wilayah Kecamatan Edera Perda no. 3/2009
+     91.17.12    12 Yakomi                                                                      7                             Pemekaran Wilayah Kecamatan Venaha Perda no. 3/2009
+     91.17.13    13 Bamgi                                                                       5                             Pemekaran Wilayah Kecamatan Edera Perda no. 3/2009
+     91.17.14    14 Passue Bawah                                                                8                             Pemekaran Wilayah Kecamatan Citak Mitak Perda no. 3/2009
+     91.17.15    15 Ti Zain                                                                     8                             Pemekaran Wilayah Kecamatan Kaibar Perda no. 3/2009
+     91.18.01     1 Agats                                                                   12
+     91.18.02     2 Atsj                                                                        9
+     91.18.03     3 Sawa Erma                                                               10
+     91.18.04     4 Akat                                                                    11
+     91.18.05     5 Fayit                                                                   23
+     91.18.06     6 Pantai Kasuari                                                              9
+     91.18.07     7 Suator                                                                  27
+     91.18.08     8 Suru-suru                                                               23                                Pemekaran Kec. Sawa Erma Perda No. 2/2009
+     91.18.09     9 Kolf Braza                                                              11                                Pemekaran Kec. Suator Perda No. 3/2010
+     91.18.10    10 Unir Sirau                                                                  9                             Pemekaran Kec. Sawa Erma Perda No. 3/2010
+     91.18.11    11 Joerat                                                                      6                             Pemekaran Kec. Sawa Erma & Agats Perda No. 5/2012
+     91.18.12    12 Pulau Tiga                                                              11                                Pemekaran Kec. Sawa Erma Perda No. 5/2012
+     91.18.13    13 Jetsy                                                                       8                             Pemekaran Kec. Akat Perda No. 5/2012
+     91.18.14    14 Der Koumur                                                                  9                             Pemekaran Kec. Pantai Kasuari Perda No. 5/2012
+     91.18.15    15 Kopay                                                                   10                                Pemekaran Kec. Pantai Kasuari Perda No. 5/2012
+     91.18.16    16 Safan                                                                   12                                Pemekaran Kec. Pantai Kasuari Perda No. 5/2012
+     91.18.17    17 Sirets                                                                      8                             Pemekaran Kec. Atsj Perda No. 5/2012
+     91.18.18    18 Ayip                                                                        6                             Pemekaran Kec. Atsj Perda No. 5/2012
+     91.18.19    19 Betcbamu                                                                    7                             Pemekaran Kec. Atsj Perda No. 5/2012
+     91.19.01     1 Supiori Selatan                                                             7
+     91.19.02     2 Supiori Utara                                                               5
+     91.19.03     3 Supiori Timur                                                           10
+     91.19.04     4 Kepulauan Aruri                                                             9                             Perda No. 2/2006
+     91.19.05     5 Supiori Barat                                                                 7                             Perda No. 6/2006
+     91.20.01     1 Mamberamo Tengah                                                          11                                Semula wil. Kab. Sarmi
+     91.20.02     2 Mamberamo Hulu                                                                8                             Semula wil. Kab. Sarmi
+     91.20.03     3 Rufaer                                                                        6                             Semula wil. Kab. Sarmi
+     91.20.04     4 Mamberamo Tengah Timur                                                        7                             Semula wil. Kab. Sarmi
+     91.20.05     5 Mamberamo Hilir                                                               7                             Semula wil. Kab. Sarmi
+     91.20.06     6 Waropen Atas                                                                  7                             Semula wil. Kab. Waropen
+     91.20.07     7 Benuki                                                                        8                             Semula wil. Kab. Waropen
+     91.20.08     8 Sawai                                                                         6                             Semula wil. Kab. Waropen
+     91.21.01     1 Kobagma                                                                   15                                Semula wil. Kab. Jayawijaya
+     91.21.02     2 Kelila                                                                    19                                Semula wil. Kab. Jayawijaya
+     91.21.03     3 Eragayam                                                                  15                                Semula wil. Kab. Jayawijaya
+     91.21.04     4 Megambilis                                                                    4                             Semula wil. Kab. Jayawijaya
+     91.21.05     5 Ilugwa                                                                        6                             Semula wil. Kab. Jayawijaya
+     91.22.01     1 Elelim                                                                    44                                Semula wil. Kab. Jayawijaya
+     91.22.02     2 Apalapsili                                                                50                                Semula wil. Kab. Jayawijaya
+     91.22.03     3 Abenaho                                                                  108                                Semula wil. Kab. Jayawijaya
+     91.22.04     4 Benawa                                                                    37                                Semula wil. Kab. Jayawijaya
+     91.22.05     5 Welarek                                                                   61                                Semula wil. Kab. Jayawijaya
+     91.23.01     1 Tiom                                                               1      10                                Semula wil. Kab. Jayawijaya
+     91.23.02     2 Pirime                                                                        8                             Semula wil. Kab. Jayawijaya
+     91.23.03     3 Makki                                                                         8                             Semula wil. Kab. Jayawijaya
+     91.23.04     4 Gamelia                                                                       8                             Semula wil. Kab. Jayawijaya
+     91.23.05     5 Dimba                                                                         8                             Semula wil. Kab. Jayawijaya
+     91.23.06     6 Melagineri                                                                    8                             Semula wil. Kab. Jayawijaya
+     91.23.07     7 Balingga                                                                  10                                Semula wil. Kab. Jayawijaya
+     91.23.08     8 Tiomneri                                                                      9                             Semula wil. Kab. Jayawijaya
+     91.23.09     9 Kuyawage                                                                      8                             Semula wil. Kab. Jayawijaya
+     91.23.10    10 Poga                                                                      13                                Semula wil. Kab. Jayawijaya
+     91.23.11    11 Niname                                                                        7                             Pemekaran Kec. Tiom Perda No. 5/2012
+     91.23.12    12 Nogi                                                                          8                             Pemekaran Kec. Tiom Perda No. 5/2012
+     91.23.13    13 Yiginua                                                             7                            Pemekaran Kec. Tiom Perda No. 5/2012
+     91.23.14    14 Tiom Ollo                                                       10                               Pemekaran Kec. Tiom dan Tiomneri Perda No. 5/2012
+     91.23.15    15 Yugungwi                                                            9                            Pemekaran Kec. Tiom dan Tiomneri Perda No. 5/2012
+     91.23.16    16 Mokoni                                                              9                            Pemekaran Kec. Tiom Perda No. 5/2012
+     91.23.17    17 Wereka                                                              9                            Pemekaran Kec. Tiomneri Perda No. 5/2012
+     91.23.18    18 Milimbo                                                             8                            Pemekaran Kec. Pirime Perda No. 5/2012
+     91.23.19    19 Wiringgambut                                                    10                               Pemekaran Kec. Pirime Perda No. 5/2012
+     91.23.20    20 Gollo                                                           11                               Pemekaran Kec. Pirime Perda No. 5/2012
+     91.23.21    21 Awina                                                               9                            Pemekaran Kec. Pirime dan Makki Perda No. 5/2012
+     91.23.22    22 Ayumnati                                                            9                            Pemekaran Kec. Pirime dan Balingga Perda No. 5/2012
+     91.23.23    23 Wano Barat                                                      11                               Pemekaran Kec. Kuyawage Perda No. 5/2012
+     91.23.24    24 Goa Balim                                                           7                            Pemekaran Kec. kuyawage dan Balingga Perda No. 5/2012
+     91.23.25    25 Bruwa                                                               9                            Pemekaran Kec. Balingga Perda No. 5/2012
+     91.23.26    26 Balingga Barat                                                      8                            Pemekaran Kec. Balingga Perda No. 5/2012
+     91.23.27    27 Gupura                                                          12                               Pemekaran Kec. Makki Perda No. 5/2012
+     91.23.28    28 Kolawa                                                          10                               Pemekaran Kec. Makki Perda No. 5/2012
+     91.23.29    29 Gelok Beam                                                          9                            Pemekaran Kec. Makki Perda No. 5/2012
+     91.23.30    30 Kuly Lanny                                                          8                            Pemekaran Kec. Makki Perda No. 5/2012
+     91.23.31    31 Lannyna                                                         11                               Pemekaran Kec. Pirime dan Makki Perda No. 5/2012
+     91.23.32    32 Karu                                                                8                            Pemekaran Kec. Gamelia Perda No. 5/2012
+     91.23.33    33 Yiluk                                                               8                            Pemekaran Kec. Gamelia Perda No. 5/2012
+     91.23.34    34 Guna                                                                7                            Pemekaran Kec. Gamelia Perda No. 5/2012
+     91.23.35    35 Kelulome                                                        10                               Pemekaran Kec. Dimba Perda No. 5/2012
+     91.23.36    36 Nikogwe                                                             9                            Pemekaran Kec. Dimba dan Gamelia Perda No. 5/2012
+     91.23.37    37 Muara                                                           10                               Pemekaran Kec. Poga Perda No. 5/2012
+     91.23.38    38 Buguk Gona                                                      13                               Pemekaran Kec. Pirime Perda No. 5/2012
+     91.23.39    39 Melagi                                                              8                            Pemekaran Kec. Melagaineri Perda No. 5/2012
+     91.24.01     1 Kenyam                                                              9                            Semula wil. Kab. Jayawijaya
+     91.24.02     2 Mapenduma                                                       10                               Semula wil. Kab. Jayawijaya
+     91.24.03     3 Yigi                                                            12                               Semula wil. Kab. Jayawijaya
+     91.24.04     4 Wosak                                                               5                            Semula wil. Kab. Jayawijaya
+     91.24.05     5 Geselma                                                             3                            Semula wil. Kab. Jayawijaya
+     91.24.06     6 Mugi                                                            18                               Semula wil. Kab. Jayawijaya
+     91.24.07     7 Mbuwa                                                               6                            Semula wil. Kab. Jayawijaya
+     91.24.08     8 Gearek                                                              7                            Semula wil. Kab. Jayawijaya
+     91.24.09     9 Koroptak                                                            6                            Pemekaran Kec. Mapenduma Perda No. 5/2011
+     91.24.10    10 Kegayem                                                          13                               Pemekaran Kec. Mapenduma Perda No. 5/2011
+     91.24.11    11 Paro                                                                 5                            Pemekaran Kec. Mapenduma Perda No. 5/2011
+     91.24.12    12 Mebarok                                                          14                               Pemekaran Kec. Geselma Perda No. 5/2011
+     91.24.13    13 Yenggelo                                                             4                            Pemekaran Kec. Geselma Perda No. 5/2011
+     91.24.14    14 Kilmid                                                               4                            Pemekaran Kec. Geselma Perda No. 5/2011
+     91.24.15    15 Alama                                                                4                            Pemekaran Kec. Geselma Perda No. 5/2011
+     91.24.16    16 Yal                                                              20                               Pemekaran Kec. Mugi Perda No. 5/2011
+     91.24.17    17 Mam                                                              14                               Pemekaran Kec. Mugi Perda No. 5/2011
+     91.24.18    18 Dal                                                                  6                            Pemekaran Kec. Yigi Perda No. 5/2011
+     91.24.19    19 Nirkuri                                                          10                               Pemekaran Kec. Yigi Perda No. 5/2011
+     91.24.20    20 Inikgal                                                              8                            Pemekaran Kec. Yigi Perda No. 5/2011
+     91.24.21    21 Iniye                                                                6                            Pemekaran Kec. Mbua Perda No. 5/2011
+     91.24.22    22 Mbulmu Yalma                                                         7                            Pemekaran Kec. Mbua Perda No. 5/2011
+     91.24.23    23 Mbua Tengah                                                          9                            Pemekaran Kec. Kenyam Perda No. 5/2011
+     91.24.24    24 Embetpen                                                             5                            Pemekaran Kec. Kenyam Perda No. 5/2011
+     91.24.25    25 Kora                                                                 5                            Pemekaran Kec. Gearek Perda No. 5/2011
+     91.24.26    26 Wusi                                                                 4                            Pemekaran Kec. Gearek Perda No. 5/2011
+     91.24.27    27 Pija                                                                 5                            Pemekaran Kec. Wosak Perda No. 5/2011
+     91.24.28    28 Moba                                                                 8                            Pemekaran Kec. Wosak Perda No. 5/2011
+     91.24.29    29 Wutpaga                                                              6                            Pemekaran Kec. Mbua Perda No. 5/2011
+     91.24.30    30 Nenggeagin                                                           5                            Pemekaran Kec. Mbua Perda No. 5/2011
+     91.24.31    31 Krepkuri                                                             6                            Pemekaran Kec. Kenyam Perda No. 5/2011
+     91.24.32    32 Pasir Putih                                                          4                            Pemekaran Kec. Gearek Perda No. 5/2011
+     91.25.01     1 Ilaga                                                                9                            Semula wil. Kab. Puncak Jaya
+     91.25.02     2 Wangbe                                                           11                               Semula wil. Kab. Puncak Jaya
+     91.25.03     3 Beoga                                                                8                            Semula wil. Kab. Puncak Jaya
+     91.25.04     4 Doufo                                                                7                            Semula wil. Kab. Puncak Jaya
+     91.25.05     5 Pogoma                                                               9                            Semula wil. Kab. Puncak Jaya
+     91.25.06     6 Sinak                                                            11                               Semula wil. Kab. Puncak Jaya
+     91.25.07     7 Agandugume                                                           7                            Semula wil. Kab. Puncak Jaya
+     91.25.08     8 Gome                                                             10                               Semula wil. Kab. Puncak Jaya
+     91.25.09     9 Dervos                                                               7                            Pemekaran Kec. Douvo Perda No. 1/2014
+     91.25.10    10 Beoga Barat                                                          6                            Pemekaran Kec. Beoga Perda No. 1/2014
+     91.25.11    11 Beoga Timur                                                          8                            Pemekaran Kec. Beoga Perda No. 1/2014
+     91.25.12    12 Ogamanim                                                             7                            Pemekaran Kec. Wangbe Perda No. 1/2014
+     91.25.13    13 Kembru                                                               7                            Pemekaran Kec. Pogoma Perda No. 1/2014
+     91.25.14    14 Bina                                                                   7                            Pemekaran Kec. Pogoma Perda No. 1/2014
+     91.25.15    15 Sinak Barat                                                            7                            Pemekaran Kec. Sinak Perda No. 2/2014
+     91.25.16    16 Mage'abume                                                         11                               Pemekaran Kec. Sinak Perda No. 2/2014
+     91.25.17    17 Yugumuak                                                           10                               Pemekaran Kec. Sinak Perda No. 2/2014
+     91.25.18    18 Ilaga Utara                                                            9                            Pemekaran Kec. Ilaga Perda No. 2/2014
+     91.25.19    19 Mabugi                                                                 8                            Pemekaran Kec. Ilaga Perda No. 2/2014
+     91.25.20    20 Omukia                                                             14                               Pemekaran Kec. Ilaga Perda No. 2/2014
+     91.25.21    21 Lambewi                                                                7                            Pemekaran Kec. Agandugume Perda No. 2/2014
+     91.25.22    22 Oneri                                                                  6                            Pemekaran Kec. Agandugume Perda No. 2/2014
+     91.25.23    23 Amungkalpia                                                            6                            Pemekaran Kec. Gome Perda No. 2/2014
+     91.25.24    24 Gome Utara                                                             5                            Pemekaran Kec. Gome Perda No. 2/2014
+     91.25.25    25 Erelmakawia                                                            9                            Pemekaran Kec. Gome Perda No. 2/2014
+     91.26.01     1 Kamu                                                                   8                            Semula wil. Kab. Nabire
+     91.26.02     2 Mapia                                                                  7                            Semula wil. Kab. Nabire
+     91.26.03     3 Piyaiye                                                                8                            Semula wil. Kab. Nabire, perub. nama Kec. Sukikai, Perda No. 14/2007
+     91.26.04     4 Kamu Utara                                                         10                               Semula wil. Kab. Nabire
+     91.26.05     5 Sukikai Selatan                                                        4                            Semula wil. Kab. Nabire
+     91.26.06     6 Mapia Barat                                                            4                            Semula wil. Kab. Nabire
+     91.26.07     7 Kamu Selatan                                                       12                               Semula wil. Kab. Nabire
+     91.26.08     8 Kamu Timur                                                             7                            Perda Kab. Nabire No. 9/2007
+     91.26.09     9 Mapia Tengah                                                       10                               Perda Kab. Nabire
+     91.26.10    10 Dogiyai                                                                9                            Perda Kab. Nabire
+     91.27.01     1 Sugapa                                                             17                               Semula wil. Kab. Paniai
+     91.27.02     2 Homeyo                                                             21                               Semula wil. Kab. Paniai
+     91.27.03     3 Wandai                                                                 9                            Semula wil. Kab. Paniai
+     91.27.04     4 Biandoga                                                           16                               Semula wil. Kab. Paniai
+     91.27.05     5 Agisiga                                                            10                               Semula wil. Kab. Paniai
+     91.27.06     6 Hitadipa                                                               9                            Semula wil. Kab. Paniai
+     91.27.07     7 Ugimba                                                                 6                            Pemekaran Kec. Sugapa Perda No. 2/2012
+     91.27.08     8 Tomosiga                                                               9                            Pemekaran Kec. Agisiga Perda No. 2/2012
+     91.28.01     1 Tigi                                                               20                               Semula wil. Kab. Paniai
+     91.28.02     2 Tigi Timur                                                         14                               Semula wil. Kab. Paniai
+     91.28.03     3 Bowobado                                                               6                            Semula wil. Kab. Paniai
+     91.28.04     4 Tigi Barat                                                              22                                Semula wil. Kab. Paniai
+     91.28.05     5 Kapiraya                                                                   5                              Semula wil. Kab. Paniai
+     91.71.01     1 Jayapura Utara                                                  7          1
+     91.71.02     2 Jayapura Selatan                                                5          2
+     91.71.03     3 Abepura                                                         8          3
+     91.71.04     4 Muara Tami                                                      2          6
+     91.71.05     5 Heram                                                           3          2                              Perda No. 8/2006
+                   JUMLAH                              28      1      560      110       5.411     319.036,05     4.340.348

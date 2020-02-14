@@ -1,0 +1,75 @@
+       21.01.04     1 Gunung Kijang                                                                   1          3
+       21.01.06     2 Bintan Timur                                                                    4
+       21.01.07     3 Bintan Utara                                                                    4          1
+       21.01.08     4 Teluk Bintan                                                                    1          5
+       21.01.09     5 Tambelan                                                                        1          7
+       21.01.10     6 Telok Sebong                                                                    1          6
+       21.01.12     7 Toapaya                                                                         1          3                             Perda No. 12/2007
+       21.01.13     8 Mantang                                                                                    4                             Perda No. 12/2007
+       21.01.14     9 Bintan Pesisir                                                                             4                             Perda No. 12/2007
+       21.01.15    10 Seri Kuala Lobam                                                                2          3                             Perda No. 12/2007
+       21.02.01     1 Moro                                                                            2      10
+       21.02.02     2 Kundur                                                                          3          3
+       21.02.03     3 Karimun                                                                         6          3
+       21.02.04     4 Meral                                                                           6
+       21.02.05     5 Tebing                                                                          5          1
+       21.02.06     6 Buru                                                                            2          2
+       21.02.07     7 Kundur Utara                                                                    1          4
+       21.02.08     8 Kundur Barat                                                                    1          4
+       21.02.09     9 Durai                                                                                      4
+       21.02.10    10 Meral Barat                                                                     2          2                             Pemekaran sebagian wil Kec. Meral dan Kec. Tebing, Perda No. 2/2012
+       21.02.11    11 Ungar                                                                           1          3                             Pemekaran sebagian wil Kec. Kundur, Perda No. 2/2012
+     21.02.12    12 Belat                                                                      6                            Pemekaran sebagian wil Kec. Kundur Utara, Perda No. 2/2012
+     21.03.04     1 Midai                                                           1          2
+     21.03.05     2 Bunguran Barat                                                  1          4
+     21.03.06     3 Serasan                                                         1          6
+     21.03.07     4 Bunguran Timur                                                  4          3
+     21.03.08     5 Bunguran Utara                                                             8
+     21.03.09     6 Subi                                                                       8
+     21.03.10     7 Pulau Laut                                                                 3                            Perda No. 4/2005
+     21.03.11     8 Pulau Tiga                                                                 6                            Perda No. 4/2005
+     21.03.15     9 Bunguran Timur Laut                                                        7                            Perda No. 16/2006
+     21.03.16    10 Bunguran Tengah                                                            3                            Perda No. 17/2006
+     21.03.18    11 Bunguran Selatan                                                           4                            Perda No. 16/2008, Surat Gub. No. 0265/Kdh Kepri.100/05.09 Tgl 8 Mei
+     21.03.19    12 Serasan Timur                                                              4                            Perda No. 18/2008, Surat Gub. No. 0265/Kdh Kepri.100/05.09 Tgl 8 Mei
+     21.03.20    13 Bunguran Batubi                                                            5                            Pemekaran sebagian wil Kec. Bunguran Barat, Perda No. 14/2014 dan
+     21.03.21    14 Pulau Tiga Barat                                                           4                            Pemekaran sebagian wil Kec. Pulau Tiga, Perda No. 14/2014 dan Nomor
+     21.03.22    15 Suak Midai                                                                 3                            Pemekaran sebagian wil Kec. Midai, Perda No. 14/2014 dan Nomor Register
+     21.04.01     1 Singkep                                                         3          3
+     21.04.02     2 Lingga                                                          1      10
+     21.04.03     3 Senayang                                                        1          4
+     21.04.04     4 Singkep Barat                                                   1      11
+     21.04.05     5 Lingga Utara                                                    1      11
+     21.04.06     6 Singkep Pesisir                                                            6                            Pemekaran sebagian Kec. Singkep, Perda No. 4/2012
+     21.04.07     7 Lingga Timur                                                               6                            Pemekaran sebagian Kec. Lingga, Perda No. 6/2012
+     21.04.08     8 Selayar                                                                    4                            Pemekaran sebagian Kec. Lingga, Perda No. 19/2012
+     21.04.09     9 Singkep Selatan                                                            3                            Pemekaran sebagian wil Kec. Singkep, Perda No. 5/2012
+     21.04.10    10 Kepulauan Posek                                                            3                            Pemekaran sebagian wil Kec. Singkep Barat, Perda No. 6/2014
+     21.04.11    11 Katang Bidare                                                                    5                             Pemekaran sebagian wil Kec. Senayang, Perda No. 3/2018
+     21.04.12    12 Temiang Pesisir                                                                  3                             Pemekaran sebagian wil Kec. Senayang, Perda No. 3/2018
+     21.04.13    13 Bakung Serumpun                                                                  6                             Pemekaran sebagian wil Kec. Senayang, Perda No. 3/2018
+     21.05.01     1 Siantan                                                               1          6                             Semula wil. Kab. Natuna
+     21.05.02     2 Palmatak                                                                     12                                Semula wil. Kab. Natuna
+     21.05.03     3 Siantan Timur                                                                    6                             Semula wil. Kab. Natuna
+     21.05.04     4 Siantan Selatan                                                                  7                             Semula wil. Kab. Natuna
+     21.05.05     5 Jemaja Timur                                                                     4                             Semula wil. Kab. Natuna
+     21.05.06     6 Jemaja                                                                1          5                             Semula wil. Kab. Natuna
+     21.05.07     7 Siantan Tengah                                                                   6                             Semula wil. Kab. Natuna
+     21.05.08     8 Siantan Utara                                                                    3                             Pemekaran sebagian wil Kec. Palmatak, Perda No. 3/2018
+     21.05.09     9 Jemaja Barat                                                                     3                             Pemekaran sebagian wil Kec. Jemaja, Perda No. 3/2018
+     21.71.01     1 Belakang Padang                                                       6
+     21.71.02     2 Batu Ampar                                                            4
+     21.71.03     3 Sekupang                                                              7
+     21.71.04     4 Nongsa                                                                4
+     21.71.05     5 Bulang                                                                6
+     21.71.06     6 Lubuk Baja                                                            5
+     21.71.07     7 Sei Beduk                                                             4
+     21.71.08     8 Galang                                                                8                                        Perda No. 2/2005
+     21.71.09     9 Bengkong                                                              4                                        Perda No. 2/2005
+     21.71.10    10 Batam Kota                                                            6                                        Perda No. 2/2005
+     21.71.11    11 Sagulung                                                              6                                        Perda No. 2/2005
+     21.71.12    12 Batu Aji                                                              4                                        Perda No. 2/2005
+     21.72.01     1 Tanjung Pinang Barat                                                  4
+     21.72.02     2 Tanjung Pinang Timur                                                  5
+     21.72.03     3 Tanjung Pinang Kota                                                   4
+     21.72.04     4 Bukit Bestari                                                         5

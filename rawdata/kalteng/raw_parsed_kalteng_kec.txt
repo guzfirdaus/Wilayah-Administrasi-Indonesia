@@ -1,0 +1,137 @@
+  I    62         KALIMANTAN TENGAH                                    13          1      136      139       1.432     153.564,50     2.570.289
+       62.01.01     1 Kumai                                                                             3       15
+       62.01.02     2 Arut Selatan                                                                      7       13
+       62.01.03     3 Kotawaringin Lama                                                                 2       15
+       62.01.04     4 Arut Utara                                                                        1       10
+       62.01.05     5 Pangkalan Lada                                                                            11                                Perda 10/2003
+       62.01.06     6 Pangkalan Banteng                                                                         17                                Perda 10/2003
+       62.02.01     1 Kota Besi                                                                         2          9
+       62.02.02     2 Cempaga                                                                                      8
+       62.02.03     3 Mentaya Hulu                                                                      1       15
+       62.02.04     4 Parenggean                                                                        1       14
+       62.02.05     5 Baamang                                                                           5          1
+       62.02.06     6 Mentawa Baru Ketapang                                                             5          6
+       62.02.07     7 Mentaya Hilir Utara                                                                          7
+       62.02.08     8 Mentaya Hilir Selatan                                                             2          8
+       62.02.09     9 Pulau Hanaut                                                                              14
+       62.02.10    10 Antang Kalang                                                                             15
+       62.02.11    11 Teluk Sampit                                                                                 6                              Perda No. 10/2003
+       62.02.12    12 Seranau                                                                           1          5                              Perda No. 10/2003
+       62.02.13    13 Cempaga Hulu                                                                              11                                Perda No. 10/2003
+       62.02.14    14 Telawang                                                                                     6                              Perda No. 37/2006
+       62.02.15    15 Bukit Santuai                                                                             14                                Perda No. 37/2006
+       62.02.16    16 Tualan Hulu                                                                               11                                Pemekaran Kecamatan Perda No. 16/2010
+       62.02.17    17 Telaga Antang                                                                             18                                Pemekaran Kecamatan Perda No. 16/2010
+       62.03.01     1 Selat                                                                             8          2
+     62.03.02     2 Kapuas Hilir                                                    5          3
+     62.03.03     3 Kapuas Timur                                                               7
+     62.03.04     4 Kapuas Kuala                                                           13
+     62.03.05     5 Kapuas Barat                                                    1      11
+     62.03.06     6 Pulau Petak                                                            12
+     62.03.07     7 Kapuas Murung                                                   2      21
+     62.03.08     8 Basarang                                                               14
+     62.03.09     9 Mantangai                                                              38
+     62.03.10    10 Timpah                                                                     9
+     62.03.11    11 Kapuas Tengah                                                          13
+     62.03.12    12 Kapuas Hulu                                                            14
+     62.03.13    13 Tamban Catur                                                           10                                Pemekaran sebagian Kec. Kapuas Kuala, Perda No. 8/2012
+     62.03.14    14 Pasak Talawang                                                         10                                Pemekaran sebagian Kec. Kapuas Tengah, Perda No. 8/2012
+     62.03.15    15 Mandau Talawang                                                        10                                Pemekaran sebagian Kec. Kapuas Tengah, Perda No. 8/2012
+     62.03.16    16 Dadahup                                                                13                                Pemekaran sebagian Kec. Kapuas Murung, Perda No. 8/2012
+     62.03.17    17 Bataguh                                                         1      14                                Pemekaran sebagian Kec. Kapuas Selat, Perda No. 8/2012
+     62.04.01     1 Jenamas                                                         1          4
+     62.04.02     2 Dusun Hilir                                                     1          9
+     62.04.03     3 Karau Kuala                                                     1      10
+     62.04.04     4 Dusun Utara                                                     1      18
+     62.04.05     5 Gn. Bintang Awai                                                       21
+     62.04.06     6 Dusun Selatan                                                   3      24
+     62.05.01     1 Montallat                                                       4          6
+     62.05.02     2 Gunung Timang                                                          16
+     62.05.03     3 Gunung Purei                                                           11
+     62.05.04     4 Teweh Timur                                                            12
+     62.05.05     5 Teweh Tengah                                                    2          8
+     62.05.06     6 Lahei                                                           2      11
+     62.05.07     7 Teweh Baru                                                      2          8                             Pemekaran sebagian wil Kec. Taweh Tengah dan Kec. Taweh Timur, Perda
+     62.05.08     8 Teweh Selatan                                                          10                                Pemekaran sebagian wil Kec. Taweh Tengah, Perda No. 4/2012
+     62.05.09     9 Lahei Barat                                                            11                                Pemekaran sebagian wil Kec. Lahei, Perda No. 4/2012
+     62.06.01     1 Kamipang                                                                   9                             Perubahan nama Kecamatan Kampiang, sesuai Surat Bup. No.
+     62.06.02     2 Katingan Hilir                                                          2          6
+     62.06.03     3 Tewang Sangalang Garing                                                 1          9
+     62.06.04     4 Pulau Malan                                                                    14
+     62.06.05     5 Katingan Tengah                                                         1      15
+     62.06.06     6 Sanaman Mantikei                                                               14
+     62.06.07     7 Marikit                                                                        18
+     62.06.08     8 Katingan Hulu                                                           1      22
+     62.06.09     9 Mendawai                                                                           7
+     62.06.10    10 Katingan Kuala                                                          2      14
+     62.06.11    11 Tasik Payawan                                                                      8
+     62.06.12    12 Petak Malai                                                                        7                             Perda No. 15/2007
+     62.06.13    13 Bukit Raya                                                                     11                                Perda No. 15/2007
+     62.07.01     1 Seruyan Hilir                                                           2          8
+     62.07.02     2 Seruyan Tengah                                                          1      19
+     62.07.03     3 Danau Sembuluh                                                                     8
+     62.07.04     4 Hanau                                                                              7
+     62.07.05     5 Seruyan Hulu                                                                   20
+     62.07.06     6 Seruyan Hilir Timur                                                                6                             Pemekaran Kec. Perda No. 4/2008
+     62.07.07     7 Seruyan Raya                                                                       5                             Pemekaran Kec. Perda No. 4/2008
+     62.07.08     8 Danau Seluluk                                                                      6                             Pemekaran Kec. Perda No. 4/2008
+     62.07.09     9 Batu Ampar                                                                         9                             Pemekaran Kec. Perda No. 4/2008
+     62.07.10    10 Suling Tambun                                                                      9                             Pemekaran Kec. Perda No. 4/2008
+     62.08.01     1 Sukamara                                                                2          6
+     62.08.02     2 Jelai                                                                   1          4
+     62.08.03     3 Balai Riam                                                                         8
+     62.08.04     4 Pantai Lunci                                                                       4                             Perda No 3/2006
+     62.08.05     5 Permata Kecubung                                                                   7                             Perda No 3/2006
+     62.09.01     1 Lamandau                                                                1      10
+     62.09.02     2 Delang                                                                  1      10
+     62.09.03     3 Bulik                                                             1      13
+     62.09.04     4 Bulik Timur                                                              12                                Perda No.5/2005
+     62.09.05     5 Menthobi Raya                                                            11                                Perda No.5/2005
+     62.09.06     6 Sematu Jaya                                                                  8                             Perda No.5/2005
+     62.09.07     7 Belantikan Raya                                                          12                                Perda No.5/2005
+     62.09.08     8 Batang Kawa                                                                  9                             Perda No.5/2005
+     62.10.01     1 Sepang                                                            1          6                             Perbaikan nama sesuai Srt Gub No.100/286/I.1/Pem tgl 25 Okt 2018 hal
+     62.10.02     2 Kurun                                                             2      13
+     62.10.03     3 Tewah                                                             1      15
+     62.10.04     4 Kahayan Hulu Utara                                                1      11
+     62.10.05     5 Rungan                                                            1      13
+     62.10.06     6 Manuhing                                                          1      11
+     62.10.07     7 Mihing Raya                                                       1          5
+     62.10.08     8 Damang Batu                                                       1          7
+     62.10.09     9 Miri Manasa                                                       1      10
+     62.10.10    10 Rungan Hulu                                                       1          8
+     62.10.11    11 Manuhing Raya                                                     1          5                             Perbaikan nama sesuai Srt Gub No.100/286/I.1/Pem tgl 25 Okt 2018 hal
+     62.10.12    12 Rungan Barat                                                      1      10                                Pemekaran sebagian Kec. Rungan dan Kec. Rungan Hulu, Perda No. 3/2012
+     62.11.01     1 Pandih Batu                                                              16
+     62.11.02     2 Kahayan Kuala                                                     1      12
+     62.11.03     3 Kahayan Tengah                                                           14
+     62.11.04     4 Banama Tingang                                                           15
+     62.11.05     5 Kahayan Hilir                                                     3          7
+     62.11.06     6 Maliku                                                                   15
+     62.11.07     7 Jabiren                                                                      8
+     62.11.08     8 Sebangau Kuala                                                               8
+     62.12.01     1 Murung                                                            2      13
+     62.12.02     2 Tanah Siang                                                       1      26
+     62.12.03     3 Laung Tuhup                                                       3      23
+     62.12.04     4 Permata Intan                                                        2      10
+     62.12.05     5 Sumber Barito                                                        1          8
+     62.12.06     6 Barito Tuhup Raya                                                           11                               Perda No. 4/2007
+     62.12.07     7 Tanah Siang Selatan                                                             7                            Perda No. 4/2007
+     62.12.08     8 Sungai Babuat                                                                   6                            Perda No. 4/2007
+     62.12.09     9 Seribu Riam                                                                     7                            Perda No. 4/2007
+     62.12.10    10 Uut Murung                                                                      5                            Perda No. 4/2007
+     62.13.01     1 Dusun Timur                                                          1      16
+     62.13.02     2 Banua Lima                                                           1          6
+     62.13.03     3 Patangkep Tutui                                                             10
+     62.13.04     4 Awang                                                                       11
+     62.13.05     5 Dusun Tengah                                                         1          7
+     62.13.06     6 Pematang Karau                                                              13
+     62.13.07     7 Paju Epat                                                                       9                            Perda No. 11/2006
+     62.13.08     8 Raren Batuah                                                                    9                            Perda No. 11/2006
+     62.13.09     9 Paku                                                                        12                               Perda No. 11/2006
+     62.13.10    10 Karusen Janang                                                                  7                            Perda No. 2/2008
+     62.71.01     1 Pahandut                                                             6
+     62.71.02     2 Bukit Batu                                                           7
+     62.71.03     3 Jekan Raya                                                           4
+     62.71.04     4 Sabangau                                                             6
+     62.71.05     5 Rakumpit                                                             7

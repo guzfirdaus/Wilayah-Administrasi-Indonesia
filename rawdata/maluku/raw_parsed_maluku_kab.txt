@@ -1,0 +1,12 @@
+  1      81.01   KAB. MALUKU TENGAH                        18       6     186          7.953,81        424.952    Data luas wil. berdasarkan GIS Pusat, 2007
+  2      81.02   KAB. MALUKU TENGGARA                      11       1     190          1.031,81        126.610    Data luas wil. berdasarkan GIS Pusat, 2007, PP No. 35 Tahun 2011
+  3      81.03   KAB. KEPULAUAN TANIMBAR                   10       2      80          4.465,79        125.736    Data luas wil. berdasarkan GIS Pusat 2007, Perubahan nama Kab.
+  4      81.04   KAB. BURU                                 10       0      82          4.932,32        134.618    Data luas wil. berdasarkan GIS Pusat 2007
+  5      81.05   KAB. SERAM BAGIAN TIMUR                   15       0     198          6.429,88        134.410    Data luas wil. berdasarkan GIS Pusat, 2007
+  6      81.06   KAB. SERAM BAGIAN BARAT                   11       0      92          5.033,38        210.167    Data luas wil. berdasarkan GIS Pusat, 2007
+  7      81.07   KAB. KEPULAUAN ARU                        10       2     117          8.152,42        104.762    Data luas wil. berdasarkan GIS Pusat, 2007
+  8      81.08   KAB. MALUKU BARAT DAYA                    17       1     117          4.581,06         72.857    UU No. 31/2008
+  9      81.09   KAB. BURU SELATAN                           6      0      79          3.780,56         76.179    UU No. 32/2008
+ 10      81.71   KOTA AMBON                                  5     20      30             298,61       348.537    Data luas wil. berdasarkan GIS Pusat, 2007
+ 11      81.72   KOTA TUAL                                   5      3      27             254,39        88.269    UU No. 31/2007
+                         JUMLAH                           118      35    1.198        46.914,03       1.847.097

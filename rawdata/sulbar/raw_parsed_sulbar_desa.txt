@@ -1,0 +1,648 @@
+76.01.01.2003                                                                               1 Polewali
+76.01.01.2004                                                                               2 Randomayang
+76.01.01.1006                                                           1 Bambalamotu                                                     Menjadi Kel. Perda No. 8/2007
+76.01.01.2007                                                                               3 Pangiang                                    Perda No. 3/2007
+76.01.01.2008                                                                               4 Kalola                                      Perda No. 3/2007
+76.01.01.2009                                                                               5 Wulai                                       Perda No. 3/2007
+76.01.02.1001                                                           1 Pasangkayu                                                      Menjadi Kel. Perda No. 8/2007
+76.01.02.1002                                                           2 Martajaya                                                       Menjadi Kel. Perda No. 8/2007
+76.01.02.2010                                                                               1 Pakava                                      Perda No. 4/2006
+76.01.02.2014                                                                            2 Karya Bersama                            Perda No. 3/2007
+76.01.02.2015                                                                            3 Ako                                      Perda No. 3/2007
+76.01.02.2016                                                                            4 Gunung Sari                              Perda No. 3/2007
+76.01.03.1001                                                     1 Baras                                                           Menjadi Kel. Perda No. 8/2007
+76.01.03.2002                                                                            1 Balanti
+76.01.03.2003                                                                            2 Motu
+76.01.03.2012                                                                            3 Bulu Parigi                              Perda No. 3/2007
+76.01.03.2013                                                                            4 Towoni                                   Perda No. 3/2007
+76.01.03.2016                                                                            5 Kasano                                   Perda No. 3/2007
+76.01.04.2001                                                                            1 Sarudu
+76.01.04.2003                                                                            2 Bulu Mario
+76.01.04.2005                                                                            3 Kumasari
+76.01.04.2011                                                                      4 Patika                                   Perda No. 3/2007
+76.01.04.2012                                                                      5 Doda                                     Perda No. 3/2007
+76.01.05.2001                                                                      1 Dapurang                                 Semula wil. Kec. Sarudu
+76.01.05.2002                                                                      2 Benggaulu                                Semula wil. Kec. Sarudu
+76.01.05.2003                                                                      3 Tirtabuana                               Semula wil. Kec. Sarudu
+76.01.05.2004                                                                      4 Bulu Bonggu                              Semula wil. Kec. Sarudu
+76.01.05.2005                                                                      5 Sarasa                                   Semula wil. Kec. Sarudu
+76.01.06.2001                                                                      1 Tammarunang                              Semula wil. Kec. Sarudu
+76.01.06.2002                                                                      2 Saptanajaya                              Semula wil. Kec. Sarudu
+76.01.06.2003                                                                      3 Taranggi                                 Semula wil. Kec. Sarudu
+76.01.06.2004                                                                      4 Sipakainga                               Semula wil. Kec. Sarudu
+76.01.07.2001                                                                      1 Lilimori                                 Semula wil. Kec. Baras
+76.01.07.2002                                                                      2 Karave                                   Semula wil. Kec. Baras
+76.01.07.2003                                                                      3 Bukit Harapan                            Semulawil. Kec. Baras
+76.01.07.2004                                                                      4 Kastabuana                               Semula wil. Kec. Baras
+76.01.07.2005                                                                      5 Sumber Sari                              Semula wil. Kec. Baras
+76.01.07.2006                                                                      6 Lelejae                                  Semula wil. Kec. Baras
+76.01.07.2007                                                                      7 Ompi                                     Semula wil. Kec. Baras
+76.01.08.2001                                                                      1 Tikke                                    Semula wil. Kec.Pasangkayu
+76.01.08.2002                                                                      2 Makmur Jaya                              Semula wil. Kec. Pasangkayu
+76.01.08.2003                                                                      3 Lariang                                  Semula wil. Kec. Pasangkayu
+76.01.08.2004                                                                      4 Pajalele                                 Semula wil. Kec. Pasangkayu
+76.01.08.2005                                                                      5 Jengeng Raya                             Semula wil. Kec. Pasangkayu
+76.01.09.2001                                                                                      1 Malei                                        Semula wil. Kec.Pasangkayu
+76.01.09.2002                                                                                      2 Pedanda                                      Semula wil. Kec. Pasangkayu
+76.01.09.2003                                                                                      3 Batu Oge                                     Semula wil. Kec. Pasangkayu
+76.01.09.2004                                                                                      4 Martasari                                    Semula wil. Kec. Pasangkayu
+76.01.10.2001                                                                                      1 Bambaira                                     Semula wil. Kec. Bambalamotu
+76.01.10.2002                                                                                      2 Kasoloang                                    Semula wil. Kec. Bambalamotu
+76.01.10.2003                                                                                      3 Tampaure                                     Semula wil. Kec. Bambalamotu
+76.01.10.2004                                                                                      4 Kaluku Nangka                                Semula wil. Kec. Bambalamotu
+76.01.11.2001                                                                                      1 Sarjo                                        Semula wil. Kec. Bambalamotu
+76.01.11.2002                                                                                      2 Maponu                                       Semula wil. Kec. Bambalamotu
+76.01.11.2003                                                                                      3 Letawa                                       Semula wil. Kec. Bambalamotu
+76.01.11.2004                                                                                      4 Sarude                                       Semula wil. Kec. Bambalamotu
+76.01.12.2001                                                                                      1 Parabu                                       Semula wil. Kec. Baras
+76.01.12.2002                                                                                      2 Kenangan                                     Semula wil. Kec. Baras
+76.01.12.2003                                                                                      3 Bajawali                                     Semula wil. Kec. Baras
+76.01.12.2004                                                                                      4 Singgani                                     Semula wil. Kec. Baras
+76.01.12.2005                                                                                      5 Kulu                                         Semula wil. Kec. Baras
+76.01.12.2006                                                                                      6 Batu Matoru                                  Semula wil. Kec. Baras
+76.01.12.2007                                                                                      7 Bambakoro                                    Semula wil. Kec. Baras
+76.02.01.1002                                                             1 Binanga
+76.02.01.1003                                                             2 Mamunyu
+76.02.01.2005                                                                                      1 Bambu
+76.02.01.2006                                                                                      2 Karampuang
+76.02.01.2010                                                                          3 Tadui
+76.02.01.1012                                                     3 Karema                                                         Perda No. 5/2005
+76.02.01.1013                                                     4 Rimuku                                                         Perda No. 5/2005
+76.02.01.2014                                                                          4 Batu Pannu                                Perda No. 2/2008
+76.02.02.1001                                                     1 Galung
+76.02.02.1002                                                     2 Kasambang
+76.02.02.2003                                                                          1 Orobatu
+76.02.02.2006                                                                          2 Takandeang
+76.02.02.2009                                                                          3 Bela
+76.02.02.2010                                                                          4 Taan
+76.02.02.2011                                                                          5 Tampalang                                 Perda No. 2/2008
+76.02.02.2012                                                                          6 Rantedoda                                 Perda No. 2/2008
+76.02.02.2013                                                                          7 Kopeang                                   Perda No. 2/2008
+76.02.02.1014                                                     3 Dayanginna                                                     Pemekaran sebagian wil Kel. Galung, Perda No.5/2015 dan ND
+76.02.03.1001                                                     1 Sinyonyoi
+76.02.03.1002                                                     2 Bebanga
+76.02.03.1003                                                     3 Kalukku                                                        Perubahan status Perda No 4/2011
+76.02.03.2004                                                                          1 Sondoang
+76.02.03.2005                                                                          2 Beru-Beru
+76.02.03.2006                                                                          3 Belang Belang
+76.02.03.2007                                                                          4 Kabuloang
+76.02.03.2008                                                                          5 Keang
+76.02.03.2009                                                                          6 Pokkang                                   Perda No. 5/2006
+76.02.03.2010                                                                          7 Guliling                                  Perda No. 5/2006
+76.02.03.2011                                                                          8 Uhaimate                                  Perda No. 5/2006
+76.02.03.2012                                                                          9 Kalukku Barat                             Perda No. 2/2008
+76.02.03.2013                                                                         10 Pammulukang                               Perda No. 2/2008
+76.02.03.1014                                                      4 Sinyonyoi Selatan                                                    Pemekaran sebagian wil Kel. Sinyonyoi, Perda No.6/2015 dan ND
+76.02.04.2001                                                                                 1 Kalumpang
+76.02.04.2003                                                                                 2 Karataun
+76.02.04.2004                                                                                 3 Karama
+76.02.04.2006                                                                                 4 Siraun
+76.02.04.2007                                                                                 5 Tumoga
+76.02.04.2010                                                                                 6 Salumakki                                 Perda No. 5 /2006
+76.02.04.2011                                                                                 7 Polio                                     Perubahan nama desa Ba'san, Perda No. 5 /2006
+76.02.04.2012                                                                                 8 Limbong                                   Perda No. 5 /2006
+76.02.04.2013                                                                                 9 Sandapang                                 Perda No. 5 /2006
+76.02.04.2014                                                                                10 Kondo Bulo                                Perda No. 5 /2006
+76.02.04.2015                                                                                11 Makkaliki                                 Perda No. 2/2008
+76.02.04.2016                                                                                12 Batu Makkada                              Perda No. 2/2008
+76.02.04.2017                                                                                13 Lasa'                                     Perda No. 2/2008
+76.02.07.2001                                                                      1 Toabo
+76.02.07.2002                                                                      2 Papalang
+76.02.07.2003                                                                      3 Bonda
+76.02.07.2004                                                                      4 Topore
+76.02.07.2005                                                                      5 Salukayu
+76.02.07.2006                                                                      6 Sukadamai
+76.02.07.2007                                                                      7 Boda-Boda                               Perda No.5/2006
+76.02.07.2008                                                                      8 Sisango                                 Perda No. 2/2008
+76.02.07.2009                                                                      9 Batu Ampa                               Perda No. 2/2008
+76.02.08.2001                                                                      1 Bunde
+76.02.08.2002                                                                      2 Kalonding
+76.02.08.2003                                                                      3 Tarailu
+76.02.08.2004                                                                      4 Sampaga
+76.02.08.2005                                                                      5 Tanambuah
+76.02.08.2006                                                                      6 Salubarana
+76.02.08.2007                                                                      7 Losso                                   Perda No. 2/2008
+76.02.11.2001                                                                     1 Tommo
+76.02.11.2002                                                                     2 Campaloga
+76.02.11.2003                                                                     3 Buana Sakti
+76.02.11.2004                                                                     4 Tamemongga
+76.02.11.2005                                                                     5 Tamejarra
+76.02.11.2006                                                                     6 Rantemario
+76.02.11.2007                                                                     7 Malino
+76.02.11.2008                                                                     8 Kakullasang
+76.02.11.2009                                                                                  9 Leling
+76.02.11.2010                                                                                 10 Kalepu                                     Perda No.5/2006
+76.02.11.2011                                                                                 11 Sandana                                    Perda No. 2/2008
+76.02.11.2012                                                                                 12 Leling Barat                               Perda No. 2/2008
+76.02.11.2013                                                                                 13 Leling Utara                               Perda No. 2/2008
+76.02.11.2014                                                                                 14 Saludengen                                 Perda No. 2/2008
+76.02.12.1001                                                        1 Simboro                                                              Semula wil. Kec. Mamuju
+76.02.12.1002                                                        2 Rangas                                                               Semula wil. Kec. Mamuju
+76.02.12.2003                                                                                  1 Botteng                                    Semula wil. Kec. Mamuju
+76.02.12.2004                                                                                  2 Saletto                                    Semula wil. Kec. Mamuju
+76.02.12.2005                                                                                  3 Sumare                                     Semula wil. Kec. Mamuju
+76.02.12.2007                                                                                  4 Botteng Utara                              Perda No. 5/2006
+76.02.12.2008                                                                                  5 Tapandullu                                 Perda No. 2/2008
+76.02.12.2009                                                                                  6 Pati'di                                    Perda No. 2/2008
+76.02.13.2001                                                                                  1 Dungkait                                   Semula wil. Kec. Tapalang
+76.02.13.2002                                                                                  2 Lebani                                     Semula wil. Kec. Tapalang
+76.02.13.2003                                                                                  3 Labuang Rano                               Semula wil. Kec. Tapalang
+76.02.13.2004                                                                                  4 Pasabu                                     Semula wil. Kec. Tapalang
+76.02.13.2005                                                                                  5 Tanete Pao                                 Perda No. 5/2006
+76.02.13.2006                                                                                  6 Pangasaan                                  Perda No. 2/2008
+76.02.13.2007                                                                                  7 Ahu                                        Perda No. 2/2008
+76.02.15.2001                                                                                           1 Bonehau                                       Semula wil. Kec. Kalumpang
+76.02.15.2002                                                                                           2 Salutiwo                                      Semula wil. Kec. Kalumpang
+76.02.15.2003                                                                                           3 Buttuada                                      Semula wil. Kec. Kalumpang
+76.02.15.2004                                                                                           4 Tamalea                                       Perubahan nama Ds. Talondo, Perda No. 5/2006
+76.02.15.2005                                                                                           5 Lumika
+76.02.15.2006                                                                                           6 Mappu                                         Perubahan nama Ds. Lumika II, Perda No. 5/2006
+76.02.15.2009                                                                                           7 Banuada                                       Perda No. 2/2008
+76.02.15.2010                                                                                           8 Hinua                                         Perda No. 2/2008
+76.02.15.2011                                                                                           9 Kinatang                                      Perda No. 2/2008
+76.02.16.2001                                                                                           1 Bala Balakang                                 Semula wil. Kec. Kep. Simboro Perda No. 12/2009
+76.02.16.2002                                                                                           2 Bala-Balakang Timur                           Semula wil. Kec. Kep. Simboro Perda No. 12/2009
+76.03.01.1001                                                                    1 Mambi
+76.03.01.1002                                                                    2 Talipukki
+76.03.01.2004                                                                                           1 Rantebulahan
+76.03.01.2008                                                                                           2 Sondonglayu
+76.03.01.2016                                                                           3 Salubanua
+76.03.01.2017                                                                           4 Tapalina
+76.03.01.2019                                                                           5 Sendana                                      Perda No. 7/2004
+76.03.01.2024                                                                           6 Pamosean                                     Perda No. 7/2004
+76.03.01.2025                                                                           7 Selumaka                                     Perda No. 7/2004
+76.03.01.2026                                                                           8 Bujung Manurung                              Perda No. 7/2004
+76.03.01.2027                                                                           9 Salu Alo                                     Perda No. 8/2003, Pemekaran sebagian wil Desa Rantebulahan
+76.03.01.2029                                                                          10 Indobanua                                    Pemekaran sebagian wil Desa Pamosean Perda No. 1/2013
+76.03.01.2030                                                                          11 Saludurian                                   Pemekaran sebagian wil Desa Rantebulahan Perda No. 1/2013
+76.03.02.1001                                                      1 Aralle
+76.03.02.2003                                                                           1 Ralle Anak
+76.03.02.2004                                                                           2 Panetean
+76.03.02.2005                                                                           3 Uhailanu
+76.03.02.2007                                                                           4 Aralle Utara
+76.03.02.2009                                                                           5 Uhaidaho
+76.03.02.2010                                                                           6 Baruru                                       Perda No. 7/2004
+76.03.02.2015                                                                           7 Ralleanak Utara                              Perda No. 7/2004
+76.03.02.2016                                                                           8 Pamoseang Pangga                             Perda No. 7/2004
+76.03.02.2017                                                                           9 Kalabe                                       Pemekaran sebagian wil Kel. Aralle Perda No. 1/2013
+76.03.02.2018                                                                          10 Aralle Selatan                               Pemekaran sebagian wil Kel. Aralle Perda No. 1/2013
+76.03.02.2019                                                                        11 Hahangan                                    Pemekaran sebagian wil Desa Aralle Timur Perda No. 1/2013
+76.03.03.1001                                                     1 Mamasa
+76.03.03.2002                                                                         1 Rambusaratu
+76.03.03.2003                                                                         2 Osango
+76.03.03.2004                                                                         3 Lambanan
+76.03.03.2005                                                                         4 Lembana Salulo
+76.03.03.2006                                                                         5 Taupe
+76.03.03.2007                                                                         6 Buntu Buda                                  Perda No. 7/2004
+76.03.03.2008                                                                         7 Tondok Bakaru                               Perda No. 7/2004
+76.03.03.2009                                                                         8 Pebassian                                   Perda No. 7/2004
+76.03.03.2010                                                                         9 Mambuliling                                 Perda No. 7/2004
+76.03.03.2011                                                                        10 Bombong Lambe                               Perda No. 7/2004
+76.03.03.2012                                                                        11 Bubun Batu                                  Pemekaran sebagian wil Desa Lembana Salulo Perda No. 1/2013
+76.03.04.1001                                                     1 Pana
+76.03.04.2003                                                                         1 Manipi
+76.03.04.2005                                                                         2 Mamullu
+76.03.04.2006                                                                         3 Sapan
+76.03.04.2009                                                                         4 Datubaringan
+76.03.04.2010                                                                         5 Panura
+76.03.04.2011                                                                         6 Tallang Bulawan                             Perda No. 7/2004
+76.03.04.2012                                                                         7 Karaka                                      Perda No. 7/2004
+76.03.04.2013                                                                         8 Ulusalu                                     Semula wil. Kec. Tabang, Perda No. 7/2004
+76.03.04.2014                                                                         9 Weri                                        Pemekaran sebagian wil Kel. Pana Perda No. 1/2013
+76.03.04.2015                                                                        10 Salutambun                                  Pemekaran sebagian wil Desa Sapan Perda No. 1/2013
+76.03.04.2016                                                                        11 Saloan                                      Pemekaran sebagian wil Desa Ulusalu Perda No. 1/2013
+76.03.04.2017                                                                        12 Ulusalu Indah                               Pemekaran sebagian wil Desa Ulusalu Perda No. 1/2013
+76.03.05.1001                                                     1 Lakahang                                                        Perubahan status desa menjadi kelurahan Perda No. 5/2002
+76.03.05.2002                                                                          1 Periangan
+76.03.05.2003                                                                          2 Malatiro
+76.03.05.2004                                                                          3 Tabulahan
+76.03.05.2005                                                                          4 Saluleang
+76.03.05.2007                                                                          5 Tampak Kurra                                 Perda No. 7/2004
+76.03.05.2008                                                                          6 Gandang Dewata                               Perda No. 7/2004
+76.03.05.2009                                                                          7 Burana                                       Perda No. 7/2004
+76.03.05.2010                                                                          8 Salubakka                                    Perda No. 7/2004
+76.03.05.2011                                                                          9 Pangandaran                                  Perda No. 7/2004
+76.03.05.2012                                                                         10 Talopak                                      Pemekaran sebagian wil Desa Tabulahan Perda No. 1/2013
+76.03.05.2013                                                                         11 Peu'                                         Pemekaran sebagian wil Desa Tabulahan Perda No. 1/2013
+76.03.05.2014                                                                         12 Timoro                                       Pemekaran sebagian wil Kel Lakahang Perda No. 1/2013
+76.03.05.2015                                                                         13 Lakahang Utama                               Pemekaran sebagian wil Kel Lakahang Perda No. 1/2013
+76.03.06.1001                                                     1 Sumarorong
+76.03.06.1002                                                     2 Tabone
+76.03.06.2003                                                                          1 Batang Uru
+76.03.06.2004                                                                          2 Sasakan
+76.03.06.2005                                                                          3 Tadisi
+76.03.06.2006                                                                          4 Sibanawa
+76.03.06.2007                                                                          5 Batangnguru Timur                            Perda No. 7/2004
+76.03.06.2008                                                                          6 Salubalo                                     Perda No. 7/2004
+76.03.06.2009                                                                          7 Banea                                        Perda No. 7/2004
+76.03.06.2010                                                                          8 Rante Kamase                                 Pemekaran sebagian wil Kel. Sumarorong Perda No. 1/2013
+76.03.07.1001                                                     1 Messawa
+76.03.07.2002                                                                          1 Rippung
+76.03.07.2003                                                                          2 Makuang
+76.03.07.2004                                                                          3 Sepang
+76.03.07.2005                                                                          4 Malimbong
+76.03.07.2006                                                                          5 Matande                                      Perda No. 7/2004
+76.03.07.2007                                                                          6 Sipai                                        Perda No. 7/2004
+76.03.07.2008                                                                          7 Pasma Mambu                                  Perda No. 7/2004
+76.03.07.2009                                                                               8 Tanete Batu                                  Pemekaran sebagian wil Desa Sepang Perda No. 1/2013
+76.03.08.2002                                                                               1 Orobua
+76.03.08.2003                                                                               2 Paladan
+76.03.08.2004                                                                               3 Orobua Timur
+76.03.08.2006                                                                               4 Rante Puang
+76.03.08.2007                                                                               5 Satenetean                                   Perda No. 7/2004
+76.03.08.2008                                                                               6 Lisuan Ada                                   Perda No. 7/2004
+76.03.08.2010                                                                               7 Orobua Selatan                               Perda No. 7/2004
+76.03.08.2012                                                                               8 Malangkena Padang                            Perda No. 7/2004
+76.03.08.2013                                                                               9 Malimbong                                    Pemekaran sebagian wil Desa Paladan Perda No. 1/2013
+76.03.08.2014                                                                              10 Marampan Orobua                              Pemekaran sebagian wil Desa Orobua Perda No. 1/2013
+76.03.09.2001                                                                               1 Malabo
+76.03.09.2005                                                                               2 Sindagamanik
+76.03.09.2006                                                                               3 Parondobulawan
+76.03.09.2007                                                                               4 Tamalantik
+76.03.09.2008                                                                               5 Mannababa                                    Perda No. 7/2004
+76.03.09.2009                                                                               6 Mesakada                                     Perda No. 7/2004
+76.03.09.2010                                                                               7 Ballabatu                                    Perda No. 7/2004
+76.03.09.1011                                                      1 Minake                                                                Perda No. 8/2003
+76.03.09.2012                                                                               8 Pambe                                        Pemekaran sebagian wil Desa Malabo Perda No. 1/2013
+76.03.09.2013                                                                               9 Salurano                                     Pemekaran sebagian wil Desa Malabo Perda No. 1/2013
+76.03.09.2014                                                                              10 Talimbung                                    Pemekaran sebagian wil Desa Parondobulawan Perda No. 1/2013
+76.03.09.2015                                                                              11 Kanan                                        Pemekaran sebagian wil Desa Tamalantik Perda No. 1/2013
+76.03.10.1001                                                      1 Tabang                                                                Menjadi Kel. Perda No. 8/2003
+76.03.10.2003                                                                        1 Tadokalua
+76.03.10.2004                                                                        2 Tabang Barat
+76.03.10.2005                                                                        3 Masupu                                       Perda No. 7/2004
+76.03.10.2006                                                                        4 Kalama                                       Perda No. 7/2004
+76.03.10.2007                                                                        5 Bakadisura                                   Perda No. 7/2004
+76.03.10.2008                                                                        6 Salukona                                     Pemekaran sebagian wil Kel Tabang Perda No. 1/2013
+76.03.11.2001                                                                        1 Mokallang                                    Perda No. 7/2004
+76.03.11.2002                                                                        2 Masoso                                       Perda No. 7/2004
+76.03.11.2003                                                                        3 Saluassing                                   Perda No. 7/2004
+76.03.11.2004                                                                        4 Salubulo                                     Perda No. 7/2004
+76.03.11.2005                                                                        5 Salukadi                                     Perda No. 7/2004
+76.03.11.2006                                                                        6 Salukepopok                                  Perda No. 7/2004
+76.03.11.2007                                                                        7 Ulumambi Barat                               Perda No. 7/2004
+76.03.11.2008                                                                        8 Limbadebata                                  Perda No. 7/2004
+76.03.11.2009                                                                        9 Tanete Tomba                                 Perda No. 7/2004
+76.03.11.2010                                                                       10 Bambang                                      Semula wil Kec Mambi
+76.03.11.2011                                                                       11 Rantelemo                                    Semula wil Kec Mambi
+76.03.11.2012                                                                       12 Saludengen                                   Semula wil Kec Mambi
+76.03.11.2013                                                                       13 Ulumambi                                     Semula wil Kec Mambi
+76.03.11.2014                                                                       14 Bambang Timur                                Semula wil Kec Mambi
+76.03.11.2015                                                                       15 Minanga                                      Semula wil Kec Mambi
+76.03.11.2016                                                                       16 Sikamase
+76.03.11.2017                                                                       17 Rantetarima                                  Pemekaran sebagian wil Desa Saludengen Perda No. 1/2013
+76.03.11.2018                                                                       18 Salururu                                     Pemekaran sebagian wil Desa Rantelemo Perda No. 1/2013
+76.03.11.2019                                                                       19 Salutabang                                   Pemekaran sebagian wil Desa Mokallang Perda No. 1/2013
+76.03.11.2020                                                                       20 Balatana                                     Pemekaran sebagian wil Desa Bambang Timur Perda No. 1/2013
+76.03.12.2001                                                                        1 Balla                                        Semula wil Kec Tanduk Kalua
+76.03.12.2002                                                                        2 Balla Barat                                  Semula wil Kec Tanduk Kalua
+76.03.12.2003                                                                        3 Balla Satanetean                             Semula wil Kec Tanduk Kalua
+76.03.12.2004                                                                        4 Balla Tumuka                                 Perda No. 7/2004
+76.03.12.2005                                                                        5 Sepakuan                                     Perda No. 7/2004
+76.03.12.2006                                                                                   6 Pidara                                       Perda No. 7/2004
+76.03.12.2007                                                                                   7 Bambapuang                                   Pemekaran sebagian wil Desa Sepakuan Perda No. 1/2013
+76.03.12.2008                                                                                   8 Balla Timur                                  Pemekaran sebagian wil Desa Balla Perda No. 1/2013
+76.03.13.1001                                                             1 Nosu                                                               Semula wil Kec Pana, Perubahan status
+76.03.13.2002                                                                                   1 Minanga                                      Semula wil Kec Pana
+76.03.13.2003                                                                                   2 Batupapan                                    Semula wil Kec Pana
+76.03.13.2004                                                                                   3 Masewwe                                      Semula wil Kec Pana
+76.03.13.2005                                                                                   4 Siwi                                         Perda No. 7/2004
+76.03.13.2006                                                                                   5 Minanga Timur                                Perda No. 7/2004
+76.03.13.2007                                                                                   6 Parinding                                    Pemekaran sebagian wil Desa Minanga Perda No. 1/2013
+76.03.14.1001                                                             1 Tawalian                                                           Semula wil Kec. Sesenapadang
+76.03.14.2002                                                                                   1 Tawalian Timur                               Semula wil. Kec. Sesenapadang
+76.03.14.2003                                                                                   2 Kariango                                     Semula wil. Kec. Sesenapadang
+76.03.14.2004                                                                                   3 Rantetangnga                                 Semula wil. Kec. Sesenapadang
+76.03.15.2001                                                                                   1 Salumokanan                                  Semula wil. Kec. Mambi
+76.03.15.2003                                                                                   2 Salumokanan Barat                            Semula wil. Kec. Mambi
+76.03.15.2004                                                                                   3 Buangin                                      Semula wil. Kec. Mambi
+76.03.15.2005                                                                                   4 Bambang Buda                                 Semula wil. Kec. Mambi
+76.03.15.2006                                                                                   5 Leko                                         Semula wil. Kec. Mambi
+76.03.15.2007                                                                                   6 Kirak                                        Perda No. 1/2006, Pemekaran sebagian wil Desa Leko Perda No.
+76.03.15.2008                                                                                   7 Salumokanan Utara                            Semula wil. Kec. Rantebulahan Timur
+76.03.15.2009                                                                                   8 Sampale                                      Pemekaran sebagian wil Desa Leko Perda No. 1/2013
+76.03.16.2001                                                                                   1 Buntumalangka                                Semula berada di wil. Kec. Aralle Perda No. 6/2009
+76.03.16.2002                                                                                   2 Ranteberan                                   Semula berada di wil Kec. Aralle Perda No. 6/2009
+76.03.16.2003                                                                                   3 Kebanga                                      Semula berada di wil Kec. Aralle Perda No. 6/2009
+76.03.16.2004                                                                                   4 Salurindu                                    Pemekaran desa Perda No. 6/2009
+76.03.16.2005                                                                                   5 Taora                                        Semula berada di wil Kec. Tabulahan Perda No. 6/2009
+76.03.16.2006                                                                                   6 Kabae                                        Semula berada di wil Kec. Aralle Perda No. 6/2009
+76.03.16.2007                                                                                   7 Salutambun Barat                             Pemekaran Kec Perda No. 6/2009, Pemekaran sebagian wil Desa
+76.03.16.2008                                                                                       8 Penatangan                                     Pemekaran Kec Perda No. 6/2009, Pemekaran sebagian wil Desa
+76.03.16.2009                                                                                       9 Salutambun Timur                               Pemekaran Kec Perda No. 6/2009, Pemekaran sebagian wil Desa
+76.03.16.2010                                                                                      10 Salutambun                                     Semula berada di wil. Kec. Araell Perda No. 6/2009
+76.03.16.2011                                                                                      11 Aralle Timur                                   Semula berada di wil Kec. Aralle Perda No. 6/2009
+76.03.17.2001                                                                                       1 Mehalaan                                       Pemekaran desa Perda No. 6/2009
+76.03.17.2002                                                                                       2 Botteng                                        Semula Wil Kec Mambi Perda No. 6/2009
+76.03.17.2003                                                                                       3 Salukonta                                      Semula Wil kec Mambi Perda No. 6/2009
+76.03.17.2004                                                                                       4 Mesakada                                       Perda No. 7/2004, Semula Wil kec Mambi Perda No. 6/2009
+76.03.17.2005                                                                                       5 Mehalaan Barat                                 Pemekaran sebagian wil Desa Mehalaan Perda No. 1/2013
+76.03.17.2006                                                                                       6 Saluahok                                       Pemekaran sebagian wil Desa Mehalaan Perda No. 1/2013
+76.03.17.2007                                                                                       7 Salubalo                                       Pemekaran sebagian wil Desa Mehalaan Perda No. 1/2013
+76.03.17.2008                                                                                       8 Passembuk                                      Pemekaran sebagian wil Desa Botteng Perda No. 1/2013
+76.03.17.2009                                                                                       9 Kondo                                          Pemekaran sebagian wil Desa Botteng Perda No. 1/2013
+76.03.17.2010                                                                                      10 Leko Sukamaju                                  Pemekaran sebagian wil Desa Salukonta Perda No. 1/2013
+76.03.17.2011                                                                                      11 Ulumea                                         Pemekaran sebagian wil Desa Salukonta Perda No. 1/2013
+76.04.01.1001                                                                 1 Tinambung
+76.04.01.2002                                                                                       1 Karama
+76.04.01.2003                                                                                       2 Tangnga Tangnga
+76.04.01.2004                                                                                       3 Lekopadis
+76.04.01.2005                                                                                       4 Galung Lombok
+76.04.01.2006                                                                                       5 Tandung
+76.04.01.2007                                                                                       6 Batulaya
+76.04.01.2008                                                                                       7 Sepabatu
+76.04.02.1001                                                                 1 Pappang
+76.04.02.2002                                                                                       1 Laliko
+76.04.02.2003                                                                                       2 Bonde
+76.04.02.2004                                                                                       3 Katumbangan Lemo
+76.04.02.2005                                                                                       4 Panyampa
+76.04.02.2006                                                                                       5 Suruang
+76.04.02.2007                                                                             6 Lampoko
+76.04.02.2008                                                                             7 Katumbangan
+76.04.02.2009                                                                             8 Lapeo
+76.04.02.2010                                                                             9 Parappe
+76.04.02.2011                                                                            10 Ongko
+76.04.02.2012                                                                            11 Kenje
+76.04.02.2013                                                                            12 Sumarrang
+76.04.02.2014                                                                            13 Botto
+76.04.02.2015                                                                            14 Gattungan                                Perda No. 8/2008
+76.04.02.2016                                                                            15 Padang Timur                             Perda No. 8/2008
+76.04.02.2017                                                                            16 Padang                                   Perda No. 8/2008
+76.04.02.2018                                                                            17 Lagi-Agi                                 Perda No. 8/2008
+76.04.03.1001                                                      1 Sidodadi
+76.04.03.2002                                                                             1 Sidorejo
+76.04.03.2003                                                                             2 Sumberejo
+76.04.03.2004                                                                             3 Bumiayu
+76.04.03.2005                                                                             4 Kebunsari
+76.04.03.2006                                                                             5 Banua Baru
+76.04.03.2007                                                                             6 Nepo
+76.04.03.2008                                                                             7 Sugihwaras
+76.04.03.2009                                                                             8 Campurjo
+76.04.03.2010                                                                             9 Bumimulyo
+76.04.03.2011                                                                            10 Tumpiling
+76.04.03.2012                                                                            11 Bakka-Bakka                              Perda No. 1/2004
+76.04.03.2013                                                                            12 Arjo Sari                                Perda No. 1/2004
+76.04.03.2014                                                                            13 Galeson
+76.04.04.1001                                                      1 Polewali
+76.04.04.1002                                                      2 Wattang
+76.04.04.1003                                                      3 Sulewatang
+76.04.04.1004                                                      4 Lantora
+76.04.04.1005                                                      5 Takatidung
+76.04.04.1006                                                      6 Pekkabata
+76.04.04.1007                                                     7 Madate
+76.04.04.1008                                                     8 Manding
+76.04.04.1009                                                     9 Darma
+76.04.05.1001                                                     1 Taramanu
+76.04.05.2002                                                                          1 Ambopadang
+76.04.05.2003                                                                          2 Tubbi
+76.04.05.2004                                                                          3 Ratte
+76.04.05.2005                                                                          4 Besoangin
+76.04.05.2006                                                                          5 Piriang Tapiko
+76.04.05.2007                                                                          6 Peburru                                     Perda No. 8/2008
+76.04.05.2008                                                                          7 Taloba                                      Perda No. 8/2008
+76.04.05.2009                                                                          8 Pollewani                                   Perda No. 8/2008
+76.04.05.2010                                                                          9 Arabua                                      Perda No. 8/2008
+76.04.05.2011                                                                         10 Besoangin Utara                             Perda No. 8/2008
+76.04.05.2012                                                                         11 Poda                                        Perda No. 8/2008
+76.04.05.2013                                                                         12 Taramanu Tua                                Perda No. 8/2008
+76.04.06.2001                                                                          1 Tonyaman
+76.04.06.2002                                                                          2 Kuajang
+76.04.06.2003                                                                          3 Paku
+76.04.06.2004                                                                          4 Mirring
+76.04.06.1005                                                     1 Amassangan                                                       Peningkatan status kelurahan Perda No. 7/2008
+76.04.06.2006                                                                          5 Batetangnga
+76.04.06.2007                                                                          6 Mammi                                       Perda No. 1/2004
+76.04.06.2008                                                                          7 Kaleok                                      Perda No. 8/2008
+76.04.06.2009                                                                          8 Amola                                       Perda No. 8/2008
+76.04.06.2010                                                                          9 Rea                                         Perda No. 8/2008
+76.04.07.1001                                                     1 Pelitakan
+76.04.07.2002                                                                          1 Tapango
+76.04.07.2003                                                                          2 Rappang
+76.04.07.2004                                                                          3 Dakka
+76.04.07.2005                                                                          4 Batu
+76.04.07.2006                                                                           5 Riso
+76.04.07.2007                                                                           6 Palatta
+76.04.07.2008                                                                           7 Tapango Barat                               Perda No. 1/2004
+76.04.07.2009                                                                           8 Kurrak                                      Perda No. 1/2004
+76.04.07.2010                                                                           9 Bussu                                       Perda No. 1/2004
+76.04.07.2011                                                                          10 Tuttula                                     Perda No. 8/2008
+76.04.07.2012                                                                          11 Jambu Malea                                 Perda No. 8/2008
+76.04.07.2013                                                                          12 Kalimbua                                    Perda No. 8/2008
+76.04.07.2014                                                                          13 Banato Rejo                                 Perda No. 8/2008
+76.04.08.1001                                                      1 Mapili
+76.04.08.2002                                                                           1 Ugibaru
+76.04.08.2003                                                                           2 Rumpa
+76.04.08.2005                                                                           3 Kurma
+76.04.08.2007                                                                           4 Buku
+76.04.08.2009                                                                           5 Bonne Bonne
+76.04.08.2011                                                                           6 Beroangin
+76.04.08.2015                                                                           7 Segerang                                    Perda No. 8/2008
+76.04.08.2016                                                                           8 Bonra                                       Perda No. 8/2008
+76.04.08.2017                                                                           9 Sattoko                                     Perda No. 8/2008
+76.04.08.2018                                                                          10 Rappang Barat                               Perubahan Nama Desa, Perda No. 9/2008
+76.04.08.2019                                                                          11 Landi Kanusuang                             Pemekaran Desa, Perda No. 9/2008
+76.04.09.1001                                                      1 Matangnga
+76.04.09.2002                                                                           1 Lilli
+76.04.09.2003                                                                           2 Rangoan
+76.04.09.2004                                                                           3 Tapua
+76.04.09.2005                                                                            4 Mambu Tapua                                 Perda No. 8/2008
+76.04.09.2006                                                                            5 Ba'ba Tapua                                 Perda No. 8/2008
+76.04.09.2007                                                                            6 Katimbang                                   Perda No. 8/2008
+76.04.10.2001                                                                            1 Mambu
+76.04.10.2002                                                                            2 Tenggelang
+76.04.10.2003                                                                            3 Baru
+76.04.10.1004                                                      1 Batupanga
+76.04.10.2005                                                                            4 Pussui
+76.04.10.2006                                                                            5 Mapili Barat
+76.04.10.2007                                                                            6 Sambali Wali
+76.04.10.2008                                                                            7 Batupanga Daala
+76.04.10.2009                                                                            8 Luyo                                        Perda No. 1/2004
+76.04.10.2010                                                                            9 Pussui Barat                                Perda No. 8/2008
+76.04.10.2011                                                                           10 Puccadi                                     Perda No. 8/2008
+76.04.11.1001                                                      1 Limboro
+76.04.11.2002                                                                            1 Lembang Lembang
+76.04.11.2003                                                                            2 Tandasura
+76.04.11.2004                                                                            3 Samasundu
+76.04.11.2005                                                                            4 Napo
+76.04.11.2006                                                                            5 Todang Todang
+76.04.11.2007                                                                            6 Pendulangan
+76.04.11.2008                                                                            7 Renggeang
+76.04.11.2009                                                                            8 Salarri
+76.04.11.2010                                                                            9 Tangan Baru                                 Perda No. 1/2004
+76.04.11.2011                                                                           10 Palece                                      Perda No. 8/2008
+76.04.12.2001                                                                            1 Tammajarra
+76.04.12.1002                                                      1 Balanipa
+76.04.12.2003                                                                            2 Tamanggalle
+76.04.12.2004                                                                            3 Mosso
+76.04.12.2005                                                                            4 Galung Tuluk
+76.04.12.2006                                                                            5 Sabang Subik
+76.04.12.2007                                                                                6 Pambusuang
+76.04.12.2008                                                                                7 Bala
+76.04.12.2009                                                                                8 Lambanan
+76.04.12.2010                                                                                9 Lego
+76.04.12.2011                                                                               10 Pallis                                    Perda No. 8/2008
+76.04.13.1001                                                      1 Anreapi                                                             Perubahan status desa menjadi kelurahan Perda No. 6/2002
+76.04.13.2002                                                                                1 Duampanua
+76.04.13.2003                                                                                2 Kelapa Dua
+76.04.13.2004                                                                                3 Papandangan
+76.04.13.2005                                                                                4 Kunyi
+76.04.14.1001                                                      1 Matakali                                                            Perubahan ststus desa menjadi kelurahan Perda No. 6/2002
+76.04.14.2002                                                                                1 Petampanua
+76.04.14.2003                                                                                2 Barumbung
+76.04.14.2004                                                                                3 Pasiang
+76.04.14.2005                                                                                4 Tonrolima
+76.04.14.2006                                                                                5 Indomakkombong                            Perda No. 1/2004
+76.04.14.2007                                                                                6 Bunga-Bunga                               Perda No. 8/2008
+76.04.15.2002                                                                                1 Mombi
+76.04.15.2003                                                                                2 Kalumammang
+76.04.15.2004                                                                                3 Pao-pao
+76.04.15.2005                                                                                4 Puppu Uring
+76.04.15.2006                                                                                5 Saragian                                  Perda No. 1/2004
+76.04.15.2007                                                                                6 Sayoang                                   Perda No. 8/2008
+76.04.15.2008                                                                                7 Alu                                       Perda No. 8/2008
+76.04.15.1009                                                      1 Petoosang                                                           Pemekaran Kelurahan Allu Perda No. 7/2008
+76.04.16.2001                                                                                1 Bulo                                      Semula wil. Kec. Mapilli
+76.04.16.2002                                                                                2 Pulliwa                                   Semula wil. Kec. Mapilli
+76.04.16.2003                                                                                3 Patambanua                                Semula wil. Kec. Mapilli
+76.04.16.2004                                                                                4 Karombang                                 Semula wil. Kec. Mapilli
+76.04.16.2005                                                                                  5 Daala Timur                                  Semula wil. Kec. Mapilli
+76.04.16.2006                                                                                  6 Lenggo                                       Semula wil. Kec. Mapilli
+76.04.16.2007                                                                                  7 Sabura                                       Perda No. 8/2008
+76.04.16.2008                                                                                  8 Sepporraki                                   Perda No. 8/2008
+76.04.16.2009                                                                                  9 Ihing                                        Perda No. 8/2008
+76.05.01.1001                                                           1 Banggae
+76.05.01.1003                                                           2 Baru
+76.05.01.1007                                                           3 Pangali Ali
+76.05.01.1009                                                           4 Totoli
+76.05.01.1010                                                           5 Rangas                                                              Pemekaran sebagian Kel. Totoli, Perda No. 8/2010
+76.05.01.2011                                                                                  1 Palipi Soreang                               Pemekaran sebagian Kel. Totoli, Perda No. 8/2010
+76.05.01.2012                                                                                  2 Pamboborang                                  Pemekaran sebagian Kel. Baru, Perda No. 8/2010
+76.05.01.1013                                                           6 Galung                                                              Pemekaran sebagian Kel. Banggae, Perda No. 8/2010
+76.05.02.1001                                                           1 Lalampanua
+76.05.02.1002                                                           2 Sirindu
+76.05.02.2003                                                                                  1 Adolang
+76.05.02.2004                                                                                  2 Bababulo
+76.05.02.2005                                                                                  3 Bonde
+76.05.02.2006                                                                                  4 Betteng
+76.05.02.2007                                                                                  5 Simbang
+76.05.02.2008                                                                                  6 Bonde Utara                                  Pemekaran sebagian Desa Bonde, Perda No. 7/2010
+76.05.02.2009                                                                                  7 Bababulo Utara                               Pemekaran sebagian Desa Bababulo, Perda No. 7/2010
+76.05.02.2010                                                                                  8 Buttu Pamboang                               Pemekaran sebagian Desa Simbang, Perda No. 7/2010
+76.05.02.2011                                                                                  9 Banua Adolang                                Pemekaran sebagian Desa Betteng, Perda No. 7/2010
+76.05.02.2012                                                                                 10 Adolang Dhua                                 Pemekaran sebagian Desa Adolang, Perda No. 7/2010
+76.05.02.2013                                                                        11 Tinambung                                    Pemekaran sebagian Desa Lalampanua, Perda No. 8/2010
+76.05.02.2014                                                                        12 Pesuloang                                    Pemekaran sebagian Desa Sirindu, Perda No. 8/2010
+76.05.02.2015                                                                        13 Balombong                                    Pemekaran sebagian Desa Sirindu, Perda No. 8/2010
+76.05.03.1001                                                     1 Mosso
+76.05.03.1002                                                     2 Mosso Dhua
+76.05.03.2004                                                                         1 Totolisi Sendana                             Perubahan nama dari Desa Sendana, Perda No. 7/2010
+76.05.03.2007                                                                         2 Tallubanua
+76.05.03.2015                                                                         3 Lalatedzong                                  Perubahan nama dari Desa Puttada, Perda No. 7/2010
+76.05.03.2016                                                                         4 Binanga                                      Perubahan nama dari Desa Pundau, Perda No. 7/2010
+76.05.03.2017                                                                         5 Puttada                                      Pemekaran sebagian Desa Lalatedzong, Perda No. 7/2010
+76.05.03.2018                                                                         6 Paminggalan                                  Pemekaran sebagian Desa Lalatedzong, Perda No. 7/2010
+76.05.03.2019                                                                         7 Leppangang                                   Pemekaran sebagian Desa Binanga, Perda No. 7/2010
+76.05.03.2020                                                                         8 Pundau                                       Pemekaran sebagian Desa Binanga, Perda No. 7/2010
+76.05.03.2021                                                                         9 Sendana                                      Pemekaran sebagian Desa Totolisi Sendana, Perda No. 7/2010
+76.05.03.2022                                                                        10 Banua Sendana                                Pemekaran sebagian Desa Totolisi Sendana, Perda No. 7/2010
+76.05.03.2023                                                                        11 Tallubanua Utara                             Pemekaran sebagian Desa Tallubanua, Perda No. 7/2010
+76.05.03.2024                                                                        12 Limboro                                      Pemekaran sebagian Desa Tallubanua, Perda No. 7/2010
+76.05.03.2025                                                                        13 Limbua                                       Pemekaran sebagian Kel. Mosso, Perda No. 8/2010
+76.05.03.2026                                                                        14 Bukit Samang                                 Pemekaran sebagian Kel. Mosso Dhua, Perda No. 8/2010
+76.05.04.1001                                                     1 Malunda
+76.05.04.2002                                                                         1 Bambangan
+76.05.04.2004                                                                                   2 Lombang
+76.05.04.2005                                                                                   3 Lombong
+76.05.04.2006                                                                                   4 Mekkatta
+76.05.04.2010                                                                                   5 Maliaya                                     Perda No. 7/2005
+76.05.04.2011                                                                                   6 Lombang Timur                               Pemekaran sebagian Desa Lombang, Perda No. 7/2010
+76.05.04.2012                                                                                   7 Salutahongan                                Pemekaran sebagian Desa Bambangan, Perda No. 7/2010
+76.05.04.2013                                                                                   8 Lombong Timur                               Pemekaran sebagian Desa Lombong, Perda No. 7/2010
+76.05.04.2014                                                                                   9 Mekkatta Selatan                            Pemekaran sebagian Desa Mekkatta, Perda No. 7/2010
+76.05.04.1015                                                           2 Lamungang Batu                                                      Pemekaran sebagian Kel. Malunda, Perda No. 8/2010
+76.05.04.2016                                                                                  10 Kayuangin                                   Pemekaran sebagian Kel. Malunda, Perda No. 8/2010
+76.05.05.2001                                                                                   1 Kabiraan                                    Semula wil. Kec. Malunda
+76.05.05.2002                                                                                   2 Sambabo                                     Semula wil. Kec. Malunda
+76.05.05.2003                                                                                   3 Tandeallo                                   Semula wil. Kec. Malunda
+76.05.05.2004                                                                                   4 Ulumanda                                    Semula wil. Kec. Malunda
+76.05.05.2005                                                                                   5 Salutambung                                 Pemekaran sebagian Desa Sambabo, Perda No. 7/2010
+76.05.05.2006                                                                                   6 Popenga                                     Pemekaran sebagian Desa Ulumanda, Perda No. 7/2010
+76.05.05.2007                                                                                   7 Sulai                                       Pemekaran sebagian Desa Kabiraan, Perda No. 7/2010
+76.05.05.2008                                                                                   8 Panggalo                                    Pemekaran sebagian Desa Tandiallo, Perda No. 7/2010
+76.05.06.2001                                                                                   1 Seppong                                     Semula wil. Kec. Sendana
+76.05.06.2002                                                                                   2 Tammerodo                                   Semula wil. Kec. Sendana
+76.05.06.2003                                                                                   3 Ulidang                                     Semula wil. Kec. Sendana
+76.05.06.2004                                                                                   4 Tallambalao                                 Semula wil. Kec. Sendana
+76.05.06.2005                                                                                   5 Tammerodo Utara                             Pemekaran sebagian Desa Tammerodo, Perda No. 7/2010
+76.05.06.2006                                                                                   6 Manyamba                                    Pemekaran sebagian Desa Seppong, Perda No. 7/2010
+76.05.06.2007                                                                                   7 Awo                                         Pemekaran sebagian Desa Ulidang, Perda No. 7/2010
+76.05.07.2001                                                                                   1 Onang                                       Semula wil. Kec. Sendana
+76.05.07.2002                                                                                   2 Tubo                                        Semula wil. Kec. Sendana
+76.05.07.2003                                                                                       3 Onang Utara                                Semula wil. Kec. Sendana
+76.05.07.2004                                                                                       4 Tubo Selatan                               Semula wil. Kec. Sendana
+76.05.07.2005                                                                                       5 Bonde bonde                                Pemekaran sebagian Desa Onang Utara, Perda No. 7/2010
+76.05.07.2006                                                                                       6 Tubo Tengah                                Pemekaran sebagian Desa Tubo Selatan, Perda No. 7/2010
+76.05.07.2007                                                                                       7 Tubo Poang                                 Pemekaran sebagian Desa Tubo, Perda No. 7/2010
+76.05.08.1001                                                               1 Baurung                                                            Semula wil. Kec. Banggae
+76.05.08.1002                                                               2 Baruga                                                             Semula wil. Kec. Banggae,
+76.05.08.1003                                                               3 Baruga Dhua                                                        Semula wil. Kec. Banggae
+76.05.08.1004                                                               4 Labuang                                                            Semula wil. Kec. Banggae
+76.05.08.1005                                                               5 Tande                                                              Semula wil. Kec. Banggae
+76.05.08.1006                                                               6 Lembang                                                            Pemekaran sebagian Kel. Baurung, Perda No. 8/2010
+76.05.08.1007                                                               7 Labuang Utara                                                      Pemekaran sebagian Kel. Labuang, Perda No. 8/2010
+76.05.08.1008                                                               8 Tande Timur                                                        Pemekaran sebagian Kel. Tande, Perda No. 8/2010
+76.05.08.2009                                                                                       1 Buttu Baruga                               Pemekaran sebagian Kel. Baruga Dhua, Perda No. 8/2010
+76.06.01.2001                                                                                       1 Mahahe
+76.06.01.2002                                                                                       2 Salobaja
+76.06.01.2003                                                                                       3 Tobadak
+76.06.01.2004                                                                                       4 Palongaan
+76.06.01.2005                                                                                       5 Batu Parigi
+76.06.01.2006                                                                                       6 Bambadaru
+76.06.01.2007                                                                                       7 Sejati
+76.06.01.2008                                                                                       8 Saloadak
+76.06.02.2001                                                                                       1 Polo Pangale
+76.06.02.2002                                                                                       2 Pangale
+76.06.02.2003                                                                                       3 Sartanamaju
+76.06.02.2004                                                                                       4 Polo Lereng
+76.06.02.2005                                                                                       5 Kuo
+76.06.02.2006                                                                                       6 Polo Camba
+76.06.02.2007                                                                                       7 Lamba-lamba
+76.06.02.2008                                                                         8 Kombiling
+76.06.02.2009                                                                         9 Lemo-Lemo
+76.06.03.2001                                                                         1 Babana
+76.06.03.2002                                                                         2 Lumu
+76.06.03.2003                                                                         3 Pontanakayang
+76.06.03.2004                                                                         4 Salogatta
+76.06.03.2005                                                                         5 Kire
+76.06.03.2006                                                                         6 Tinali
+76.06.03.2007                                                                         7 Salumanurung
+76.06.03.2008                                                                         8 Pasapa
+76.06.03.2009                                                                         9 Bojo
+76.06.03.2010                                                                        10 Barakkang
+76.06.03.2011                                                                        11 Lembah Hada
+76.06.04.2001                                                                         1 Budong-Budong
+76.06.04.2002                                                                         2 Topoyo
+76.06.04.2003                                                                         3 Tumbu
+76.06.04.2004                                                                         4 Kabubu
+76.06.04.2005                                                                         5 Waeputeh
+76.06.04.2006                                                                         6 Tangkou
+76.06.04.2007                                                                         7 Tabolang
+76.06.04.2008                                                                         8 Paraili
+76.06.04.2009                                                                         9 Salupangkang
+76.06.04.2010                                                                        10 Salupangkang IV
+76.06.04.2011                                                                        11 Tappilina
+76.06.04.2012                                                                        12 Bambamanurung
+76.06.04.2013                                                                        13 Salulekbo
+76.06.04.2014                                                                        14 Pangalloang
+76.06.04.2015                                                                        15 Sinabatta
+76.06.05.2001                                                                         1 Karossa
+76.06.05.2002                                                                         2 Tasokko
+76.06.05.2003                                                                         3 Lara
+76.06.05.2004                                                                         4 Kadaila
+76.06.05.2005                                                                         5 Kayu Calla
+76.06.05.2006                                                                         6 Lembah Hopo
+76.06.05.2007                                                                         7 Benggaulu
+76.06.05.2008                                                                         8 Suka Maju
+76.06.05.2009                                                                         9 Kambunong
+76.06.05.2010                                                                        10 Salubiro
+76.06.05.2011                                                                        11 Sanjango

@@ -1,0 +1,228 @@
+       18.01.04     1 Natar                                                                                   26
+       18.01.05     2 Tanjung Bintang                                                                         16
+       18.01.06     3 Kalianda                                                                        4       25
+       18.01.07     4 Sidomulyo                                                                               16
+       18.01.08     5 Katibung                                                                                12
+       18.01.09     6 Penengahan                                                                              22
+       18.01.10     7 Palas                                                                                   21
+       18.01.13     8 Jati Agung                                                                              21
+       18.01.14     9 Ketapang                                                                                17
+       18.01.15    10 Sragi                                                                                   10
+       18.01.16    11 Raja Basa                                                                               16
+       18.01.17    12 Candipuro                                                                               14
+       18.01.18    13 Merbau Mataram                                                                          15
+       18.01.21    14 Bakauheni                                                                                  5                              Perda No. 3/2006
+       18.01.22    15 Tanjung Sari                                                                               8                              Perda No. 3/2006
+       18.01.23    16 Way Sulan                                                                                  8                              Perda No. 3/2006
+       18.01.24    17 Way Panji                                                                                  4                              Perda No. 3/2006
+       18.02.01     1 Kalirejo                                                                                17
+       18.02.02     2 Bangun Rejo                                                                             17
+     18.02.03     3 Padang Ratu                                                         15
+     18.02.04     4 Gunung Sugih                                                 4      11
+     18.02.05     5 Trimurjo                                                     3      11
+     18.02.06     6 Punggur                                                                 9
+     18.02.07     7 Terbanggi Besar                                              3          7
+     18.02.08     8 Seputih Raman                                                       14
+     18.02.09     9 Rumbia                                                                  9
+     18.02.10    10 Seputih Banyak                                                      13
+     18.02.11    11 Seputih Mataram                                                     12
+     18.02.12    12 Seputih Surabaya                                                    13
+     18.02.13    13 Terusan Nunyai                                                          7
+     18.02.14    14 Bumi Ratu Nuban                                                     10
+     18.02.15    15 Bekri                                                                   8
+     18.02.16    16 Seputih Agung                                                       10
+     18.02.17    17 Way Pangubuan                                                           8
+     18.02.18    18 Bandar Mataram                                                          9
+     18.02.19    19 Pubian                                                              20
+     18.02.20    20 Selagai Lingga                                                      14
+     18.02.21    21 Anak Tuha                                                           12
+     18.02.22    22 Sendang Agung                                                           9
+     18.02.23    23 Kota Gajah                                                              7
+     18.02.24    24 Bumi Nabung                                                             7
+     18.02.25    25 Way Seputih                                                             6
+     18.02.26    26 Bandar Surabaya                                                     10
+     18.02.27    27 Anak Ratu Aji                                                           6                            Perda No. 06/2005
+     18.02.28    28 Putra Rumbia                                                        10                               Perda No. 15/2006
+     18.03.01     1 Bukit Kemuning                                               1          7
+     18.03.02     2 Kotabumi                                                     9          4
+     18.03.03     3 Sungkai Selatan                                                     11
+     18.03.04     4 Tanjung Raja                                                        19
+     18.03.05     5 Abung Timur                                                         12
+     18.03.06     6 Abung Barat                                                         14
+     18.03.07     7 Abung Selatan                                                       16
+     18.03.08     8 Sungkai Utara                                                       15
+     18.03.09     9 Kotabumi Utara                                                          8
+     18.03.10    10 Kotabumi Selatan                                             5          9
+     18.03.11    11 Abung Tengah                                                        11
+     18.03.12    12 Abung Tinggi                                                            8
+     18.03.13    13 Abung Semuli                                                            7
+     18.03.14    14 Abung Surakarta                                                         9
+     18.03.15    15 Muara Sungkai                                                       11
+     18.03.16    16 Bunga Mayang                                                        11
+     18.03.17    17 Hulu Sungkai                                                        10                               Perda No. 8/2006
+     18.03.18    18 Sungkai Tengah                                                          8                            Perda No. 8/2006
+     18.03.19    19 Abung Pekurun                                                           9                            Perda No. 8/2006
+     18.03.20    20 Sungkai Jaya                                                            9                            Perda No. 8/2006
+     18.03.21    21 Sungkai Barat                                                       10                               Perda No. 8/2006
+     18.03.22    22 Abung Kunang                                                            7                            Perda No. 8/2006
+     18.03.23    23 Blambangan Pagar                                                        7                            Perda No. 8/2006
+     18.04.04     1 Balik Bukit                                                  2      10
+     18.04.05     2 Sumber Jaya                                                  1          5
+     18.04.06     3 Belalau                                                             10
+     18.04.07     4 Way Tenong                                                   1          8
+     18.04.08     5 Sekincau                                                     1          4
+     18.04.09     6 Suoh                                                                    7
+     18.04.10     7 Batu Brak                                                           11
+     18.04.11     8 Sukau                                                               10
+     18.04.15     9 Gedung Surian                                                           5                            Perda No. 4/2006
+     18.04.18    10 Kebun Tebu                                                          10                               Pemekaran sebagian Kec. Sumber Jaya, Perda No. 2/2010
+     18.04.19    11 Air Hitam                                                           10                               Pemekaran sebagian Kec. Way Tenong, Perda No. 2/2010
+     18.04.20    12 Pagar Dewa                                                          10                               Pemekaran sebagian Kec. Sekincau, Perda No. 2/2010
+     18.04.21    13 Batu Ketulis                                                        10                               Pemekaran sebagian Kec. Belalau, Perda No. 2/2010
+     18.04.22    14 Lumbok Seminung                                                     11                               Pemekaran sebagian Kec. Sukau, Perda No. 2/2010
+     18.04.23    15 Bandar Negeri Suoh                                                  10                               Pemekaran sebagian Kec. Suoh, Perda No. 2/2010
+     18.05.02    1 Menggala                                                        4          5
+     18.05.06    2 Gedung Aji                                                             10
+     18.05.08    3 Banjar Agung                                                           11
+     18.05.11    4 Gedung Meneng                                                          11
+     18.05.12    5 Rawa Jitu Selatan                                                          9
+     18.05.13    6 Penawar Tama                                                           14
+     18.05.18    7 Rawa Jitu Timur                                                            8
+     18.05.20    8 Banjar Margo                                                           12                               Perda No. 7/2005
+     18.05.22    9 Rawa Pitu                                                                  9                            Perda No. 7/2005
+     18.05.23   10 Penawar Aji                                                                9                            Perda No. 7/2005
+     18.05.25   11 Dente Teladas                                                          12                               Perda No. 1/2007
+     18.05.26   12 Meraksa Aji                                                                8                            Perda No. 1/2007
+     18.05.27   13 Gedung Aji Baru                                                            9                            Perda No. 1/2007
+     18.05.29   14 Banjar Baru                                                            10                               Perda No. 4/2009, Rekomendasi Gubernur No. 138/3060.A/02/2009, Tgl.
+     18.05.30   15 Menggala Timur                                                         10                               Perda No. 4/2009, Rekomendasi Gubernur No. 138/3060.A/02/2009, Tgl.
+     18.06.01    1 Kota Agung                                                      3      13
+     18.06.02     2 Talang Padang                                                      20
+     18.06.03     3 Wonosobo                                                           28
+     18.06.04     4 Pulau Panggung                                                     21
+     18.06.09     5 Cukuh Balak                                                        20
+     18.06.11     6 Pugung                                                             27
+     18.06.12     7 Semaka                                                             22
+     18.06.13     8 Sumber Rejo                                                        13
+     18.06.15     9 Ulu Belu                                                           16
+     18.06.16    10 Pematang Sawa                                                      14
+     18.06.17    11 Klumbayan                                                              8
+     18.06.18    12 Kota Agung Barat                                                   16                                Perda No. 5/2005
+     18.06.19    13 Kota Agung Timur                                                   12                                Perda No. 5/2005
+     18.06.20    14 Gisting                                                                9                             Perda No. 5/2005
+     18.06.21    15 Gunung Alip                                                        12                                Perda No. 5/2005
+     18.06.24    16 Limau                                                              11                                Perda No. 5/2005
+     18.06.25    17 Bandar Negeri Semuong                                              11                                Perda No. 15/2006
+     18.06.26    18 Air Naningan                                                       10                                Perda No. 15/2006
+     18.06.27    19 Bulok                                                              10                                Perda No. 15/2006
+     18.06.28    20 Klumbayan Barat                                                        6                             Perda No. 15/2006
+     18.07.01     1 Sukadana                                                           20
+     18.07.02     2 Labuhan Maringgai                                                  11
+     18.07.03     3 Jabung                                                             15
+     18.07.04     4 Pekalongan                                                         12
+     18.07.05     5 Sekampung                                                          17
+     18.07.06     6 Batanghari                                                         17
+     18.07.07     7 Way Jepara                                                         16
+     18.07.08     8 Purbolinggo                                                        12
+     18.07.09     9 Raman Utara                                                        11
+     18.07.10    10 Metro Kibang                                                                7
+     18.07.11    11 Marga Tiga                                                              13
+     18.07.12    12 Sekampung Udik                                                          15
+     18.07.13    13 Batanghari Nuban                                                        13
+     18.07.14    14 Bumi Agung                                                                  7
+     18.07.15    15 Bandar Sribhawono                                                           7
+     18.07.16    16 Mataram Baru                                                                7
+     18.07.17    17 Melinting                                                                   6
+     18.07.18    18 Gunung Pelindung                                                            5
+     18.07.19    19 Pasir Sakti                                                                 8
+     18.07.20    20 Waway Karya                                                             11
+     18.07.21    21 Labuhan Ratu                                                            11
+     18.07.22    22 Braja Selebah                                                               7
+     18.07.23    23 Way Bungur                                                                  8
+     18.07.24    24 Marga Sekampung                                                             8                            Perda No. 5/2005
+     18.08.01     1 Blambangan Umpu                                                  1      25
+     18.08.02     2 Kasui                                                            1      18
+     18.08.03     3 Banjit                                                           1      19
+     18.08.04     4 Baradatu                                                         3      19
+     18.08.05     5 Bahuga                                                                  11
+     18.08.06     6 Pakuan Ratu                                                             19
+     18.08.07     7 Negeri Agung                                                            19
+     18.08.08     8 Way Tuba                                                                13
+     18.08.09     9 Rebang Tangkas                                                          10
+     18.08.10    10 Gunung Labuhan                                                          21
+     18.08.11    11 Negara Batin                                                            15
+     18.08.12    12 Negeri Besar                                                            13
+     18.08.13    13 Buay Bahuga                                                                 9                            Perda No. 2/2005
+     18.08.14    14 Bumi Agung                                                              10                               Perda No. 2/2005
+     18.09.01     1 Gedong Tataan                                                           19                               Semula wil. Kab. Lampung Selatan
+     18.09.02     2 Negeri Katon                                                            19                               Semula wil. Kab. Lampung Selatan
+     18.09.03     3 Tegineneng                                                              16                               Semula wil. Kab. Lampung Selatan
+     18.09.04     4 Way Lima                                                                16                               Semula wil. Kab. Lampung Selatan
+     18.09.05     5 Padang Cermin                                                           11                               Semula wil. Kab. Lampung Selatan
+     18.09.06     6 Punduh Pidada                                                           11                               Semula wil. Kab. Lampung Selatan
+     18.09.07     7 Kedondong                                                                        12                               Semula wil. Kab. Lampung Selatan
+     18.09.08     8 Marga Punduh                                                                     10                               Pemekaran sebagian Kec. Punduh Pedada, Perda No. 5/2012
+     18.09.09     9 Way Khilau                                                                       10                               Pemekaran sebagian Kec. Kedondong, Perda No. 5/2012
+     18.09.10    10 Teluk Pandan                                                                     10                               Pemekaran sebagian wil Kec. Padang Cermin, Perda No. 12/2014
+     18.09.11    11 Way Ratai                                                                        10                               Pemekaran sebagian wil Kec. Padang Cermin, Perda No. 12/2014
+     18.10.01     1 Pringsewu                                                                 5      10                               Semula wil. Kab. Tanggamus
+     18.10.02     2 Gading Rejo                                                                      23                               Semula wil. Kab. Tanggamus
+     18.10.03     3 Ambarawa                                                                             8                            Semula wil. Kab. Tanggamus
+     18.10.04     4 Pardasuka                                                                        13                               Semula wil. Kab. Tanggamus
+     18.10.05     5 Pagelaran                                                                        22                               Semula wil. Kab. Tanggamus
+     18.10.06     6 Banyumas                                                                         11                               Semula wil. Kab. Tanggamus
+     18.10.07     7 Adiluwih                                                                         13                               Semula wil. Kab. Tanggamus
+     18.10.08     8 Sukoharjo                                                                        16                               Semula wil. Kab. Tanggamus
+     18.10.09     9 Pagelaran Utara                                                                  10                               Pemekaran sebagian wil Kec. Pagelaran, Perda No. 12/2012
+     18.11.01     1 Mesuji                                                                           11                               Semula wil. Kab.Tulang Bawang
+     18.11.02     2 Mesuji Timur                                                                     20                               Semula wil. Kab.Tulang Bawang
+     18.11.03     3 Rawa Jitu Utara                                                                  13                               Semula wil. Kab.Tulang Bawang
+     18.11.04     4 Way Serdang                                                                      20                               Semula wil. Kab.Tulang Bawang
+     18.11.05     5 Simpang Pematang                                                                 13                               Semula wil. Kab.Tulang Bawang
+     18.11.06     6 Panca Jaya                                                                           7                            Semula wil. Kab.Tulang Bawang
+     18.11.07     7 Tanjung Raya                                                                     21                               Semula wil. Kab.Tulang Bawang
+     18.12.01     1 Tulang Bawang Tengah                                                      2      17                               Semula wil. Kab. Tulang Bawang
+     18.12.02     2 Tumijajar                                                                 1          9                            Semula wil. Kab. Tulang Bawang
+     18.12.03     3 Tulang Bawang Udik                                                                   9                            Semula wil. Kab. Tulang Bawang
+     18.12.04     4 Gunung Terang                                                                    10                               Semula wil. Kab. Tulang Bawang
+     18.12.05     5 Gunung Agung                                                                     13                               Semula wil. Kab. Tulang Bawang
+     18.12.06     6 Way Kenanga                                                                          9                            Semula wil. Kab. Tulang Bawang
+     18.12.07     7 Lambu Kibang                                                                     10                               Semula wil. Kab. Tulang Bawang
+     18.12.08     8 Pagar Dewa                                                                           6                            Semula wil. Kab. Tulang Bawang
+     18.12.09     9 Batu Putih                                                                       10                               Pemekaran sebagian Kec. Gunung Terang, Perda No. 1/2016
+     18.13.01     1 Pesisir Tengah                                                            2          6                            Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.02     2 Pesisir Selatan                                                            15                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.03     3 Lemong                                                                     13                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.04     4 Pesisir Utara                                                              12                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.05     5 Karya Penggawa                                                             12                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.06     6 Pulaupisang                                                                    6                             Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.07     7 Way Krui                                                                   10                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.08     8 Krui Selatan                                                               10                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.09     9 Ngambur                                                                        9                             Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013
+     18.13.10    10 Ngaras                                                                         9                             Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013, Perubahan nama
+     18.13.11    11 Bangkunat                                                                  14                                Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013, Perubahan nama
+     18.71.01     1 Kedaton                                                             7
+     18.71.02     2 Sukarame                                                            6
+     18.71.03     3 Tanjungkarang Barat                                                 7
+     18.71.04     4 Panjang                                                             8
+     18.71.05     5 Tanjungkarang Timur                                                 5
+     18.71.06     6 Tanjungkarang Pusat                                                 7
+     18.71.07     7 Telukbetung Selatan                                                 6
+     18.71.08     8 Telukbetung Barat                                                   5
+     18.71.09     9 Telukbetung Utara                                                   6
+     18.71.10    10 Rajabasa                                                            7
+     18.71.11    11 Tanjung Senang                                                      5
+     18.71.12    12 Sukabumi                                                            7
+     18.71.13    13 Kemiling                                                            9
+     18.71.14    14 Labuhan Ratu                                                        6                                        Pemekaran sebagian Kec. Kedaton, Perda No. 4/2012
+     18.71.15    15 Way Halim                                                           6                                        Pemekaran sebagian Kec. Sukarame, Perda No. 4/2012
+     18.71.16    16 Langkapura                                                          5                                        Pemekaran sebagian Kec. Kemiling, Perda No. 4/2012
+     18.71.17    17 Enggal                                                              6                                        Pemekaran sebagian Kec. Tanjungkarang Pusat, Perda No. 4/2012
+     18.71.18    18 Kedamaian                                                           7                                        Pemekaran sebagian Kec. Tanjungkarang Timur, Perda No. 4/2012
+     18.71.19    19 Telukbetung Timur                                                   6                                        Pemekaran sebagian Kec. Tanjungkarang Barat, Perda No. 4/2012
+     18.71.20    20 Bumi Waras                                                          5                                        Pemekaran sebagian Kec. Telukbetung Selatan, Perda No. 4/2012
+     18.72.01     1 Metro Pusat                                                         5
+     18.72.02     2 Metro Utara                                                         4
+     18.72.03     3 Metro Barat                                                         4
+     18.72.04     4 Metro Timur                                                         5
+     18.72.05   5 Metro Selatan                                              4

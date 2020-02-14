@@ -1,0 +1,119 @@
+  I    81         MALUKU                                                  9        2      118      35      1.198      46.914,03     1.847.097
+       81.01.01     1 Amahai                                                                          1       14
+       81.01.02     2 Teon Nila Serua                                                                         16
+       81.01.06     3 Seram Utara                                                                             20
+       81.01.09     4 Banda                                                                                   18
+       81.01.11     5 Tehoru                                                                                  10
+       81.01.12     6 Saparua                                                                                    7
+       81.01.13     7 Pulau Haruku                                                                            11
+       81.01.14     8 Salahutu                                                                                   6
+       81.01.15     9 Leihitu                                                                                 11
+       81.01.16    10 Nusa Laut                                                                                  7
+       81.01.17    11 Kota Masohi                                                                     5
+       81.01.20    12 Seram Utara Barat                                                                       13                                Perda No. 25/2007
+       81.01.21    13 Teluk Elpaputih                                                                            4                              Perda No. 26/2007
+       81.01.22    14 Leihitu Barat                                                                              5                              Perda No. 27/2007
+       81.01.23    15 Telutih                                                                                 10                                Pemekaran Kec. Tehoru Perda No. 8/2010
+       81.01.24    16 Seram Utara Timur Seti                                                                  12                                Pemekaran Kec. Seram Utara Perda No. 9/2010
+       81.01.25    17 Seram Utara Timur Kobi                                                                  12                                Pemekaran Kec. Seram Utara Perda No. 10/2010
+       81.01.26    18 Saparua Timur                                                                           10                                Pemekaran Kec. Saparua Perda No. 11/2012
+     81.02.01     1 Kei Kecil                                                         1      14
+     81.02.03     2 Kei Besar                                                                37
+     81.02.04     3 Kei Besar Selatan                                                        10
+     81.02.05     4 Kei Besar Utara Timur                                                    30
+     81.02.13     5 Kei Kecil Timur                                                          18
+     81.02.14     6 Kei Kecil Barat                                                          10
+     81.02.15     7 Manyeuw                                                                      9                            Pemekaran Kec. Perda No. 7/2012
+     81.02.16     8 Hoat Sorbay                                                              13                               Pemekaran Kec. Perda No. 8/2012
+     81.02.17     9 Kei Besar Utara Barat                                                    25                               Pemekaran Kec. Perda No. 9/2012
+     81.02.18    10 Kei Besar Selatan Barat                                                  13                               Pemekaran Kec. Perda No. 10/2012
+     81.02.19    11 Kei Kecil Timur Selatan                                                  11                               Pemekaran Kec. Perda No. 11/2012
+     81.03.01     1 Tanimbar Selatan                                                  2      10
+     81.03.02     2 Selaru                                                                       7
+     81.03.03     3 Wer Tamrian                                                                  9
+     81.03.04     4 Wer Maktian                                                                  9
+     81.03.05     5 Tanimbar Utara                                                               8
+     81.03.06     6 Yaru                                                                         6
+     81.03.07     7 Wuar Labobar                                                             11
+     81.03.08     8 Kormomolin                                                               10
+     81.03.09     9 Nirunmas                                                                     5
+     81.03.18    10 Molu Maru                                                                   5                            Pemekaran Kec. Perda No. 12 Tahun 2011
+     81.04.01     1 Namlea                                                                      7
+     81.04.02     2 Air Buaya                                                               10
+     81.04.03     3 Waeapo                                                                      7
+     81.04.06     4 Waplau                                                                  10
+     81.04.10     5 Batabual                                                                    5
+     81.04.11     6 Lolong Guba                                                             10                               Pemekaran Kec. Waeapo Perda No. 20/2012
+     81.04.12     7 Waelata                                                                 10                               Pemekaran Kec. Waeapo Perda No. 21/2012
+     81.04.13     8 Fena Leisela                                                            13                               Pemekaran Kec. Airbuaya Perda No. 22/2012
+     81.04.14     9 Teluk Kaiely                                                                5                            Pemekaran Kec. Waeapo & Batubual Perda No. 23/2012
+     81.04.15    10 Lilialy                                                                     5                            Pemekaran Kec. Namlea Perda No. 24/2012
+     81.05.01     1 Bula                                                                    10
+     81.05.02     2 Seram Timur                                                             16
+     81.05.03     3 Werinama                                                                10
+     81.05.04     4 Pulau Gorom                                                             24
+     81.05.05     5 Wakate                                                                  18                               Perda No. 5/2008
+     81.05.06     6 Tutuk Tolu                                                              11                               Perda No. 6/2008
+     81.05.07     7 Siwalalat                                                               12                               Pemekaran Kec. Werinama Perda No. 12/2010
+     81.05.08     8 Kilmury                                                                 14                               Pemekaran Kec. Seram Timur Perda No. 13/2010
+     81.05.09     9 Pulau Panjang                                                               6                            Pemekaran Kec. Pulau Gorom Perda No. 12/2011
+     81.05.10    10 Teor                                                                    10                               Pemekaran Kec. Wakate Perda No. 13/2011
+     81.05.11    11 Gorom Timur                                                             23                               Pemekaran Kec. Pulau Gorom Perda No. 14/2011
+     81.05.12    12 Bula Barat                                                              13                               Pemekaran Kec. Bula Perda No. 25/2011
+     81.05.13    13 Kian Darat                                                              10                               Pemekaran Kec. Seram Timur Perda No. 11/2012
+     81.05.14    14 Siritaun Wida Timur                                                     10                               Pemekaran Kec. Seram Timur Perda No. 11/2012
+     81.05.15    15 Teluk Waru                                                              11                               Pemekaran Kec. Bula Perda No. 11/2012
+     81.06.01     1 Kairatu                                                                     7                            Semula wil Kab. Malteng UU No. 40/2003
+     81.06.02     2 Seram Barat                                                                 7                            Semula wil Kab. Malteng UU No. 40/2003
+     81.06.03     3 Taniwel                                                                  19                               Semula wil Kab. Malteng UU No. 40/2003
+     81.06.04     4 Huamual Belakang                                                             7                            Semula wil Kab. Malteng UU No. 40/2003
+     81.06.05     5 Amalatu                                                                      7                            Pemekaran Kec. Kairatu Perda No. 4/2010
+     81.06.06     6 Inamosol                                                                     5                            Pemekaran Kec. Kairatu Perda No. 5/2010
+     81.06.07     7 Kairatu Barat                                                                6                            Pemekaran Kec. Kairatu Perda No. 6/2010
+     81.06.08     8 Huamual                                                                      5                            Pemekaran Kec. Seram Barat Perda No. 7/2010
+     81.06.09     9 Kepulauan Manipa                                                             7                            Pemekaran Kec. Huamual Belakang Perda No. 8/2010
+     81.06.10    10 Taniwel Timur                                                            15                               Pemekaran Kec. Taniwel Perda No. 9/2010
+     81.06.11    11 Elpaputih                                                                    7                            Pemekaran Kecamatan Perda No. 10/2010 dan Perda No. 11/2011
+     81.07.01     1 Pulau-Pulau Aru                                                   2      13
+     81.07.02     2 Aru Selatan                                                              15
+     81.07.03     3 Aru Tengah                                                               22
+     81.07.04     4 Aru Utara                                                                12                               Perda No. 15/2008
+     81.07.05     5 Aru Utara Timur Batuley                                                      9                            Perda No. 15/2008, Perubahan nama Kec. Aru Perda No. 4/2012
+     81.07.06     6 Sir-Sir                                                                      9                            Perda No. 15/2008, Pemekaran Kec. Perda No. 4/2012
+     81.07.07     7 Aru Tengah Timur                                                         13                               Perda No. 15/2008
+     81.07.08     8 Aru Tengah Selatan                                                           7                            Perda No. 15/2008
+     81.07.09     9 Aru Selatan Timur                                                        10                               Perda No. 15/2008
+     81.07.10    10 Aru Selatan Utara                                                            7                            Perda No. 15/2008, Pemekaran Kec. Perda No. 4/2012
+     81.08.01     1 Moa Lakor                                                         1          7                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.02     2 Damer                                                                        7                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.03     3 Mndona Hiera                                                             11                               Semula wil. Kab. Maluku Tenggara Barat
+     81.08.04     4 Pulau-Pulau Babar                                                            9                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.05     5 Pulau-pulau Babar Timur                                                  11                               Semula wil. Kab. Maluku Tenggara Barat
+     81.08.06     6 Wetar                                                                        6                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.07     7 Pulau-pulau Terselatan                                                       6                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.08     8 Pulau Leti                                                                   7                            Semula wil. Kab. Maluku Tenggara Barat
+     81.08.09     9 Pulau Masela                                                             11                               Pemekaran Kec. Babar Timur Perda No. 2/2012
+     81.08.10    10 Dawelor Dawera                                                               6                            Pemekaran Kec. Babar Timur Perda No. 3/2012
+     81.08.11    11 Pulau Wetang                                                                 8                            Pemekaran Kec. Pulau-pulau Babar Perda No. 4/2012
+     81.08.12    12 Pulau Lakor                                                                  5                            Pemekaran Kec. Moa Lakor Perda No. 5/2012
+     81.08.13    13 Wetar Utara                                                                  6                            Pemekaran Kec. Wetar Perda No. 6/2012
+     81.08.14    14 Wetar Barat                                                                  5                            Pemekaran Kec. Wetar Perda No. 7/2012
+     81.08.15    15 Wetar Timur                                                                  6                            Pemekaran Kec. Wetar Perda No. 8/2012
+     81.08.16    16 Kepulauan Romang                                                             3                            Pemekaran Kec. Pulau-pulau Terselatan No. 9/2012
+     81.08.17    17 Kisar Utara                                                                 3                            Pemekaran Kec. Pulau-pulau Terselatan No. 10/2012
+     81.09.01     1 Namrole                                                                 17                               Semula wil. Kab. Buru
+     81.09.02     2 Waesama                                                                 11                               Semula wil. Kab. Buru
+     81.09.03     3 Ambalau                                                                     7                            Semula wil. Kab. Buru
+     81.09.04     4 Kepala Madan                                                            15                               Semula wil. Kab. Buru
+     81.09.05     5 Leksula                                                                 19                               Semula wil. Kab. Buru
+     81.09.06     6 Fena Fafan                                                              10                               Pemekaran Kec. Leksula Perda No. 2/2012
+     81.71.01     1 Nusaniwe                                                         8          5
+     81.71.02     2 Sirimau                                                      10             4
+     81.71.03     3 Baguala                                                          1          6
+     81.71.04     4 Teluk Ambon                                                      1          7                            Perda No. 2/2006
+     81.71.05     5 Leitimur Selatan                                                            8                            Perda No. 2/2006
+     81.72.01     1 Pulau Dullah Utara                                                          8                            Semula wil Kab. Maluku Tenggara
+     81.72.02     2 Pulau Dullah Selatan                                             3          2                            Semula wil Kab. Maluku Tenggara
+     81.72.03     3 Tayando Tam                                                                 5                            Semula wil Kab. Maluku Tenggara
+     81.72.04     4 Pulau-Pulau Kur                                                             5                            Semula wil Kab. Maluku Tenggara
+     81.72.05     5 Kur Selatan                                                                 7                            Pemekaran Kec. Pulau-pulau Kur Perda No. 26/2011

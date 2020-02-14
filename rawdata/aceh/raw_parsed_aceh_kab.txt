@@ -1,0 +1,23 @@
+  1      11.01   KAB. ACEH SELATAN                         18      0     260           3.841,60       234.761
+  2      11.02   KAB. ACEH TENGGARA                        16      0     385           4.231,43       225.139
+  3      11.03   KAB. ACEH TIMUR                           24      0     513           6.286,01       429.006    PP No. 5/2007 tentang Pemindahan Ibukota Kab. Aceh Timur dari wilayah
+  4      11.04   KAB. ACEH TENGAH                          14      0     295           4.318,39       213.056
+  5      11.05   KAB. ACEH BARAT                           12      0     322           2.927,95       194.712
+  6      11.06   KAB. ACEH BESAR                           23      0     604           2.969,00       390.037
+  7      11.07   KAB. PIDIE                                23      0     730           3.086,95       440.231
+  8      11.08   KAB. ACEH UTARA                           27      0     852           3.236,86       583.350
+  9      11.09   KAB. SIMEULUE                             10      0     138           2.051,48        92.977
+ 10      11.10   KAB. ACEH SINGKIL                         11      0     116           2.185,00       126.768
+ 11      11.11   KAB. BIREUEN                              17      0     609           1.901,20       438.615
+ 12      11.12   KAB. ACEH BARAT DAYA                        9     0     152           1.490,60       151.474
+ 13      11.13   KAB. GAYO LUES                            11      0     136           5.719,58        99.937
+ 14      11.14   KAB. ACEH JAYA                              9     0     172           3.812,99        90.624
+ 15      11.15   KAB. NAGAN RAYA                           10      0     222           3.363,72       170.207
+ 16      11.16   KAB. ACEH TAMIANG                         12      0     213           1.956,72       294.350
+ 17      11.17   KAB. BENER MERIAH                         10      0     232           1.454,09       159.636
+ 18      11.18   KAB. PIDIE JAYA                             8     0     222           1.073,60       160.115    UU No. 7/2007
+ 19      11.71   KOTA BANDA ACEH                             9     0      90              61,36       244.689
+ 20      11.72   KOTA SABANG                                 2     0      18            153,00         42.015
+ 21      11.73   KOTA LHOKSEUMAWE                            4     0      68            181,06        193.395
+ 22      11.74   KOTA LANGSA                                 5     0      66            262,41        186.432
+ 23      11.75   KOTA SUBULUSSALAM                           5     0      82           1.391,00        85.731    UU No.8/2007

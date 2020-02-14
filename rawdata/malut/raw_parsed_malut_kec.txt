@@ -1,0 +1,118 @@
+  I    82         MALUKU UTARA                                           8         2      116      118    1.063      31.982,50     1.307.803
+       82.01.01     1 Jailolo                                                                                34
+       82.01.02     2 Loloda                                                                                 27
+       82.01.03     3 Ibu                                                                                    17
+       82.01.04     4 Sahu                                                                                   19
+       82.01.05     5 Jailolo Selatan                                                                        22
+       82.01.07     6 Ibu Utara                                                                              16                                Perda No. 7/2005
+       82.01.08     7 Ibu Selatan                                                                            16                                Perda No. 7/2005
+       82.01.09     8 Sahu Timur                                                                             18                                Perda No. 7/2005
+       82.02.01     1 Weda                                                                                      7
+       82.02.02     2 Patani                                                                                    5
+       82.02.03     3 Pulau Gebe                                                                                8
+       82.02.04     4 Weda Utara                                                                                5                              Perda No. 3/2005
+       82.02.05     5 Weda Selatan                                                                              8                              Perda No. 3/2005
+       82.02.06     6 Patani Utara                                                                              6                              Perda No. 3/2005
+       82.02.07     7 Weda Tengah                                                                               7                              Pemekaran Kecamatan Perda No. 23/2008
+       82.02.08     8 Patani Barat                                                                              5                              Pemekaran Kecamatan Perda No. 24/2008
+       82.02.09     9 Weda Timur                                                                                4                              Pemekaran Wil Kec Weda Utara Perda No. 5/2013
+       82.02.10    10 Patani Timur                                                                              6                              Pemekaran Wil Kec Patani Utara Perda No 5/2013
+       82.03.04     1 Galela                                                                                    7
+       82.03.05     2 Tobelo                                                                                 10
+     82.03.06    3 Tobelo Selatan                                                      13
+     82.03.07    4 Kao                                                                 14
+     82.03.08    5 Malifut                                                             22
+     82.03.09    6 Loloda Utara                                                        18
+     82.03.10    7 Tobelo Utara                                                        10                               Perda No. 2/2006
+     82.03.11    8 Tobelo Tengah                                                           9                            Perda No. 2/2006
+     82.03.12    9 Tobelo Timur                                                            6                            Perda No. 2/2006
+     82.03.13   10 Tobelo Barat                                                            5                            Perda No. 2/2006
+     82.03.14   11 Galela Barat                                                            9                            Perda No. 2/2006
+     82.03.15   12 Galela Utara                                                        12                               Perda No. 2/2006
+     82.03.16   13 Galela Selatan                                                          7                            Perda No. 2/2006
+     82.03.19   14 Loloda Kepulauan                                                    10                               Perda No. 2/2006
+     82.03.20   15 Kao Utara                                                           12                               Perda No. 2/2006
+     82.03.21   16 Kao Barat                                                           21                               Perda No. 2/2006
+     82.03.22   17 Kao Teluk                                                           11                               Perda No. 2/2006 Ttg Pembentukan Kec-kec Dalam Kab. Halut
+     82.04.01    1 Pulau Makian                                                        15
+     82.04.02    2 Kayoa                                                               14
+     82.04.03    3 Gane Timur                                                          12
+     82.04.04    4 Gane Barat                                                          10
+     82.04.05    5 Obi Selatan                                                             8
+     82.04.06    6 Obi                                                                     9
+     82.04.07    7 Bacan Timur                                                         10
+     82.04.08    8 Bacan                                                               14
+     82.04.09    9 Bacan Barat                                                             7
+     82.04.10   10 Makian Barat                                                            7                            Perda No. 8/2007
+     82.04.11   11 Kayoa Barat                                                             4                            Perda No. 8/2007
+     82.04.12   12 Kayoa Selatan                                                           6                            Perda No. 8/2007
+     82.04.13   13 Kayoa Utara                                                             6                            Perda No. 8/2007
+     82.04.14   14 Bacan Barat Utara                                                       8                            Perda No. 8/2007
+     82.04.15   15 Kasiruta Barat                                                      10                               Perda No. 8/2007
+     82.04.16   16 Kasiruta Timur                                                          8                            Perda No. 8/2007
+     82.04.17   17 Bacan Selatan                                                       10                               Perda No. 8/2007
+     82.04.18   18 Kepulauan Botanglomang                                                  8                            Perda No. 8/2007
+     82.04.19   19 Mandioli Selatan                                                        6                            Perda No. 8/2007
+     82.04.20    20 Mandioli Utara                                                        6                            Perda No. 8/2007
+     82.04.21    21 Bacan Timur Selatan                                                   7                            Perda No. 8/2007
+     82.04.22    22 Bacan Timur Tengah                                                    7                            Perda No. 8/2007
+     82.04.23    23 Gane Barat Selatan                                                    8                            Perda No. 8/2007
+     82.04.24    24 Gane Barat Utara                                                  12                               Perda No. 8/2007
+     82.04.25    25 Kepulauan Joronga                                                     7                            Perda No. 8/2007
+     82.04.26    26 Gane Timur Selatan                                                    5                            Perda No. 8/2007
+     82.04.27    27 Gane Timur Tengah                                                     8                            Perda No. 8/2007
+     82.04.28    28 Obi Barat                                                             6                            Perda No. 8/2007
+     82.04.29    29 Obi Timur                                                             4                            Perda No. 8/2007
+     82.04.30    30 Obi Utara                                                             7                            Perda No. 8/2007
+     82.05.01     1 Mangoli Timur                                                         5
+     82.05.02     2 Sanana                                                            11
+     82.05.03     3 Sulabesi Barat                                                        6
+     82.05.06     4 Mangoli Barat                                                         7
+     82.05.07     5 Sulabesi Tengah                                                       6                            Perda No. 2/2006
+     82.05.08     6 Sulabesi Timur                                                        6                            Perda No. 2/2006
+     82.05.09     7 Sulabesi Selatan                                                      5                            Perda No. 2/2006
+     82.05.10     8 Mangoli Utara Timur                                                   4                            Perda No. 2/2006
+     82.05.11     9 Mangoli Tengah                                                        9                            Perda No. 2/2006
+     82.05.12    10 Mangoli Selatan                                                       5                            Perda No. 2/2006
+     82.05.13    11 Mangoli Utara                                                         7                            Perda No. 2/2006
+     82.05.18    12 Sanana Utara                                                          7                            Perda No. 6/2007
+     82.06.01     1 Wasile                                                                7
+     82.06.02     2 Maba                                                              10
+     82.06.03     3 Maba Selatan                                                          9
+     82.06.04     4 Wasile Selatan                                                    24
+     82.06.05     5 Wasile Tengah                                                         8                            Perda No. 4/2006
+     82.06.06     6 Wasile Utara                                                                       8                            Perda No. 4/2006
+     82.06.07     7 Wasile Timur                                                                       8                            Perda No. 4/2006
+     82.06.08     8 Maba Tengah                                                                    12                               Perda No. 4/2006
+     82.06.09     9 Maba Utara                                                                     10                               Perda No. 4/2006
+     82.06.10    10 Kota Maba                                                                          6                            Perda No. 4/2006
+     82.07.01     1 Morotai Selatan                                                                25                               Semula wil. Kab. Halmahera Utara
+     82.07.02     2 Morotai Selatan Barat                                                          20                               Semula wil. Kab. Halmahera Utara
+     82.07.03     3 Morotai Jaya                                                                   14                               Semula wil. Kab. Halmahera Utara
+     82.07.04     4 Morotai Utara                                                                  14                               Semula wil. Kab. Halmahera Utara
+     82.07.05     5 Morotai Timur                                                                  15                               Semula wil. Kab. Halmahera Utara
+     82.08.01     1 Taliabu Barat                                                                  13                               Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.02     2 Taliabu Barat Laut                                                                 5                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.03     3 Lede                                                                               5                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.04     4 Taliabu Utara                                                                  19                               Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.05     5 Taliabu Timur                                                                      4                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.06     6 Taliabu Timur Selatan                                                              9                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.07     7 Taliabu Selatan                                                                    9                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.08.08     8 Tabona                                                                             7                            Semula Wil. Kab. Sula UU No. 6/2013
+     82.71.01     1 Pulau Ternate                                                           6
+     82.71.02     2 Kota Ternate Selatan                                                17
+     82.71.03     3 Kota Ternate Utara                                                  14
+     82.71.04     4 Moti                                                                    6                                       Perda No 10/2001. Koreksi nama Surat Dukcapil Kota Ternate No
+     82.71.05     5 Pulau Batang Dua                                                        6                                       Perda No. 6/2007
+     82.71.06     6 Kota Ternate Tengah                                                 16                                          Perda No. 7/2007
+     82.71.07     7 Pulau Hiri                                                              6                                       Pemekaran Kec. Perda No. 8/2009
+     82.71.08     8 Ternate Barat                                                           7                                       Pemekaran sebagian Wil Kec Pulau Ternate Perda 1/2018 ttg Pembentukan
+     82.72.01     1 Tidore                                                              13
+     82.72.02     2 Oba Utara                                                               2      11
+     82.72.03     3 Oba                                                                     1      12
+     82.72.04     4 Tidore Selatan                                                          6          2
+     82.72.05   5 Tidore Utara                                                10           4
+     82.72.06   6 Oba Tengah                                                    1       13                                Perda No. 13/2007
+     82.72.07   7 Oba Selatan                                                              7                              Perda No. 14/2007
+     82.72.08   8 Tidore Timur                                                  7                                         Perda No. 1/2008
+                 JUMLAH                               8      2      116      118     1.063      31.982,50     1.307.803

@@ -1,0 +1,59 @@
+  I    51         BALI                                                    8         1      57        80        636       5.780,06     4.216.171
+       51.01.01     1 Negara                                                                             4          8
+       51.01.02     2 Mendoyo                                                                            1      10
+       51.01.03     3 Pekutatan                                                                                     8
+       51.01.04     4 Melaya                                                                             1          9
+       51.01.05     5 Jembrana                                                                           4          6                             Perda No. 19/2006
+       51.02.01     1 Selemadeg                                                                                 10
+       51.02.02     2 Salamadeg Timur                                                                           10
+       51.02.03     3 Salemadeg Barat                                                                           11
+       51.02.04     4 Kerambitan                                                                                15
+       51.02.05     5 Tabanan                                                                                   12
+       51.02.06     6 Kediri                                                                                    15
+       51.02.07     7 Marga                                                                                     16
+       51.02.08     8 Penebel                                                                                   18
+       51.02.09     9 Baturiti                                                                                  12
+       51.02.10    10 Pupuan                                                                                    14
+       51.03.01     1 Kuta                                                                               5
+       51.03.02     2 Mengwi                                                                             5      15
+       51.03.03     3 Abiansemal                                                                                18
+       51.03.04     4 Petang                                                                                        7
+       51.03.05     5 Kuta Selatan                                                                       3          3
+       51.03.06     6 Kuta Utara                                                                         3          3
+       51.04.01     1 Sukawati                                                                                  12
+     51.04.02    2 Blahbatuh                                                                  9
+     51.04.03    3 Gianyar                                                         5      12
+     51.04.04    4 Tampaksiring                                                               8
+     51.04.05    5 Ubud                                                            1          7
+     51.04.06    6 Tegallalang                                                                7                            Koreksi nama kec. Surat No. 100/16714/B.Tapem tgl. 15 Des 2016
+     51.04.07    7 Payangan                                                                   9
+     51.05.01    1 Nusa Penida                                                            16
+     51.05.02    2 Banjarangkan                                                           13
+     51.05.03    3 Klungkung                                                       6      12
+     51.05.04    4 Dawan                                                                  12
+     51.06.01    1 Susut                                                                      9
+     51.06.02    2 Bangli                                                          4          5
+     51.06.03    3 Tembuku                                                                    6
+     51.06.04    4 Kintamani                                                              48
+     51.07.01    1 Rendang                                                                    6
+     51.07.02    2 Sidemen                                                                10
+     51.07.03    3 Manggis                                                                12
+     51.07.04    4 Karangasem                                                      3          8
+     51.07.05    5 Abang                                                                  14
+     51.07.06    6 Bebandem                                                                   8
+     51.07.07    7 Selat                                                                      8
+     51.07.08    8 Kubu                                                                       9
+     51.08.01    1 Gerokgak                                                               14
+     51.08.02    2 Seririt                                                         1      20
+     51.08.03    3 Busungbiu                                                              15                               Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt' 2018
+     51.08.04    4 Banjar                                                                 17
+     51.08.05    5 Sukasada                                                        1      14
+     51.08.06    6 Buleleng                                                    17         12
+     51.08.07    7 Sawan                                                                  14
+     51.08.08    8 Kubutambahan                                                           13
+     51.08.09    9 Tejakula                                                               10
+     51.71.01    1 Denpasar Selatan                                                  6          4
+     51.71.02    2 Denpasar Timur                                                    4          7
+     51.71.03    3 Denpasar Barat                                                    3          8
+     51.71.04    4 Denpasar Utara                                                    3          8                              Perda No.12/2004.
+                   JUMLAH                                8      1      57        80        636        5.780,06     4.216.171

@@ -1,0 +1,10 @@
+-Convert PDF to TXT (Kab. -> Desa -> Kec.)
+    pdftotext -f 1 -l 2 -layout PMDN_72_TH_2019+lampiran.pdf rawdata.txt
+-Parsing data Kab.
+    grep -E "([0-9]{1,3}[\.]){1}[0-9]{1,3}" rawdata.txt > raw_parsed_data_kab.txt
+-Parsing data Kec.
+    grep -E "([0-9]{1,3}[\.]){2}[0-9]{1,3}" rawdata.txt > raw_parsed_data_kec.txt
+-Parsing data Desa
+    grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" rawdata.txt > raw_parsed_data_desa.txt
+-Convert ke .csv di spreadsheet
+-Import .csv ke RDBMS

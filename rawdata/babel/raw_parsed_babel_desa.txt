@@ -1,0 +1,391 @@
+19.01.01.1001                                                                 1 Sungailiat
+19.01.01.1002                                                                 2 Sri Menanti
+19.01.01.1003                                                                 3 Kudai
+19.01.01.1004                                                                 4 Sinar Baru
+19.01.01.1005                                                                 5 Kenanga
+19.01.01.1006                                                                 6 Parit Padang
+19.01.01.2007                                                                                             1 Rebo
+19.01.01.1008                                                                 7 Sinar Jaya Jelutung                                                       Pemekaran sebagian wil. Kel.Sinar Baru, Perda No.11/2012
+19.01.01.1009                                                                 8 Matras                                                                    Pemekaran sebagian wil. Kel.Sinar Baru, Perda No.11/2012
+19.01.01.1010                                                                 9 Jelitik                                                                   Pemekaran sebagian wil. Kel.Sungai Liat, Perda No.11/2012
+19.01.01.1011                                                                10 Surya Timur                                                               Pemekaran sebagian wil. Kel.Sungai Liat, Perda No.11/2012
+19.01.01.1012                                                                11 Lubuk Kelik                                                               Pemekaran sebagian wil. Kel.Sungai Liat, Perda No.11/2012
+19.01.01.1013                                                                12 Bukit Betung                                                              Pemekaran sebagian wil. Kel.Sungai Liat, Perda No.11/2012
+19.01.02.1001                                                                 1 Kuto Panji
+19.01.02.1002                                                                 2 Air Jukung
+19.01.02.1003                                                                 3 Bukit Ketok
+19.01.02.2004                                                                                             1 Gunung Muda
+19.01.02.2005                                                                                             2 Gunung Pelawan
+19.01.02.2006                                                                                             3 Riding Panjang
+19.01.02.2007                                                                                             4 Lumut
+19.01.02.2008                                                                                             5 Bintet
+19.01.02.1009                                                                 4 Remodong Indah                                                            Pemekaran sebagian wil Kel. Bukit Ketok, Perda No. 16/2015
+19.01.02.1010                                                                 5 Air Asam                                                                  Pemekaran sebagian wil Kel. Bukit Ketok, Perda No. 16/2015
+19.01.02.1011                                                                 6 Mantung                                                                   Pemekaran sebagian wil Kel. Air Jukung, Perda No. 16/2015
+19.01.02.1012                                                                 7 Belinyu                                                                   Pemekaran sebagian wil Kel. Kuto Panji, Perda No. 16/2015
+19.01.03.2001                                                                       1 Batu Rusa
+19.01.03.2002                                                                       2 Balun Ijuk
+19.01.03.2003                                                                       3 Riding Panjang
+19.01.03.2004                                                                       4 Jurung
+19.01.03.2005                                                                       5 Kimak
+19.01.03.2006                                                                       6 Pagarawan
+19.01.03.2007                                                                       7 Merawang
+19.01.03.2008                                                                       8 Air Anyir
+19.01.03.2009                                                                       9 Dwi Makmur
+19.01.03.2010                                                                      10 Jada Bahrin
+19.01.04.2001                                                                       1 Petaling
+19.01.04.2002                                                                       2 Penagan
+19.01.04.2003                                                                       3 Zed
+19.01.04.2004                                                                       4 Mendo
+19.01.04.2005                                                                       5 Paya Benua
+19.01.04.2006                                                                       6 Cengkong Abang
+19.01.04.2007                                                                       7 Kace
+19.01.04.2008                                                                       8 Kemuja
+19.01.04.2009                                                                       9 Air Duren
+19.01.04.2010                                                                      10 Kota Kapur
+19.01.04.2011                                                                      11 Air Buluh
+19.01.04.2012                                                                      12 Rukam
+19.01.04.2013                                                                      13 Labuh Air Pandan
+19.01.04.2014                                                                      14 Kace Timur                                   Pemekaran sebagian Desa Kace, Perda No. 9/2011
+19.01.04.2015                                                                      15 Petaling Banjar                              Pemekaran sebagian Desa Petaling, Perda No. 9/2011
+19.01.05.2001                                                                       1 Air Ruai
+19.01.05.2002                                                                       2 Air Duren
+19.01.05.2003                                                                       3 Penyamun
+19.01.05.2004                                                                       4 Sempan
+19.01.05.2005                                                                       5 Pemali
+19.01.05.2006                                                                       6 Karya Makmur
+19.01.06.2001                                                                                     1 Bakam
+19.01.06.2002                                                                                     2 Kapuk
+19.01.06.2003                                                                                     3 Dalil
+19.01.06.2004                                                                                     4 Neknang
+19.01.06.2005                                                                                     5 Tiang Tarah
+19.01.06.2006                                                                                     6 Mangka
+19.01.06.2007                                                                                     7 Mabat
+19.01.06.2008                                                                                     8 Bukit Layang
+19.01.06.2009                                                                                     9 Maras Senang
+19.01.07.2001                                                                                     1 Riau
+19.01.07.2002                                                                                     2 Pangkal Niur
+19.01.07.2003                                                                                     3 Pugul
+19.01.07.2004                                                                                     4 Cit
+19.01.07.2005                                                                                     5 Deniang
+19.01.07.2006                                                                                     6 Silip
+19.01.07.2007                                                                                     7 Mapur
+19.01.07.2008                                                                                     8 Banyu Asin
+19.01.07.2009                                                                                     9 Berbura
+19.01.08.2001                                                                                     1 Puding Besar
+19.01.08.2002                                                                                     2 Labu
+19.01.08.2003                                                                                     3 Nibung
+19.01.08.2004                                                                                     4 Tanah Bawah
+19.01.08.2005                                                                                     5 Saing
+19.01.08.2006                                                                                     6 Kota Waringin
+19.01.08.2007                                                                                     7 Kayu Besi
+19.02.01.1001                                                              1 Kota
+19.02.01.1002                                                              2 Parit
+19.02.01.2003                                                                                     1 Buluh Tumbang
+19.02.01.2004                                                                            2 Perawas
+19.02.01.1005                                                     3 Lesung Batang                                                        Peningkatan status menjadi Kelurahan Perda No. 10/2011
+19.02.01.1006                                                     4 Pangkallalang                                                        Peningkatan status menjadi Kelurahan Perda No. 10/2011
+19.02.01.2007                                                                            3 Dukong
+19.02.01.2008                                                                            4 Juru Seberang
+19.02.01.1009                                                     5 Tanjungpendam                                                        Peningkatan status menjadi Kelurahan Perda No. 10/2011
+19.02.01.2010                                                                            5 Air Saga
+19.02.01.1011                                                     6 Paal Satu                                                            Peningkatan status menjadi Kelurahan Perda No. 10/2011
+19.02.01.2012                                                                            6 Air Merbau
+19.02.01.2013                                                                            7 Aik Pelempang Jaya                            Pemekaran sebagian Desa Paal Satu, Perda No. 1/2011, Surat
+19.02.01.2014                                                                            8 Aik Ketekok                                   Pemekaran sebagian Desa Air Merbau, Perda No. 1/2011
+19.02.01.2015                                                                            9 Aik Rayak                                     Pemekaran sebagian Desa Perawas, Perda No. 1/2011
+19.02.01.1016                                                     7 Kampong Damai                                                        Pemekaran sebagian Kel. Parit Perda No. 9/2011
+19.02.02.2001                                                                            1 Membalong
+19.02.02.2002                                                                            2 Perpat
+19.02.02.2003                                                                            3 Lassar
+19.02.02.2004                                                                            4 Simpang Rusa
+19.02.02.2005                                                                            5 Kembiri
+19.02.02.2006                                                                            6 Bantan
+19.02.02.2007                                                                            7 Tanjungrusa
+19.02.02.2008                                                                            8 Mentigi
+19.02.02.2009                                                                            9 Pulau Seliu                                   Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.02.2010                                                                           10 Pulau Sumedang                                Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.02.2011                                                                           11 Gunung Riting                                 Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.02.2012                                                                           12 Padang Kandis
+19.02.03.2001                                                                            1 Selat Nasik
+19.02.03.2002                                                                            2 Petaling
+19.02.03.2003                                                                            3 Suak Gual
+19.02.03.2004                                                                            4 Pulau Gersik                                  Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.04.2001                                                                                        1 Sijuk
+19.02.04.2002                                                                                        2 Batu Itam
+19.02.04.2003                                                                                        3 Terong
+19.02.04.2004                                                                                        4 Air Seruk
+19.02.04.2005                                                                                        5 Tanjung Binga                                  Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.04.2006                                                                                        6 Air Selumar
+19.02.04.2007                                                                                        7 Sungai Padang                                  Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.04.2008                                                                                        8 Keciput
+19.02.04.2009                                                                                        9 Pelepak Pute                                   Pemekaran sebagian Desa Sijuk, Perda No. 1/2011
+19.02.04.2010                                                                                       10 Tanjong Tinggi                                 Pemekaran sebagian Desa Keciput, Perda No. 1/2011
+19.02.05.2001                                                                                        1 Badau
+19.02.05.2002                                                                                        2 Air Batu Buding
+19.02.05.2003                                                                                        3 Sungai Samak                                   Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.02.05.2004                                                                                        4 Kacang Butor
+19.02.05.2005                                                                                        5 Cerucuk
+19.02.05.2006                                                                                        6 Pegantungan
+19.02.05.2007                                                                                        7 Ibul                                           Pemekaran sebagian Desa Badau, Perda No. 1/2011
+19.03.01.1001                                                              1 Toboali
+19.03.01.1002                                                              2 Teladan
+19.03.01.1003                                                              3 Tanjungketapang
+19.03.01.2004                                                                                        1 Serdang
+19.03.01.2005                                                                                        2 Jeriji
+19.03.01.2006                                                                                        3 Bikang
+19.03.01.2007                                                                                        4 Gadung
+19.03.01.2008                                                                                        5 Rias
+19.03.01.2010                                                                                        6 Kepoh
+19.03.01.2012                                                                                        7 Keposang
+19.03.01.2013                                                                                        8 Rindik
+19.03.02.2001                                                                         1 Tanjunglabu
+19.03.02.2002                                                                         2 Tanjungsangkar
+19.03.02.2004                                                                         3 Kumbung
+19.03.02.2005                                                                         4 Penutuk
+19.03.03.2001                                                                         1 Airgegas                                   Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.03.03.2002                                                                         2 Delas
+19.03.03.2003                                                                         3 Pergam
+19.03.03.2004                                                                         4 Bencah
+19.03.03.2005                                                                         5 Nyelanding
+19.03.03.2006                                                                         6 Nangka
+19.03.03.2007                                                                         7 Ranggas
+19.03.03.2008                                                                         8 Airbara                                    Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.03.03.2009                                                                         9 Sidoharjo
+19.03.03.2010                                                                        10 Tepus
+19.03.04.2001                                                                         1 Jelutung II
+19.03.04.2002                                                                         2 Gudang
+19.03.04.2003                                                                         3 Bangka Kota
+19.03.04.2004                                                                         4 Rajik
+19.03.04.2005                                                                         5 Sebagin
+19.03.04.2006                                                                         6 Simpang Rimba
+19.03.04.2007                                                                         7 Permis                                     Perda No. 21/2007
+19.03.05.2001                                                                         1 Payung
+19.03.05.2002                                                                         2 Malik
+19.03.05.2003                                                                         3 Sengir
+19.03.05.2004                                                                                        4 Pangkal Buluh
+19.03.05.2005                                                                                        5 Irat
+19.03.05.2006                                                                                        6 Bedengung
+19.03.05.2008                                                                                        7 Nadung
+19.03.05.2009                                                                                        8 Ranggung
+19.03.05.2012                                                                                        9 Paku
+19.03.06.2001                                                                                        1 Sadai                                         Semula wil. Kec. Toboali
+19.03.06.2002                                                                                        2 Tukak                                         Semula wil. Kec. Toboali
+19.03.06.2003                                                                                        3 Pasir Putih                                   Semula wil. Kec. Toboali
+19.03.06.2004                                                                                        4 Tiram                                         Semula wil. Kec. Toboali
+19.03.06.2005                                                                                        5 Bukit Terap                                   Semula wil. Kec. Toboali, Perbaikan nama sesuai hasil Rakernis
+19.03.07.2001                                                                                        1 Batu Betumpang                                Semula wil. Kec. Payung
+19.03.07.2002                                                                                        2 Sukajaya                                      Semula wil. Kec. Payung
+19.03.07.2003                                                                                        3 Panca Tunggal                                 Semula wil. Kec. Payung
+19.03.07.2004                                                                                        4 Sumber Jaya Permai                            Semula wil. Kec. Payung
+19.03.07.2005                                                                                        5 Fajar Indah                                   Semula wil. Kec. Payung
+19.03.08.2001                                                                                        1 Pongok                                        Semula wil Kec. Lepar Pongok, Perda No. 2/2012
+19.03.08.2002                                                                                        2 Celagen                                       Perda No. 20/2007, Semula wil Kec. Lepar Pongok, Perda No.
+19.04.01.1001                                                                  1 Koba
+19.04.01.1002                                                                  2 Arung Dalam                                                         Menjadi Kel.,Perda No. 32/2006
+19.04.01.2003                                                                                        1 Nibung
+19.04.01.2005                                                                                2 Kurau (Timur)
+19.04.01.2006                                                                                3 Guntung
+19.04.01.2007                                                                                4 Penyak
+19.04.01.2008                                                                                5 Terentang III
+19.04.01.2010                                                                                6 Kurau Barat
+19.04.01.1017                                                        3 Berok                                                              Perda No.   32/2006
+19.04.01.1018                                                        4 Padang Mulia                                                       Perda No. 32/2006
+19.04.01.1019                                                        5 Simpang Perlang                                                    Perda No. 32/2006
+19.04.02.1001                                                        1 Dul                                                                Menjadi Kel.,Perda No. 32/2006
+19.04.02.2004                                                                                1 Air Mesu
+19.04.02.2006                                                                                2 Mangkol
+19.04.02.2007                                                                                3 Tanjung Gunung
+19.04.02.2010                                                                                4 Benteng
+19.04.02.2012                                                                                5 Padang Baru
+19.04.02.2013                                                                                6 Jeruk
+19.04.02.2014                                                                                7 Beluluk                                    Perda No. 32/2006
+19.04.02.2016                                                                                8 Pedindang                                  Perda No. 32/2006
+19.04.02.2018                                                                              9 Batu Belubang                                 Perda No. 32/2006
+19.04.02.2020                                                                             10 Air Mesu Timur                                Pemekaran sebagian Desa Air Mesu, Perda No. 41/2011
+19.04.02.2021                                                                             11 Kebintik                                      Pemekaran sebagian Desa Padang Baru, Perda No. 41/2011
+19.04.03.1001                                                       1 Sungai Selan                                                         Menjadi Kel.,Perda No. 32/2006
+19.04.03.2002                                                                              1 Kerantai
+19.04.03.2003                                                                              2 Keretak
+19.04.03.2004                                                                              3 Lampur
+19.04.03.2005                                                                              4 Sarang Mandi
+19.04.03.2006                                                                              5 Munggu
+19.04.03.2007                                                                              6 Kemingking
+19.04.03.2008                                                                              7 Sungai Selan Atas                             Perda No. 32/2006
+19.04.03.2009                                                                              8 Tanjung Pura                                  Perda No. 32/2006
+19.04.03.2010                                                                              9 Romadhon                                      Perda No. 32/2006, Perbaikan nama sesuai hasil Rakernis Ditjen
+19.04.03.2011                                                                             10 Kerakas                                       Perda No. 32/2006
+19.04.03.2012                                                                             11 Melabun                                       Pemekaran sebagian Desa Sarang Mandi, Perda No. 41/2011
+19.04.03.2013                                                                             12 Keretak Atas                                  Pemekaran sebagian Desa Keretak, Perda No. 41/2011
+19.04.04.2001                                                                              1 Simpang Katis
+19.04.04.2002                                                                              2 Celuak
+19.04.04.2003                                                                              3 Sungkap
+19.04.04.2004                                                                              4 Beruas
+19.04.04.2005                                                                              5 Puput
+19.04.04.2006                                                                              6 Teru
+19.04.04.2007                                                                              7 Terak
+19.04.04.2008                                                                              8 Pasir Garam
+19.04.04.2009                                                                              9 Katis                                         Perda No. 32/2006
+19.04.04.2010                                                                             10 Pinang Sebatang                               Perda No. 32/2006
+19.04.05.2001                                                                              1 Namang                                        Semula wil. Kec. Pangkalanbaru
+19.04.05.2002                                                                              2 Cambai                                        Semula wil. Kec. Pangkalanbaru
+19.04.05.2003                                                                              3 Kayu Besi                                     Semula wil. Kec. Pangkalanbaru
+19.04.05.2004                                                                                         4 Jelutung                                       Semula wil. Kec. Pangkalanbaru
+19.04.05.2005                                                                                         5 Belilik                                        Semula wil. Kec. Pangkalanbaru
+19.04.05.2006                                                                                         6 Bhaskara Bhakti                                Semula wil. Kec. Pangkalanbaru, Perbaikan nama sesuai Srt
+19.04.05.2008                                                                                         7 Bukit Kijang                                   Semula wil. Kec. Pangkalanbaru
+19.04.05.2009                                                                                         8 Cambai Selatan                                 Pemekaran sebagian Desa Cambai, Perda No. 41/2011
+19.04.06.2001                                                                                         1 Perlang                                        Semula wil. Kec. Koba
+19.04.06.2002                                                                                         2 Batu Beriga                                    Semuila wil. Kec. Koba
+19.04.06.2003                                                                                         3 Lubuk Besar                                    Semula wil. Kec. Koba
+19.04.06.2004                                                                                         4 Kulur                                          Semula wil. Kec. Koba
+19.04.06.2005                                                                                         5 Lubuk Lingkuk                                  Semula wil. Kec. Koba
+19.04.06.2006                                                                                         6 Lubuk Pabrik                                   Semula wil. Kec. Koba
+19.04.06.2007                                                                                         7 Trubus                                         Semula wil. Kec. Koba
+19.04.06.2008                                                                                         8 Kulur Ilir                                     Semula wil. Kec. Koba
+19.04.06.2009                                                                                         9 Belimbing                                      Pemekaran sebagian Desa Kulur, Perda No. 41/2011
+19.05.01.1001                                                                1 Tanjung
+19.05.01.1002                                                                2 Sungai Daeng
+19.05.01.1003                                                                3 Sungai Baru
+19.05.01.2004                                                                                         1 Air Putih
+19.05.01.2005                                                                                         2 Air Belo
+19.05.01.2006                                                                                         3 Belo Laut
+19.05.01.2007                                                                                         4 Air Limau
+19.05.02.2001                                                                                         1 Pelangas
+19.05.02.2002                                                                                         2 Kundi
+19.05.02.2003                                                                                         3 Mayang
+19.05.02.2004                                                                                         4 Peradong                                       Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.05.02.2005                                                                                         5 Air Nyatoh
+19.05.02.2006                                                                                         6 Berang
+19.05.02.2007                                                                              7 Rambat
+19.05.02.2008                                                                              8 Simpang Gong
+19.05.02.2009                                                                              9 Simpang Tiga
+19.05.02.2010                                                                             10 Ibul
+19.05.02.2011                                                                             11 Pangek
+19.05.02.2012                                                                             12 Bukit Terak                               Perda No. 18/2008
+19.05.02.2013                                                                             13 Air Menduyung                             Perda No. 18/2008
+19.05.03.2001                                                                              1 Jebus
+19.05.03.2002                                                                              2 Sungai Buluh
+19.05.03.2003                                                                              3 Tumbak Petar
+19.05.03.2004                                                                              4 Limbung
+19.05.03.2005                                                                              5 Rukam
+19.05.03.2008                                                                              6 Ranggi Asam
+19.05.03.2009                                                                              7 Ketap
+19.05.03.2018                                                                              8 Mislak                                    Perda No. 17/2008
+19.05.03.2019                                                                              9 Pebuar                                    Perda No. 17/2008
+19.05.03.2020                                                                             10 Sinar Manik                               Perda No. 17/2008
+19.05.03.2021                                                                             11 Air Kuang                                 Perda No. 17/2008
+19.05.04.1001                                                     1 Kelapa
+19.05.04.2002                                                                              1 Mancung
+19.05.04.2003                                                                              2 Kayu Arang
+19.05.04.2004                                                                              3 Pusuk
+19.05.04.2005                                                                                 4 Dendang
+19.05.04.2006                                                                                 5 Kacung
+19.05.04.2007                                                                                 6 Sinar Sari
+19.05.04.2008                                                                                 7 Beruas
+19.05.04.2009                                                                                 8 Tebing
+19.05.04.2010                                                                                 9 Terentang
+19.05.04.2011                                                                                10 Tuik
+19.05.04.2012                                                                                11 Tugang
+19.05.04.2013                                                                                12 Air Bulin
+19.05.04.2014                                                                                13 Pangkal Beras                                Perda No. 19/2008
+19.05.05.2001                                                                                 1 Tempilang
+19.05.05.2002                                                                                 2 Tanjung Niur
+19.05.05.2003                                                                                 3 Sangku
+19.05.05.2004                                                                                 4 Buyan Kelumbi
+19.05.05.2005                                                                                 5 Penyampak
+19.05.05.2006                                                                                 6 Benteng Kota
+19.05.05.2007                                                                                 7 Air Lintang
+19.05.05.2008                                                                                 8 Sinar Surya
+19.05.05.2009                                                                                 9 Simpang Yul
+19.05.06.2001                                                                                 1 Sekar Biru                                   Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2002                                                                                 2 Telak                                        Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2003                                                                                 3 Cupat                                        Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2004                                                                                 4 Bakit                                        Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2005                                                                                 5 Puput                                        Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2006                                                                                 6 Air Gantang                                  Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2007                                                                                 7 Kelabat                                      Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2008                                                                                 8 Kapit                                        Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2009                                                                                 9 Semulut                                      Semula wil. Kec. Jebus Perda No. 5/2010
+19.05.06.2010                                                                                10 Teluk Limau                                  Semula wil. Kec. Jebus Perda No. 5/2010
+19.06.01.2001                                                                      1 Lalang Jaya
+19.06.01.2002                                                                      2 Kurnia Jaya
+19.06.01.2003                                                                      3 Padang
+19.06.01.2004                                                                      4 Kelubi
+19.06.01.2006                                                                      5 Lalang
+19.06.01.2007                                                                      6 Baru
+19.06.01.2010                                                                      7 Buku Limau                                  Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.06.01.2012                                                                      8 Mekar Jaya                                  Perda No. 10/2008
+19.06.01.2013                                                                      9 Bentaian Jaya                               Perda No. 10/2008
+19.06.02.2001                                                                      1 Gantung
+19.06.02.2002                                                                      2 Selingsing                                  Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.06.02.2003                                                                      3 Jangkar Asam
+19.06.02.2004                                                                      4 Lilangan
+19.06.02.2009                                                                      5 Lenggang                                    Perda No. 10/2008
+19.06.02.2010                                                                      6 Batu Penyu                                  Perda No. 10/2008
+19.06.02.2011                                                                      7 Limbongan                                   Perda No. 10/2008
+19.06.03.2001                                                                      1 Dendang
+19.06.03.2002                                                                      2 Jangkang
+19.06.03.2005                                                                      3 Nyuruk
+19.06.03.2008                                                                      4 Balok                                       Perda No. 10/2008
+19.06.04.2001                                                                                              1 Mentawak                                       Perbaikan nama sesuai hasil Rakernis Ditjen Bina Pemdes tentang
+19.06.04.2002                                                                                              2 Senyubuk
+19.06.04.2003                                                                                              3 Cendil
+19.06.04.2005                                                                                              4 Buding
+19.06.04.2006                                                                                              5 Mayang
+19.06.04.2007                                                                                              6 Pembaharuan
+19.06.05.2001                                                                                              1 Air Kelik
+19.06.05.2002                                                                                              2 Mempaya                                        Semula berada di wil. Kec. Manggar Perda No. 3/2010
+19.06.05.2003                                                                                              3 Burong Mandi                                   Semula berada di wil. Kec. Manggar Perda No. 3/2010
+19.06.05.2004                                                                                              4 Mengkubang                                     Semula berada di wil. Kec. Manggar Perda No. 3/2010
+19.06.05.2005                                                                                              5 Sukamandi                                      Semula berada di wil. Kec. Manggar Perda No. 3/2010
+19.06.06.2001                                                                                              1 Simpang Tiga                                   Semula berada di wil. Kec. Gantung Perda No. 3/2010
+19.06.06.2002                                                                                              2 Renggiang                                      Semula berada di wil. Kec. Gantung Perda No. 3/2010
+19.06.06.2003                                                                                              3 Aik Madu                                       Semula berada di wil. Kec. Gantung Perda No. 3/2010
+19.06.06.2004                                                                                              4 Lintang                                        Semula berada di wil. Kec. Gantung Perda No. 3/2010
+19.06.07.2001                                                                                              1 Simpang Pesak                                  Semula berada di wIl. Kec. Dendang Perda No. 3/2010
+19.06.07.2002                                                                                              2 Tanjung Batu Itam                              Semula berada di wil. Kec. Dendang Perda No. 3/2010
+19.06.07.2003                                                                                              3 Tanjung Kelumpang                              Semula berada di wil. Kec. Dendang Perda No. 3/2010
+19.06.07.2004                                                                                              4 Dukong                                         Semula berada di wil. Kec. Denang Perda No. 3/2010
+19.71.01.1004                                                                    1 Semabung Lama
+19.71.01.1006                                                                    2 Bacang
+19.71.01.1007                                                                    3 Air Itam
+19.71.01.1008                                                       4 Pasir Putih                                           Semula wil Kec. Rangkui, Perda No. 2/2011
+19.71.01.1009                                                       5 Temberan                                              Pemekaran sebagian Kel. Air Itam, Perda No. 2/2011
+19.71.01.1010                                                       6 Sinar Bulan                                           Pemekaran sebagian Kel. Air Itam, Perda No. 2/2011
+19.71.01.1011                                                       7 Air Mawar                                             Pemekaran sebagian Kel. Bacang, Kel Semabung Lama dan Kel.
+19.71.02.1001                                                       1 Opas Indah
+19.71.02.1002                                                       2 Gedung Nasional
+19.71.02.1003                                                       3 Batin Tikal
+19.71.02.1004                                                       4 Rawa Bangun
+19.71.02.1005                                                       5 Kejaksaan                                             Semula wil Kec. Gerunggang, Perda No. 2/2011
+19.71.03.1004                                                       1 Pasir Garam
+19.71.03.1005                                                       2 Lontong Pancur
+19.71.03.1006                                                       3 Ketapang
+19.71.03.1007                                                       4 Ampui
+19.71.03.1008                                                       5 Rejo Sari
+19.71.04.1001                                                       1 Pintu Air
+19.71.04.1002                                                       2 Bintang
+19.71.04.1005                                                       3 Masjid Jamik
+19.71.04.1006                                                       4 Asam
+19.71.04.1007                                                       5 Melintang
+19.71.04.1008                                                       6 Parit Lalang
+19.71.04.1009                                                       7 Keramat
+19.71.04.1010                                                       8 Gajah Mada                                            Pemekaran sebagian Kel. Keramat dan Kel. Asam, Perda No.
+19.71.05.1001                                                       1 Taman Bunga
+19.71.05.1002                                                          2 Bukitmerapin
+19.71.05.1004                                                          3 Bukitsari
+19.71.05.1005                                                          4 Tua Tunu
+19.71.05.1006                                                          5 Kacang Pedang
+19.71.05.1007                                                          6 Air Kepala Tujuh                                              Pemekaran sebagian Kel. Tua Tunu, Perda No 2/2011
+19.71.06.1001                                                          1 Selindung                                                     Semula wil. Kec. Pangkalan Baru Kab. Bangka Tengah, PP No.
+19.71.06.1002                                                          2 Selindung Baru                                                Semula wil Kec. Pangkal Balam, Perda No. 2/2011
+19.71.06.1003                                                          3 Gabek Satu                                                    Semula wil Kec. Pangkal Balam, Perda No. 2/2011
+19.71.06.1004                                                          4 Gabek Dua                                                     Semula wil Kec. Pangkal Balam, Perda No. 2/2011
+19.71.06.1005                                                          5 Air Salemba                                                   Semula wil Kec. Pangkal Balam, Perda No. 2/2011
+19.71.06.1006                                                          6 Jerambah Gantung                                              Pemekaran sebagian Kel. Selindung, Perda No. 2/2011
+19.71.07.1001                                                          1 Pasar Padi                                                    Semula wil Kec. Rangkui, Perda No. 2/2011
+19.71.07.1002                                                          2 Bukitintan                                                    Semula wil Kec. Bukitintan, Perda No. 2/2011
+19.71.07.1003                                                          3 Bukitbesar                                                    Semula wil Kec. Bukitintan, Perda No. 2/2011
+19.71.07.1004                                                          4 Sriwijaya                                                     Semula wil Kec. Bukitintan, Perda No. 2/2011
+19.71.07.1005                                                          5 Semabung Baru                                                 Semula wil Kec. Bukitintan, Perda No. 2/2011

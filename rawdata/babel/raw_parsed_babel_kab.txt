@@ -1,0 +1,7 @@
+  1      19.01   KAB. BANGKA                                 8     19      62         2.950,68       317.052
+  2      19.02   KAB. BELITUNG                               5      7      42         2.293,61       169.053
+  3      19.03   KAB. BANGKA SELATAN                         8      3      50         3.607,08       176.658
+  4      19.04   KAB. BANGKA TENGAH                          6      7      56         2.155,77       182.286
+  5      19.05   KAB. BANGKA BARAT                           6      4      60         2.820,61       197.066
+  6      19.06   KAB. BELITUNG TIMUR                         7      0      39         2.506,91       124.079
+  7      19.71   KOTA PANGKAL PINANG                         7     42                    89,40       213.573

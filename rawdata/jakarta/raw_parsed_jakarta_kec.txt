@@ -1,0 +1,44 @@
+       31.01.01     1 Kepulauan Seribu Utara                                                            3
+       31.01.02     2 Kepulauan Seribu Selatan.                                                         3
+       31.71.01     1 Gambir                                                                            6
+       31.71.02     2 Sawah Besar                                                                       5
+       31.71.03     3 Kemayoran                                                                         8
+       31.71.04     4 Senen                                                                             6
+       31.71.05     5 Cempaka Putih                                                                     3
+       31.71.06     6 Menteng                                                                           5
+       31.71.07     7 Tanah Abang                                                                       7
+       31.71.08     8 Johar Baru                                                                        4
+       31.72.01     1 Penjaringan                                                                       5
+       31.72.02     2 Tanjung Priok                                                                     7
+       31.72.03     3 Koja                                                                              6
+       31.72.04     4 Cilincing                                                                         7
+       31.72.05     5 Pademangan                                                                        3
+       31.72.06     6 Kelapa Gading                                                                     3
+       31.73.01     1 Cengkareng                                                                        6
+       31.73.02     2 Grogol Petamburan                                                                 7
+       31.73.03     3 Taman Sari                                                                        8
+       31.73.04     4 Tambora                                                                       11
+       31.73.05     5 Kebon Jeruk                                                                       7
+       31.73.06     6 Kalideres                                                                         5
+     31.73.07     7 Pal Merah                                                              6
+     31.73.08     8 Kembangan                                                              6
+     31.74.01     1 Tebet                                                                  7
+     31.74.02     2 Setiabudi                                                              8
+     31.74.03     3 Mampang Prapatan                                                       5
+     31.74.04     4 Pasar Minggu                                                           7
+     31.74.05     5 Kebayoran Lama                                                         6
+     31.74.06     6 Cilandak                                                               5
+     31.74.07     7 Kebayoran Baru                                                      10
+     31.74.08     8 Pancoran                                                               6
+     31.74.09     9 Jagakarsa                                                              6
+     31.74.10    10 Pesanggrahan                                                           5
+     31.75.01     1 Matraman                                                               6
+     31.75.02     2 Pulogadung                                                             7
+     31.75.03     3 Jatinegara                                                             8
+     31.75.04     4 Kramatjati                                                             7
+     31.75.05     5 Pasar Rebo                                                             5
+     31.75.06     6 Cakung                                                                 7
+     31.75.07     7 Duren Sawit                                                            7
+     31.75.08     8 Makasar                                                                5
+     31.75.09     9 Ciracas                                                                5
+     31.75.10    10 Cipayung                                                               8

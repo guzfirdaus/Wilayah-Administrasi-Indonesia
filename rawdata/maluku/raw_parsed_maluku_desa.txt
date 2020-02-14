@@ -1,0 +1,1233 @@
+81.01.01.2001                                                                                         1 Tamilouw
+81.01.01.2002                                                                                         2 Sepa
+81.01.01.2003                                                                                         3 Rutah
+81.01.01.2004                                                                                         4 Soahuku
+81.01.01.2005                                                                                         5 Amahai
+81.01.01.2006                                                                                         6 Haruru
+81.01.01.2007                                                                                         7 Sehati
+81.01.01.2008                                                                                         8 Makariki
+81.01.01.1009                                                                 1 Hollo
+81.01.01.2010                                                                                         9 Yafila
+81.01.01.2011                                                                                        10 Banda Baru
+81.01.01.2020                                                                                        11 Yainuelo                                   Pemekaran desa Sepa Perda No. 9/2012
+81.01.01.2021                                                                                        12 Nua Nea                                    Pemekaran wil Desa Sepa Perda No 1/2013
+81.01.01.2022                                                                                        13 Hatuhenu                                   Pemekaran wil Desa Sepa Perda No 2/2013
+81.01.01.2023                                                                                        14 Nuweletetu                                 Pemekaran wil Desa Sepa Perda No 3/2013
+81.01.02.2001                                                                                         1 Usliapan
+81.01.02.2002                                                                                         2 Kuralele
+81.01.02.2003                                                                       3 Kokroman
+81.01.02.2004                                                                       4 Messa
+81.01.02.2005                                                                       5 Ameth
+81.01.02.2006                                                                       6 Waru
+81.01.02.2007                                                                       7 Bumey
+81.01.02.2008                                                                       8 Sifluru
+81.01.02.2009                                                                       9 Layeni
+81.01.02.2010                                                                      10 Wotay
+81.01.02.2011                                                                      11 Issu
+81.01.02.2012                                                                      12 Lesluru
+81.01.02.2013                                                                      13 Watludan
+81.01.02.2014                                                                      14 Trana
+81.01.02.2015                                                                      15 Jerili
+81.01.02.2016                                                                      16 Nakupia                                  Pemekaran UPT Nakupia Perda No. 8/2012
+81.01.06.2001                                                                       1 Wahai
+81.01.06.2002                                                                       2 Air Besar
+81.01.06.2003                                                                       3 Pasahari
+81.01.06.2007                                                                       4 Manusela
+81.01.06.2009                                                                       5 Kaloa
+81.01.06.2010                                                                       6 Kanikeh
+81.01.06.2011                                                                       7 Roho
+81.01.06.2012                                                                       8 Huaulu
+81.01.06.2021                                                                9 Rumahsokat
+81.01.06.2022                                                               10 Sawai
+81.01.06.2044                                                               11 Besi                                  Pemekaran desa Sawai Perda No. 4/2012
+81.01.06.2045                                                               12 Malaku                                Pemekaran desa Wahai Perda No. 6/2012
+81.01.06.2046                                                               13 Maraina                               Pemekaran wil Desa Manusela, Perda No 10/2013
+81.01.06.2047                                                               14 Solea                                 Pemekaran wil Desa Manusela, Perda No 11/2013
+81.01.06.2048                                                                      15 Elemata                                       Pemekaran wil Desa Kaloa, Perda No 12/2013
+81.01.06.2049                                                                      16 Hatuolo                                       Pemekaran wil Desa Kaloa, Perda No 13/2013
+81.01.06.2050                                                                      17 Siatele                                       Pemekaran wil Desa Manusela, Perda No 14/2013
+81.01.06.2051                                                                      18 Masihulan                                     Pemekaran wil Desa Sawai , Perda No 15/2013
+81.01.06.2052                                                                      19 Oping                                         Pemekaran wil Desa Sawai , Perda No 16/2013
+81.01.06.2053                                                                      20 Olong                                         Pemekaran wil Desa Sawai , Perda No 17/2013
+81.01.09.2001                                                                       1 Nusantara
+81.01.09.2002                                                                       2 Dwiwarna
+81.01.09.2003                                                                       3 Merdeka
+81.01.09.2004                                                                       4 Rajawali
+81.01.09.2005                                                                       5 Kampung Baru
+81.01.09.2006                                                                       6 Pulau Hatta
+81.01.09.2007                                                                       7 Selamon
+81.01.09.2008                                                                       8 Lonthoir
+81.01.09.2009                                                                       9 Pulau Ay
+81.01.09.2010                                                                      10 Pulau Rhun
+81.01.09.2011                                                                      11 Tanah Rata
+81.01.09.2012                                                                      12 Waer
+81.01.09.2013                                                                      13 Boiyauw                                       Pemekaran wil Desa Lonthoir Perda No 4/2013
+81.01.09.2014                                                                      14 Dender                                        Pemekaran wil Desa Selamon Perda No 5/2013
+81.01.09.2015                                                                      15 Lautang                                       Pemekaran wil Desa Lonthoir Perda No 6/2013
+81.01.09.2016                                                                      16 Uring Tutra                                   Pemekaran wil Desa Lonthoir Perda No 19/2013
+81.01.09.2017                                                                      17 Walling Spanciby                              Pemekaran wil Desa Lonthoir Perda No 20/2013. Koreksi nama,
+81.01.09.2018                                                                      18 Combir Kasestoren                             Pemekaran wil desa Selamon perda No 21/2013
+81.01.11.2011                                                                       1 Telutih Baru
+81.01.11.2012                                                                       2 Mosso
+81.01.11.2013                                                                       3 Hatumete
+81.01.11.2014                                                                       4 Hatu
+81.01.11.2015                                                                       5 Piliana
+81.01.11.2016                                                                       6 Yaputih
+81.01.11.2017                                                                       7 Saunulu
+81.01.11.2018                                                                       8 Tehoru
+81.01.11.2019                                                                       9 Haya
+81.01.11.2020                                                                      10 Salamahu
+81.01.12.2001                                                                       1 Booi
+81.01.12.2002                                                                       2 Paperu
+81.01.12.2003                                                                       3 Tiouw
+81.01.12.2004                                                                       4 Haria
+81.01.12.2005                                                                       5 Porto
+81.01.12.2006                                                                       6 Kulur
+81.01.12.2012                                                                       7 Saparua
+81.01.13.2001                                                                        1 Aboru
+81.01.13.2002                                                                        2 Wassu
+81.01.13.2003                                                                        3 Oma
+81.01.13.2004                                                                        4 Haruku
+81.01.13.2005                                                                        5 Sameth
+81.01.13.2006                                                                        6 Rohomoni
+81.01.13.2007                                                                        7 Kabauw
+81.01.13.2008                                                                        8 Kailolo
+81.01.13.2009                                                                        9 Pelauw
+81.01.13.2010                                                                       10 Kariu
+81.01.13.2011                                                                       11 Hulaliu
+81.01.14.2001                                                                        1 Liang
+81.01.14.2002                                                                        2 Waai
+81.01.14.2003                                                                        3 Tulehu
+81.01.14.2004                                                                        4 Tial
+81.01.14.2005                                                                        5 Tengah Tengah
+81.01.14.2006                                                                        6 Suli
+81.01.15.2006                                                                        1 Asilulu
+81.01.15.2007                                                                        2 Ureng
+81.01.15.2008                                                                        3 Negeri Lima
+81.01.15.2009                                                                        4 Seith
+81.01.15.2010                                                                        5 Kaitetu
+81.01.15.2011                                                                        6 Hila
+81.01.15.2012                                                                        7 Wakal
+81.01.15.2013                                                                                      8 Hitulama
+81.01.15.2014                                                                                      9 Hitumessing
+81.01.15.2015                                                                                     10 Mamala
+81.01.15.2016                                                                                     11 Morella
+81.01.16.2001                                                                                      1 Ameth
+81.01.16.2002                                                                                      2 Titawaai
+81.01.16.2003                                                                                      3 Abubu
+81.01.16.2004                                                                                      4 Akoon
+81.01.16.2005                                                                                      5 Nalahia
+81.01.16.2006                                                                                      6 Sila
+81.01.16.2007                                                                                      7 Leinitu
+81.01.17.1001                                                            1 Namaelo
+81.01.17.1002                                                            2 Namasina
+81.01.17.1003                                                            3 Ampera
+81.01.17.1004                                                            4 Lesane
+81.01.17.1005                                                            5 Letwaru
+81.01.20.2001                                                                                      1 Saleman                                    Semula wil. Kec. Seram Utara
+81.01.20.2002                                                                                      2 Horale                                     Semula wil. Kec. Seram Utara
+81.01.20.2003                                                                                      3 Wailulu                                    Semula wil. Kec. Seram Utara
+81.01.20.2004                                                                                      4 Paa                                        Semula wil. Kec. Seram Utara
+81.01.20.2005                                                                                      5 Karlutu Kara                               Semula wil. Kec. Seram Utara
+81.01.20.2006                                                                                      6 Pasanea                                    Semula wil. Kec. Seram Utara
+81.01.20.2007                                                                                      7 Labuan                                     Semula wil. Kec. Seram Utara
+81.01.20.2008                                                                                      8 Gale-gale                                  Semula wil. Kec. Seram Utara
+81.01.20.2009                                                                                      9 Latea                                      Semula wil. Kec. Seram Utara
+81.01.20.2010                                                                                     10 Lisabata Timur                             Semula wil. Kec. Seram Utara
+81.01.20.2011                                                                                     11 Rumahwey                                   Semula wil. Kec. Seram Utara
+81.01.20.2012                                                                             12 Warasiwa                                 Semula wil. Kec. Seram Utara
+81.01.20.2013                                                                             13 Herlau Pauni                             Perda No 18/2013
+81.01.21.2001                                                                              1 Waraka                                   Semula wil. Kec. Amahai
+81.01.21.2002                                                                              2 Tananahu                                 Semula wil. Kec. Amahai
+81.01.21.2003                                                                              3 Liang                                    Semula wil. Kec. Amahai
+81.01.21.2004                                                                              4 Sahulauw                                 Semula wil. Kec. Amahai
+81.01.22.2001                                                                              1 Larike                                   Semula wil. Kec. Leihitu
+81.01.22.2002                                                                              2 Wakasihu                                 Semula wil. Kec. Leihitu
+81.01.22.2003                                                                              3 Allang                                   Semula wil. Kec. Leihitu
+81.01.22.2004                                                                              4 Liliboy                                  Semula wil. Kec. Leihitu
+81.01.22.2005                                                                              5 Hatu                                     Semula wil. Kec. Leihitu
+81.01.23.2001                                                                              1 Ulahahan                                 Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2002                                                                              2 Laha Kaba                                Semula wil Kec. Tehotu Perda no. 8/2010
+81.01.23.2003                                                                              3 Lafa                                     Semula wil Kec. Tehotu Perda No. 8/2010
+81.01.23.2004                                                                              4 Yamalatu                                 Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2005                                                                              5 Hunisi                                   Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2006                                                                              6 Laimu                                    Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2007                                                                              7 Maneoratu                                Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2008                                                                              8 Tehua                                    Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2009                                                                              9 Laha                                     Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.23.2010                                                                             10 Wolu                                     Semula wil Kec. Tehoru Perda No. 8/2010
+81.01.24.2001                                                                              1 Seti                                     Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2002                                                                              2 Kobisonta                                Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2003                                                                              3 Wailoping                                Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2004                                                                              4 Tihuana                                       Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2005                                                                              5 Waitila                                       Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2006                                                                              6 Waiputih                                      Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2007                                                                              7 Waimusal                                      Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2008                                                                              8 Tanah Merah                                   Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2009                                                                              9 Aketernate                                    Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2010                                                                             10 Namto                                         Semula wil Kec. Seram Utara Perda No. 9/2010
+81.01.24.2011                                                                             11 Loping Mulyo                                  Pemekaran wil Desa Wailoping, Perda No 7/2013
+81.01.24.2012                                                                             12 Wonosari                                      Pemekaran wil Desa Kobisonta, Perda No 8/2013
+81.01.25.2001                                                                              1 Kobi                                          Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2002                                                                              2 Sariputih                                     Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2003                                                                              3 Maneo Rendah                                  Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2004                                                                              4 Kobimukti                                     Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2005                                                                              5 Leaway                                        Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2006                                                                              6 Samal                                         Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2007                                                                              7 Morokai                                       Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2008                                                                              8 Waimusi                                       Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2009                                                                              9 Way Asih                                      Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2010                                                                             10 Waitonipa                                     Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2011                                                                             11 Marasahua                                     Semula wil Kec. Seram Utara Perda No. 10/2010
+81.01.25.2012                                                                             12 Kabauhari                                     Pemekaran wil Desa Manusela, Perda No 9/2013
+81.01.26.2001                                                                              1 Ouw                                           Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2002                                                                              2 Ullath                                        Semula wil Kec. Saparua Perda No. 11/2012.
+81.01.26.2003                                                                              3 Siri Sori Islam                               Semula wil Kec. Saparua Perda No. 11/2012. Koreksi nama
+81.01.26.2004                                                                              4 Siri Sori Amalatu                             Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2005                                                                              5 Mahu                                          Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2006                                                                              6 Tuhaha                                        Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2007                                                                              7 Ihamahu                                       Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2008                                                                              8 Iha                                           Semula wil Kec. Saparua Perda No. 11/2012
+81.01.26.2009                                                                              9 Nolloth                                       Semula wil Kec. Saparua Perda No. 11/2012.
+81.01.26.2010                                                                             10 Itawaka                                       Semula wil Kec. Saparua Perda No. 11/2012
+81.02.01.1013                                                                 1 Ohoijang Watdek
+81.02.01.2014                                                                                         1 Langgur
+81.02.01.2015                                                                                         2 Faan
+81.02.01.2016                                                                                         3 Sathean
+81.02.01.2017                                                                                         4 Ibra
+81.02.01.2018                                                                                         5 Ngabub
+81.02.01.2048                                                                6 Ohoidertawun
+81.02.01.2049                                                                7 Kelanit
+81.02.01.2051                                                                8 Kolser
+81.02.01.2052                                                                9 Letman
+81.02.01.2057                                                               10 Wearlilir                           Perda No. 12/2012
+81.02.01.2067                                                                      11 Ohoider Atas                                 Perda No. 12/2012
+81.02.01.2068                                                                      12 Dudunwahan                                   Perda No. 12/2012
+81.02.01.2069                                                                      13 Loon                                         Perda No. 12/2012
+81.02.01.2071                                                                      14 Sitniohoi                                    Perda No. 12/2012
+81.02.03.2001                                                                       1 Werka
+81.02.03.2002                                                                       2 Waur
+81.02.03.2003                                                                       3 Ohoinangan
+81.02.03.2004                                                                       4 Ler Ohoilim
+81.02.03.2005                                                                       5 Rahareng
+81.02.03.2006                                                                       6 Elat
+81.02.03.2007                                                                       7 Depur
+81.02.03.2008                                                                       8 Ohoilim
+81.02.03.2009                                                                       9 El Ralang
+81.02.03.2015                                                               10 Reyamru
+81.02.03.2016                                                               11 Fako
+81.02.03.2017                                                               12 Yamtel
+81.02.03.2018                                                               13 Waur Tahit
+81.02.03.2019                                                               14 Ngefuit
+81.02.03.2020                                                               15 Ohoiel
+81.02.03.2021                                                               16 Ohoiwait                               Semula wil. Kec. Kei Besar Selatan
+81.02.03.2022                                                               17 Ohoiwang                               Perda No. 12/2012
+81.02.03.2023                                                               18 Fangamas                               Perda No. 12/2012
+81.02.03.2024                                                               19 Ohoinangan Atas                        Perda No. 12/2012
+81.02.03.2025                                                               20 Harangur                               Perda No. 12/2012
+81.02.03.2026                                                               21 Udar                                   Perda No. 12/2012
+81.02.03.2027                                                               22 Daftel                                 Perda No. 12/2012
+81.02.03.2028                                                               23 Karkarit                               Perda No. 12/2012
+81.02.03.2029                                                               24 Rahareng Atas                          Perda No. 12/2012
+81.02.03.2030                                                               25 Wulurat                                Perda No. 12/2012
+81.02.03.2031                                                               26 Wakol                                  Perda No. 12/2012
+81.02.03.2032                                                               27 Ngurdu                                 Perda No. 12/2012
+81.02.03.2033                                                               28 Soinrat                                Perda No. 12/2012
+81.02.03.2034                                                               29 Wermaf                                 Perda No. 12/2012
+81.02.03.2035                                                               30 Bombay                                 Perda No. 12/2012
+81.02.03.2036                                                               31 Watsin                                 Perda No. 12/2012
+81.02.03.2037                                                               32 Sirbante                               Perda No. 12/2012
+81.02.03.2038                                                               33 Ngat                                   Perda No. 12/2012
+81.02.03.2039                                                               34 Nabaheng                               Perda No. 12/2012
+81.02.03.2040                                                               35 Ngefuit Atas                           Perda No. 12/2012
+81.02.03.2041                                                               36 Watuar                                 Perda No. 12/2012
+81.02.03.2042                                                               37 Mataholat                              Perda No. 12/2012
+81.02.04.2001                                                                            1 Weduar
+81.02.04.2003                                                                            2 Nerong
+81.02.04.2004                                                                            3 Larat
+81.02.04.2005                                                                            4 Tamangil Nuhuten
+81.02.04.2006                                                                            5 Tamangil Nuhuyanat
+81.02.04.2012                                                                            6 Kilwat
+81.02.04.2013                                                                            7 Sather
+81.02.04.2014                                                                            8 Tutrean
+81.02.04.2015                                                                            9 Ohoirenan
+81.02.04.2016                                                                                10 Soindat                                      Perda No. 12/2012
+81.02.05.2001                                                                                 1 Hollat
+81.02.05.2002                                                                                 2 Ohoiraut
+81.02.05.2003                                                                                 3 Haar Ohoimel
+81.02.05.2004                                                                                 4 Langgiar Haar
+81.02.05.2005                                                                                 5 Banda Eli
+81.02.05.2006                                                                                 6 Watlaar
+81.02.05.2007                                                                                 7 Ohoifau
+81.02.05.2008                                                                                 8 Kilwair
+81.02.05.2009                                                                                 9 Renfan
+81.02.05.2010                                                                                10 Hollat Solair                                Perda No. 12/2012
+81.02.05.2011                                                                                11 Hoko                                         Perda No. 12/2012
+81.02.05.2012                                                                                12 Hollay                                       Perda No. 12/2012
+81.02.05.2013                                                                                13 Soin                                         Perda No. 12/2012
+81.02.05.2014                                                                                14 Haar Ohoimur GPM                             Perda No. 12/2012
+81.02.05.2015                                                                                15 Haar Ohoimur RK                              Perda No. 12/2012
+81.02.05.2016                                                                                16 Haar Ohoiwait                                Perda No. 12/2012
+81.02.05.2017                                                                                17 Haar Wassar                                  Perda No. 12/2012
+81.02.05.2018                                                                                18 Haar Renrahantel                             Perda No. 12/2012
+81.02.05.2019                                                                                19 Ur                                           Perda No. 12/2012
+81.02.05.2020                                                                                20 Ohoimajang                                   Perda No. 12/2012
+81.02.05.2021                                                                                21 Banda Efruan                                 Perda No. 12/2012
+81.02.05.2022                                                                                22 Banda Suku                                   Perda No. 12/2012
+81.02.05.2023                                                                                23 Tuburlay                                     Perda No. 12/2012
+81.02.05.2024                                                                                24 Ohoifaruan                                   Perda No. 12/2012
+81.02.05.2025                                                                        25 Ohoiwirin                               Perda No. 12/2012
+81.02.05.2026                                                                        26 Tuburngil                               Perda No. 12/2012
+81.02.05.2027                                                                        27 Yamtimur                                Perda No. 12/2012
+81.02.05.2028                                                                        28 Renfaan Islam                           Perda No. 12/2012
+81.02.05.2029                                                                        29 Renfaan GPM                             Perda No. 12/2012
+81.02.05.2030                                                                        30 Fanwav                                  Perda No. 12/2012
+81.02.13.2001                                                                                     1 Wain
+81.02.13.2002                                                                                     2 Rewav
+81.02.13.2003                                                                                     3 Rumaat
+81.02.13.2004                                                                                     4 Rat
+81.02.13.2005                                                                                     5 Abean
+81.02.13.2006                                                                                     6 Mastur
+81.02.13.2013                                                                                     7 Ohoinol
+81.02.13.2014                                                                                     8 Semawi                                       Perda No. 12/2012
+81.02.13.2015                                                                                     9 Iso                                          Perda No. 12/2012
+81.02.13.2016                                                                                    10 Disuk                                        Perda No. 12/2012
+81.02.13.2017                                                                                    11 Wain Baru                                    Perda No. 12/2012
+81.02.13.2018                                                                                    12 Marfun                                       Perda No. 12/2012
+81.02.13.2019                                                                                    13 Watngon                                      Perda No. 12/2012
+81.02.13.2020                                                                                    14 Yafavun                                      Perda No. 12/2012
+81.02.13.2021                                                                                    15 Mastur Baru                                  Perda No. 12/2012
+81.02.13.2022                                                                                    16 Ohoilus                                      Perda No. 12/2012
+81.02.13.2023                                                                          17 Tenbuk                                   Perda No. 12/2012
+81.02.13.2024                                                                          18 Denwet                                   Perda No. 12/2012
+81.02.14.2001                                                                           1 Ohoidertutu
+81.02.14.2002                                                                           2 Matwair
+81.02.14.2003                                                                           3 Somlain
+81.02.14.2004                                                                           4 Ohoiren
+81.02.14.2005                                                                           5 Ohoira
+81.02.14.2006                                                                           6 Warbal
+81.02.14.2007                                                                           7 Ur Pulau
+81.02.14.2008                                                                           8 Tanimbar Kei
+81.02.14.2009                                                                           9 Ohoidertom                               Perda No. 12/2012
+81.02.14.2010                                                                          10 Yatwav                                   Perda No. 12/2012
+81.02.15.2001                                                                           1 Rumadian                                 Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2002                                                                           2 Debut                                    Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2003                                                                           3 Namar                                    Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2004                                                                           4 Ngilngof                                 Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2005                                                                           5 Selayar                                  Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2006                                                                           6 Lairngangas                              Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2007                                                                           7 Ohoiluk                                  Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2008                                                                           8 Ohoililir                                Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.15.2009                                                                           9 Ngayub                                   Semula wil Kec. Kei Kecil Perda No. 7/2012
+81.02.16.2001                                                                           1 Tetoat                                   Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2002                                                                           2 Dian Pulau                               Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2003                                                                           3 Letwuan                                  Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2004                                                                           4 Evu                                      Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2005                                                                           5 Warwut                                   Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2006                                                                                 6 Wab                                         Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2007                                                                                 7 Dian Darat                                  Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2008                                                                                 8 Wirin                                       Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2009                                                                                 9 Ngursit                                     Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2010                                                                                10 Madwat                                      Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2011                                                                                11 Ohoibadar                                   Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2012                                                                                12 Watngil                                     Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.16.2013                                                                                13 Arso                                        Perda No. 12/2012, Semula wil Kec. Kei Kecil Perda No. 8/2012
+81.02.17.2001                                                                                 1 Weer Ohoinam                                Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2002                                                                                 2 Weer Ohoiker                                Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2003                                                                                 3 Weer Frawaf                                 Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2004                                                                                 4 Faa                                         Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2005                                                                                 5 Dangarat                                    Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2006                                                                                 6 Ohoituf                                     Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2007                                                                                 7 Hangur                                      Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2008                                                                                 8 Ngurwalek                                   Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2009                                                                                 9 Uwat                                        Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2010                                                                                10 Uwat Wear                                   Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2011                                                                                11 Uwat Reyaan                                 Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2012                                                                                12 Mun Ohoiir                                  Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2013                                                                                13 Mun Essoy                                   Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2014                                                                                14 Mun Kahar                                   Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2015                                                                                15 Mun Ngurditwain                             Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2016                                                                                16 Mun Werfan                                  Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2017                                                                                17 Ad Ngurwul                                  Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2018                                                                                18 Ad Ohoiwaf                                  Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2019                                                                                19 Laar                                        Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2020                                                                                20 Hoor Islam                                  Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2021                                                                                21 Hoor Kristen                                Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2022                                                                                22 Waer                                        Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2023                                                                                23 Waerat                                      Perda No. 12/2012, Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.17.2024                                                                                24 Mun Ohoitadiun                              Semula wil. Kec. Kei Besar Perda No. 9/2012.
+81.02.17.2025                                                                                25 Ad Wear Aur                                 Semula wil Kec. Kei Besar Perda No. 9/2012
+81.02.18.2001                                                                                                   1 Hoat                                            Semula wil Kec. Kei Besar Selatan Perda No. 10/2012
+81.02.18.2002                                                                                                   2 Ngafan                                          Semula wil Kec. Kei Besar Selatan Perda No. 10/2012
+81.02.18.2003                                                                                                   3 Feer                                            Semula wil Kec. Kei Besar Selatan Perda No. 10/2012
+81.02.18.2004                                                                                                   4 Rerean                                          Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan Perda No.
+81.02.18.2005                                                                                                   5 Ngurko                                          Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan Perda No.
+81.02.18.2006                                                                                                   6 Hoko                                            Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan Perda No.
+81.02.18.2007                                                                                                   7 Weduar Fer                                      Semula wil Kec. Kei Besar Selatan Perda No. 10/2012
+81.02.18.2008                                                                                                   8 Uat                                             Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan   Perda No.
+81.02.18.2009                                                                                                   9 Ngan                                            Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan   Perda No.
+81.02.18.2010                                                                                                  10 Watkidat                                        Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan   Perda No.
+81.02.18.2011                                                                                                  11 Ohoilean                                        Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan   Perda No.
+81.02.18.2012                                                                                                  12 Wafol                                           Perda No. 12/2012, Semula wil Kec. Kei Besar Selatan   Perda No.
+81.02.18.2013                                                                                                  13 Rahangiar                                       Semula wil Kec. Kei Besar Selatan Perda N0. 10/2012
+81.02.19.2001                                                                                                   1 Danar Ohoiseb                                   Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2002                                                                                                   2 Danar Ternate                                   Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2003                                                                                                   3 Danar Lumefar                                   Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2004                                                                                                   4 Elaar Ngursoin                                  Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2005                                                                                                   5 Elaar Lamagorang                                Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2006                                                                                                   6 Elaar Let                                       Semula wil Kec. Kei Kecil Timur Perda No. 11/2012
+81.02.19.2007                                                                                                   7 Sare                                            Perda No.   12/2012, Semula wil Kec. Kei Kecil Timur Perda No.
+81.02.19.2008                                                                                                   8 Maar                                            Perda No.   12/2012, Semula wil Kec. Kei Kecil Timur Perda No.
+81.02.19.2009                                                                                                   9 Uf                                              Perda No.   12/2012, Semula wil Kec. Kei Kecil Timur Perda No.
+81.02.19.2010                                                                                                  10 Ngurwul                                         Perda No.   12/2012, Semula wil Kec. Kei Kecil Timur Perda No.
+81.02.19.2011                                                                                                  11 Garara                                          Perda No.   12/2012, Semula wil Kec. Kei Kecil Timur Perda No.
+81.03.01.1001                                                                           1 Saumlaki
+81.03.01.1002                                                                           2 Saumlaki Utara                                                          Pemekaran dari wil Kel Saumlaki Perda No 5/2014
+81.03.01.2002                                                                       1 Wowonda
+81.03.01.2003                                                                       2 Ilngei
+81.03.01.2004                                                                       3 Kabiarat
+81.03.01.2005                                                                       4 Lauran
+81.03.01.2006                                                                       5 Sifnana
+81.03.01.2007                                                                       6 Olilit Raya
+81.03.01.2008                                                                       7 Lermatang
+81.03.01.2009                                                                       8 Latdalam
+81.03.01.2010                                                                       9 Bomaki                                      Pemekaran Desa Kabiarat Perda No. 192009
+81.03.01.2011                                                                      10 Matakus                                     Pemekaran Kel. Saumlaki Perda No. 18/2009
+81.03.02.2001                                                                       1 Adaut
+81.03.02.2002                                                                       2 Namtabung
+81.03.02.2003                                                                       3 Kandar
+81.03.02.2004                                                                       4 Lingat
+81.03.02.2005                                                                       5 Fursuy
+81.03.02.2006                                                                       6 Werain
+81.03.02.2007                                                                       7 Eliasa                                      Pemekaran desa Werain Perda No. 8/2012
+81.03.03.2001                                                                       1 Tumbur
+81.03.03.2002                                                                       2 Lorulun
+81.03.03.2003                                                                       3 Atubul Dol                                  Perubahan nama Desa Atubul Raya Perda No. 18/2012
+81.03.03.2004                                                                       4 Amdasa
+81.03.03.2005                                                                       5 Sangliat Krawain
+81.03.03.2006                                                                       6 Arui Bab
+81.03.03.2007                                                                       7 Arui Das
+81.03.03.2008                                                                       8 Sangliat Dol
+81.03.03.2009                                                                       9 Atubul Da                                   Pemekaran sebagian wil Desa Atubul Dol Perda No. 18/2012
+81.03.04.2001                                                                       1 Kamatubun
+81.03.04.2002                                                                       2 Rumahsalut
+81.03.04.2003                                                                       3 Welutu
+81.03.04.2004                                                                       4 Themin
+81.03.04.2005                                                                       5 Weratan
+81.03.04.2006                                                                         6 Wermatang
+81.03.04.2007                                                                         7 Batu Putih
+81.03.04.2008                                                                         8 Makatian
+81.03.04.2009                                                                         9 Marantutul                                 Pemekaran Desa Batu Putih Perda No. 7/2012
+81.03.05.2001                                                                         1 Lelingluan
+81.03.05.2002                                                                         2 Ritabel
+81.03.05.2003                                                                         3 Ridool
+81.03.05.2004                                                                         4 Watidal
+81.03.05.2005                                                                         5 Kilobar                                    Koreksi nama Lampiran Srt Sekda Maluku No 117/Pem/2017 TGL
+81.03.05.2006                                                                         6 Kelaan
+81.03.05.2007                                                                         7 Lamdesar Barat
+81.03.05.2008                                                                         8 Lamdesar Timur
+81.03.06.2001                                                                         1 Romean
+81.03.06.2002                                                                         2 Rumngeur
+81.03.06.2003                                                                         3 Awear
+81.03.06.2004                                                                         4 Sofyanin
+81.03.06.2005                                                                         5 Walerang
+81.03.06.2006                                                                         6 Adodo Fordata
+81.03.07.2001                                                                         1 Abat
+81.03.07.2002                                                                         2 Labobar
+81.03.07.2008                                                                         3 Watmasa
+81.03.07.2009                                                                         4 Awear Rumngeur
+81.03.07.2010                                                                         5 Karatat
+81.03.07.2011                                                                         6 Wunlah
+81.03.07.2012                                                                         7 Kiloon
+81.03.07.2013                                                                            8 Lingada                                      Pemekaran Desa Abat Perda No. 24/2009
+81.03.07.2014                                                                            9 Teineman                                     Pemekaran desa Watmasa Perda No. 10/2012
+81.03.07.2015                                                                           10 Wabar                                        Pemekaran sebagian wil Desa Wunlah Perda No. 17/2012
+81.03.07.2016                                                                           11 Romnus                                       Pemekaran sebagian wil Desa Abat Perda No. 19/2012
+81.03.08.2001                                                                            1 Lumasebu
+81.03.08.2002                                                                            2 Kilmasa
+81.03.08.2003                                                                            3 Meyano Das                                   Perubahan nama desa Meyano Raya Perda No. 9/2012. koreksi
+81.03.08.2004                                                                            4 Alusi Krawain
+81.03.08.2005                                                                            5 Alusi Kelaan
+81.03.08.2006                                                                            6 Alusi Bukjalim
+81.03.08.2007                                                                            7 Alusi Tamrian
+81.03.08.2008                                                                            8 Alusi Batjasi
+81.03.08.2009                                                                            9 Lorwembun
+81.03.08.2010                                                                           10 Meyano Das                                   Pemekaran desa Meyano Raya/Bab Perda No. 9/2012
+81.03.09.2001                                                                            1 Arma
+81.03.09.2002                                                                            2 Watmuri
+81.03.09.2003                                                                            3 Manglusi
+81.03.09.2004                                                                            4 Tutukembong
+81.03.09.2005                                                                            5 Waturu
+81.03.18.2001                                                                              1 Wadankou                                   Semula wil. Kec. Wuar Labobar Perda No. 12/2011.
+81.03.18.2002                                                                              2 Adodo Molu                                 Semula wil. Kec. Wuar Labobar Perda No. 12/2011
+81.03.18.2003                                                                              3 Wulmasa                                    Semula wil. Kec. Wuar Labobar Perda No. 12/2011
+81.03.18.2004                                                                              4 Tutunametal                                Semula wil. Kec. Wuar Labobar Perda No. 12/2011
+81.03.18.2005                                                                              5 Nurkat                                     Semula wil. Kec. Wuar Labobar Perda No. 12/2011
+81.04.01.2001                                                                              1 Namlea
+81.04.01.2002                                                                              2 Lala
+81.04.01.2003                                                                              3 Karang Jaya
+81.04.01.2009                                                                              4 Siahoni
+81.04.01.2010                                                                              5 Jamilu
+81.04.01.2011                                                                              6 Sanleko
+81.04.01.2012                                                                              7 Batu boy                                   Peningkatan status menjadi desa Perda No 5/2010
+81.04.02.2004                                                                       1 Waepure
+81.04.02.2005                                                                       2 Waemangit
+81.04.02.2006                                                                       3 Air Buaya
+81.04.02.2007                                                                       4 Tanjung Karang
+81.04.02.2008                                                                       5 Bara
+81.04.02.2014                                                                       6 Selwadu                                   Peningkatan status menjadi desa Perda No. 19/2009
+81.04.02.2018                                                                       7 Wasbaka                                   Peningkatan status menjadi desa Perda No. 5/2010
+81.04.02.2019                                                                       8 Kampung Baru                              Peningkatan status menjadi desa Perda No. 5/2010
+81.04.02.2020                                                                       9 Batlale                                   Peningkatan status menjadi desa Perda No. 5/2010
+81.04.02.2023                                                                      10 Awilinan                                  Peningkatan status menjadi desa Perda No. 5/2010
+81.04.03.2001                                                                       1 Savana Jaya
+81.04.03.2002                                                                       2 Waetele
+81.04.03.2003                                                                       3 Waekasar
+81.04.03.2004                                                                       4 Waenetat
+81.04.03.2016                                                                 5 Waekerta
+81.04.03.2019                                                                 6 Wanareja                          Peningkatan status menjadi desa Perda No. 19/2009
+81.04.03.2027                                                                 7 Gogorea                           Peningkatan status menjadi desa Perda No. 5/2010
+81.04.06.2001                                                                       1 Lamahang
+81.04.06.2002                                                                       2 Waplau
+81.04.06.2003                                                                       3 Waeura
+81.04.06.2004                                                                       4 Samalagi
+81.04.06.2005                                                                       5 Namsina
+81.04.06.2006                                                                       6 Hatawano
+81.04.06.2007                                                                       7 Waelihang
+81.04.06.2008                                                                       8 Waprea
+81.04.06.2009                                                                       9 Waepotih
+81.04.06.2010                                                                      10 Skikilale                               Peningkatan status menjadi desa Perda No 5/2010
+81.04.10.2001                                                                      1 Ilath
+81.04.10.2002                                                                      2 Batu Jungku
+81.04.10.2003                                                                      3 Pela
+81.04.10.2004                                                                      4 Waemorat
+81.04.10.2006                                                                      5 Namlea Ilath                             Peningkatan status menjadi desa Perda No 5/2010
+81.04.11.2001                                                                      1 Kubalahin                                Semula wil Kec. Waeapo Perda No. 20/2012
+81.04.11.2002                                                                      2 Waegeren                                 Semula wil Kec. Waeapo Perda No. 20/2012
+81.04.11.2003                                                                      3 Grandeng                                 Semula wil Kec. Waeapo Perda No. 20/2012
+81.04.11.2004                                                                        4 Lele                                     Semula wil Kec. Waeapo Perda No. 20/2012
+81.04.11.2005                                                                        5 Wanakarta                                Semula wil Kec. Waeapo Perda No. 20/2012
+81.04.11.2006                                                                        6 Wabloy                                   Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.11.2007                                                                        7 Ohilahin                                 Peningkatan status menjadi desa Perda No. 19/2009, Semula wil
+81.04.11.2008                                                                        8 Tifu                                     Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.11.2009                                                                        9 Wapsalit                                 Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.11.2010                                                                       10 Nafrua                                   Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.12.2001                                                                        1 Waelo                                    Semula wil Kec. Waeapo Perda No. 21/2012
+81.04.12.2002                                                                        2 Debowae                                  Semula wil Kec. Waeapo Perda No. 21/2012
+81.04.12.2003                                                                        3 Parbulu                                  Semula wil Kec. Waeapo Perda No. 21/2012
+81.04.12.2004                                                                        4 Waetina                                  Semula wil Kec. Waeapo Perda No. 21/2012
+81.04.12.2005                                                                        5 Waeleman                                 Semula wil Kec. Waeapo Perda No. 21/2012
+81.04.12.2006                                                                        6 Basalale                                 Peningkatan status menjadi desa Perda No. 5/2010,   Semula wil
+81.04.12.2007                                                                        7 Waflan                                   Peningkatan status menjadi desa Perda No. 5/2010,   Semula wil
+81.04.12.2008                                                                        8 Dava                                     Peningkatan status menjadi desa Perda No. 5/2010,   Semula wil
+81.04.12.2009                                                                        9 Waehata                                  Peningkatan status menjadi desa Perda No. 5/2010,   Semula wil
+81.04.12.2010                                                                       10 Widit                                    Peningkatan status menjadi desa Perda No. 5/2010,   Semula wil
+81.04.13.2001                                                                        1 Wamlana                                  Semula wil Kec Airbuaya Perda No. 22/2012
+81.04.13.2002                                                                        2 Balbalu                                  Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.13.2003                                                                        3 Waspait                                  Semula wil Kec Airbuaya Perda No. 22/2012
+81.04.13.2004                                                                        4 Waedanga                                 Peningkatan status menjadi desa   Perda No. 5/2010, Semula wil
+81.04.13.2005                                                                        5 Lemanpoli                                Peningkatan status menjadi desa   Perda No. 5/2010, Semula wil
+81.04.13.2006                                                                        6 Waelana-lana                             Peningkatan status menjadi desa   Perda No. 19/2009, Semula wil
+81.04.13.2007                                                                        7 Waereman                                 Peningkatan status menjadi desa   Perda No. 19/2009, Semula wil
+81.04.13.2008                                                                        8 Waemite                                  Peningkatan status menjadi desa   Perda No. 19/2009, Semula wil
+81.04.13.2009                                                                        9 Wasi                                     Peningkatan status menjadi desa   Perda No. 19/2009, Semula wil
+81.04.13.2010                                                                       10 Waekose                                  Peningkatan status menjadi desa   Perda No. 5/2010, Semula wil
+81.04.13.2011                                                                                      11 Wamana Baru                                     Peningkatan status menjadi desa Perda No. 19/2009, Semula wil
+81.04.13.2012                                                                                      12 Raheriat                                        Peningkatan status menjadi desa Perda No. 5/2010, Semula wil
+81.04.13.2013                                                                                      13 Waenibe                                         Semula wil Kec. Airbuaya Perda No. 22/2012
+81.04.14.2001                                                                                       1 Kaiely                                          Semula wil Kec Waeapo Perda No. 23/2012
+81.04.14.2002                                                                                       2 Masarete                                        Semula wil Kec Waeapo Perda No. 23/2012
+81.04.14.2003                                                                                       3 Waelapia                                        Semula wil Kec Waeapo Perda No. 23/2012
+81.04.14.2004                                                                                       4 Kaki Air                                        Peningkatan status menjadi desa Perda No. 19/2009, Semula wil
+81.04.14.2005                                                                                       5 Seith                                           Semula wil Kec Batabual Perda No. 23/2012
+81.04.15.2001                                                                                       1 Ubung                                           Semula wil Kec Namlea Perda No. 24/2012
+81.04.15.2002                                                                                       2 Jikumerasa                                      Semula wil Kec Namlea Perda No. 24/2012
+81.04.15.2003                                                                                       3 Waemiting                                       Semula wil Kec Namlea Perda No. 24/2012
+81.04.15.2004                                                                                       4 Sawa                                            Semula wil Kec Namlea Perda No. 24/2012
+81.04.15.2005                                                                                       5 Waeperang                                       Semula wil Kec Namlea Perda No. 24/2012
+81.05.01.2003                                                                                       1 Bula
+81.05.01.2004                                                                                       2 Salas
+81.05.01.2010                                                                                       3 Englas                                          Pemekaran Desa Bula Perda No 17/2009
+81.05.01.2011                                                                                       4 Bula Air Fatolo                                 Pemekaran Desa Bula Perda No 17/2009
+81.05.01.2012                                                                                       5 Sesar                                           Pemekaran Desa Bula Perda No 17/2009
+81.05.01.2022                                                                       6 Tansi Ambon                                 Pemekaran desa Bula Perda No. 10/2012
+81.05.01.2023                                                                       7 Kampung Wailola                             Pemekaran desa Bula Perda No. 10/2012
+81.05.01.2024                                                                       8 Kampung Gorom                               Pemekaran desa Bula Perda No. 10/2012
+81.05.01.2025                                                                       9 Limumir                                     Pemekaran desa Bula Air Fatolo Perda No. 10/2012
+81.05.01.2026                                                                      10 Fattolo                                     Pemekaran desa Bula Air Fatolo Perda No. 10/2012
+81.05.02.2001                                                                       1 Geser
+81.05.02.2002                                                                       2 Kiltay
+81.05.02.2003                                                                       3 Kilwaru
+81.05.02.2004                                                                       4 Kellu
+81.05.02.2005                                                                       5 Keffing
+81.05.02.2006                                                                       6 Urung
+81.05.02.2028                                                                7 Kilfura                                   Pemekaran desa Kellu Perda No. 10/2010
+81.05.02.2046                                                                8 Kwawor Kecil Mata                         Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2047                                                                9 Kwawor Kecil Mata                         Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2048                                                               10 Kwawor Besar Ena                          Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2049                                                               11 Kwawor Besar Witau                        Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2050                                                               12 Guli-Guli                                 Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2051                                                               13 Manggis                                   Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2052                                                               14 Ainena                                    Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2053                                                                      15 Mugusinis                                  Pemekaran wil Desa Urung Perda No 22/2012
+81.05.02.2054                                                                      16 Akatfadedo                                 Pemekaran wil Desa Urung Perda No 22/2012
+81.05.03.2001                                                                       1 Batuasa
+81.05.03.2002                                                                       2 Hatuimeten
+81.05.03.2003                                                                       3 Werinama
+81.05.03.2004                                                                       4 Bemo
+81.05.03.2015                                                                       5 Tum                                        Pemekaran Desa Batuasa Perda No 15/2009
+81.05.03.2016                                                                       6 Gusalaut                                   Pemekaran Desa Batuasa Perda No 15/2009
+81.05.03.2017                                                                       7 Osong                                      Pemekaran Desa Batuasa Perda No 15/2009
+81.05.03.2018                                                                       8 Tobo                                       Pemekaran Desa Batuasa Perda No 15/2009
+81.05.03.2021                                                                       9 Bemo Perak                                 Pemekaran Desa Bemo Perda No 05/2010
+81.05.03.2022                                                                      10 Funa Naibaya                               Pemekaran Desa Hatumeten Perda No 05/2010
+81.05.04.2001                                                                       1 Kataloka
+81.05.04.2003                                                                       2 Amarsekaru
+81.05.04.2004                                                                       3 Ondor
+81.05.04.2005                                                                       4 Day
+81.05.04.2006                                                                       5 Mida
+81.05.04.2021                                                                6 Loko                                     Pemekaran desa Amarsekaru Perda No. 7/2010
+81.05.04.2022                                                                7 Sera                                     Pemekaran desa Amarsekaru Perda No. 7/2010
+81.05.04.2023                                                                8 Kulugowa                                 Pemekaran desa Kataloka Perda No. 7/2010
+81.05.04.2024                                                                9 Rumeon                                   Pemekaran desa Kataloka Perda No. 7/2010
+81.05.04.2031                                                               10 Kelibingan                               Pemekaran desa Dai Perda No. 7/2010
+81.05.04.2032                                                               11 Ilili                                    Pemekaran desa Mida Perda No. 7/2010
+81.05.04.2042                                                               12 Namalean                                 Pemekaran desa Kataloka Perda No. 24/2011
+81.05.04.2043                                                                      13 Dulak                                         Pemekaran wil Desa Ondor Perda No 22/2012
+81.05.04.2044                                                                      14 Kilalir Kilwouw                               Pemekaran wil Desa Day Perda No 22/2012
+81.05.04.2045                                                                      15 Kilotak                                       Pemekaran wil Desa Day Perda No 22/2012
+81.05.04.2046                                                                      16 Kilean                                        Pemekaran wil Desa Day Perda No 22/2012
+81.05.04.2047                                                                      17 Kaforing                                      Pemekaran wil Desa Day Perda No 22/2012
+81.05.04.2048                                                                      18 Arewang                                       Pemekaran wil Desa Mida Perda No 22/2012
+81.05.04.2049                                                                      19 Usun Kataloka                                 Pemekaran desa Kataloka Perda No. 22/2012
+81.05.04.2050                                                                      20 Buan Kataloka                                 Pemekaran desa Kataloka Perda No. 22/2012
+81.05.04.2051                                                                      21 Rumanama Kotawouw                             Pemekaran desa Kataloka Perda No. 22/2012
+81.05.04.2052                                                                      22 Sikaro Kataloka                               Pemekaran desa Kataloka Perda No. 22/2012
+81.05.04.2053                                                                      23 Aroa Kataloka                                 Pemekaran desa Kataloka Perda No. 22/2012
+81.05.04.2054                                                                      24 Dada Kataloka                                 Pemekaran desa Kataloka Perda No. 22/2012
+81.05.05.2001                                                                       1 Ilili                                         Semula wil. Kec. Pulau Gorom
+81.05.05.2002                                                                       2 Effa                                          Semula wil. Kec. Pulau Gorom
+81.05.05.2003                                                                       3 Lahema                                        Semula wil. Kec. Pulau Gorom
+81.05.05.2004                                                                       4 Utta                                          Semula wil. Kec. Pulau Gorom
+81.05.05.2005                                                                       5 Kelangan                                      Semula wil. Kec. Pulau Gorom
+81.05.05.2006                                                                       6 Amarlaut                                      Semula wil. Kec. Pulau Gorom
+81.05.05.2007                                                                       7 Tamher Warat                                  Semula wil. Kec. Pulau Gorom
+81.05.05.2008                                                                       8 Tamher Timur                                  Semula wil. Kec. Pulau Gorom
+81.05.05.2010                                                                       9 Wunin Eldedora                                Pemekaran desa Tamher Timur Perda No. 8/2010
+81.05.05.2011                                                                      10 Keldor                                        Pemekaran desa Tamher Warat Perda No. 8/2010
+81.05.05.2021                                                                       11 Tanah Baru                                  Pemekaran Desa Tamher Warat Perda No 19/2009
+81.05.05.2022                                                                       12 Guliar                                      Pemekaran Desa Amar Laut Perda No 19/2009
+81.05.05.2023                                                                       13 Karlomin                                    Pemekaran desa Tamher Warat Perda No. 16/2011
+81.05.05.2024                                                                       14 Otademan                                    Pemekaran desa Tamber Warat Perda No. 10/2012
+81.05.05.2025                                                                       15 Kurwara                                     Pemekaran wil Desa Amar Laut Perda No 22/2012
+81.05.05.2026                                                                       16 Kilbutak                                    Pemekaran wil Desa Tamher Timur Perda No 22/2012
+81.05.05.2027                                                                       17 Ruma Durun                                  Pemekaran wil Desa Tamher Warat Perda No 22/2012
+81.05.05.2028                                                                       18 Tana Soa                                    Pemekaran wil Desa Kelangan Perda No 22/2012
+81.05.06.2001                                                                        1 Danama                                      Semula wil. Kec. Seram Timur
+81.05.06.2002                                                                        2 Kilmoy                                      Semula wil. Kec. Seram Timur
+81.05.06.2003                                                                        3 Kilbat                                      Semula wil. Kec. Seram Timur
+81.05.06.2004                                                                        4 Sesar                                       Semula wil. Kec. Seram Timur
+81.05.06.2005                                                                        5 Airkasar                                    Semula wil. Kec. Seram Timur
+81.05.06.2006                                                                        6 Waras-Waras                                 Semula wil. Kec. Seram Timur
+81.05.06.2007                                                                        7 Gah                                         Semula wil. Kec. Seram Timur
+81.05.06.2008                                                                        8 Walang Tenga                                Pemekaran desa Danama Perda No. 11/2010
+81.05.06.2009                                                                        9 Bati Kilwouw                                Pemekaran desa Kilmoy Perda No. 11/2010
+81.05.06.2010                                                                       10 Taruy                                       Pemekaran desa Danama Perda No. 10/2012
+81.05.06.2011                                                                       11 Kufar                                       Pemekaran wil Desa Gah, Perda No 22/2012
+81.05.07.2001                                                                        1 Dihil                                       Pemekaran Desa Liliama Perda No 15/2009, Semula wil Kec.
+81.05.07.2002                                                                        2 Liliama                                     Semula wil Kec. Werinama Perda No. 12/2010
+81.05.07.2003                                                                        3 Naiwel Ahinulin                             Pemekaran Desa Atiahu Perda No 15/2009, Semula wil Kec.
+81.05.07.2004                                                                        4 Polin                                       Semula wil Kec. Werinama Perda No. 12/2010
+81.05.07.2005                                                                        5 Tunsai                                      Semula wil Kec. Werinama Perda No. 12/2010
+81.05.07.2006                                                                        6 Lapela                                      Semula wil Kec. Werinama Perda No. 12/2010
+81.05.07.2007                                                                        7 Nayet                                       Pemekaran Desa Lapela Perda No 15/2009, Semula wil Kec.
+81.05.07.2008                                                                        8 Elnusa                                      Semula wil Kec. Werinama Perda No. 12/2010
+81.05.07.2009                                                                        9 Atiahu                                      Semula wil. Kec. Wernama Perda No. 12/2010
+81.05.07.2010                                                                       10 Sabuai                                      Pemekaran desa Atiahu Perda No 15/2009, Semula wil Kec.
+81.05.07.2011                                                                       11 Abulate                                     Pemekaran Desa Atiahu Perda No 15/2009, Semula wil Kec.
+81.05.07.2012                                                                       12 Adabai                                      Pemekaran Desa Atiahu Perda No 15/2009, Semula wil Kec.
+81.05.08.2001                                                                         1 Selor                                         Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2002                                                                         2 Nekan                                         Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2003                                                                         3 Afang Kota                                    Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2004                                                                         4 Afang Defol                                   Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2005                                                                         5 Kumelang                                      Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2006                                                                         6 Undur                                         Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2007                                                                         7 Kamar                                         Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2008                                                                         8 Gunak                                         Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2009                                                                         9 Sumbawa                                       Pemekaran Desa Kilmury Perda No 16/2009, Semula   wil Kec.
+81.05.08.2010                                                                        10 Kilmury                                       Semula wil Kec. Seram Timur Perda No. 13/2010
+81.05.08.2011                                                                        11 Kilbon Kway                                   Pemekaran desa Kilmury Perda No. 9/2010, Semula wil. Seram
+81.05.08.2012                                                                        12 Mising                                        Pemekaran desa Kilmury Perda No. 22/2010
+81.05.08.2013                                                                        13 Bitorik                                       Pemekaran wil Desa Kilmuri Perda No 22/2012
+81.05.08.2014                                                                        14 Taa                                           Pemekaran wil Desa Kilmuri Perda No 22/2012
+81.05.09.2001                                                                         1 Pulau Panjang                                 Semula wil Kec. Pulau Gorong Perda No. 12/2011
+81.05.09.2002                                                                         2 Argam                                         Pemekaran desa Pulau Panjang Perda No. 7/2010, Semula wil
+81.05.09.2003                                                                         3 Lalasa                                        Pemekaran desa Pulau Panjang Perda No. 7/2010, Semula wil
+81.05.09.2004                                                                         4 Magat                                         Pemekaran desa Pulau Panjang Perda No. 7/2010, Semula wil
+81.05.09.2005                                                                         5 Ruku Ruku                                     Pemekaran desa Pulau Panjang Perda No. 7/2010, Semula wil
+81.05.09.2006                                                                         6 Perik Basaranggi                              Pemekaran desa Pulau Panjang Perda No. 23/2010, Semula wil
+81.05.10.2001                                                                         1 Teor                                          Semula wil. Kec. Pulau Gorom, Semula wil Kec. Wakate Perda No.
+81.05.10.2002                                                                         2 Kartutin Kartenga                             Pemekaran desa Teor Perda No. 8/2010, Semula wil Kec. Wakate
+81.05.10.2003                                                                         3 Ker Ker                                       Pemekaran desa Teor Perda No. 8/2010, Semula wil Kec. Wakate
+81.05.10.2004                                                                         4 Duryar Rumoy                                  Pemekaran desa Teor Perda No. 8/2010, Semula wil Kec. Wakate
+81.05.10.2005                                                                         5 Lapang Kampung                                Pemekaran desa Teor Perda No. 8/2010, Semula wil Kec. Wakate
+81.05.10.2006                                                                        6 Kampung Tengah                             Pemekaran desa Teor Perda No. 8/2010, Semula wil Kec. Wakate
+81.05.10.2007                                                                        7 Kampung Baru                               Pemekaran desa Teor Perda No. 8/2010, Semula wil   Kec. Wakate
+81.05.10.2008                                                                        8 Mamur                                      Pemekaran desa Teor Perda No. 8/2010, Semula wil   Kec. Wakate
+81.05.10.2009                                                                        9 Kiliwouw                                   Pemekaran desa Teor Perda No. 8/2010, Semula wil   Kec. Wakate
+81.05.10.2010                                                                       10 Karlokin                                   Pemekaran desa Teor Perda No. 8/2010, Semula wil   Kec. Wakate
+81.05.11.2001                                                                        1 Kilkoda                                    Semula wil Kec. Pulau Gorong Timur Perda No. 14/2011
+81.05.11.2002                                                                        2 Miran                                      Semula wil Kec. Pulau Gorong Timur Perda No. 14/2011
+81.05.11.2003                                                                        3 Kota Sirih                                 Semula wil Kec. Pulau Gorong Timur Perda No. 14/2011
+81.05.11.2004                                                                        4 Amarwatu                                   Semula wil Kec. Pulau Gorong Timur Perda No. 14/2011
+81.05.11.2005                                                                        5 Aran                                       Pemekaran desa Kilkoda Perda No. 18/2009, Semula wil Kec.
+81.05.11.2006                                                                        6 Tuha                                       Pemekaran desa Kilkoda Perda No. 18/2009, Semula wil Kec.
+81.05.11.2007                                                                        7 Bas                                        Pemekaran desa Kilkoda Perda No. 18/2009, Semula wil Kec.
+81.05.11.2008                                                                        8 Tunas Ilur                                 Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2009                                                                        9 Sagey                                      Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2010                                                                       10 Armada                                     Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2011                                                                       11 Waisalan                                   Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2012                                                                       12 Basarin                                    Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2013                                                                       13 Goha                                       Pemekaran desa Amarwawatu Perda No. 7/2010, Semula wil Kec.
+81.05.11.2014                                                                       14 Rarat                                      Semula wil Kec. Pulau Gorong Timur Perda No. 14/2011
+81.05.11.2015                                                                       15 Miran Gota                                 Pemekaran desa Miran Perda No. 15/2011, Semula wil. Kec.
+81.05.11.2016                                                                       16 Adar                                       Pemekaran desa Rarat Perda No. 10/2012
+81.05.11.2017                                                                       17 Tinarin                                    Pemekaran desa Rarat Perda No. 10/2012
+81.05.11.2018                                                                       18 Etaralu                                    Pemekaran wil Desa Kilkoda Perda No 22/2012
+81.05.11.2019                                                                       19 Kiltufa                                    Pemekaran wil Desa Kotasiri Perda No 22/2012
+81.05.11.2020                                                                       20 Miran Kilian                               Pemekaran wil Desa Miran Perda No 22/2012
+81.05.11.2021                                                                       21 Miran Keledar                              Pemekaran wil Desa Miran Perda No 22/2012
+81.05.11.2022                                                                       22 Miran Manaban                              Pemekaran wil Desa Miran Perda No 22/2012
+81.05.11.2023                                                                       23 Miran Rumuar                               Pemekaran wil Desa Miran Perda No 22/2012
+81.05.12.2001                                                                                1 Hote                                          Semula wil Kec. Bula Perda No. 25/2011
+81.05.12.2002                                                                                2 Banggoi                                       Semula wil Kec. Bula Perda No. 25/2011
+81.05.12.2003                                                                                3 Waematakabo                                   Semula wil Kec. Bula Perda No. 25/2011
+81.05.12.2004                                                                                4 Waiketam Baru                                 Pemekaran Desa Bonggoi Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2005                                                                                5 Waisamet                                      Pemekaran Desa Bonggoi Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2006                                                                                6 Aki Jaya                                      Pemekaran Desa Bonggoi Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2007                                                                                7 Jakarta Baru                                  Pemekaran Desa Bonggoi Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2008                                                                                8 Silohan                                       Pemekaran desa Hote Perda No. 11/2011, Semula wil Kec. Bula
+81.05.12.2009                                                                                9 Sumber Agung                                  Pemekaran Desa Hote Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2010                                                                               10 Rukun Jaya                                    Pemekaran Desa Hote Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2011                                                                               11 Jembatan Basah                                Pemekaran Desa Hote Perda No 06/2010, Semula wil Kec. Bula
+81.05.12.2012                                                                               12 Dreamland Hills                               Pemekaran wil Desa Banggoi Perda No 22/2012
+81.05.12.2013                                                                               13 Banggoi Pancorang                             Pemekaran wil Desa Banggoi Perda No 22/2012
+81.05.13.2001                                                                                1 Kian Darat                                    Semula wil. Kec. Seram Timur Perda No. 11/2012
+81.05.13.2002                                                                                2 Artafela                                      Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2003                                                                                3 Angar                                         Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2004                                                                                4 Watu Watu                                     Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2005                                                                                5 Kelaba                                        Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2006                                                                                6 Kilga Kilwouw                                 Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2007                                                                                7 Kilga Watubau                                 Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2008                                                                                8 Rumfakar                                      Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2009                                                                                9 Kileser                                       Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.13.2010                                                                               10 Rumoga                                        Pemekaran desa Kian Darat Perda No. 10/2010, Semula   wil. Kec.
+81.05.14.2001                                                                                1 Kian Laut                                     Semula wil. Kec. Seram Timur Perda No. 11/2012
+81.05.14.2002                                                                                2 Kuwaos                                        Semula wil. Kec. Seram Timur Perda No. 11/2012
+81.05.14.2003                                                                                3 Salagor Air                                   Pemekaran desa Kian Laut Perda No. 10/2010, Semula wil. Kec.
+81.05.14.2004                                                                                4 Salagor Kota                                  Pemekaran desa Kian Laut Perda No. 10/2010, Semula wil. Kec.
+81.05.14.2005                                                                                      5 Aruan Gaur                                    Pemekaran desa Kian Laut Perda No. 10/2010, Semula wil. Kec.
+81.05.14.2006                                                                                      6 Keta Rumadan                                  Pemekaran desa Kian Laut Perda No. 10/2010, Semula wil. Kec.
+81.05.14.2007                                                                                      7 Lian Tasik                                    Pemekaran desa Kuwaos Perda No. 24/2010, Semula wil. Kec.
+81.05.14.2008                                                                                      8 Keta                                          Pemekaran desa Kuwaos Perda No. 24/2010, Semula wil. Kec.
+81.05.14.2009                                                                                      9 Air Nanang                                    Pemekaran desa Kuwaos Perda No. 24/2010, Semula wil. Kec.
+81.05.14.2010                                                                                     10 Suru                                          Pemekaran desa Kuwaos Perda No. 24/2010, Semula wil. Kec.
+81.05.15.2001                                                                                      1 Waru                                          Semula wil. Kec. Bula Perda No. 11/2012
+81.05.15.2002                                                                                      2 Bellis                                        Semula wil. Kec. Bula Perda No. 11/2012
+81.05.15.2003                                                                                      3 Dawang                                        Semula wil. Kec. Bula Perda No. 11/2012
+81.05.15.2004                                                                                      4 Solang                                        Semula wil. Kec. Bula Perda No. 11/2012
+81.05.15.2005                                                                                      5 Karay                                         Pemekaran Desa Waru Perda No 17/2009, Semula wil. Kec. Bula
+81.05.15.2006                                                                                      6 Nama Lena                                     Pemekaran desa Waru Perda No. 10/2012, Semula wil Kec. Bula
+81.05.15.2007                                                                                      7 Nama Andan                                    Pemekaran desa Waru Perda No. 10/2012, Semula wil Kec. Bula
+81.05.15.2008                                                                                      8 Tubir Wasiwang                                Pemekaran desa Waru Perda No. 10/2012, Semula wil Kec. Bula
+81.05.15.2009                                                                                      9 Kampung Baru                                  Pemekaran desa Dawang Perda No. 10/2012, Semula wil Kec.
+81.05.15.2010                                                                                     10 Boinfia                                       Pemekaran wil Desa Belis Perda No 22/2012
+81.05.15.2011                                                                                     11 Madak                                         Pemekaran wil Desa Waru Perda No 22/2012
+81.06.01.2008                                                                                      1 Kamarian
+81.06.01.2009                                                                                      2 Seruawan
+81.06.01.2010                                                                                      3 Kairatu
+81.06.01.2011                                                                                      4 Waimital
+81.06.01.2012                                                                      5 Hatusua
+81.06.01.2014                                                                      6 Waipirit
+81.06.01.2015                                                                      7 Uraur
+81.06.02.2002                                                                      1 Kawa
+81.06.02.2003                                                                      2 Piru
+81.06.02.2004                                                                      3 Neniari                                     Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.02.2005                                                                      4 Morekau
+81.06.02.2006                                                                      5 Lumoli                                      Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.02.2007                                                                      6 Eti                                         Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.02.2008                                                                      7 Kaibobo                                     Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.03.2001                                                                      1 Murnaten                                    Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.03.2002                                                                            2 Nikulukan
+81.06.03.2003                                                                            3 Niwelehu
+81.06.03.2004                                                                            4 Nuniali
+81.06.03.2005                                                                            5 Lisabata
+81.06.03.2006                                                                            6 Wakolo
+81.06.03.2007                                                                            7 Patahuwe
+81.06.03.2008                                                                            8 Taniwel
+81.06.03.2009                                                                            9 Hulung
+81.06.03.2010                                                                           10 Kasieh
+81.06.03.2011                                                                           11 Nukuhai
+81.06.03.2012                                                                           12 Pasinalo
+81.06.03.2028                                                                           13 Uweth                                    Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.03.2029                                                                           14 Laturake
+81.06.03.2030                                                                           15 Buria
+81.06.03.2031                                                                           16 Riring
+81.06.03.2032                                                                           17 Rumahsoal
+81.06.03.2033                                                                           18 Lohiasapalewa
+81.06.03.2034                                                                           19 Niniari
+81.06.04.2001                                                                        1 Waesala
+81.06.04.2002                                                                        2 Allang Asaude
+81.06.04.2003                                                                        3 Sole
+81.06.04.2004                                                                        4 Tonu Jaya
+81.06.04.2005                                                                        5 Tahalupu
+81.06.04.2006                                                                        6 Buano Utara                                 Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.04.2007                                                                        7 Buano Selatan                               Koreksi nama ND Rekom Ditjen Pemdes No 140/4495/BPD tgl 29
+81.06.05.2001                                                                        1 Tihulale                                    Semula wil Kec. Kairatu Perda No. 4/2010. Koreksi nama, ND
+81.06.05.2002                                                                        2 Rumahkay                                    Semula wil Kec. Kairatu Perda No. 4/2010
+81.06.05.2003                                                                        3 Latu                                        Semula wil Kec. Kairatu Perda No. 4/2010
+81.06.05.2004                                                                        4 Tomalehu                                    Semula wil Kec. Kairatu Perda No. 4/2010. Koreksi nama ND
+81.06.05.2005                                                                        5 Hualoy                                      Semula wil Kec. Kairatu Perda No. 4/2010
+81.06.05.2006                                                                        6 Seriholo                                    Semula wil Kec. Kairatu Perda No. 4/2010
+81.06.05.2007                                                                        7 Tala                                        Semula wil Kec. Kairatu Perda No. 4/2010
+81.06.06.2001                                                                        1 Manusa                                      Semula wil Kec. Kairatu Perda No. 5/2010
+81.06.06.2002                                                                        2 Rambatu                                     Semula wil Kec. Kairatu Perda No. 5/2010
+81.06.06.2003                                                                        3 Rumberu                                     Semula wil Kec. Kairatu Perda No. 5/2010
+81.06.06.2004                                                                        4 Honitetu                                    Semula wil Kec. Kairatu Perda No. 5/2010. Koreksi nama ND
+81.06.06.2005                                                                        5 Hukuanakota                                 Semula wil Kec. Kairatu Perda No. 5/2010. Koreksi nama ND
+81.06.07.2001                                                                        1 Waihatu                                     Semula wil Kec. Kairatu Perda No. 6/2010
+81.06.07.2002                                                                        2 Lohiatala                                   Semula wil Kec. Kairatu Perda No. 6/2010
+81.06.07.2003                                                                        3 Waisamu                                     Semula wil Kec. Kairatu Perda No. 6/2010
+81.06.07.2004                                                                        4 Nuruwe                                      Semula wil Kec. Kairatu Perda No. 6/2010
+81.06.07.2005                                                                            5 Kamal                                       Semula wil Kec. Kairatu Perda No. 6/2010
+81.06.07.2006                                                                            6 Waisarisa                                   Semula wil Kec. Kairatu Perda No. 6/2010. Koreksi nama ND
+81.06.08.2001                                                                            1 Ariate                                      Semula wil Kec. Seram Barat Perda No. 7/2010
+81.06.08.2002                                                                            2 Lokki                                       Semula wil Kec. Seram Barat Perda No. 7/2010. Koreksi nama ND
+81.06.08.2003                                                                            3 Luhu                                        Semula wil Kec. Seram Barat Perda No. 7/2010
+81.06.08.2004                                                                            4 Iha                                         Semula wil Kec. Seram Barat Perda No. 7/2010
+81.06.08.2005                                                                            5 Kulur                                       Semula wil Kec. Seram Barat Perda No. 7/2010
+81.06.09.2001                                                                            1 Luhutuban                                   Semula wil Kec. Waisala Perda No. 8/2010
+81.06.09.2002                                                                            2 Masawoy                                     Semula wil Kec. Waisala Perda No. 8/2010. Koreksi nama ND
+81.06.09.2003                                                                            3 Tuniwara                                    Semula wil Kec. Waisala Perda No. 8/2010
+81.06.09.2004                                                                            4 Kelang Asaude                               Semula wil Kec. Waisala Perda No. 8/2010
+81.06.09.2005                                                                            5 Tomalehu Barat                              Semula wil Kec. Waisala Perda No. 8/2010
+81.06.09.2006                                                                            6 Tomalehu Timur                              Semula wil Kec. Waisala Perda No. 8/2010
+81.06.09.2007                                                                            7 Buano Hatuputih                             Semula wil Kec. Waisala Perda No. 8/2010. Koreksi nama ND
+81.06.10.2001                                                                            1 Sohuwe                                      Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2002                                                                            2 Maloang                                     Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2003                                                                            3 Lumahlatal                                  Semula wil Kec. Taniwel Perda No. 9/2010. Koreksi nama ND
+81.06.10.2004                                                                            4 Matapa                                      Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2005                                                                            5 Seakasale                                   Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2006                                                                            6 Makububui                                   Semula wil Kec. Taniwel Perda No. 9/2010. Koreksi nama ND
+81.06.10.2007                                                                            7 Sukaraja                                    Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2008                                                                            8 Uwen Pantai                                 Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2009                                                                            9 Tounusa                                     Semula wil Kec. Taniwel Perda No. 9/2010. Koreksi nama ND
+81.06.10.2010                                                                           10 Musihuwey                                   Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2011                                                                           11 Solea                                       Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2012                                                                           12 Waraloin                                    Semula wil Kec. Taniwel Perda No. 9/2010. Koreksi nama ND
+81.06.10.2013                                                                           13 Walakone                                    Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2014                                                                           14 Hatunuru                                    Semula wil Kec. Taniwel Perda No. 9/2010
+81.06.10.2015                                                                           15 Lumahpelu                                   Semula wil Kec. Taniwel Perda No. 9/2010. Koreksi nama ND
+81.06.11.2002                                                                                         1 Sanahu                                           Semula wil Kec. Teluk Elpaputih Kab. Maluku Tengah Kep MK No.
+81.06.11.2003                                                                                         2 Wasia                                            Semula wil Kec. Teluk Elpaputih Kab. Maluku Tengah Kep MK No.
+81.06.11.2004                                                                                         3 Sumeith Pasinaro                                 Semula wil Kec. Kairatur Perda No. 10/2010. Koreksi nama ND
+81.06.11.2005                                                                                         4 Watui                                            Semula wil Kec. Kairatur Perda No. 10/2010. Koreksi nama ND
+81.06.11.2006                                                                                         5 Abio Ahiolo                                      Semula wil Kec. Kairatur Perda No. 10/2010
+81.06.11.2007                                                                                         6 Huku Kecil                                       Semula wil Kec. Kairatu Perda No. 10/2010
+81.06.11.2008                                                                                         7 Elpaputih                                        Perubahan nama desa Sapaloni menjadi desa Elpaputih Perda No.
+81.07.01.2001                                                                                         1 Ujir
+81.07.01.2002                                                                                         2 Nafar
+81.07.01.2003                                                                                         3 Kobraur
+81.07.01.2004                                                                                         4 Lau-Lau
+81.07.01.2005                                                                                         5 Gorar
+81.07.01.2006                                                                                         6 Tungu
+81.07.01.2007                                                                                         7 Tunguwatu
+81.07.01.2008                                                                                         8 Jabulenga
+81.07.01.2009                                                                                         9 Wokam
+81.07.01.2010                                                                                        10 Karangguli
+81.07.01.2011                                                                                        11 Durjela
+81.07.01.1012                                                                  1 Galai Dubu
+81.07.01.1013                                                                  2 Siwa Lima
+81.07.01.2014                                                                                        12 Wangel
+81.07.01.2015                                                                                        13 Samang
+81.07.02.2001                                                                      1 Jerol
+81.07.02.2002                                                                      2 Marfenfen
+81.07.02.2003                                                                      3 Kabalukin
+81.07.02.2004                                                                      4 Kalar-Kalar
+81.07.02.2005                                                                      5 Feruni
+81.07.02.2006                                                                      6 Ngaiguli
+81.07.02.2007                                                                      7 Fatural
+81.07.02.2008                                                                       8 Ngaibor
+81.07.02.2010                                                                       9 Popjetur
+81.07.02.2026                                                                      10 Lor-lor
+81.07.02.2027                                                                      11 Gaimar
+81.07.02.2028                                                                      12 Laininir
+81.07.02.2029                                                                      13 Doka Barat
+81.07.02.2030                                                                      14 Doka Timur
+81.07.02.2031                                                                      15 Jelia
+81.07.03.2001                                                                       1 Benjina
+81.07.03.2003                                                                       2 Gardakau
+81.07.03.2004                                                                       3 Irloy
+81.07.03.2005                                                                       4 Algadang
+81.07.03.2006                                                                       5 Lorang
+81.07.03.2007                                                                       6 Murai
+81.07.03.2008                                                                       7 Manjau
+81.07.03.2009                                                                       8 Kwarbola
+81.07.03.2028                                                                9 Kobadangar                           Semula wil Kec. Pulau-pulau Aru Perda No. 15/2008
+81.07.03.2029                                                               10 Kobasel Fara
+81.07.03.2030                                                               11 Kobasel Timur
+81.07.03.2031                                                               12 Fatlabata
+81.07.03.2033                                                               13 Wakua
+81.07.03.2034                                                               14 Jirlay
+81.07.03.2035                                                               15 Maririmar
+81.07.03.2036                                                               16 Papakula
+81.07.03.2037                                                               17 Tanah Miring
+81.07.03.2038                                                               18 Gulili
+81.07.03.2039                                                               19 Namara
+81.07.03.2040                                                               20 Selilau
+81.07.03.2043                                                               21 Maijuring
+81.07.03.2045                                                                          22 Selibata-bata                               Semula wil Kec. pulau-pulau Aru perda No. 15/2008
+81.07.04.2001                                                                           1 Marlasi                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2002                                                                           2 Kolamar                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2003                                                                           3 Kabufin                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2004                                                                           4 Tasinwaha                                   Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2005                                                                           5 Foket                                       Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2006                                                                           6 Kaibolafin                                  Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2007                                                                           7 Wahangula-Ngula                             Semula wil. Kec. Pulau Pulau Aru
+81.07.04.2008                                                                           8 Wahayum                                     Semula wil. Kec. Pulau Pulau Aru
+81.07.04.2009                                                                           9 Warialau                                    Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2010                                                                          10 Jerwatu                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2013                                                                          11 Selmona                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.04.2014                                                                          12 Mesidang                                    Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2001                                                                           1 Kabalsiang                                  Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2002                                                                           2 Benjuring                                   Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2003                                                                           3 Batuley                                     Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2004                                                                           4 Kumul                                       Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2005                                                                           5 Waria                                       Semula wil. Kec. Pulau-Pulau Aru
+81.07.05.2006                                                                           6 Sewer                                       Semula wil. Kec. Aru Tengah
+81.07.05.2007                                                                           7 Jursiang                                    Semula wil. Kec. Aru Tengah
+81.07.05.2008                                                                           8 Kompane                                     Semula wil. Kec. Pulau Pulau Aru
+81.07.05.2009                                                                           9 Kobamar                                     Semula wil. Kec. Pulau Pulau Aru, Semula wil Kec. Sir-Sir Perda
+81.07.06.2002                                                                           1 Waifual                                     Semula wil. Kec. Pulau Pulau Aru
+81.07.06.2003                                                                           2 Wafan                                       Semula wil. Kec. Pulau Pulau Aru
+81.07.06.2004                                                                           3 Langhalau                                   Semula wil. Kec. Pulau Pulau Aru
+81.07.06.2005                                                                           4 Gomsey                                      Perda No. 15/2008
+81.07.06.2006                                                                              5 Leiting                                 Perda No. 15/2008.
+81.07.06.2007                                                                              6 Bardefan                                Perda No. 15/2008
+81.07.06.2008                                                                              7 Mohongsel                               Semula wil. Kec. Pulau-Pulau Aru, Semula wil Kec. Aru Utara
+81.07.06.2009                                                                              8 Kolaha                                  Semula wil. Kec. Pulau-Pulau Aru, Semula wil Kec. Aru Utara
+81.07.06.2010                                                                              9 Goda-Goda                               Semula wil Kec. Pulau-pulau Aru Perda No. 15/2008
+81.07.07.2001                                                                              1 Koijabi                                 Semula wil. Kec. Aru Tengah
+81.07.07.2002                                                                              2 Balatan                                 Semula wil. Kec. Aru Tengah
+81.07.07.2003                                                                              3 Warloy                                  Semula wil. Kec. Aru Tengah
+81.07.07.2004                                                                              4 Warjukur                                Semula wil. Kec. Aru Tengah
+81.07.07.2005                                                                              5 Kobror                                  Semula wil. Kec. Aru Tengah
+81.07.07.2006                                                                              6 Basada                                  Semula wil. Kec. Aru Tengah
+81.07.07.2007                                                                              7 Wailay                                  Semula wil. Kec. Aru Tengah
+81.07.07.2008                                                                              8 Kaiwabar                                Semula wil. Kec. Aru Tengah
+81.07.07.2009                                                                              9 Ponom                                   Semula wil. Kec. Aru Tengah
+81.07.07.2010                                                                             10 Lola                                    Semula wil. Kec. Aru Tengah
+81.07.07.2011                                                                             11 Mariri                                  Semula wil. Kec. Aru Tengah
+81.07.07.2012                                                                             12 Dosinamalau                             Semula wil. Kec. Aru Tengah
+81.07.07.2013                                                                             13 Karawai                                 Semula wil. Kec. Aru Tengah
+81.07.08.2001                                                                              1 Longgar                                 Semula wil. Kec. Aru Tengah
+81.07.08.2002                                                                              2 Apara                                   Semula wil. Kec. Aru Tengah
+81.07.08.2003                                                                              3 Bemun                                   Semula wil. Kec. Aru Tengah
+81.07.08.2004                                                                              4 Mesiang                                 Semula wil. Kec. Aru Tengah
+81.07.08.2005                                                                              5 Gomo-Gomo                               Semula wil. Kec. Aru Tengah
+81.07.08.2006                                                                              6 Jambu Air                               Semula wil. Kec. Aru Tengah
+81.07.08.2007                                                                              7 Warabal                                 Semula wil. Kec. Aru Tengah
+81.07.09.2001                                                                              1 Meror                                   Semula wil. Kec. Aru Selatan
+81.07.09.2002                                                                              2 Dosimar                                 Semula wil. Kec. Aru Selatan
+81.07.09.2003                                                                              3 Batugoyang                              Semula wil. Kec. Aru Selatan
+81.07.09.2004                                                                              4 Salarem                                 Semula wil. Kec. Aru Selatan
+81.07.09.2005                                                                              5 Siya                                    Semula wil. Kec. Aru Selatan
+81.07.09.2006                                                                              6 Beltubur                                Semula wil. Kec. Aru Selatan
+81.07.09.2007                                                                                                  7 Karey                                       Semula wil. Kec. Aru Selatan
+81.07.09.2008                                                                                                  8 Jorang                                      Semula wil. Kec. Aru Selatan
+81.07.09.2009                                                                                                  9 Gomar Sungai                                Semula wil. Kec. Aru Selatan
+81.07.09.2010                                                                                                 10 Gomar Meti                                  Semula wil. Kec. Aru Selatan
+81.07.10.2001                                                                                                  1 Tabarfane                                   Semula wil. Kec. Aru Selatan
+81.07.10.2002                                                                                                  2 Rebi                                        Semula wil. Kec. Aru Selatan
+81.07.10.2003                                                                                                  3 Lutur                                       Semula wil. Kec. Aru Selatan
+81.07.10.2004                                                                                                  4 Hokmar                                      Semula wil. Kec. Aru Selatan
+81.07.10.2005                                                                                                  5 Juring                                      Semula wil. Kec. Aru Selatan
+81.07.10.2006                                                                                                  6 Erersin                                     Semula wil. Kec. Aru Selatan
+81.07.10.2007                                                                                                  7 Maekor                                      Semula wil Kec. Aru tengah Perda No. 4/2012
+81.08.01.1001                                                                         1 Tiakur                                                               Pemekaran sebagian desa Wakarleli Perda No 10/2014
+81.08.01.2001                                                                                                  1 Klis
+81.08.01.2002                                                                                                  2 Patti
+81.08.01.2003                                                                                                  3 Wakarleli
+81.08.01.2004                                                                                                  4 Kaiwatu
+81.08.01.2005                                                                                                  5 Werwaru
+81.08.01.2006                                                                                                  6 Tounwawan
+81.08.01.2007                                                                                                  7 Moain
+81.08.02.2001                                                                                                  1 Wulur
+81.08.02.2002                                                                                                  2 Batu Merah
+81.08.02.2003                                                                                                  3 Kuaimelu
+81.08.02.2004                                                                                                  4 Kumur
+81.08.02.2005                                                                                                  5 Bebar Timur
+81.08.02.2006                                                                             6 Ilih
+81.08.02.2007                                                                             7 Kehli
+81.08.03.2001                                                                             1 Luang Barat
+81.08.03.2002                                                                             2 Luang Timur
+81.08.03.2003                                                                             3 Elo
+81.08.03.2004                                                                             4 Rumkisar
+81.08.03.2005                                                                             5 Lelang
+81.08.03.2006                                                                             6 Mahaleta
+81.08.03.2007                                                                             7 Romdara
+81.08.03.2008                                                                             8 Rotnama
+81.08.03.2009                                                                             9 Batugajah
+81.08.03.2010                                                                            10 Pupliora
+81.08.03.2011                                                                            11 Regoha
+81.08.04.2001                                                                             1 Tepa
+81.08.04.2002                                                                             2 Imroing
+81.08.04.2003                                                                             3 Tela
+81.08.04.2004                                                                             4 Yaltubung
+81.08.04.2005                                                                             5 Wanuwui
+81.08.04.2006                                                                             6 Letsiara
+81.08.04.2015                                                                             7 Lewah
+81.08.04.2016                                                                             8 Hertuti
+81.08.04.2017                                                                             9 Sinairusi
+81.08.05.2001                                                                             1 Letwurung
+81.08.05.2002                                                                       2 Yatoke
+81.08.05.2003                                                                       3 Kroing
+81.08.05.2004                                                                       4 Nakarhamto
+81.08.05.2005                                                                       5 Emplawas
+81.08.05.2006                                                                       6 Kokwari
+81.08.05.2007                                                                       7 Ahanari
+81.08.05.2008                                                                       8 Wakpapapi
+81.08.05.2009                                                                       9 Analutur
+81.08.05.2010                                                                      10 Manuweri
+81.08.05.2011                                                                      11 Tutuwawang
+81.08.06.2001                                                                       1 Ilwaki
+81.08.06.2002                                                                       2 Ilputih
+81.08.06.2003                                                                       3 Mahuan
+81.08.06.2004                                                                       4 Masapun
+81.08.06.2021                                                                                 5 Arnau                                   Koreksi nama desa srt Bupati No. 140.4/138/2018
+81.08.06.2023                                                                                 6 Hiay
+81.08.07.2001                                                                                 1 Wonreli
+81.08.07.2002                                                                                 2 Lekloor
+81.08.07.2003                                                                                 3 Kota Lama
+81.08.07.2004                                                                                 4 Abusur
+81.08.07.2005                                                                                 5 Oirata Timur
+81.08.07.2006                                                                                 6 Oirata Barat
+81.08.08.2001                                                                                 1 Laitutun
+81.08.08.2002                                                                                 2 Batumiau
+81.08.08.2003                                                                                 3 Tutukey
+81.08.08.2004                                                                           4 Tomra
+81.08.08.2005                                                                           5 Nuwewang
+81.08.08.2006                                                                           6 Tutuwaru
+81.08.08.2007                                                                           7 Luhuely
+81.08.09.2001                                                                           1 Latalola Besar                               Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2002                                                                           2 Serili                                       Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2003                                                                           3 Latalola Kecil                               Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2004                                                                           4 Telalora                                     Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2005                                                                           5 Marsela                                      Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2006                                                                           6 Babiotang                                    Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2007                                                                           7 Iblatmuntah                                  Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2008                                                                           8 Ilbutung                                     Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2009                                                                           9 Lawawang                                     Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2010                                                                          10 Nura                                         Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.09.2011                                                                          11 Bululora                                     Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 2/2012
+81.08.10.2001                                                                           1 Watuwei                                      Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012
+81.08.10.2002                                                                           2 Ilmarang                                     Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012
+81.08.10.2003                                                                           3 Letmasa                                      Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012
+81.08.10.2004                                                                           4 Welora                                       Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012
+81.08.10.2005                                                                           5 Wiratan                                      Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012.
+81.08.10.2006                                                                           6 Nurnyaman                                    Semula wil. Kec. Pulau-pulau Babar Timur Perda No. 3/2012
+81.08.11.2001                                                                           1 Herley                                       Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2002                                                                           2 Upuhupun                                     Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2003                                                                           3 Pota Besar                                   Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2004                                                                           4 Pota Kecil                                   Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2005                                                                           5 Wasarili                                     Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2006                                                                           6 Rumahlewang Kecil                            Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2007                                                                           7 Rumahlewang Besar                            Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.11.2008                                                                           8 Nusiata                                      Semula wil. Kec. Pulau-pulau Babar Perda No. 4/2012
+81.08.12.2001                                                                           1 Ketty                                        Semula wil. Kec. Moa Lakor Perda No. 5/2012
+81.08.12.2002                                                                                   2 Letoda                                    Semula wil. Kec. Moa Lakor Perda No. 5/2012
+81.08.12.2003                                                                                   3 Sera                                      Semula wil. Kec. Moa Lakor Perda No. 5/2012
+81.08.12.2004                                                                                   4 Yamluli                                   Semula wil. Kec. Moa Lakor Perda No. 5/2012
+81.08.12.2005                                                                                   5 Lolotuara                                 Semula wil. Kec. Moa Lakor Perda No. 5/2012
+81.08.13.2001                                                                                   1 Nabar                                     Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.13.2002                                                                                   2 Elsulith                                  Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.13.2003                                                                                   3 Naumatang                                 Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.13.2004                                                                                   4 Lurang                                    Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.13.2005                                                                                   5 Uhak                                      Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.13.2006                                                                                   6 Eray                                      Semula wil. Kec. Wetar Perda No. 6/2012
+81.08.14.2001                                                                                   1 Telemar                                   Semula wil. Kec. Wetar Perda No. 7/2012
+81.08.14.2002                                                                                   2 Karbubu                                   Semula wil. Kec. Wetar Perda No. 7/2012
+81.08.14.2003                                                                                   3 Ustutun                                   Semula wil. Kec. Wetar Perda No. 7/2012
+81.08.14.2004                                                                                   4 Klishatu                                  Semula wil. Kec. Wetar Perda No. 7/2012
+81.08.14.2005                                                                                   5 Ilmamau                                   Semula wil. Kec. Wetar Perda No. 7/2012
+81.08.15.2001                                                                                   1 Moning                                    Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.15.2002                                                                                   2 Arwala                                    Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.15.2003                                                                                   3 Ilway                                     Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.15.2004                                                                                   4 Kahilin                                   Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.15.2005                                                                                   5 Ilpokil                                   Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.15.2006                                                                                   6 Tomliapat                                 Semula wil. Kec. Wetar Perda No. 8/2012
+81.08.16.2001                                                                                   1 Hila                                      Semula wil. Kec. Pulau Terselatan Perda No. 9/2012
+81.08.16.2002                                                                                   2 Jerusu                                    Semula wil. Kec. Pulau Terselatan Perda No. 9/2012
+81.08.16.2003                                                                                   3 Solath                                    Semula wil. Kec. Pulau Terselatan Perda No. 9/2012
+81.08.17.2001                                                                                   1 Purpura                                   Semula wil. Kec. Pulau Terselatan Perda No. 10/2012
+81.08.17.2002                                                                                   2 Nomaha                                    Semula wil. Kec. Pulau Terselatan Perda No. 10/2012
+81.08.17.2003                                                                                   3 Labelau                                   Semula wil. Kec. Pulau Terselatan Perda No. 10/2012
+81.09.01.2001                                                                       1 Wamkana
+81.09.01.2002                                                                       2 Waenalut
+81.09.01.2003                                                                       3 Lektama
+81.09.01.2004                                                                       4 Fatmite
+81.09.01.2005                                                                       5 Elfule
+81.09.01.2006                                                                       6 Leku
+81.09.01.2007                                                                       7 Oki Baru
+81.09.01.2008                                                                       8 Oki Lama
+81.09.01.2009                                                                       9 Labuang
+81.09.01.2010                                                                      10 Wali
+81.09.01.2011                                                                      11 Tikbary                                 Pemekaran desa Leku Perda No. 3/2012
+81.09.01.2012                                                                      12 Masnana                                 Pemekaran desa Lebuang Perda No. 4/2012
+81.09.01.2013                                                                      13 Kamlanglale                             Pemekaran desa Elfule Perda No. 5/2012
+81.09.01.2014                                                                      14 Waenono                                 Pemekaran desa Elfule Perda No. 6/2012
+81.09.01.2015                                                                      15 Namrinat                                Pemekaran desa Fatmite Perda No. 7/2012
+81.09.01.2016                                                                      16 Waefusi                                 Pemekaran desa Lektama Perda No. 8/2012
+81.09.01.2017                                                                      17 Batu Tulis                              Pemekaran desa Wamkana Perda No. 9/2012
+81.09.02.2001                                                                       1 Waetawa
+81.09.02.2002                                                                       2 Waesili
+81.09.02.2003                                                                       3 Lena
+81.09.02.2004                                                                       4 Simi
+81.09.02.2005                                                                       5 Waelikut
+81.09.02.2006                                                                       6 Wamsisi
+81.09.02.2007                                                                       7 Pohon Batu
+81.09.02.2008                                                                       8 Waeteba
+81.09.02.2009                                                                       9 Hote                                    Pemekaran desa Pohon Batu Perda No. 26/2012
+81.09.02.2010                                                                      10 Waemasing                               Pemekaran desa Waelikut Perda No. 27/2012
+81.09.02.2011                                                                      11 Batu Kasa                               Pemekaran desa Waelikut Perda No. 28/2012
+81.09.03.2001                                                                       1 Lumoy
+81.09.03.2002                                                                       2 Masawoy
+81.09.03.2003                                                                       3 Ulima
+81.09.03.2004                                                                        4 Kampung Baru
+81.09.03.2005                                                                        5 Siwar
+81.09.03.2006                                                                        6 Selasi
+81.09.03.2007                                                                        7 Elara
+81.09.04.2001                                                                        1 Balpetu
+81.09.04.2002                                                                        2 Waekeka
+81.09.04.2003                                                                        3 Biloro
+81.09.04.2004                                                                        4 Nanali
+81.09.04.2005                                                                        5 Pasir Putih
+81.09.04.2006                                                                        6 Fogi
+81.09.04.2007                                                                        7 Waepandan
+81.09.04.2008                                                                        8 Walbele
+81.09.04.2009                                                                        9 Air Ternate
+81.09.04.2010                                                                       10 Sekat
+81.09.04.2011                                                                       11 Waeha                                    Pemekaran desa Fogi Perda No. 20/2012
+81.09.04.2012                                                                       12 Bala-bala                                Pemekaran desa Fogi Perda No. 21/2012
+81.09.04.2013                                                                       13 Batu Layar                               Pemekaran desa Walbele Perda No. 22/2012
+81.09.04.2014                                                                       14 Siopot                                   Pemekaran desa Walbele Perda No. 23/2012
+81.09.04.2015                                                                       15 Emguhen                                  Pemekaran desa Walbele Perda No. 25/2012. Koreksi nama ND
+81.09.05.2001                                                                        1 Waemulang
+81.09.05.2002                                                                        2 Waeturen
+81.09.05.2003                                                                        3 Waehaka
+81.09.05.2004                                                                        4 Waemala
+81.09.05.2005                                                                        5 Erwiri
+81.09.05.2006                                                                        6 Tifu
+81.09.05.2007                                                                        7 Mepa
+81.09.05.2008                                                                        8 Leksula
+81.09.05.2009                                                                        9 Nalbessy
+81.09.05.2010                                                                       10 Kase
+81.09.05.2015                                                                              11 Neath
+81.09.05.2016                                                                              12 Liang
+81.09.05.2018                                                                              13 Slealale
+81.09.05.2023                                                                              14 Walunghelat                               Pemekaran desa Waemulang Perda No. 12/2012
+81.09.05.2024                                                                              15 Wahaolon                                  Pemekaran desa Mepa Perda No. 13/2012
+81.09.05.2025                                                                              16 Wewali                                    Pemekaran desa Maehaka Perda No. 14/2012
+81.09.05.2026                                                                              17 Waenamaolon                               Pemekaran desa Liang Perda No. 15/2012
+81.09.05.2029                                                                              18 Grahwaen                                  Pemekaran desa Waemulang Perda No. 18/2012
+81.09.05.2030                                                                              19 Terkuri                                   Pemekaran desa Waemulang Perda No. 19/2012
+81.09.06.2001                                                                               1 Nusarua                                   Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2002                                                                               2 Mangeswaen                                Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2003                                                                               3 Waekatin                                  Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2004                                                                               4 Fakal                                     Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2005                                                                               5 Uneth                                     Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2006                                                                               6 Waereman                                  Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2007                                                                               7 Waelo                                     Semula wil. Kec. Leksula Perda No. 2/2012
+81.09.06.2008                                                                               8 Siwatlahin                                Pemekaran desa Waekatin Perda No. 11/2012, Semula wil. Kec.
+81.09.06.2009                                                                               9 Trukat                                    Pemekaran desa Waelo Perda No. 16/2012, Semula wil. Kec.
+81.09.06.2010                                                                              10 Waeken                                    Pemekaran desa Nusarua Perda No. 17/2012, Semula wil. Kec.
+81.71.01.2001                                                                             1 Latuhalat
+81.71.01.2002                                                                             2 Seilale
+81.71.01.2003                                                                             3 Nusaniwe
+81.71.01.2004                                                                             4 Amahusu
+81.71.01.2005                                                                             5 Urimessing
+81.71.01.1006                                                     1 Nusaniwe
+81.71.01.1007                                                     2 Wainitu
+81.71.01.1008                                                     3 Benteng
+81.71.01.1009                                                     4 Kudamati
+81.71.01.1010                                                     5 Mangga Dua
+81.71.01.1011                                                     6 Urimessing
+81.71.01.1012                                                     7 Waihaong
+81.71.01.1013                                                     8 Silale
+81.71.02.2001                                                                             1 Hative Kecil
+81.71.02.2002                                                                             2 Galala
+81.71.02.2003                                                                             3 Batu Merah
+81.71.02.2009                                                                             4 Soya
+81.71.02.1010                                                     1 Pandan Kasturi
+81.71.02.1011                                                     2 Rijali
+81.71.02.1012                                                     3 Amantelu
+81.71.02.1013                                                     4 Karang Panjang
+81.71.02.1014                                                     5 Waihoka
+81.71.02.1015                                                     6 Batu Meja
+81.71.02.1016                                                     7 Batu Gajah
+81.71.02.1017                                                     8 Uritetu
+81.71.02.1018                                                     9 Honipopu
+81.71.02.1019                                                    10 Ahusen
+81.71.03.2001                                                                                  1 Passo
+81.71.03.2002                                                                                  2 Halong
+81.71.03.2003                                                                                  3 Latta
+81.71.03.2004                                                                                  4 Negeri Lama
+81.71.03.2005                                                                                  5 Nania
+81.71.03.2006                                                                                  6 Waiheru
+81.71.03.1018                                                          1 Lateri
+81.71.04.2001                                                                                  1 Hunuth/Durian Patah                        Semula wil. Kec. Baguala
+81.71.04.2002                                                                                  2 Poka                                       Semula wil. Kec. Baguala
+81.71.04.2003                                                                                  3 Rumah Tiga                                 Semula wil. Kec. Baguala
+81.71.04.2004                                                                                  4 Wayame                                     Semula wil. Kec. Baguala
+81.71.04.2005                                                                                  5 Tawiri                                     Semula wil. Kec. Baguala
+81.71.04.2006                                                                                  6 Hative Besar                               Semula wil. Kec. Baguala
+81.71.04.2007                                                                                  7 Laha                                       Semula wil. Kec. Baguala
+81.71.04.1008                                                          1 Tihu                                                               Semula wil. Kec. Baguala
+81.71.05.2001                                                                                  1 Hukurila                                   Semula wil. Kec. Sirimau
+81.71.05.2002                                                                                  2 Ema                                        Semula wil. Kec. Sirimau
+81.71.05.2003                                                                                  3 Kilang                                     Semula wil. Kec. Sirimau
+81.71.05.2004                                                                                  4 Naku                                       Semula wil. Kec. Sirimau
+81.71.05.2005                                                                                  5 Hatalai                                    Semula wil. Kec. Sirimau
+81.71.05.2006                                                                                             6 Hutumury                                      Semula wil. Kec. Baguala
+81.71.05.2007                                                                                             7 Rutong                                        Semula wil. Kec. Baguala
+81.71.05.2008                                                                                             8 Leahari                                       Semula wil. Kec. Baguala
+81.72.01.2001                                                                                             1 Fiditan
+81.72.01.2002                                                                                             2 Ngadi
+81.72.01.2003                                                                                             3 Dullah
+81.72.01.2004                                                                                             4 Labetawi
+81.72.01.2005                                                                                             5 Tamedan
+81.72.01.2006                                                                                             6 Ohoitahit
+81.72.01.2007                                                                                             7 Ohoitel
+81.72.01.2008                                                                                             8 Dullah Laut
+81.72.02.2001                                                                                             1 Tual
+81.72.02.2002                                                                                             2 Taar
+81.72.02.1003                                                                     1 Ketsoblak
+81.72.02.1004                                                                     2 Masrum
+81.72.02.1005                                                                     3 Lodar El
+81.72.03.2001                                                                                             1 Tam Ngurhir
+81.72.03.2002                                                                                             2 Tayando Langgiar
+81.72.03.2003                                                                                             3 Tayando Yamtel
+81.72.03.2004                                                                                             4 Tayando Ohoiel
+81.72.03.2005                                                                                             5 Tayando Yamru
+81.72.04.2001                                                                                             1 Tubyal
+81.72.04.2002                                                                                             2 Kaimear
+81.72.04.2004                                                                                             3 Lokwirin
+81.72.04.2005                                                                                             4 Finualen
+81.72.04.2012                                                                             5 Sermaf                                          Pemekaran desa Tubyal Perda No. 15/2014
+81.72.05.2001                                                                             1 Kanara                                          Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2002                                                                             2 Warkar                                          Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2003                                                                             3 Yapas                                           Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2004                                                                             4 Rumoin                                          Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2005                                                                             5 Hirit                                           Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2006                                                                             6 Tiflen                                          Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
+81.72.05.2007                                                                             7 Niela                                           Semula wil Kec. Pulau-pulau Kur Perda No. 26/2011
