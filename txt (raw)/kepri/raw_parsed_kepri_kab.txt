@@ -1,7 +1,0 @@
-  1      21.01   KAB. BINTAN                               10      15      36        1.318,21         154.964    Perubahan Nama Kab. Kepri, PP No. 5/2006.
-  2      21.02   KAB. KARIMUN                              12      29      42            912,75       247.896
-  3      21.03   KAB. NATUNA                               15       7      70        2.009,04          81.542
-  4      21.04   KAB. LINGGA                               13       7      75        2.266,77         100.403
-  5      21.05   KAB. KEPULAUAN ANAMBAS                      9      2      52            590,14        45.845    UU No. 33/2008
-  6      21.71   KOTA BATAM                                12      64                    960,25      1.081.466
-  7      21.72   KOTA TANJUNG PINANG                         4     18                    144,56       217.284

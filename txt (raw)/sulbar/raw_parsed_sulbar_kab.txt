@@ -1,6 +1,0 @@
-  1      76.01   KAB. PASANGKAYU                           12        4      59         3.043,75        211.934    PP No. 61 Tahun 2017 tentang Perubahan Nama Kab. Mamuju Utara
-  2      76.02   KAB. MAMUJU                               11       13      88         4.999,69        302.155
-  3      76.03   KAB. MAMASA                               17       13     168         3.005,88        206.145
-  4      76.04   KAB. POLEWALI MANDAR                      16       23     144         1.775,65        521.691    Perubahan nama Kab. Polewali Mamasa, PP No. 74/2005
-  5      76.05   KAB. MAJENE                                  8     20      62            947,84       172.295
-  6      76.06   KAB. MAMUJU TENGAH                           5      0      54         3.014,37        145.764    Luas wilayah berdasarkan UU No. 4 Tahun 2013

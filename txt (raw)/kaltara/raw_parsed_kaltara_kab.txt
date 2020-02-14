@@ -1,5 +1,0 @@
-  1      65.01   KAB. BULUNGAN                             10       7      74        13.925,72        136.619   Semula Wil. Prov. Kalimantan Timur, Luas wilayah berdasarkan UU No.
-  2      65.02   KAB. MALINAU                              15       0     109        42.620,70         79.903   Semula Wil. Prov. Kalimantan Timur, Luas wilayah berdasarkan UU No.
-  3      65.03   KAB. NUNUKAN                              19       8     232        13.841,90        178.975   Semula Wil. Prov. Kalimantan Timur, Luas wilayah berdasarkan UU No.
-  4      65.04   KAB. TANA TIDUNG                            5      0      32         4.828,58         24.190   Semula Wil. Prov. Kalimantan Timur, Luas wilayah berdasarkan UU No.
-  5      65.71   KOTA TARAKAN                                4     20                    250,80       228.720   Semula Wil. Prov. Kalimantan Timur, Luas wilayah berdasarkan UU No.
