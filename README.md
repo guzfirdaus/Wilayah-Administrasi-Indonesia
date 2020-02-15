@@ -5,16 +5,16 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 
 | KODE | PROVINSI                  | KAB. | KOTA | KEC. | KEL. | DESA | CATATAN |
 |------|:--------------------------|-----:|-----:|-----:|-----:|-----:|:-------:|
-| 11   | ACEH                      |   18 |    5 |  289 |    0 | 6497 | :heavy_check_mark:    |
-| 12   | SUMATERA UTARA            |   25 |    8 |  450 |  693 | 5417 | DONE    |
-| 13   | SUMATERA BARAT            |   12 |    7 |  179 |  230 |  928 | OK      |
-| 14   | RIAU                      |   10 |    2 |  169 |  268 | 1591 | OK      |
-| 15   | JAMBI                     |    9 |    2 |  141 |  163 | 1399 | OK      |
-| 16   | SUMATERA SELATAN          |   13 |    4 |  241 |  387 | 2853 | OK      |
-| 17   | BENGKULU                  |    9 |    1 |  129 |  172 | 1341 | OK      |
-| 18   | LAMPUNG                   |   13 |    2 |  228 |  205 | 2435 | OK      |
-| 19   | KEPULAUAN BANGKA BELITUNG |    6 |    1 |   47 |   82 |  309 | OK      |
-| 21   | KEPULAUAN RIAU            |    5 |    2 |   75 |  142 |  275 | OK      |
+| 11   | ACEH                      |   18 |    5 |  289 |    0 | 6497 | :heavy_check_mark: |
+| 12   | SUMATERA UTARA            |   25 |    8 |  450 |  693 | 5417 | :white_check_mark: |
+| 13   | SUMATERA BARAT            |   12 |    7 |  179 |  230 |  928 | :white_check_mark: |
+| 14   | RIAU                      |   10 |    2 |  169 |  268 | 1591 | :white_check_mark: |
+| 15   | JAMBI                     |    9 |    2 |  141 |  163 | 1399 | :white_check_mark: |
+| 16   | SUMATERA SELATAN          |   13 |    4 |  241 |  387 | 2853 | :white_check_mark: |
+| 17   | BENGKULU                  |    9 |    1 |  129 |  172 | 1341 | :white_check_mark: |
+| 18   | LAMPUNG                   |   13 |    2 |  228 |  205 | 2435 | :white_check_mark: |
+| 19   | KEPULAUAN BANGKA BELITUNG |    6 |    1 |   47 |   82 |  309 | :white_check_mark: |
+| 21   | KEPULAUAN RIAU            |    5 |    2 |   75 |  142 |  275 | :white_check_mark: |
 | 31   | DKI JAKARTA               |    1 |    5 |   44 |  267 |    0 | OK      |
 | 32   | JAWA BARAT                |   18 |    9 |  627 |  645 | 5312 | OK      |
 | 33   | JAWA TENGAH               |   29 |    6 |  576 |  753 | 7809 | OK      |
@@ -44,6 +44,6 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 **Keterangan:**\
 **OK** : Baru tersedia data provinsi, kabupaten/kota, dan kecamatan. Belum ada data desa/kelurahan.\
 **DONE** :  Data provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan sudah lengkap.\
-:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).
-:heavy_check_mark: : Tervalidasi (Compare manual dengan data sumber).
+:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).\
+:heavy_check_mark: : Tervalidasi (komparasi manual dengan data sumber).
 
