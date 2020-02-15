@@ -44,5 +44,6 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 **Keterangan:**\
 **OK** : Baru tersedia data provinsi, kabupaten/kota, dan kecamatan. Belum ada data desa/kelurahan.\
 **DONE** :  Data provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan sudah lengkap.\
+:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).
 :heavy_check_mark: : Tervalidasi (Compare manual dengan data sumber).
 
