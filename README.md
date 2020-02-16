@@ -43,7 +43,11 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 
 **Keterangan:**\
 :heavy_check_mark: : Tervalidasi (komparasi manual dengan data sumber).\
-:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).\
+:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).
 
 ### Catatan
 Tanda petik ganda (") pada nama desa/kelurahan diubah menjadi tanda petik tunggal (')
+
+
+### To Do
+Validasi data desa
