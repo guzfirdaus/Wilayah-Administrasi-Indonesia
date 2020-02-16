@@ -42,8 +42,5 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 |      | **TOTAL**                 |**416**|**98**|**7230**|**8488**|**74953**| |
 
 **Keterangan:**\
-**OK** : Baru tersedia data provinsi, kabupaten/kota, dan kecamatan. Belum ada data desa/kelurahan.\
-**DONE** :  Data provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan sudah lengkap.\
-:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).\
-:heavy_check_mark: : Tervalidasi (komparasi manual dengan data sumber).
-
+:heavy_check_mark: : Tervalidasi (komparasi manual dengan data sumber).\
+:white_check_mark: : Tervalidasi sebagian (data desa/kelurahan belum divalidasi).
