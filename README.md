@@ -6,7 +6,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | KODE | PROVINSI                  | KAB. | KOTA | KEC. | KEL. | DESA | CATATAN |
 |------|:--------------------------|-----:|-----:|-----:|-----:|-----:|:-------:|
 | 11   | ACEH                      |   18 |    5 |  289 |    0 | 6497 | :heavy_check_mark: |
-| 12   | SUMATERA UTARA            |   25 |    8 |  450 |  693 | 5417 | :white_check_mark: |
+| 12   | SUMATERA UTARA            |   25 |    8 |  450 |  693 | 5417 | :heavy_check_mark: |
 | 13   | SUMATERA BARAT            |   12 |    7 |  179 |  230 |  928 | :white_check_mark: |
 | 14   | RIAU                      |   10 |    2 |  169 |  268 | 1591 | :white_check_mark: |
 | 15   | JAMBI                     |    9 |    2 |  141 |  163 | 1399 | :white_check_mark: |
