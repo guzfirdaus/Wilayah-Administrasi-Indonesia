@@ -1,4 +1,4 @@
-# Wilayah-Administrasi-Indonesia
+# Wilayah Administrasi Indonesia
 Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah Administrasi Indonesia berdasarkan [Peraturan Menteri Dalam Negeri No.72 Tahun 2019](https://www.kemendagri.go.id/page/read/48/peraturan-menteri-dalam-negeri-no72-tahun-2019) ([pdf](https://www.kemendagri.go.id/files/2020/PMDN%2072%20TH%202019+lampiran.pdf))
 
 ## Rekapitulasi Data Wilayah Administrasi Indonesia
