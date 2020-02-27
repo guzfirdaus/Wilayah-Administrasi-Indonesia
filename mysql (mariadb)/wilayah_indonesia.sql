@@ -32977,8 +32977,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('2103162002',	'210316',	'Harapan Jaya'),
 ('2103162003',	'210316',	'Air Lengit'),
 ('2103182001',	'210318',	'Cemaga'),
-('2103182002',	'210318',	'Cemaga Selatan'),
-('2103182003',	'210318',	'Cemaga Utara'),
+('2103182002',	'210318',	'Cemaga Selatan (Setengar)'),
+('2103182003',	'210318',	'Cemaga Utara (Singgang Bulan)'),
 ('2103182004',	'210318',	'Cemaga Tengah'),
 ('2103192001',	'210319',	'Arung Ayam'),
 ('2103192002',	'210319',	'Air Nusa'),
@@ -32990,7 +32990,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('2103202004',	'210320',	'Sedanau Timur'),
 ('2103202005',	'210320',	'Semedang'),
 ('2103212001',	'210321',	'Pulau Tiga'),
-('2103212002',	'210321',	'Tanjung Kumbik'),
+('2103212002',	'210321',	'Tanjung Kumbik Utara'),
 ('2103212003',	'210321',	'Setumuk'),
 ('2103212004',	'210321',	'Selading'),
 ('2103222001',	'210322',	'Air Kumpai'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-02-26 19:08:02
+-- 2020-02-27 07:11:22

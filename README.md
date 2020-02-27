@@ -14,7 +14,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 17   | BENGKULU                  |    9 |    1 |  129 |  172 | 1341 | :heavy_check_mark: |
 | 18   | LAMPUNG                   |   13 |    2 |  228 |  205 | 2435 | :heavy_check_mark: |
 | 19   | KEPULAUAN BANGKA BELITUNG |    6 |    1 |   47 |   82 |  309 | :heavy_check_mark: |
-| 21   | KEPULAUAN RIAU            |    5 |    2 |   75 |  142 |  275 | :white_check_mark: |
+| 21   | KEPULAUAN RIAU            |    5 |    2 |   75 |  142 |  275 | :heavy_check_mark: |
 | 31   | DKI JAKARTA               |    1 |    5 |   44 |  267 |    0 | :white_check_mark: |
 | 32   | JAWA BARAT                |   18 |    9 |  627 |  645 | 5312 | :white_check_mark: |
 | 33   | JAWA TENGAH               |   29 |    6 |  576 |  753 | 7809 | :white_check_mark: |
