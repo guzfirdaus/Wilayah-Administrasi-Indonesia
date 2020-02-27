@@ -37708,7 +37708,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3212282002',	'321228',	'Jayawinangun'),
 ('3212282003',	'321228',	'Kedokan Agung'),
 ('3212282004',	'321228',	'Kedokanbunder'),
-('3212282005',	'321228',	'Kedokanbunder'),
+('3212282005',	'321228',	'Kedokanbunder Wetan'),
 ('3212282006',	'321228',	'Kaplongan'),
 ('3212282007',	'321228',	'Jayalaksana'),
 ('3212292001',	'321229',	'Brondong'),
@@ -38228,7 +38228,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3215052018',	'321505',	'Curug'),
 ('3215052019',	'321505',	'Karanganyar'),
 ('3215052020',	'321505',	'Cimahi'),
-('3215062001',	'321506',	'Rengasdengklok'),
+('3215062001',	'321506',	'Rengasdengklok Selatan'),
 ('3215062002',	'321506',	'Rengasdengklok Utara'),
 ('3215062003',	'321506',	'Kertasari'),
 ('3215062004',	'321506',	'Dewisari'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-02-27 07:18:41
+-- 2020-02-27 08:05:40
