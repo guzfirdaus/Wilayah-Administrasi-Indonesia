@@ -41427,9 +41427,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3306122032',	'330612',	'Wanurojo'),
 ('3306122033',	'330612',	'Rejowinangun'),
 ('3306122034',	'330612',	'Kaliurip'),
-('3306122035',	'330612',	'Kedungpomahanweta'),
+('3306122035',	'330612',	'Kedungpomahanwetan'),
 ('3306122036',	'330612',	'Karangluas'),
-('3306122037',	'330612',	'Kedungpomahankulo'),
+('3306122037',	'330612',	'Kedungpomahankulon'),
 ('3306122038',	'330612',	'Sukogelap'),
 ('3306122039',	'330612',	'Gunungteges'),
 ('3306122040',	'330612',	'Purbayan'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-02-27 08:05:40
+-- 2020-02-28 14:47:43
