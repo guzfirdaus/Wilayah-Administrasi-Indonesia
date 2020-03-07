@@ -61290,7 +61290,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5306031011',	'530603',	'Ekasapta'),
 ('5306031012',	'530603',	'Sarotari'),
 ('5306031013',	'530603',	'Weri'),
-('5306031014',	'530603',	'Pukentobi Wangin'),
+('5306031014',	'530603',	'Pukentobi Wangin Bao'),
 ('5306031021',	'530603',	'Waihali'),
 ('5306031022',	'530603',	'Pohon Bao'),
 ('5306031023',	'530603',	'Sarotari Tengah'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-07 06:01:11
+-- 2020-03-07 06:28:53

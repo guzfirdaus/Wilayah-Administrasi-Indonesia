@@ -23,7 +23,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 36   | BANTEN                    |    4 |    4 |  155 |  313 | 1238 | :heavy_check_mark: |
 | 51   | BALI                      |    8 |    1 |   57 |   80 |  636 | :heavy_check_mark: |
 | 52   | NUSA TENGGARA BARAT       |    8 |    2 |  117 |  145 |  995 | :heavy_check_mark: |
-| 53   | NUSA TENGGARA TIMUR       |   21 |    1 |  309 |  327 | 3026 | :white_check_mark: |
+| 53   | NUSA TENGGARA TIMUR       |   21 |    1 |  309 |  327 | 3026 | :heavy_check_mark: |
 | 61   | KALIMANTAN BARAT          |   12 |    2 |  174 |   99 | 2031 | :white_check_mark: |
 | 62   | KALIMANTAN TENGAH         |   13 |    1 |  136 |  139 | 1432 | :white_check_mark: |
 | 63   | KALIMANTAN SELATAN        |   11 |    2 |  153 |  144 | 1864 | :white_check_mark: |
