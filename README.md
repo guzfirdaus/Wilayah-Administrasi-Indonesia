@@ -20,7 +20,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 33   | JAWA TENGAH               |   29 |    6 |  576 |  753 | 7809 | :heavy_check_mark: |
 | 34   | DAERAH ISTIMEWA YOGYAKARTA|    4 |    1 |   78 |   46 |  392 | :heavy_check_mark: |
 | 35   | JAWA TIMUR                |   29 |    9 |  666 |  777 | 7724 | :heavy_check_mark: |
-| 36   | BANTEN                    |    4 |    4 |  155 |  313 | 1238 | :white_check_mark: |
+| 36   | BANTEN                    |    4 |    4 |  155 |  313 | 1238 | :heavy_check_mark: |
 | 51   | BALI                      |    8 |    1 |   57 |   80 |  636 | :white_check_mark: |
 | 52   | NUSA TENGGARA BARAT       |    8 |    2 |  117 |  145 |  995 | :white_check_mark: |
 | 53   | NUSA TENGGARA TIMUR       |   21 |    1 |  309 |  327 | 3026 | :white_check_mark: |

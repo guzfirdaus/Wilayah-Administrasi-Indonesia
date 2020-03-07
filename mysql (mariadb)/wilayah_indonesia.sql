@@ -57748,8 +57748,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3603132003',	'360313',	'Babakan Asem'),
 ('3603132004',	'360313',	'Keboncau'),
 ('3603132005',	'360313',	'Pangkalan'),
-('3603132006',	'360313',	'Kmp Melayu Tim'),
-('3603132007',	'360313',	'Kmp Melayu Brt'),
+('3603132006',	'360313',	'Kampung Melayu Timur'),
+('3603132007',	'360313',	'Kampung Melayu Barat'),
 ('3603132008',	'360313',	'Muara'),
 ('3603132009',	'360313',	'Lemo'),
 ('3603132010',	'360313',	'Tanjung Pasir'),
@@ -58443,7 +58443,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3674011004',	'367401',	'Lengkong Gudang'),
 ('3674011005',	'367401',	'Lengkong Wetan'),
 ('3674011006',	'367401',	'Buaran'),
-('3674011007',	'367401',	'Lengkong Gudang'),
+('3674011007',	'367401',	'Lengkong Gudang Timur'),
 ('3674011008',	'367401',	'Cilenggang'),
 ('3674011009',	'367401',	'Serpong'),
 ('3674021001',	'367402',	'Pakulonan'),
@@ -60234,9 +60234,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5208022002',	'520802',	'Bentek'),
 ('5208022003',	'520802',	'Genggelang'),
 ('5208022004',	'520802',	'Rempek'),
-('5208022005',	'520802',	'Sambik Bangkol'),
-('5208032001',	'520803',	'Kayangan');
+('5208022005',	'520802',	'Sambik Bangkol');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('5208032001',	'520803',	'Kayangan'),
 ('5208032002',	'520803',	'Santong'),
 ('5208032003',	'520803',	'Selengen'),
 ('5208032004',	'520803',	'Sesait'),
@@ -87220,9 +87220,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114412002',	'911441',	'Kogotime'),
 ('9114412003',	'911441',	'Gabunam'),
 ('9114412004',	'911441',	'Gulak'),
-('9114412005',	'911441',	'Melaga'),
-('9114412006',	'911441',	'Ekoni');
+('9114412005',	'911441',	'Melaga');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('9114412006',	'911441',	'Ekoni'),
 ('9114412007',	'911441',	'Minggen'),
 ('9114412008',	'911441',	'Kandimbaga'),
 ('9114412009',	'911441',	'Kinebe'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-07 05:20:38
+-- 2020-03-07 05:41:54
