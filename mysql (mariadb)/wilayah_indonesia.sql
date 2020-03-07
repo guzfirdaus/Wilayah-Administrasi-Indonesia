@@ -49975,7 +49975,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3507042008',	'350704',	'Sumberagung'),
 ('3507042009',	'350704',	'Argotirto'),
 ('3507042010',	'350704',	'Harjokuncaran'),
-('3507042011',	'350704',	'Sumbermanjing'),
+('3507042011',	'350704',	'Sumbermanjing Wetan'),
 ('3507042012',	'350704',	'Ringinsari'),
 ('3507042013',	'350704',	'Druju'),
 ('3507042014',	'350704',	'Tambakrejo'),
@@ -51027,7 +51027,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3511032007',	'351103',	'Pakisan'),
 ('3511032008',	'351103',	'Patemon'),
 ('3511032009',	'351103',	'Jebung Lor'),
-('3511032010',	'351103',	'Brambang'),
+('3511032010',	'351103',	'Brambang Darussalam'),
 ('3511042001',	'351104',	'Sukosari Lor'),
 ('3511042002',	'351104',	'Nogosari'),
 ('3511042003',	'351104',	'Pecalongan'),
@@ -51764,7 +51764,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3514062018',	'351406',	'Randugong'),
 ('3514062019',	'351406',	'Wangkalwetan'),
 ('3514062020',	'351406',	'Klinter'),
-('3514062021',	'351406',	'Tundosuro/Tundosor'),
+('3514062021',	'351406',	'Tundosuro/Tundosoro'),
 ('3514062022',	'351406',	'Ketangirejo'),
 ('3514062023',	'351406',	'Patebon'),
 ('3514062025',	'351406',	'Sladi'),
@@ -52477,7 +52477,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3516052005',	'351605',	'Wotanmasjedong'),
 ('3516052006',	'351605',	'Tanjangrono'),
 ('3516052007',	'351605',	'Kunjorowesi'),
-('3516052008',	'351605',	'Manduro'),
+('3516052008',	'351605',	'Manduro Manggunggajah'),
 ('3516052009',	'351605',	'Wonosari'),
 ('3516052010',	'351605',	'Ngoro'),
 ('3516052011',	'351605',	'Sedati'),
@@ -53856,7 +53856,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3521092008',	'352109',	'Grudo'),
 ('3521092009',	'352109',	'Watualang'),
 ('3521092010',	'352109',	'Ngawi'),
-('3521092011',	'352109',	'Karangtengah'),
+('3521092011',	'352109',	'Karangtengah Prandon'),
 ('3521092012',	'352109',	'Kerek'),
 ('3521102001',	'352110',	'Gentong'),
 ('3521102002',	'352110',	'Babadan'),
@@ -55294,7 +55294,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('3525052020',	'352505',	'Kemudi'),
 ('3525052021',	'352505',	'Tebaloan'),
 ('3525052022',	'352505',	'Tirem'),
-('3525052023',	'352505',	'Ambeng - ambeng'),
+('3525052023',	'352505',	'Ambeng - ambeng Watangrejo'),
 ('3525062001',	'352506',	'Kepuhklagen'),
 ('3525062002',	'352506',	'Sumbergede'),
 ('3525062003',	'352506',	'Mondoluku'),
@@ -60235,9 +60235,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5208022003',	'520802',	'Genggelang'),
 ('5208022004',	'520802',	'Rempek'),
 ('5208022005',	'520802',	'Sambik Bangkol'),
-('5208032001',	'520803',	'Kayangan'),
-('5208032002',	'520803',	'Santong');
+('5208032001',	'520803',	'Kayangan');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('5208032002',	'520803',	'Santong'),
 ('5208032003',	'520803',	'Selengen'),
 ('5208032004',	'520803',	'Sesait'),
 ('5208032005',	'520803',	'Gumantar'),
@@ -87221,9 +87221,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114412003',	'911441',	'Gabunam'),
 ('9114412004',	'911441',	'Gulak'),
 ('9114412005',	'911441',	'Melaga'),
-('9114412006',	'911441',	'Ekoni'),
-('9114412007',	'911441',	'Minggen');
+('9114412006',	'911441',	'Ekoni');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('9114412007',	'911441',	'Minggen'),
 ('9114412008',	'911441',	'Kandimbaga'),
 ('9114412009',	'911441',	'Kinebe'),
 ('9114412010',	'911441',	'Belela'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-02-28 14:47:43
+-- 2020-03-07 05:20:38
