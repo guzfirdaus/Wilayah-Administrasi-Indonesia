@@ -58506,7 +58506,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5101021006',	'510102',	'Tegalcangkring'),
 ('5101022001',	'510102',	'Mendoyo Dauh Tukad'),
 ('5101022002',	'510102',	'Pohsanten'),
-('5101022003',	'510102',	'Mendoyo Dangin'),
+('5101022003',	'510102',	'Mendoyo Dangin Tukad'),
 ('5101022004',	'510102',	'Pergung'),
 ('5101022005',	'510102',	'Delodberawah'),
 ('5101022007',	'510102',	'Penyaringan'),
@@ -58715,7 +58715,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5103032013',	'510303',	'Sangeh'),
 ('5103032014',	'510303',	'Punggul'),
 ('5103032015',	'510303',	'Mekar Bhuwana'),
-('5103032016',	'510303',	'Abiansemal Dauh Yeh'),
+('5103032016',	'510303',	'Abiansemal Dauh Yeh Cani'),
 ('5103032017',	'510303',	'Selat'),
 ('5103032018',	'510303',	'Bongkasa Pertiwi'),
 ('5103042001',	'510304',	'Carangsari'),
@@ -58840,7 +58840,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('5105031009',	'510503',	'Semarapura Kauh'),
 ('5105031010',	'510503',	'Semarapura Tengah'),
 ('5105031011',	'510503',	'Semarapura Kangin'),
-('5105031012',	'510503',	'Semarapura Kelod'),
+('5105031012',	'510503',	'Semarapura Kelod Kangin'),
 ('5105031013',	'510503',	'Semarapura Kelod'),
 ('5105032001',	'510503',	'Satra'),
 ('5105032002',	'510503',	'Tojan'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-07 05:41:54
+-- 2020-03-07 05:48:27
