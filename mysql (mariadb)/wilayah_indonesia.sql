@@ -66131,8 +66131,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6203032001',	'620303',	'Anjir Serapat Timur'),
 ('6203032002',	'620303',	'Anjir Serapat Tengah'),
 ('6203032003',	'620303',	'Anjir Serapat Barat'),
-('6203032004',	'620303',	'Anjir Mambulau'),
-('6203032005',	'620303',	'Anjir Mambulau'),
+('6203032004',	'620303',	'Anjir Mambulau Timur'),
+('6203032005',	'620303',	'Anjir Mambulau Tengah'),
 ('6203032006',	'620303',	'Anjir Mambulau Barat'),
 ('6203032007',	'620303',	'Anjir Serapat Baru'),
 ('6203042001',	'620304',	'Batanjung'),
@@ -66146,7 +66146,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6203042015',	'620304',	'Wargo Mulyo'),
 ('6203042016',	'620304',	'Sei Bakut'),
 ('6203042018',	'620304',	'Pematang'),
-('6203042019',	'620304',	'Simpang Bunga'),
+('6203042019',	'620304',	'Simpang Bunga Tanjung'),
 ('6203042020',	'620304',	'Baranggau'),
 ('6203051004',	'620305',	'Mandomai'),
 ('6203052001',	'620305',	'Sei Kayu'),
@@ -66337,7 +66337,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6203172009',	'620317',	'Terusan Mulya'),
 ('6203172010',	'620317',	'Bamban Raya'),
 ('6203172011',	'620317',	'Bangun Harjo'),
-('6203172012',	'620317',	'Terusan Baguntan'),
+('6203172012',	'620317',	'Terusan Baguntan Raya'),
 ('6203172013',	'620317',	'Terusan Raya Barat'),
 ('6203172014',	'620317',	'Terusan Raya Hulu'),
 ('6203172015',	'620317',	'Budi Mufakat'),
@@ -66645,8 +66645,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6206082017',	'620608',	'Tumbang Mangketai'),
 ('6206082019',	'620608',	'Tumbang Mahop'),
 ('6206082020',	'620608',	'Tumbang Sabetung'),
-('6206082030',	'620608',	'Penda Tanggaring'),
-('6206082031',	'620608',	'Penda Tanggaring'),
+('6206082030',	'620608',	'Penda Tanggaring Lama'),
+('6206082031',	'620608',	'Penda Tanggaring Baru'),
 ('6206082032',	'620608',	'Teluk Tampang'),
 ('6206082033',	'620608',	'Tumbang Manangei'),
 ('6206092001',	'620609',	'Mendawai'),
@@ -66925,7 +66925,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6210012011',	'621001',	'Pamatang Limau'),
 ('6210012012',	'621001',	'Tampelas'),
 ('6210012014',	'621001',	'Rabauh'),
-('6210021001',	'621002',	'Tampang Tumbang'),
+('6210021001',	'621002',	'Tampang Tumbang Anjir'),
 ('6210021012',	'621002',	'Kurun'),
 ('6210022002',	'621002',	'Petak Bahandang'),
 ('6210022003',	'621002',	'Tanjung Riu'),
@@ -67036,7 +67036,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('6210112007',	'621011',	'Tumbang Mantuhe'),
 ('6210121006',	'621012',	'Rabambang'),
 ('6210122001',	'621012',	'Hujung Pata'),
-('6210122002',	'621012',	'Tumbang Jalemu'),
+('6210122002',	'621012',	'Tumbang Jalemu Kajuei'),
 ('6210122003',	'621012',	'Jalemu Raya'),
 ('6210122004',	'621012',	'Jalemu Masulan'),
 ('6210122005',	'621012',	'Mangkawuk'),
@@ -87214,9 +87214,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114402006',	'911440',	'Ambena'),
 ('9114402007',	'911440',	'Gunombo'),
 ('9114402008',	'911440',	'Mawi'),
-('9114402009',	'911440',	'Ripa'),
-('9114402010',	'911440',	'Delegari');
+('9114402009',	'911440',	'Ripa');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('9114402010',	'911440',	'Delegari'),
 ('9114412001',	'911441',	'Peyola'),
 ('9114412002',	'911441',	'Kogotime'),
 ('9114412003',	'911441',	'Gabunam'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-09 08:33:58
+-- 2020-03-09 08:48:48
