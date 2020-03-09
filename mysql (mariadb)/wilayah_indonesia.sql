@@ -81398,7 +81398,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('7605032021',	'760503',	'Sendana'),
 ('7605032022',	'760503',	'Banua Sendana'),
 ('7605032023',	'760503',	'Tallubanua Utara'),
-('7605032024',	'760503',	'Limboro'),
+('7605032024',	'760503',	'Limboro Rambu-Rambu'),
 ('7605032025',	'760503',	'Limbua'),
 ('7605032026',	'760503',	'Bukit Samang'),
 ('7605041001',	'760504',	'Malunda'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-09 14:57:34
+-- 2020-03-09 15:06:48
