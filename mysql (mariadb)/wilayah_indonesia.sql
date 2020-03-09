@@ -73361,7 +73361,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('7203122016',	'720312',	'Mapane Tambu'),
 ('7203122017',	'720312',	'Tovia Tambu'),
 ('7203122019',	'720312',	'Sipure'),
-('7203122020',	'720312',	'Kampung Baru'),
+('7203122020',	'720312',	'Kampung Baru Sibayu'),
 ('7203122021',	'720312',	'Simagaya'),
 ('7203142001',	'720314',	'Balukang'),
 ('7203142002',	'720314',	'Siwalempu'),
@@ -73954,7 +73954,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('7208012013',	'720801',	'Mertasari'),
 ('7208012022',	'720801',	'Bambalemo'),
 ('7208012023',	'720801',	'Lebo'),
-('7208012035',	'720801',	'Bambalemo'),
+('7208012035',	'720801',	'Bambalemo Ranomaisi'),
 ('7208022005',	'720802',	'Tolole'),
 ('7208022006',	'720802',	'Toga'),
 ('7208022007',	'720802',	'Sidole'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-09 14:11:46
+-- 2020-03-09 14:24:15
