@@ -28,7 +28,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 62   | KALIMANTAN TENGAH         |   13 |    1 |  136 |  139 | 1432 | :heavy_check_mark: |
 | 63   | KALIMANTAN SELATAN        |   11 |    2 |  153 |  144 | 1864 | :heavy_check_mark: |
 | 64   | KALIMANTAN TIMUR          |    7 |    3 |  103 |  197 |  841 | :heavy_check_mark: |
-| 65   | KALIMANTAN UTARA          |    4 |    1 |   53 |   35 |  447 | :white_check_mark: |
+| 65   | KALIMANTAN UTARA          |    4 |    1 |   53 |   35 |  447 | :heavy_check_mark: |
 | 71   | SULAWESI UTARA            |   11 |    4 |  171 |  332 | 1507 | :white_check_mark: |
 | 72   | SULAWESI TENGAH           |   12 |    1 |  175 |  175 | 1842 | :white_check_mark: |
 | 73   | SULAWESI SELATAN          |   21 |    3 |  311 |  792 | 2255 | :white_check_mark: |
