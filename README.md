@@ -32,7 +32,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 71   | SULAWESI UTARA            |   11 |    4 |  171 |  332 | 1507 | :heavy_check_mark: |
 | 72   | SULAWESI TENGAH           |   12 |    1 |  175 |  175 | 1842 | :heavy_check_mark: |
 | 73   | SULAWESI SELATAN          |   21 |    3 |  311 |  792 | 2255 | :heavy_check_mark: |
-| 74   | SULAWESI TENGGARA         |   15 |    2 |  219 |  377 | 1911 | :white_check_mark: |
+| 74   | SULAWESI TENGGARA         |   15 |    2 |  219 |  377 | 1911 | :heavy_check_mark: |
 | 75   | GORONTALO                 |    5 |    1 |   77 |   72 |  657 | :white_check_mark: |
 | 76   | SULAWESI BARAT            |    6 |    0 |   69 |   73 |  575 | :white_check_mark: |
 | 81   | MALUKU                    |    9 |    2 |  118 |   35 | 1198 | :white_check_mark: |

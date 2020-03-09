@@ -78639,7 +78639,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('7405042032',	'740504',	'Sanggi-Sanggi'),
 ('7405051001',	'740505',	'Landono'),
 ('7405052008',	'740505',	'Lalonggapu'),
-('7405052009',	'740505',	'Matabenua /'),
+('7405052009',	'740505',	'Matabenua / watawunua'),
 ('7405052014',	'740505',	'Tridana Mulia'),
 ('7405052015',	'740505',	'Landono Dua'),
 ('7405052016',	'740505',	'Amotowo'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-09 14:43:36
+-- 2020-03-09 14:57:34
