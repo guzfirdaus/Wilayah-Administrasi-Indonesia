@@ -3,7 +3,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 
 ## Rekapitulasi Data Wilayah Administrasi Indonesia
 
-| KODE | PROVINSI                  | KAB. | KOTA | KEC. | KEL. | DESA | CATATAN |
+| KODE | PROVINSI                  | KAB. | KOTA | KEC. | KEL. | DESA | KET. |
 |------|:--------------------------|-----:|-----:|-----:|-----:|-----:|:-------:|
 | 11   | ACEH                      |   18 |    5 |  289 |    0 | 6497 | :heavy_check_mark: |
 | 12   | SUMATERA UTARA            |   25 |    8 |  450 |  693 | 5417 | :heavy_check_mark: |
