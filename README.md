@@ -49,4 +49,4 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 Tanda petik ganda (") pada nama desa/kelurahan diubah menjadi tanda petik tunggal (')
 
 ## To Do
-Validasi data desa (komparasi dengan data sumber)
+~~Validasi data desa (komparasi dengan data sumber)~~
