@@ -85842,7 +85842,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9110122008',	'911012',	'Angkasa Dua'),
 ('9110132001',	'911013',	'Holmafen'),
 ('9110132002',	'911013',	'Sewan'),
-('9110132003',	'911013',	'Waskey/ Tanjung'),
+('9110132003',	'911013',	'Waskey/ Tanjung Batu'),
 ('9110132004',	'911013',	'Ebram'),
 ('9110132005',	'911013',	'Binyer'),
 ('9110132006',	'911013',	'Bagaiserwar Dua'),
@@ -87261,7 +87261,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114452002',	'911445',	'Aburage'),
 ('9114452003',	'911445',	'Kogoyapura'),
 ('9114452004',	'911445',	'Erimbur'),
-('9114452005',	'911445',	'Leragawi/Megagiraku'),
+('9114452005',	'911445',	'Leragawi/Megagirakuk'),
 ('9114452006',	'911445',	'Longgoboma'),
 ('9114452007',	'911445',	'Tingwi'),
 ('9114452008',	'911445',	'Gubura'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-10 07:57:04
+-- 2020-03-10 09:12:33
