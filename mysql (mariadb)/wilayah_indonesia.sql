@@ -81773,7 +81773,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8102052019',	'810205',	'Ur'),
 ('8102052020',	'810205',	'Ohoimajang'),
 ('8102052021',	'810205',	'Banda Efruan'),
-('8102052022',	'810205',	'Banda Suku'),
+('8102052022',	'810205',	'Banda Suku Tigapuluh'),
 ('8102052023',	'810205',	'Tuburlay'),
 ('8102052024',	'810205',	'Ohoifaruan'),
 ('8102052025',	'810205',	'Ohoiwirin'),
@@ -82062,8 +82062,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8105022005',	'810502',	'Keffing'),
 ('8105022006',	'810502',	'Urung'),
 ('8105022028',	'810502',	'Kilfura'),
-('8105022046',	'810502',	'Kwawor Kecil Mata'),
-('8105022047',	'810502',	'Kwawor Kecil Mata'),
+('8105022046',	'810502',	'Kwawor Kecil Mata Ata'),
+('8105022047',	'810502',	'Kwawor Kecil Mata Wawa'),
 ('8105022048',	'810502',	'Kwawor Besar Ena'),
 ('8105022049',	'810502',	'Kwawor Besar Witau'),
 ('8105022050',	'810502',	'Guli-Guli'),
@@ -82101,7 +82101,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8105042048',	'810504',	'Arewang'),
 ('8105042049',	'810504',	'Usun Kataloka'),
 ('8105042050',	'810504',	'Buan Kataloka'),
-('8105042051',	'810504',	'Rumanama Kotawouw'),
+('8105042051',	'810504',	'Rumanama Kotawouw Kataloka'),
 ('8105042052',	'810504',	'Sikaro Kataloka'),
 ('8105042053',	'810504',	'Aroa Kataloka'),
 ('8105042054',	'810504',	'Dada Kataloka'),
@@ -82170,8 +82170,8 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8105102002',	'810510',	'Kartutin Kartenga'),
 ('8105102003',	'810510',	'Ker Ker'),
 ('8105102004',	'810510',	'Duryar Rumoy'),
-('8105102005',	'810510',	'Lapang Kampung'),
-('8105102006',	'810510',	'Kampung Tengah'),
+('8105102005',	'810510',	'Lapang Kampung Jawa'),
+('8105102006',	'810510',	'Kampung Tengah Wermaf'),
 ('8105102007',	'810510',	'Kampung Baru'),
 ('8105102008',	'810510',	'Mamur'),
 ('8105102009',	'810510',	'Kiliwouw'),
@@ -87201,9 +87201,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114392004',	'911439',	'Gilime'),
 ('9114392005',	'911439',	'Lena'),
 ('9114392006',	'911439',	'Timoneri'),
-('9114392007',	'911439',	'Kuagembur'),
-('9114392008',	'911439',	'Wuronggi');
+('9114392007',	'911439',	'Kuagembur');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('9114392008',	'911439',	'Wuronggi'),
 ('9114392009',	'911439',	'Buangludah'),
 ('9114392010',	'911439',	'Pindelo'),
 ('9114392011',	'911439',	'Koli'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-09 15:06:48
+-- 2020-03-10 07:48:28

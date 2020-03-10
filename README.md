@@ -35,7 +35,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 74   | SULAWESI TENGGARA         |   15 |    2 |  219 |  377 | 1911 | :heavy_check_mark: |
 | 75   | GORONTALO                 |    5 |    1 |   77 |   72 |  657 | :heavy_check_mark: |
 | 76   | SULAWESI BARAT            |    6 |    0 |   69 |   73 |  575 | :heavy_check_mark: |
-| 81   | MALUKU                    |    9 |    2 |  118 |   35 | 1198 | :white_check_mark: |
+| 81   | MALUKU                    |    9 |    2 |  118 |   35 | 1198 | :heavy_check_mark: |
 | 82   | MALUKU UTARA              |    8 |    2 |  116 |  118 | 1063 | :white_check_mark: |
 | 91   | PAPUA                     |   28 |    1 |  560 |  110 | 5411 | :white_check_mark: |
 | 92   | PAPUA BARAT               |   12 |    1 |  218 |   95 | 1742 | :white_check_mark: |
