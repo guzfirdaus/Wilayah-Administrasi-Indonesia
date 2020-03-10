@@ -82806,7 +82806,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8201032023',	'820103',	'Gamlamo'),
 ('8201032037',	'820103',	'Naga'),
 ('8201032040',	'820103',	'Soana Masungi'),
-('8201032041',	'820103',	'Tongute Ternate'),
+('8201032041',	'820103',	'Tongute Ternate Selatan'),
 ('8201032042',	'820103',	'Ake Boso'),
 ('8201032043',	'820103',	'Kampung Baru'),
 ('8201042001',	'820104',	'Susupu'),
@@ -82989,7 +82989,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8203062018',	'820306',	'Talaga Paca'),
 ('8203062020',	'820306',	'Tioua'),
 ('8203062021',	'820306',	'Pale'),
-('8203062022',	'820306',	'Kupa-kupa Selatan'),
+('8203062022',	'820306',	'Kupa-kupa Selatan (Halehe)'),
 ('8203062024',	'820306',	'Lemah Ino'),
 ('8203072001',	'820307',	'Kao'),
 ('8203072002',	'820307',	'Jati'),
@@ -83063,7 +83063,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('8203112006',	'820311',	'Kali Upa'),
 ('8203112007',	'820311',	'Lina Ino'),
 ('8203112008',	'820311',	'Mahia (Wosia Tengah)'),
-('8203112009',	'820311',	'Tanjung Niara (Wosia'),
+('8203112009',	'820311',	'Tanjung Niara (Wosia Selatan)'),
 ('8203122001',	'820312',	'Yaro'),
 ('8203122002',	'820312',	'Mawea'),
 ('8203122003',	'820312',	'Meti'),
@@ -87200,9 +87200,9 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9114392003',	'911439',	'Gitar'),
 ('9114392004',	'911439',	'Gilime'),
 ('9114392005',	'911439',	'Lena'),
-('9114392006',	'911439',	'Timoneri'),
-('9114392007',	'911439',	'Kuagembur');
+('9114392006',	'911439',	'Timoneri');
 INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
+('9114392007',	'911439',	'Kuagembur'),
 ('9114392008',	'911439',	'Wuronggi'),
 ('9114392009',	'911439',	'Buangludah'),
 ('9114392010',	'911439',	'Pindelo'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-10 07:48:28
+-- 2020-03-10 07:57:04
