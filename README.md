@@ -38,7 +38,7 @@ Kode dan Data (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan) Wilayah 
 | 81   | MALUKU                    |    9 |    2 |  118 |   35 | 1198 | :heavy_check_mark: |
 | 82   | MALUKU UTARA              |    8 |    2 |  116 |  118 | 1063 | :heavy_check_mark: |
 | 91   | PAPUA                     |   28 |    1 |  560 |  110 | 5411 | :heavy_check_mark: |
-| 92   | PAPUA BARAT               |   12 |    1 |  218 |   95 | 1742 | :white_check_mark: |
+| 92   | PAPUA BARAT               |   12 |    1 |  218 |   95 | 1742 | :heavy_check_mark: |
 |      | **TOTAL**                 |**416**|**98**|**7230**|**8488**|**74953**| |
 
 **Keterangan:**\

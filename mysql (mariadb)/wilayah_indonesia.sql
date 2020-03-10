@@ -90948,7 +90948,7 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9210182004',	'921018',	'Isusu'),
 ('9210182005',	'921018',	'Mano'),
 ('9210182006',	'921018',	'Sipat'),
-('9210182007',	'921018',	'Faitwosur/Angkasa'),
+('9210182007',	'921018',	'Faitwosur/Angkasa Pura'),
 ('9210192001',	'921019',	'Mapura'),
 ('9210192002',	'921019',	'Suwiam'),
 ('9210192003',	'921019',	'Tomase'),
@@ -91272,4 +91272,4 @@ INSERT INTO `tbl_villages` (`id`, `district_id`, `name`) VALUES
 ('9271101003',	'927110',	'Saoka'),
 ('9271101004',	'927110',	'Tanjung Kasuari');
 
--- 2020-03-10 09:12:33
+-- 2020-03-10 09:23:28
